@@ -66,6 +66,27 @@ Distribution and promotion mechanics worth noting:
 - **Experience quality is a genuine differentiator.** An independent expat/nomad review of the Signature packages ("best value executive health screen… not just Malaysia — affordable luxury") describes thorough same-day testing, a collaborative physician debrief, and a complimentary gastroenterologist consultation bundled into the package.[^14]
 - **But throughput is fragile.** Review platforms carry accounts of screening-day queues of 6–7 hours end-to-end and VIPs cutting the queue (§6).[^17]
 
+### What a Signature screening day contains (from patient-documented experience)[^14]
+
+- Fasting bloods and full laboratory panel; imaging and functional tests per gender/age tier; physician consultation and physical examination.
+- Same-day physician debrief described as collaborative — "explained any potential concerns in a clear and concise manner" — rather than a report handover.
+- A complimentary gastroenterologist consultation is bundled (usable on screening day or at a later visit) — a built-in specialist-conversion mechanism.
+- Full written report; abnormal findings route to PCMC's own specialist clinics.
+
+### Corporate and occupational screening
+
+PCMC also sells corporate health screenings and occupational health screenings to employers alongside its age/gender retail packages — a channel that competes with (and could partner with) Welltech's corporate/executive-health offering.[^28]
+
+### Screening price positioning vs sibling IHH flagships (KL, July 2026)
+
+| Facility | Entry tier | Flagship executive tier | Specialised add-on |
+|---|---|---|---|
+| Prince Court | from ~RM600[^12] | Signature M/F RM1,800 / RM2,050[^12] | Heart package RM988[^13] |
+| Gleneagles KL | from RM551 | Premium Plus RM1,280; range to RM2,136 | Cardiac CT RM4,125[^29] |
+| Pantai KL (Bangsar) | from RM480–599 | Prestige RM1,200; Platinum RM1,980–2,250 | cancer-screen add-on from RM230[^30] |
+
+PCMC prices its top tier ~40% above Gleneagles KL's Premium Plus and roughly level with Pantai KL's Platinum — buying the KLCC address, single-room ambience and one-day concierge experience rather than more tests. *(analyst reading of the price table)*
+
 **Implications for Welltech.** RM1,800–2,050 for a same-day, consultant-debriefed, hotel-grade screening is the premium benchmark in Malaysia. Welltech should not fight PCMC on one-day luxury; it should sell what PCMC structurally cannot — the 12 months after the report (tracking, coaching, retesting, GLP-1/lifestyle intervention) — and consider white-labelling PCMC screening days for its concierge members.
 
 ## 4. Weight management and metabolic care
