@@ -267,7 +267,38 @@ The gap is structural, not incidental: Naluri's payor economics, medication-avoi
 
 ---
 
-## 15. Implications for Welltech
+### Customer-journey contrast
+
+```mermaid
+journey
+    title Overweight professional: Naluri path vs medical weight-loss path
+    section Naluri (employer-sponsored)
+      HR announces wellbeing benefit: 3: Employee
+      Completes HRA / screening: 4: Employee
+      16-week coaching, app journaling: 3: Employee
+      Modest weight change, programme ends: 2: Employee
+      Regain risk, no medical escalation: 2: Employee
+    section B2C medical weight loss (Welltech model)
+      Self-directed search / social ad: 4: Patient
+      WhatsApp triage + doctor consult: 5: Patient
+      GLP-1 therapy + coaching wrap: 5: Patient
+      10-20% weight loss, titration follow-ups: 5: Patient
+      Maintenance / longevity upsell: 4: Patient
+```
+
+*(Inference)* The journeys intersect at exactly one point: the employee who finished a Naluri programme without adequate results is the highest-intent, pre-educated lead for medical weight loss. No player in Malaysia currently monetises that hand-off.
+
+## 15. Key questions to monitor
+
+| Question | Signal to watch | Why it matters |
+|---|---|---|
+| Will Naluri add GLP-1 wraparound services? | Physician/pharmacist hiring, insurer GLP-1 pilot announcements, telemedicine partnerships | Would convert Naluri from adjacent player to direct competitor/gatekeeper |
+| Does the 2026 profitability target hold? | Follow-on raises, headcount changes, market exits | Distress could open acquisition or partnership windows |
+| Philippines/Vietnam execution | Local entity launches, client logos | Diverts management attention from Malaysian product depth |
+| Insurer channel deepening (AIA/Prudential expansion) | HolistiCare v2, group-policy embedding | Insurer-embedded wellbeing raises the bar for Welltech's own payor conversations |
+| Engagement disclosure | Any published MAU/enrolment rates | Would confirm or refute the covered-lives vs active-users gap |
+
+## 16. Implications for Welltech
 
 1. **Do not fight Naluri for the employer budget; harvest its unmet demand.** Naluri conditions the market to believe weight is treatable and screens hundreds of thousands of employees, then offers only coaching. Welltech's B2C GLP-1 programme is the natural "step-up" tier. Position explicitly against coaching-only results ("when coaching isn't enough, medical treatment is") without disparaging coaching — it is the top of Welltech's funnel.
 2. **A partnership is plausible and time-limited.** Naluri needs a medical weight-loss capability to defend insurer accounts as GLP-1 demand grows (its 2025 profitability push makes asset-light partnership more likely than building a clinic). A Welltech–Naluri referral or white-label prescribing layer would be a major distribution unlock — but the same logic applies to any licensed telehealth clinic, so the window is competitive.

@@ -206,6 +206,45 @@ The 2024 Ozempic shortage is documented: MPS president Amrahi Buang attributed i
 
 Sources: provider websites and price pages as cited.[^24][^25][^30][^36][^45][^46][^58][^59][^60]
 
+### 5.1 Named-provider price benchmark (advertised, mid-2026)
+
+| Provider | Model | GLP-1 offer | Advertised price signal |
+|---|---|---|---|
+| DoctorOnCall | E-pharmacy + teleconsult | Ozempic, Saxenda, Rybelsus, Xenical | Ozempic 1 mg pen RM999; 3-pen bundle RM2,997; Saxenda 3-pen RM1,209; Rybelsus 3 mg 30s retail[^24][^40][^41a] |
+| HelloDoktor | Content + fulfilment | Wegovy, Rybelsus, Xenical | Wegovy "from RM879"; Rybelsus from RM549; Xenical from RM150[^40][^46][^69] |
+| OVA (Ova Healthcare) | Women-only telehealth subscription | Semaglutide & tirzepatide programs | From RM900/month **flat across titration**; RM15 mandatory video consult; Atome instalments[^36] |
+| Seimbang | Telehealth program | GLP-1 bundle | From ~RM899/month incl. medication, monthly MD check-ins, dietitian coaching, cold-chain delivery[^78] |
+| Roczen (UK-origin) | Clinician + mentor program | Roczen Plus medication-assisted | Pricing not published on MY pages at review date[^58] |
+| Nexus Clinic (KL) | Aesthetic chain | Wegovy, Ozempic, Saxenda, Duromine | Wegovy RM1,288 (0.25–1.0 mg) / RM1,588 (1.7) / RM2,088 (2.4)[^45] |
+| myGP-type GP clinics | Primary care | Wegovy | RM899 (0.25–1.0 mg) / RM1,088 (1.7) / RM1,288 (2.4) per pen[^25] |
+| Her Clinic | Women-focused clinic | Mounjaro, Ozempic | Mounjaro RM1,400–1,800 (2.5–5 mg) rising to RM2,700–3,200 (10 mg+)[^30][^42] |
+| Glojas / Alainn / CLEO / Clique / Da Vinci / NextMed / MyBliss / Millennium | Aesthetic clinics | Full GLP-1 menu | Ozempic ~RM800–1,800/mo; program bundles RM1,500–3,000/mo[^26][^38][^39][^44][^77] |
+| Premier Clinic / Klinik Suzana (JB) | Aesthetic | Adjunct injections + weight programs | Mesolipo fat-melting ~RM500+/syringe; GLP-1 pricing on consultation[^79] |
+| Klinik Dia Raissa / Klinik Safa / Klinik Sentosa HW | Suburban GP | Saxenda, Mounjaro, Rybelsus | Saxenda programs from ~RM1,500/mo[^47a] |
+
+### 5.2 Patient journey today (composite)
+
+```mermaid
+journey
+    title Malaysian GLP-1 weight-loss patient journey (status quo, 2026)
+    section Trigger
+      TikTok/press exposure, festive weight gain: 3: Patient
+      Google "Ozempic/Wegovy price Malaysia": 3: Patient
+    section Access
+      Compare clinic SEO pages, ask in WhatsApp groups: 2: Patient
+      Walk-in aesthetic clinic OR teleconsult: 3: Patient, Clinic
+      Pay RM900-2,000 for first pen + brief consult: 2: Patient
+    section Treatment
+      Self-inject weekly, nausea weeks 2-8: 1: Patient
+      Little proactive follow-up, ad-hoc WhatsApp to clinic: 1: Patient, Clinic
+      Refill friction, price shopping, dose confusion: 1: Patient
+    section Outcome
+      ~50-70 percent quietly discontinue by month 6: 1: Patient
+      Weight regain, repeat cycle next season: 1: Patient
+```
+
+The journey's failure points — unmanaged early side effects, refill friction, absent follow-up — are operational, not pharmacological. They define the service-design brief for any retention-led entrant.
+
 Landscape observations:
 
 1. **No provider owns outcomes.** Aesthetic chains sell pens plus vague "programs"; none publishes retention, mean %-weight-loss, or side-effect management protocols. The first provider to publish credible cohort outcomes will own the credibility high ground.
