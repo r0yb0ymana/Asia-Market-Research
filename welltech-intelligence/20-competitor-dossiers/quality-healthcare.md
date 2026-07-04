@@ -20,6 +20,21 @@ Related documents:
 - Subsequent build-out: acquisition of Allied Medical Practices Guild; first Chinese-medicine clinic in association with Hong Kong Baptist University; first medical-aesthetic centre in Central; mainland-China entry via a joint venture with International SOS.[^1]
 - Corporate history: the group passed through listed vehicle ownership to India's **Fortis Healthcare**, which sold it to **Bupa** in 2013 (below).
 
+### 1.1a Timeline of key events
+
+| Year | Event | Relevance |
+|---|---|---|
+| 1868 | Drs. Anderson & Partners begins practice[^1] | heritage anchor for brand trust |
+| 1998 | Quality HealthCare formed; acquires Drs. Anderson & Partners and Dr. Henry Lee & Associates[^1] | consolidation of HK GP practices |
+| 2000s | Allied Medical Practices Guild acquired; first TCM clinic (with HK Baptist University); first medical-aesthetic centre; mainland JV with International SOS[^1] | multi-line diversification |
+| 2010 | 2.8m+ annual healthcare visits; IBM cloud/analytics adoption[^14] | scale + early enterprise IT |
+| 2013 (Oct) | Bupa acquires QHMS from Fortis for US$355m; 102 core + 530 affiliated centres[^3][^4][^5] | insurer-provider vertical begins |
+| 2019–20 | Mobile app with e-ticketing/video consultation era begins[^28][^35] | COVID-accelerated digital access |
+| 2023 (Sep) | Fiona Harris announced MD, Bupa Hong Kong[^11] | post-integration leadership |
+| 2023 (Nov) | Alpha Medical Diagnostic Centre, Mong Kok — AI-enabled imaging[^21][^22] | diagnostics upmarket move |
+| 2025 (Sep) | Prince's Building flagship opens (10,000+ sq ft, Central)[^32][^33] | premium preventive positioning |
+| 2025 (Dec) | Bupa HK announces 6,500+ HK+mainland service points, Blua Health Pass, Care Manager[^8] | GBA integrated-care platform |
+
 ### 1.2 Bupa acquisition (2013) — figure verified
 
 - Announced 14 October 2013, completed end-October 2013: **Bupa acquired Quality HealthCare from Fortis Healthcare for US$355 million**.[^3][^4][^5]
@@ -72,6 +87,11 @@ Related documents:
 
 Market context: aggregator comparisons (HK01's 100+ package comparison; healthyD's 32+ centre round-ups, with entry combos from ~HK$550 market-wide) show QHMS priced mid-market — above pure-play check-up shops, below hospital executive-screening suites.[^24][^25]
 
+Pricing notes and caveats:
+
+- QHMS prices are promotional and change frequently; the figures above were published on pages accessed July 2026 and should be re-verified before use in pricing decks.
+- Consultation prices vary materially by district (Hong Kong Island core > Kowloon/NT), and panel rates are confidential per contract — the retail prices above overstate what most volume actually pays.[^13][^17]
+
 **Implications for Welltech.** QHMS's price architecture is the reference grid HR managers and insurers use. A Welltech weight/longevity subscription will be benchmarked against "GP visit ≈ HK$500" and "annual check ≈ HK$2k–8k" anchors; positioning must therefore sell *continuous outcomes*, not per-visit substitution.
 
 ### 2.3 The corporate-contract machine (how the panel actually works)
@@ -121,6 +141,15 @@ The journey ends where Welltech's begins: after screening or a GP flag, there is
 - **Wellness/mental health**: mental-health and wellness listed as service lines; TCM network; corporate wellness within TPA offerings.[^7][^15][^16]
 - **Not found**: longevity-branded programmes (biological age, hormone/metabolic optimisation, IV therapy), executive health *membership* products, or functional-medicine offerings. QHMS sells episodic screening, not longitudinal healthspan management. *(analyst assessment)*
 
+### 4.1 Screening product architecture (detail)
+
+- **Tiering logic**: packages are segmented by age band (30+/40+/50+) and gender rather than by risk factor or goal; the top tier (50+ Premium, HK$10,200 list / HK$8,360 promo) bundles imaging-heavy panels; single-disease plans (lung-cancer screening HK$2,060/1,650) target specific anxieties.[^19]
+- **Flexi plan**: a base panel plus à-la-carte add-ons — structurally similar to how EC's re:HEALTH retails checks, but with less promotional aggression (no half-price 63-item stunts observed).[^20]
+- **Distribution**: own centres + body-check hotline (8100 8138) + eShop + third-party marketplaces (The Club) — screening is treated as e-commerce inventory, sold on promo cycles.[^31][^34][^36][^37]
+- **The clinical handoff gap**: screening output feeds a report and, at best, a GP or dietitian referral. There is no published pathway converting abnormal metabolic findings (HbA1c, lipids, BMI, fatty liver) into a managed programme — the conversion point where preventive intent becomes recurring revenue is unmonetised.[^19][^27] *(analyst assessment)*
+
+**Implications for Welltech.** QHMS screens hundreds of thousands of bodies a year and then lets the metabolic findings walk out the door. A referral or co-managed-care arrangement capturing even a small share of QHMS's abnormal-metabolic screens would be a lower-CAC acquisition channel than any consumer campaign.
+
 ## 5. Clinical workflow, doctors, technology
 
 - **Doctor model**: mix of employed GPs/specialists in QHMS centres plus ~1,200 associated (affiliated panel) doctors — breadth over brand-consistency; quality via credentialing ("strict screening processes").[^13]
@@ -138,6 +167,12 @@ The journey ends where Welltech's begins: after screening or a GP flag, there is
 - **Review themes** (Yelp, Foursquare tips across branches): doctors generally rated competent, but recurring friction on the service layer — terse reception staff, long pharmacy waits comparable to the doctor wait, crowded clinics, long body-check queues, and irritation at HKID being held during visits. A sampled Yelp branch rating sits at 2.3/5 — clinical trust with operational-experience deficit.[^42][^43]
 - **Complaint pattern vs EC Healthcare**: QHMS's negatives are queue/experience complaints, not hard-sell or mis-selling — consistent with salaried-GP incentives rather than commission culture (see [EC Healthcare dossier](ec-healthcare.md) §7).[^42] *(comparative assessment)*
 - Sector backdrop: the Consumer Council's private-healthcare study criticising price opacity applies less to QHMS than to most, given published consult/package pricing — a defensible transparency position it under-uses in marketing.[^44]
+
+### 6.1 Regulatory and market context notes
+
+- **Advertising**: as a provider of doctor services, QHMS operates under Medical Council professional-promotion rules and the Undesirable Medical Advertisements Ordinance; its marketing is correspondingly product-catalogue-like (packages, prices, hotlines) rather than claims-led. This is a compliance asset when corporates run procurement diligence.[^44]
+- **Public-sector fee reform**: increases in Hospital Authority charges (specialist drug fees up sharply from January) push marginal demand toward private primary care — a tailwind for panel utilisation, and for private chronic-care alternatives generally.[^45]
+- **Voluntary Health Insurance Scheme (VHIS)**: Bupa is a major VHIS player; VHIS growth deepens the insured base that can be steered into QHMS provision.[^7] *(contextual note; VHIS share figures not verified in this session)*
 
 ## 6a. The insurer-provider vertical: strategic reading
 
@@ -206,6 +241,16 @@ Net: QHMS's fortress is real but static; the profit pools moving fastest (chroni
 3. **Court Bupa early.** The insurer-provider vertical is HK's most powerful distribution channel (468k insured, civil service, 3,200 companies); a Bupa panel listing or Blua integration converts Welltech's compliance-heavy clinical model into a moat rather than a cost.[^6][^7]
 4. **Out-experience, not out-scale.** QHMS's review-verified weakness is service experience. Welltech's WhatsApp-first, zero-queue, concierge workflow directly attacks the 2.3/5 operational layer while conceding the 100-clinic footprint.[^42]
 5. **Watch three triggers**: (a) any Blua/QHMS weight-management or chronic-metabolic programme launch; (b) expansion of Prince's Building-style preventive flagships; (c) Bupa bundling mainland-GBA concierge care — each would signal Bupa moving up the continuous-care stack.[^32][^8]
+
+## 10. Data gaps and verification queue
+
+| Item | Status | Next step |
+|---|---|---|
+| QHMS standalone revenue/EBITDA | not disclosed by Bupa; no public figure found[^9] | monitor Bupa annual report APAC commentary; UK Companies House Bupa filings |
+| Exact current centre count (89 vs 100+ vs 120+) | conflicting counts across Bupa/QHMS/third-party pages — likely different definitions (Bupa-branded vs QHMS-operated vs affiliated)[^6][^7][^13] | request clarification in any partnership discussion |
+| Corporate-contract count | 3,200 companies is a Bupa-insurance figure, not a QHMS-panel figure[^7] | dated 2013-era panel figures exist; refresh via industry contacts |
+| HK$3.5bn acquisition figure in internal brief | **corrected**: verified deal value US$355m ≈ HK$2.75bn[^3][^4][^5] | update any internal decks citing HK$3.5bn |
+| Blua feature availability in HK specifically | group-level Blua documentation reviewed; HK rollout depth unverified[^29][^30] | test Bupa HK app as a mystery shopper |
 
 ---
 
