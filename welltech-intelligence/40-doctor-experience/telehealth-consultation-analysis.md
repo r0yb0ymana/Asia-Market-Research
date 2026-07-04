@@ -52,6 +52,13 @@ No Malaysian platform publishes consult-duration data. Structural markers: Speed
 
 Read-through: the Malaysian evidence base is thin on the doctor's experience — no published study measures teleconsult duration, per-consult pay, documentation time or platform-doctor turnover. Everything doctor-side must be triangulated (as below), and Welltech should treat generating this data internally as proprietary advantage.
 
+### 2.1 How to weigh this evidence base
+
+- **Vintage bias.** The strongest datasets (practitioner perception survey, public-clinic census) collected data in 2020–21 under COVID conditions; doctor attitudes have since been reshaped by two post-pandemic events the studies predate — the OHS Guideline 2025 and the MC ban. Direction of change: medico-legal anxiety validated, commercial optimism reduced. *(analyst assessment)*[^1][^7]
+- **Sector bias.** Public-sector clinics are measured; private platform operations are not. The 60.5% phone-only figure describes Klinik Kesihatan practice; private platform modality mix is unpublished and must be inferred from product design (chat-first DOC2US, video-led Doctor Anywhere).[^1][^3][^4]
+- **Survivor bias.** Satisfaction studies sample doctors still doing telemedicine; those who tried it and quit — the churn Welltech most needs to understand — appear in no dataset.
+- **What this means operationally**: treat published percentages as directional, and treat the absence of doctor-economics data as the market's central information asymmetry — the party that measures it first (Welltech, per §6) prices doctor labour better than every incumbent.
+
 ---
 
 ## 3. Platform gig economics for doctors
@@ -138,6 +145,17 @@ The international literature converges on a three-phase design — preparation, 
 2. **The encounter.** "Webside manner" is a trainable skill set — eye contact via camera, verbalising actions, structured safety-netting; professional environment and freedom from home distractions measurably affect consult quality.[^23][^24]
 3. **Post-consult.** Documentation, prescription, follow-up scheduling and asynchronous message handling are where telemedicine silently *adds* clinician workload: increased documentation, poor interoperability and growth in portal/asynchronous messages are the three identified mechanisms by which telehealth worsens burnout.[^25] International cross-sectional data (primary-care physicians, multiple countries): 50% dissatisfied with administrative tasks; digital-health use correlates with workload dissatisfaction; hybrid/remote physicians report somewhat lower burnout than fully in-person peers — telemedicine helps only when the workflow around it is engineered.[^26][^27]
 4. **System design.** Systematic reviews find teleconsultation reduces waiting times and unnecessary appointments when embedded in a coordinated pathway, not as a standalone transaction.[^28][^29]
+
+Summary of the global design principles against their Malaysian status:
+
+| Principle (global literature) | Source | Malaysian market status |
+|---|---|---|
+| Pre-visit preparation is where quality is made | Delphi consensus[^22] | Absent — free-text complaint straight to doctor |
+| Intake/med-reconciliation should be staff (or system) work, never live doctor time | Multi-centre qualitative[^6] | Absent — doctor does intake inside the paid minutes |
+| Webside manner is a trainable competency, not a personality trait | Webside-manner guidance[^23] | Ad hoc — limited onboarding beyond credential checks |
+| Environment and distraction control materially affect consult quality | Systematic review[^24] | Unmanaged on both sides (doctor moonlighting from home; patient in public/family settings) |
+| Documentation/async load must be engineered down or it becomes the burnout vector | Burnout mechanism literature[^25][^26] | Unengineered — doctors type own notes; async unpaid |
+| Telemedicine embedded in coordinated pathways beats standalone transactions | Systematic reviews[^28][^29] | Standalone-transaction model dominates B2C |
 
 ### 5.1 Malaysian practice vs the benchmark
 

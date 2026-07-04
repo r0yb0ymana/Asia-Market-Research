@@ -271,6 +271,20 @@ Every asset passes the four-check gate before trafficking: (1) claims library ma
 
 ---
 
+## 14. Positioning one-page summary (for onboarding new team members)
+
+| Element | Answer |
+|---|---|
+| Category we define | Medical weight management (BM: pengurusan berat badan secara perubatan); later, longevity membership |
+| Who we serve first | P1/P7 women (weight), P2 Chinese screening buyers (longevity), P3/P5 via family & employer plans |
+| Enemy | The slimming-industrial complex (pressure, opacity, no medicine) and the pen-only channel (medicine, no care) |
+| Position | Doctor-led, WhatsApp-native, outcome-accountable metabolic care at transparent parity-plus prices |
+| Reasons to believe | Named MMC doctors · CPG-anchored eligibility · published outcomes · flat all-in pricing · halal & privacy transparency · cold-chain verification |
+| Never do | Molecule-name ads · before/after imagery · hard-sell closes · "kurus" branding · guarantee claims in advertising |
+| First proof milestone | Quarterly cohort outcomes dashboard within 12 months of launch |
+
+---
+
 ## References
 
 Repository cross-references linked inline. External sources reviewed for this document:

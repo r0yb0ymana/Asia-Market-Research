@@ -8,6 +8,10 @@ Related documents: [Doctor workflows](doctor-workflows.md) · [Prescribing model
 
 ---
 
+**Contents:** 1. Ranked friction inventory (with per-friction evidence and burnout data) · 2. Pain → mechanism → removal map · 3. Doctor value proposition and recruiting pitch · 4. Pain intensity by segment · 5. Evidence gaps to close · 6. KPIs and sequencing · References
+
+---
+
 ## 1. Ranked friction inventory
 
 Ranking criteria: breadth (share of target doctors affected) × intensity (evidence of anger/attrition) × Welltech addressability. Evidence strength: ● = published data/primary documents; ◐ = press/associations; ○ = triangulated inference.
@@ -181,6 +185,18 @@ Publishing anonymised versions of 1, 2 and 4 positions Welltech as the evidence-
 | Protocol deviation rate | <2% of encounters | Clinical-governance proof for MMC-conscious recruits |
 
 The strategic point: in a market where the doctor experience is defined by extraction (TPAs), opacity (platforms) and insecurity (the public sector), *the clinician experience itself is a defensible moat* — doctors are the scarce input for GLP-1 and longevity programmes, their networks are small and word travels fast, and no Malaysian operator currently competes on how it treats them.
+
+### 6.1 Sequencing the moat
+
+*(analyst roadmap)*
+
+| Phase | Doctor headcount | Focus | Proof produced |
+|---|---|---|---|
+| Pilot (months 0–6) | 3–5 programme physicians + medical director | GLP-1 panel; instrument all §5 metrics; iterate protocols | Measured admin-minutes ≈ 0; message-load caps hold; first payout data |
+| Reference (months 6–12) | 10–20 incl. fractional panel GPs | Publish rate card + first clinician-experience report; clinic-partnership tier live | Doctor NPS + retention baselines; word-of-mouth referrals begin |
+| Scale (months 12–24) | 30–60 | Acute teleconsult layer on proven employer brand; salaried MO track for Hartal-generation hires | Industry-reference dataset; recruiting cost falls as inbound rises |
+
+Failure mode to guard against: scaling consult volume before the admin-zero and boundary systems hold at load — which would recreate, under Welltech's brand, exactly the treadmill this document catalogues. The clinician-experience KPIs above should gate growth the way clinical-safety metrics gate a drug launch.
 
 ---
 

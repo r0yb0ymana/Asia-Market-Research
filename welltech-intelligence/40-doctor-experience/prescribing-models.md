@@ -8,6 +8,10 @@ Related documents: [Doctor workflows](doctor-workflows.md) · [Teleconsultation 
 
 ---
 
+**Contents:** 1. Model menu · 2. In-clinic dispensing economics · 3. Digitally signed e-Rx and pharmacy partners · 4. GLP-1 pathway · 5. Repeat prescriptions and refills · 6. Controlled/excluded medicines · 7. Welltech architecture, credentialing and risks · References
+
+---
+
 ## 1. The model menu
 
 | # | Model | Legal basis | Who captures medicine margin | Digital-operator fit |

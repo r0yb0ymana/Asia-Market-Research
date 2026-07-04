@@ -177,6 +177,8 @@ Distinct from all three main segments: these users praise **relationship continu
 6. **Run an Alpro-style review flywheel from day one.** Malaysian patients leave reviews in volume when asked at the moment of service; the GLP-1/longevity category has zero incumbent review equity to displace.[^27]
 7. **Own the empty follow-up stage.** No provider's reviews mention proactive aftercare; continuity is uncontested sentiment territory and the natural home of a WhatsApp-first model. *(inference from corpus absence)*
 8. **(Defensive) Claim brand search surfaces early** — Trustpilot page, Google Business profiles, FAQ content that disambiguates from foreign namesakes — so the first review-shaped result about Welltech is one Welltech seeded.[^31]
+9. **Pre-write the GLP-1 side-effect and supply-interruption experience.** The complaint classes Welltech will face have no Malaysian precedent yet (see [recurring-complaints.md](recurring-complaints.md) §14); scripting the nausea-week check-in and the stock-out protocol now is cheaper than learning them in public reviews.
+10. **(Lowest cost, compounding) Name and celebrate staff.** Named-person gratitude is the strongest positive pattern in every corpus studied (§6.2); a product that shows patients who cared for them converts warmth into reviewable, searchable proof.[^26]
 
 ## 8. Messaging guardrails derived from sentiment evidence
 
@@ -203,6 +205,15 @@ Distinct from all three main segments: these users praise **relationship continu
 3. **Positive-experience invisibility**: satisfied B2B2C users (DOC2US via AIA, Naluri via employers) rarely reach public platforms, so cross-provider sentiment comparisons structurally flatter consumer-brand players and understate embedded ones.
 4. **Refresh triggers**: any incumbent claiming Trustpilot; DA changing its prescription policy; a KPDN/TTPM enforcement wave against aesthetic clinics; first public GLP-1 patient-community thread in Malay — each would materially shift a section above.
 5. Cross-check quarterly against the [complaint-theme monitoring plan](recurring-complaints.md) and re-date all scores via [review-score-comparison.md](review-score-comparison.md).
+
+---
+
+## Related documents
+
+- [review-analysis.md](review-analysis.md) — master per-provider synthesis and methodology
+- [recurring-complaints.md](recurring-complaints.md) — complaint taxonomy, severity × frequency matrix
+- [review-score-comparison.md](review-score-comparison.md) — cross-platform rating tables
+- Competitor dossiers: [DoctorOnCall](../20-competitor-dossiers/doctoroncall.md) · [DOC2US](../20-competitor-dossiers/doc2us.md) · [Doctor Anywhere](../20-competitor-dossiers/doctor-anywhere.md) · [Speedoc](../20-competitor-dossiers/speedoc.md) · [Naluri](../20-competitor-dossiers/naluri.md) · [IHH/Pantai/Gleneagles](../20-competitor-dossiers/ihh-pantai-gleneagles.md) · [KPJ](../20-competitor-dossiers/kpj-healthcare.md) · [Sunway](../20-competitor-dossiers/sunway-healthcare.md) · [Prince Court](../20-competitor-dossiers/prince-court.md)
 
 ---
 

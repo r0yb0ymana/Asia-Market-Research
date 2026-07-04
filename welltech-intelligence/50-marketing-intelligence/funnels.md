@@ -267,6 +267,23 @@ Weekly funnel review runs this table against the §5 dashboard; any two consecut
 
 ---
 
+## 9. Benchmark appendix (external reference values used in modelling)
+
+| Benchmark | Value | Source |
+|---|---|---|
+| Healthcare landing-page median / top-quartile conversion | 3.6% median (avg 7.4%) / 20.4% | [^15] |
+| Quiz-funnel completion | 40–60% | [^14] |
+| CTWA conversion vs landing pages | 15–30% vs 2–5% | [^12] |
+| CTWA cost per conversation (emerging markets) | USD 0.50–3 | [^12] |
+| Meta CPC / CPM Malaysia | RM0.50–6.00 / RM8–50 | [^16] |
+| Google Ads CPC Malaysia (by industry) | RM1.80–12.50; +8–12%/yr inflation | [^17] |
+| GLP-1 12-month persistence (unmanaged, US) | 30–38% (46.5–64.8% discontinue) | [^13] |
+| Healthcare email open / CTR | ~23.5% / ~3.6% | [^5] |
+| Telehealth CAC / LTV discipline (US operators) | CAC <USD 150; LTV:CAC ≥3×; payback <12 mo | [^18] |
+| Hims retention / subscribers (context) | ~85% / 2.5M+ (FY2025) | [^18] |
+
+---
+
 ## References
 
 Repository cross-references linked inline. External sources reviewed for this document:

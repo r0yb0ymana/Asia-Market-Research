@@ -137,6 +137,18 @@ Not all high scores are the same species. Classification of every scored entity 
 
 Indeed corpora exist for several players (DoctorOnCall, Alpro, Big Pharmacy 76 reviews, Sunway Medical Centre 74 reviews) but expose no reliable aggregate in retrievable form; they are noted for refresh purposes only.[^55][^56]
 
+### 6.0 Legitimacy-checker platforms (adjacent to ratings)
+
+A distinct platform class matters in Malaysia because of scam anxiety: automated site-trust checkers that patients consult before first purchase.
+
+| Provider | Checker reading | Source |
+|---|---|---|
+| Doctor2U (doctor2u.my) | ScamAdviser trust-check page exists; consulted enough to rank in brand searches | ScamAdviser[^57] |
+| DOC2US (app.doc2us.com) | "Likely legit" per ScamAdviser (dossier cycle) | see [DOC2US dossier](../20-competitor-dossiers/doc2us.md) §8 |
+| NPRA Product Status app | MOH's own consumer verification tool for medicines — the state-endorsed checker | MOH Pharmaceutical Services[^58] |
+
+Implication: Welltech should assume its domain will be run through ScamAdviser-class tools in week one and pre-optimise (age of domain, visible company registration, physical address, MOH references).
+
 ### 6.1 Why employer reviews belong in a patient-review document
 
 The correlation in this corpus is direct: DoctorOnCall (Glassdoor 2.7) has the worst fulfilment complaints; Speedoc (2.9) shows service inconsistency at the edges; Alpro (4.0) runs the market's best front-line review discipline; Naluri's burnout themes sit under a coaching product whose quality is the coach's energy. In service healthcare, employee-experience scores are a leading indicator of the patient-experience scores by roughly the length of one staff-turnover cycle. *(analyst inference from paired observations, not a measured elasticity)*
@@ -235,3 +247,5 @@ The correlation in this corpus is direct: DoctorOnCall (Glassdoor 2.7) has the w
 [^54]: KPDN, "Consumer Complaints" and TTPM e-Tribunal portal, https://www.kpdn.gov.my/en/consumerism/hak-pengguna/consumer-complaints and https://ttpm.kpdn.gov.my/ (accessed July 2026).
 [^55]: Indeed Malaysia, "Working at Big Pharmacy: 76 Reviews", https://malaysia.indeed.com/cmp/Big-Pharmacy/reviews (accessed July 2026).
 [^56]: Indeed Malaysia, "Working at Sunway Medical Centre: 74 Reviews", https://malaysia.indeed.com/cmp/Sunway-Medical-Centre/reviews (accessed July 2026).
+[^57]: ScamAdviser, "doctor2u.my Reviews — check if site is scam or legit", https://www.scamadviser.com/check-website/doctor2u.my (accessed July 2026).
+[^58]: MOH Pharmaceutical Services Programme, "Tips on how to buy medicines online" (NPRA Product Status app guidance), https://pharmacy.moh.gov.my/en/content/tips-how-buy-medicines-online.html (accessed July 2026).
