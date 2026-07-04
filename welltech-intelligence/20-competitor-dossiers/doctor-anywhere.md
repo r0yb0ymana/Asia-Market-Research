@@ -266,6 +266,24 @@ Two structural notes: (1) speed-to-doctor is genuinely excellent and repeatedly 
 
 ---
 
+## 12. Intelligence gaps & monitoring plan
+
+| Gap / signal | Why it matters | How to monitor |
+|---|---|---|
+| FY2024/FY2025 financials | Confirms whether the layoff-driven path to profitability is working | ACRA filings; DealStreetAsia earnings coverage[^8] |
+| Series D / down-round / exit process | Changes competitive aggression and pricing behaviour | DealStreetAsia, Tech in Asia, Bloomberg; Asia Partners/Novo portfolio updates |
+| Packaged weight-management or GLP-1 programme launch | The single most direct threat to Welltech's category | Site diffs on doctoranywhere.com and marketplace; DA blog RSS[^43] |
+| "SODA by DA" scope | Could be the wellness/longevity vehicle; public detail minimal | Group brand pages; founder LinkedIn posts[^2][^10] |
+| Verified app ratings & review volumes per market | Only third-party/anecdotal data this cycle | Quarterly pulls: Play (com.doctoranywhere), App Store (id1273714922), MY storefronts |
+| DA Malaysia service expansion (clinics, home services) | MY is Welltech's launch geography | doctoranywhere.my diffs; MY support portal article changes[^25] |
+| Response to MMC tele-MC ban | Reveals MY regulatory strategy and B2C resilience | CodeBlue, MY press; DA MY FAQ updates[^29] |
+| WhatsApp Business API adoption | Would neutralise part of Welltech's channel advantage | Funnel test-purchases; site/FAQ diffs |
+| Insurer contract wins/losses (esp. AIA) | AIA MY moved digital-health partnership to BIG CARiNG (2025) — panel churn is live | Insurer newsrooms; AIA/Prudential/GE partner pages[^57] |
+
+Verification notes: doctoranywhere.com and doctoranywhere.my returned HTTP 403 to direct page fetching during this cycle; site-sourced prices and service details above derive from DA's indexed support-portal articles and search extracts of the exact pages cited. UK-listed "Doctor Care Anywhere" (ASX:DOC) is an unrelated company; any figures from that entity were excluded.[^56]
+
+---
+
 ## References
 
 [^1]: TechCrunch, "Southeast Asia 'omnichannel' health startup Doctor Anywhere gets $88M SGD" (30 Aug 2021), https://techcrunch.com/2021/08/30/southeast-asia-omnichannel-health-startup-doctor-anywhere-gets-88m-sgd/ (accessed July 2026).
@@ -324,3 +342,4 @@ Two structural notes: (1) speed-to-doctor is genuinely excellent and repeatedly 
 [^54]: TikTok, "@doctoranywhere" (~1,357 followers, 29.7K likes), https://www.tiktok.com/@doctoranywhere (accessed July 2026); Instagram, "@doctoranywhere" (~7,522 followers, 1,427 posts), https://www.instagram.com/doctoranywhere/ (accessed July 2026).
 [^55]: AndroidMedical third-party tracker citing ~4.3/5 average rating for the DA Android app (unverified against live Play Store), https://www.androidmedical.com/download-com-doctoranywhere.html (accessed July 2026).
 [^56]: Trustpilot, "Doctor Care Anywhere Reviews" — UK company doctorcareanywhere.com, unrelated to Doctor Anywhere Pte Ltd; flagged to prevent source conflation, https://www.trustpilot.com/review/doctorcareanywhere.com (accessed July 2026).
+[^57]: AIA Malaysia, "AIA+ Guide: Digital Health" (digital-health partnership moving to BIG Pharmacy/CARiNG Pharmacy from 1 Oct 2025, ending Doc2Us arrangement 31 Dec 2025 — illustrates MY insurer digital-health panel churn), https://www.aia.com.my/en/help-support/aia-guide/digital-health.html (accessed July 2026).

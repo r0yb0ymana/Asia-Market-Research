@@ -401,6 +401,13 @@ Net: an unattractive industry *as currently defined* (commodity consults), attra
 
 ---
 
+## Appendix A — Method and source-reliability notes
+
+- **Source tiers.** Tier 1: government/regulatory (MOH guidelines and circulars, MMC, Poisons Act texts, Parliament-approved Health White Paper) and peer-reviewed studies (JMIR, MJMS, MJPHM, PLOS One). Tier 2: named-outlet business press (The Edge, TechCrunch, DealStreetAsia, MobiHealthNews, TechNode Global, Malay Mail, CodeBlue) and funding databases (Tracxn, PitchBook — headline figures only). Tier 3: company self-claims (user counts, network sizes, ROI multiples) — reported here as claims, never as verified facts.
+- **Reconciliation policy.** Where market-size estimates conflict (§3.1), all figures are shown with their definitional scope; a single "true" number is never silently selected. The contestable-pool estimate (§3.3) and encounter P&L (§6.2) are original analyst work, labelled as such, with reasoning shown.
+- **Known blind spots.** (1) No Malaysian platform publishes audited consultation volumes or revenue; all scale claims are self-reported. (2) DOC2US and Doctor2U funding is undisclosed — corporate backing makes tracked-equity comparisons misleading. (3) Statista and Ken Research figures come from paywalled models; only their public summary numbers are cited. (4) Ken Research's USD 1.1B base year is not disclosed in public summaries. These gaps should be closed via primary interviews (platform executives, GP locums, pharmacy partners) in the next research cycle.
+- **Currency.** RM figures converted at ~RM4.4–4.7/USD range prevailing 2023–2025 where needed; original-source currency retained wherever possible.
+
 ## References
 
 [^1]: Grand View Research, "Malaysia Telemedicine Market Size & Outlook, 2025–2030" (market revenue USD 1,848.6M in 2023; USD 6,515.4M by 2030; 19.7% CAGR 2024–2030; Malaysia 1.6% of global telemedicine revenue; product the largest 2023 component), https://www.grandviewresearch.com/horizon/outlook/telemedicine-market/malaysia (accessed July 2026).

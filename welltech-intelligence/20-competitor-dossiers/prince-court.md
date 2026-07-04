@@ -15,6 +15,19 @@ Related: [IHH Pantai & Gleneagles dossier](ihh-pantai-gleneagles.md) · [Malaysi
 - **Khazanah → IHH (2019).** IHH bought PCMC from its own major shareholder Khazanah for RM1.02 billion cash. Analysts called the deal expensive: PCMC's normalised FY2018 net profit was ~RM26m (≈39× earnings), insufficient to cover the acquisition's net financing cost at the time.[^3][^4]
 - **Strategic logic** *(analyst view)*: IHH bought positioning, not earnings — a city-centre premium brand adjacent to KLCC that anchors the top of its Malaysian price ladder and its medical-tourism story. The pressure to sweat this expensive asset explains PCMC's aggressive push into screening, international patients and premium service lines.
 
+### Timeline
+
+| Year | Event |
+|---|---|
+| 2002 | Petronas awards RM357m construction contract to Peremba Construction[^1] |
+| 2006 | Peremba contract terminated; Sunway Construction re-awarded at RM391m[^1] |
+| 2007 | Hospital opens (late 2007) as a wholly-owned Petronas facility[^1] |
+| 2018 | Petronas sells PCMC to Khazanah (Pulau Memutik Ventures) for RM1.086bn; completed August[^2] |
+| 2019 | IHH acquires PCMC from Khazanah for RM1.02bn cash; analysts flag ~39× FY18 earnings[^3][^4] |
+| 2024 | Independent patient reviews cement "affordable luxury" screening reputation internationally[^14] |
+| 2025 | Newsweek/Statista World's Best Hospitals and Asia's Top Private Hospitals listings; third consecutive Medical Tourism Hospital of the Year (Malaysia); Weight Management Clinic marketing GLP-1/GIP-GLP-1 therapies live[^10][^18] |
+| 2026 | Positioned within IHH's premium tier alongside Island Hospital in the group's medical-tourism push (Malaysia Year of Medical Tourism)[^11] |
+
 ## 2. Facility, positioning and leadership
 
 | Attribute | Detail |
