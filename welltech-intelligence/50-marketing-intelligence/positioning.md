@@ -80,6 +80,16 @@ Category-design moves: name the category in every asset ("medical weight managem
 
 The street vernacular is *pen kurus / suntikan kurus* ("skinny pen/jab") — media and MOH-adjacent commentary already use it cautionarily ("Guna 'pen kurus'… jangan dibuat sewenangnya").[^12] Recommendation: **never adopt "kurus" into brand language** (it codes cosmetic, triggers KKLIU/Poisons Act exposure when tied to medicines, and pattern-matches to grey-market sellers). Use *pengurusan berat badan secara perubatan* (medical weight management) / *program doktor untuk berat badan sihat*; allow "pen kurus" only in educational content that *corrects* it (doctor-fronted "apa itu 'pen kurus' sebenarnya?" content ranks on the vernacular while repositioning it). For the Malay-Muslim majority segment, health-and-family framing outperforms vanity framing ([consumer-behaviour §8](../10-market-intelligence/malaysia-consumer-behaviour.md)); *sihat* (healthy), *terkawal* (controlled/supervised), and *seimbang* (balanced — note the competitor has claimed this word as a brand) are the operative vocabulary.
 
+**Working vocabulary map (marketing lexicon, to be validated in message testing, §12):**
+
+| Concept | Use (BM) | Use (中文) | Avoid |
+|---|---|---|---|
+| The category | pengurusan berat badan secara perubatan | 医学体重管理 | "slimming", kurus, 减肥针 in brand assets |
+| The treatment class | rawatan yang diselia doktor ("doctor-supervised treatment") | 医生监督疗程 | molecule/brand names (Group B) |
+| The promise register | terkawal, selamat, sihat, ikhtiar yang betul | 安心、专业、跟进 | jaminan (guarantee), "miracle" codes |
+| The enemy | produk tidak berdaftar; pakej tekanan jualan | 无注册产品、硬销配套 | naming competitors |
+| The habit hook | "terus di WhatsApp anda" | 微信习惯迁移到 WhatsApp 语境 | app-download framing |
+
 ### 4.3 Is "longevity clinic" ownable?
 
 The physical label is contested (Longevity Clinic Malaysia's record-book claim; Llayana's "longevity & preventive health experts"; hospital wellness centres).[^1] The *digital membership* sub-category is unclaimed: nobody sells a Function-style annual biomarker membership with longitudinal interpretation in Malaysia ([longevity §10](../10-market-intelligence/malaysia-longevity-market.md)). Recommendation: don't fight for "longevity clinic" (place-coded, functional-medicine-adjacent, evidence-risk); define **"longevity membership" / "preventive health membership"** — a category name that implies continuity, matches the product, and translates cleanly (*keahlian kesihatan jangka panjang*; 长寿健康会员 for the XHS/Mandarin funnel). For the Chinese-Malaysian screening buyer (persona P2), frame as "your screening reports, finally managed" — an upgrade to an existing habit, not a new belief.
@@ -105,6 +115,17 @@ Codes consumers actually check, ranked by verifiability (evidence: [consumer-beh
 5. **Privacy (PDPA-plus).** Post-MySejahtera-leak anxiety is specific: data reaching insurers/employers. Explicit no-sharing pledge, local residency, WhatsApp-visible privacy summary ([consumer-behaviour §7](../10-market-intelligence/malaysia-consumer-behaviour.md)).
 6. **Anti-hard-sell signals.** Published all-in prices, "decide at home" scripting, no same-day-close incentives — category-specific trust code born of slimming-centre trauma.[^10]
 7. **Physical anchor.** A real clinic address (even one flagship) remains a legitimacy shortcut for telehealth skeptics ([consumer-behaviour §7](../10-market-intelligence/malaysia-consumer-behaviour.md)).
+
+**Trust-artefact production checklist (build once, deploy everywhere):**
+
+| Artefact | Surfaces | Owner |
+|---|---|---|
+| Doctor profile cards (photo, MMC no., languages, gender) | WhatsApp flow, site, ads, consult confirmations | Clinical + brand |
+| "Verify us" page (KKM licence, KKLIU numbers, Quest3+ walkthrough) | Site footer link in every ad; WhatsApp quick-reply | Compliance |
+| Batch-verification unboxing video template | Delivery follow-up message; TikTok | Ops + content |
+| Halal & Ramadan FAQ (scholar-reviewed) | Site, WhatsApp quick-reply, P5 creative | Clinical + advisor |
+| Privacy card (plain-language, BM/EN/中文) | WhatsApp onboarding, employer decks | Legal |
+| Published outcomes dashboard (quarterly cohort stats) | Site, PR, corporate sales | Clinical governance |
 
 ---
 
@@ -173,6 +194,28 @@ Regulatory detail in [malaysia-regulations.md](../10-market-intelligence/malaysi
 | "Who sees my data? My insurer? My boss?" | Premium loading, HR exposure | PDPA-plus pledge: no insurer/employer sharing, local residency, deletion rights | Plain-language privacy card in WhatsApp ([consumer-behaviour §7](../10-market-intelligence/malaysia-consumer-behaviour.md)) |
 | "My hospital screening package is cheaper" (P2) | Value comparison | "The test is the cheap part — we manage the year after"; aggregate existing reports free at onboarding | Biological-age dashboard demo ([longevity §3](../10-market-intelligence/malaysia-longevity-market.md)) |
 | "Why do you refuse to sell me the pen directly?" | Convenience seekers | Safety-as-brand: supervised care is the product; DIY pharmacies exist and we are not one | CPG eligibility explainer |
+
+---
+
+### 2.3 Map 3 — Stigma-safety (x) × Outcome accountability (y) — the weight-category map
+
+*(Analyst placements; weight-loss providers only.)*
+
+| | **Stigma-exposed** (in-person, public-facing, judgment risk) | **Stigma-safe** (discreet, chat-first, judgment-free coding) |
+|---|---|---|
+| **High accountability** (published outcomes, follow-up owned) | Hospital obesity/bariatric units (clinical but intimidating; surgery-coded) | **EMPTY — Welltech target**; Roczen gestures here ("remission") without local proof |
+| **Low accountability** | Slimming centres (public mall outlets + disputed measurements); aesthetic clinics (walk-in, sales-pressured) | OVA (discreet, women-only — but no published outcomes); DIY pharmacy (fully discreet, zero care); grey-market sellers |
+
+The weight category's twin currencies are discretion and proof. Everyone offers at most one. The ACTION Malaysia data (only 28% ever discussed weight with a clinician) prices discretion; the 63%-regain experience prices proof ([weight-loss §3.4](../10-market-intelligence/malaysia-weight-loss-market.md)).
+
+### 2.4 Adjacent players (context rows, not weight-category combatants)
+
+| Player | Position held | Interaction with Welltech |
+|---|---|---|
+| Pharmacy chains (BIG CARING, Alpro, Watsons) | Everyday accessibility; the country's de facto front door | Channel partner (pickup, referral) and long-run rival ([private-healthcare §10](../10-market-intelligence/malaysia-private-healthcare.md)) |
+| Naluri | Employer wellbeing outcomes | Partner/rival in corporate channel; no prescribing arm |
+| Homage / home-care operators | At-home nursing convenience | Adjacent service partner for concierge tier |
+| BookDoc/GetDoc | Discovery/booking utilities | Low positioning overlap; ignore in messaging |
 
 ---
 

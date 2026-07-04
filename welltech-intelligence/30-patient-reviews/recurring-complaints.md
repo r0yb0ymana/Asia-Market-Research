@@ -209,6 +209,10 @@ The taxonomy above maps incumbent failure. A GLP-1/longevity/concierge entrant s
 
 The first provider whose complaint record shows *handled* versions of these four classes will define the category standard the way Sunway's feedback transparency defines the hospital standard.
 
+## 15. Bottom line
+
+Malaysian healthcare complaints are overwhelmingly **operational and communicative, not clinical**. The market forgives medicine and punishes administration. A new entrant does not need better doctors than Gleneagles or faster tech than Doctor Anywhere; it needs to be the first brand whose complaint record shows answered tickets, kept delivery promises, honoured appointments and paid refunds. Every theme in this taxonomy is, from Welltech's side, an operations specification — and the full list is priced into incumbents' review corpora already, meaning patients will notice its absence immediately.
+
 ---
 
 ## References

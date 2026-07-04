@@ -138,7 +138,38 @@ The fourth answer doubles as a market-entry tactic: routing paid initiation cons
 
 ---
 
-## 4. Implications for Welltech — KPI set for the clinician experience
+## 4. Pain intensity by recruitment segment
+
+Not every friction weighs equally on every segment; the pitch should lead with the pain that ranks first for the doctor in front of you. Intensity coding: ●●● acute · ●● significant · ● background.
+
+| Friction | Contract/ex-contract MO | Locum-portfolio GP | Employed private GP | Clinic-owner GP |
+|---|---|---|---|---|
+| Income pressure | ●●● (RM3,500 base)[^20] | ●● (rate-chasing) | ●● | ●●● (fee freeze + margin threat)[^1] |
+| TPA/GL bureaucracy | ● (not yet exposed) | ● | ●● | ●●● (70% of volume)[^4] |
+| Unpaid administration | ●● (hospital paperwork) | ● | ●● | ●●● (claims, e-invoice)[^7] |
+| WhatsApp after-hours load | ● | ● | ●● | ●●● (own patient base)[^10] |
+| Medico-legal anxiety | ●●● (junior, least protected) | ●● | ●● | ●● |
+| Follow-up without revenue | ● | ● | ●● | ●●● |
+| Volume treadmill | ●●● (public load)[^17] | ●● | ●● | ●● |
+| Career insecurity | ●●● (contract system)[^19] | ●● (no benefits/EPF depth) | ● | ● |
+| Gig disillusionment | ●● (moonlights on platforms) | ●● | ● | ● |
+
+*(analyst assessment mapping §1 evidence onto segments)*
+
+Reading the columns: the **contract MO** is sold security, protection and modernity; the **locum GP** is sold better arithmetic with less risk; the **employed GP** is sold boundaries and paid follow-up; the **clinic owner** is sold revenue without administration — and partnership rather than competition (initiation-visit routing, [§3.5](clinician-pain-points.md)).
+
+## 5. Evidence gaps Welltech should close with its own data
+
+The Malaysian literature quantifies burnout prevalence but not its private-sector workflow inputs. Four measurable unknowns, each cheap to instrument in a pilot and each valuable as proprietary market intelligence and future publication:
+
+1. **After-hours message load**: messages/day reaching private GPs, response latency, clinical materiality — no Malaysian study exists ([doctor-workflows.md §7](doctor-workflows.md)).
+2. **Administration minutes**: time-and-motion on claims/portal/e-invoice work per clinic day — MMA asserts the burden; nobody has measured it.[^4]
+3. **Platform-doctor effective RM/hour and churn**: the numbers incumbents will not publish; Welltech's transparent baseline becomes the recruiting weapon.[^22]
+4. **Teleconsult duration and resolution rates by modality** (chat vs voice vs video) in Malaysian populations — feeds directly into the evidence-based teleconsultation guideline ADHM has demanded and regulators will eventually write ([telehealth-consultation-analysis.md §2](telehealth-consultation-analysis.md)).
+
+Publishing anonymised versions of 1, 2 and 4 positions Welltech as the evidence-generating operator in a soft-law market — regulatory goodwill that compounds (see the RegLab/OHS trajectory in [malaysia-regulations.md §3](../10-market-intelligence/malaysia-regulations.md)).
+
+## 6. Implications for Welltech — KPI set for the clinician experience
 
 | KPI | Target (Year 1) | Rationale |
 |---|---|---|

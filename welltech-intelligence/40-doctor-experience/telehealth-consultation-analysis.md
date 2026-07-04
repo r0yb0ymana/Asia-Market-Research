@@ -82,6 +82,24 @@ Read-through: the Malaysian evidence base is thin on the doctor's experience —
 
 ---
 
+### 3.4 The platform-doctor lifecycle *(analyst model)*
+
+Assembling the recruitment, economics and post-2025 regulatory evidence yields a lifecycle every Malaysian platform doctor recognises:
+
+1. **Entry (months 0–2).** Motivated by flexible income around a hospital/clinic job; passes MMC/APC credentialing; completes supervised onboarding consults (DoctorOnCall's 10–15 training calls pattern).[^12][^15]
+2. **Honeymoon (months 2–6).** Novelty plus queue access; earnings acceptable during evening peaks; tolerates documentation quirks.
+3. **Arithmetic phase (months 6–12).** Doctor computes effective RM/hour across idle time and compares against locum shifts; discovers payout is fixed while the medico-legal duty is full-weight; notices follow-ups route to other doctors.
+4. **Disengagement.** Platform work demoted to filler — logged into only when a locum shift falls through; responsiveness drops; platform quality metrics decay.
+5. **Exit or dormancy.** No exit event, just silence — which is why churn is invisible in any public dataset.
+
+Interruptions to this decay curve are exactly the levers §5–6 specify: guaranteed-minimum scheduled blocks (kills step 3's volatility discovery), named-panel continuity (kills step 3's ownership grievance), and paid asynchronous bundles (changes the arithmetic itself).
+
+### 3.5 What "good" pays elsewhere: calibration points
+
+- MOH's own price for marginal doctor-hours is **RM80/hour** (2024 locum allowance) — a state-set floor for what an incremental clinical hour is worth in Malaysia.[^30]
+- Private locum market clears at **RM40–60/hour** with zero platform risk and guaranteed payment for presence, not throughput.[^31]
+- A GLP-1 programme panel restructures the comparison entirely: recurring monthly panel fees per enrolled patient decouple doctor income from queue volatility — the economic design no Malaysian consult-marketplace offers today. *(analyst design point, developed in [clinician-pain-points.md §3](clinician-pain-points.md))*
+
 ## 4. The medico-legal anxiety stack
 
 | Anxiety | Substance | Instrument/event |
@@ -196,3 +214,5 @@ This blueprint prices the doctor's synchronous time correctly, converts asynchro
 [^27]: Residency Advisor, "Remote Work and Physician Burnout: What Telehealth Surveys Actually Report" (hybrid/remote vs in-person burnout ranges), https://residencyadvisor.com/resources/telemedicine-careers/remote-work-and-physician-burnout-what-telehealth-surveys-actually-report (accessed July 2026).
 [^28]: "Review of Systematic Reviews in the Field of Telemedicine", PMC (2022), https://pmc.ncbi.nlm.nih.gov/articles/PMC9391764/ (accessed July 2026).
 [^29]: "Telemedicine for healthcare: Capabilities, features, barriers, and applications", Sensors International / PMC (2021), https://pmc.ncbi.nlm.nih.gov/articles/PMC8590973/ (accessed July 2026).
+[^30]: Malay Mail, "Health minister says doctors working overtime to get locum allowance immediately, at RM80 an hour" (Feb 2024), https://www.malaymail.com/news/malaysia/2024/02/23/health-minister-says-doctors-working-overtime-to-get-locum-allowance-immediately-at-rm80-an-hour/119618 (accessed July 2026).
+[^31]: LocumLah (RM40–50/hour listings), https://portal.locumlah.com/ ; Malaysian Medical Resources, "Calling all doctors and nurses – get Locum Apps now!" (RM40/hour floor), https://new.medicine.com.my/2020/05/calling-all-doctors-and-nurses-locumapps/ (accessed July 2026).

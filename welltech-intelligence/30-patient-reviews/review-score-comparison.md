@@ -60,6 +60,17 @@ Reading: Malaysia's healthcare rating economy lives on **Google Maps and app sto
 - **Naluri's ~280 ratings against ~1M claimed covered lives** is a 0.03% review-conversion rate; B2B distribution produces users who never meet the store listing.[^16][^17]
 - **BookDoc's 10,736 votes** (if the third-party figure is accurate) reflect its consumer-rewards era; treat as legacy volume rather than current engagement.[^20]
 
+### 2.2 App Store vs Google Play divergence
+
+Where both stores expose review text, the *themes* diverge by platform economics: App Store corpora (iOS users skew affluent, insured, SG-weighted for regional apps) complain about medication pricing and prescription lock-in; Play corpora (broader Malaysian base) complain about delivery, payment glitches and support silence.[^12][^10] A Malaysia-first, mass-market entrant should weight Play-style complaints — logistics and support — as its primary risk surface, while noting that the iOS complaint set (pricing fairness) is what affluent early adopters will scrutinise first. *(inference from observed theme distribution; store demographics not independently verified)*
+
+### 2.3 How to quote these numbers externally
+
+- Always attach source + date: "4.68★ (AppBrain, Jul 2026)" — never a bare "4.7 stars".
+- Never average across platforms or entities; the integrity classes (§5.1) make arithmetic averages meaningless.
+- For investor material, use volume + trajectory (ratings added per quarter, retrievable from tracker history) rather than static scores.
+- Do not cite the BookDoc or unverified DA figures without their caveats; both could be challenged in diligence.
+
 ## 3. Pharmacy chains
 
 | Provider | Google Maps / Birdeye | Trustpilot | Employer (context) | Notes |

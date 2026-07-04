@@ -98,6 +98,35 @@ flowchart LR
 | S6 | Refund stalls (4 months, Gleneagles) or is refused by policy (slimming) | The most viral, most permanent negative reviews[^5][^13] |
 | Weight-specific | First hard-sell cue at any point | Immediate exit + warn-others behaviour (blogs, forums, complaint boards exist largely to warn)[^11][^12] |
 
+### 4.1 Proxy indicators for drop-off magnitude
+
+Remote research cannot measure funnel abandonment directly, but the corpus offers proxies worth tracking as market KPIs:
+
+| Drop-off | Proxy indicator | Current reading |
+|---|---|---|
+| S1 legitimacy failure | Ratio of scam-warning content to provider content in brand SERPs | MOH scam advisories rank alongside provider pages for generic "buy medicine online Malaysia" queries — high ambient loss[^1][^2] |
+| S2 booking abandonment | Share of negative reviews citing pre-consult waits/no-shows | Prominent in DA's corpus; effectively absent in Speedoc's — booking reliability is a differentiator already visible in review mix[^8][^20] |
+| S4 fulfilment abandonment | Switching statements in reviews ("never again", competitor named) | Present in DoctorOnCall delivery complaints[^4] |
+| S6 advocacy inversion | Complaint-platform posts per year per brand | LWM's 36-complaint ComplaintsBoard stock vs near-zero for telehealth brands shows where advocacy inversion concentrates[^13] |
+| Weight-segment silent exit | Reviews mentioning sales pressure as reason for not returning after trial | Dominant narrative structure in slimming corpora[^11][^12] |
+
+### 4.2 The emotional journey in one view
+
+```mermaid
+flowchart TD
+    A[Need arises] --> B{Legitimacy check}
+    B -- fails --> X1[Silent exit - no review trace]
+    B -- passes --> C[Book and pay]
+    C -- price surprise --> X2[Abandon plus warn friends]
+    C --> D[Consult]
+    D -- rushed or upsold --> X3[One-star with story]
+    D --> E[Medication and delivery]
+    E -- late plus silence --> X4[Public broken-promise review]
+    E --> F[Outcome achieved]
+    F -- no follow-up --> X5[Silent churn - market norm today]
+    F -- followed up --> G[Advocacy - named-person praise]
+```
+
 ## 5. Praise themes — what patients volunteer when it works
 
 1. **Time given back** — the single most common positive across telehealth ("no queue", "did not have to travel"), home care (same-day everything) and pharmacies (3-hour delivery).[^8][^20][^29]
