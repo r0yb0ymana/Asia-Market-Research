@@ -188,10 +188,10 @@ Design consequence: breaking any chain at link two (communication) suppresses mo
 
 ## 13. Monitoring plan (quarterly refresh)
 
-1. Re-pull ComplaintsBoard/PissedConsumer counts for LWM, Marie France, KPJ pages — complaint velocity, not stock, is the leading indicator for T5/T7.[^22][^23]
+1. Re-pull ComplaintsBoard/PissedConsumer counts for LWM, Marie France, KPJ pages — complaint velocity, not stock, is the leading indicator for T5/T7.[^8][^23]
 2. Track TTPM annual claim statistics and any KPDN enforcement actions naming slimming/aesthetic operators.[^30]
 3. Watch DA's App Store corpus for any prescription-letter policy change — it would close Welltech's T3 wedge.[^7]
-4. Watch Alpro's Birdeye volumes as the benchmark for review-solicitation performance in Malaysian healthcare (per-outlet pages).[^24][^25]
+4. Watch Alpro's Birdeye volumes as the benchmark for review-solicitation performance in Malaysian healthcare (per-outlet pages; see [review-score-comparison.md](review-score-comparison.md) §3).[^31]
 5. Add Grab/foodpanda-style delivery-experience complaints to the T4 scan once Welltech's own logistics launch — the comparison set patients will actually use. *(analyst note)*
 
 ---

@@ -163,6 +163,46 @@ Even the worst modeled cell (RM1,200) is ~25% of 5-month gross revenue — paid 
 
 **Ramp plan:** Month 1–2: RM10–15K/month, Search only, manual/enhanced CPC, gather CPC + conversation-rate truth. Month 3: enable Smart Bidding on offline-imported consult conversions. Month 4–6: scale to RM30K, add PMax if conversion-volume gate met (§6.4). Re-forecast CAC monthly against this table.
 
+## 9a. 90-day launch plan and budget allocation
+
+**Budget allocation by campaign (launch → steady state):**
+
+| Campaign | Month 1–2 (RM12K/mo) | Month 3 (RM20K/mo) | Month 4–6 (RM30K/mo) | Primary conversion |
+|---|---|---|---|---|
+| 1. Brand (exact) | RM500 | RM750 | RM1,000 | WhatsApp conversation |
+| 2. Weight EN (program/clinic) | RM5,000 | RM8,000 | RM10,500 | WhatsApp conversation |
+| 3. Weight BM | RM3,000 | RM5,000 | RM8,000 | WhatsApp conversation |
+| 4. Telehealth/consult | RM1,500 | RM2,250 | RM3,000 | Consult booking |
+| 5. Screening/longevity | RM2,000 | RM3,000 | RM4,500 | Screening booking |
+| 6. PMax (gated on §6.4) | — | RM1,000 test | RM3,000 | Offline-imported consults |
+
+Allocation logic *(analyst design)*: weight clusters take ~60% because program LTV dwarfs consult/screening baskets; BM share rises over time as native-language creative and landing pages mature; PMax is a satellite, never the core, until lead quality is proven.
+
+**90-day gate checklist:**
+
+| Gate | Day | Pass criterion | Fail action |
+|---|---|---|---|
+| Policy survival | 14 | Zero disapprovals outstanding; message assets serving (or fallback live) | Rework creatives/landing pages before scaling |
+| Cost truth | 30 | Observed blended CPC within 2× of §5 estimates | Re-model CAC; renegotiate keyword set |
+| Conversation quality | 45 | ≥60% of conversations are in-scope patients (not job-seekers/suppliers) | Negative-keyword expansion; ad-copy qualification |
+| Funnel truth | 60 | Conversation→consult ≥15% | Fix WhatsApp response time/scripts before adding spend ([../10-market-intelligence/malaysia-whatsapp-healthcare.md](../10-market-intelligence/malaysia-whatsapp-healthcare.md)) |
+| Economics | 90 | CAC per program start ≤ RM900 (≈1 month program revenue) | Hold budget flat; shift mix to best cells of §9 sensitivity table |
+
+## 9b. Settled-questions table (quick reference for the marketing team)
+
+| Question | Answer | Basis |
+|---|---|---|
+| Can we bid on "Ozempic Malaysia"? | **No.** Prescription-drug terms barred from promotional ads/keywords/landing pages targeting MY | Google restricted drug terms[^5]; MASA POM prohibition[^17] |
+| Can our paid landing page mention Wegovy? | **No** (promotional context). Use drug-class language | §2.1[^5][^6] |
+| Can we bid on "weight loss clinic KL"? | **Yes** — service advertising; keep claims MAB-clean | §2.4, §3[^7][^23] |
+| Can we bid on "ubat kurus"? | **Yes with care** — generic term, but ad copy must not promote a medicine; route to program page | §2.4 *(analysis)* |
+| Do search ads need KKLIU approval? | Treat **yes** for anything promoting medicines/medical services; number carried on landing page; confirm mechanics with BPF in writing | §3[^17][^21][^22] |
+| Can we retarget site visitors with weight-loss ads? | **No** — sensitive-category personalisation ban | §2.3[^13][^14] |
+| Can we use before/after photos or testimonials? | **No** — banned by both Google weight-loss rules and MAB 3/2023 | §2.3, §7[^14][^23] |
+| Can we advertise "online prescriptions delivered"? | **No** — prescription-drug-services restriction; no MY certification lane; frame as doctor consultation | §2.2[^10][^11] |
+| Can we bid on competitor brand names? | Legal on Google (no mark in copy); MAB comparative-claim risk if copy implies comparison — neutral copy only, experiment-tier | §8[^23][^37] |
+| Can we send paid traffic straight to WhatsApp? | **Yes** via message assets where eligible; else landing page with wa.me CTA; log "conversation started" as conversion | §6[^31][^32][^33] |
+
 ## 10. Verification plan
 
 1. **Ads Transparency Center sweep (week 1, free):** query DoctorOnCall, Doctor Anywhere, OVA, Nexus, Glojas, CLEO, Alpro, IHH brands; catalogue live creatives, formats, and (where shown) regions.[^1]
