@@ -8,6 +8,16 @@
 
 ---
 
+## Scope of this pass
+
+**In scope (checked):** every regulatory *instrument* (statute, ordinance, guideline, circular), its *effective date / status* ("in force" vs "not in force" vs "dormant"), and whether its *described effect* is broadly accurate — across telemedicine licensing, prescribing/pharmacy, GLP-1 registration, advertising, privacy, facility licensing and AI/SaMD, for Malaysia, Singapore and Hong Kong. Special attention (per the verification brief) went to precise dates, "in force / not in force" claims, and the GLP-1 registration numbers and launch dates.
+
+**Out of scope (handled elsewhere in this folder):** market sizes, epidemiology, competitor pricing and funding figures ([load-bearing-numbers-audit.md](load-bearing-numbers-audit.md), [price-verification.md](price-verification.md)); internal cross-document consistency ([consistency-reconciliation.md](consistency-reconciliation.md)). This document also does **not** give legal or clinical advice — it identifies which questions must go to a healthcare lawyer and a medical director (the two closing sections).
+
+**Source files read:** malaysia-regulations.md (512 lines; §§1–12), singapore-market-intelligence.md §4, hong-kong-market-intelligence.md §4, sources/regulations.md (the consolidated index), plus prescribing-models.md and ai-nurse.md for the clinical-protocol claims.
+
+---
+
 ## Scoreboard
 
 | Tag | Count | Meaning |
@@ -18,6 +28,17 @@
 | ⚪ UNVERIFIABLE | 2 | Not checkable by desk research (internal enforcement statistics; forward-looking legislative promises) |
 
 **Headline finding:** the regulatory spine of the repository is **solid**. Every high-stakes instrument checked (Telemedicine Act dormancy; OHS Circular Bil.16/2025; MMC tele-MC ban; HCSA Phase 2; MaNaDr; Joint Circular 87/2024; UMAO; PDPO s.33; the GLP-1 registrations) verified as real and correctly dated. The **one date worth a second look is the Wegovy Malaysia commercial-launch date** (repo says January 2026; some clinic/press sources say the market became "officially available" in **January 2025**) — flagged AMBER below. No 🔴.
+
+### Tags by market
+
+| Market | 🟢 | 🟡 | 🔴 | ⚪ | Read |
+|---|---|---|---|---|---|
+| Malaysia | 8 | 4 | 0 | 1 | Strongest file; only soft spot is a commercial launch date |
+| Singapore | 5 | 3 | 0 | 0 | Solid; honest about its own launch-date uncertainty |
+| Hong Kong | 6 | 1 | 0 | 1 | Solid; the s.33-not-in-force and A&E-reform claims verified cleanly |
+| Cross-cutting (GLP-1 residual rows / MASA sub-claim) | 5 | — | — | — | See dedicated GLP-1 table |
+
+(Counts are indicative — several rows bundle multiple sub-claims; the per-market tables below are authoritative.)
 
 ---
 
@@ -193,6 +214,27 @@ The repo's operating rule — AI "collects and routes," a deterministic clinicia
 | R10 | MMC AI guideline "adopted 18 Feb 2025" date | 🟡 | Existence solid; dual date (endorsed 29 Dec 2024 / adopted 18 Feb 2025) not independently confirmed | Compliance |
 
 ---
+
+## AMBER watch-items in detail
+
+The eight AMBER tags are not errors — they are places where a single date, a single source, or a self-flagged uncertainty means the reader should not treat the claim as diligence-grade without one more check. In order of consequence:
+
+- **Wegovy Malaysia launch (the one to actually chase).** The repo builds a "January 2026 = moment of market formation" narrative around Wegovy's Malaysian launch. Search returned conflicting framings: one clinic source states the market became "officially accessible in Malaysia as of **January 2025**"; other coverage clusters around January 2026; and the NPRA/DCA *approval* is consistently placed at **April 2023** (which the repo itself labels "unofficial"). The most likely reconciliation is that approval (2023) and commercial availability (2025 or 2026) are being conflated across sources, and a global semaglutide shortage delayed the launch. This does not undermine the strategy — regulatory-compliant supply as a differentiator holds either way — but the specific "January 2026" year should be confirmed with Novo Nordisk MY before it anchors a go-to-market timeline.
+- **Wegovy Singapore launch.** The repo is admirably explicit: HSA *approval* is 2023 (verified), but commercial launch is "reported inconsistently (mid-2024 vs mid-2025)" and it directs the reader to verify with Novo Nordisk SG. Left AMBER exactly as the repo intended.
+- **MASA 1956 current Schedule (MY).** The regime (MAB approval, KKLIU numbers, POM-to-public prohibition) is GREEN-grade. The finer sub-claim — that obesity/weight-loss is *not* on the statutory Schedule of restricted-disease advertising, so service advertising has a lawful lane — rests on the repo's own reading and was not independently re-tested. The Schedule is amendable by ministerial order, so it can move.
+- **MMC AI guideline date (MY).** The instrument exists and is linked from sources/regulations.md; the specific dual date ("endorsed 29 Dec 2024, adopted 18 Feb 2025") was not independently corroborated this pass.
+- **SG Health Information Bill.** Cited as introduced 5 Nov 2025 with a mandatory-NEHR-contribution effect. The instrument and direction are real; the introduction/passage status was not independently re-confirmed, and it determines whether NEHR contribution is a live day-one obligation or a near-future one.
+- **SG IP rider reform (1 Apr 2026).** A financing/demand claim, not a compliance one; not re-verified this pass.
+- **SG PDPA healthcare advisory guidelines.** Exist (PDPC-hosted, Sep 2023 revision); details rest on the guideline text, not re-searched.
+- **HK eHealth+ (EHRSS Amendment Ordinance 2025).** Referenced with a 1 Dec 2025 effective date and mandatory-deposit power; date/scope not independently re-corroborated.
+
+## What the repository got notably right
+
+Three things are worth calling out because they are the failure modes this pass exists to catch, and the repo avoided all three:
+
+1. **No invented instruments.** Every statute, ordinance, circular and guideline cited is real and correctly named. There is no phantom "Digital Health Act," no misattributed regulator, no imaginary licence class.
+2. **Precise, verifiable dates on the load-bearing instruments.** 26 Jun 2023 (HCSA Phase 2), 16 Aug / 24 Oct 2024 (MaNaDr), 22 Nov 2024 (Joint Circular 87/2024), 15 May 2025 (OHS Circular Bil.16/2025), 1 Jun 2025 (PDPA amendments), 23 Sep 2025 (MMC tele-MC ban), 3 Nov 2025 (Wegovy HK), 1 Jan 2026 (HK A&E reform), 28 Oct 2024 (Mounjaro HK), 30 Aug 2025 + MAL24026013AZ (Mounjaro MY) — all verified to the day / to the registration number.
+3. **It flags its own soft spots.** The repo explicitly labels the Wegovy DCA-approval date "unofficial," tells the reader to verify Wegovy SG launch timing with the manufacturer, and repeatedly says "counsel should confirm" on the genuinely unsettled legal questions. That intellectual honesty is what lets this pass tag with confidence rather than suspicion.
 
 ## Items genuinely uncheckable by desk research (⚪)
 
