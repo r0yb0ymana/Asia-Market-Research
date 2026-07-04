@@ -210,6 +210,33 @@ Read: BIG CARING wins on physical and financial scale; Alpro wins on everything 
 | BIG CARING centralises WhatsApp ordering across banners | **Compete on care depth** | Even centralised, it is commerce chat; Welltech's doctor-in-the-loop journeys remain differentiated — but CAC via their member base rises for everyone *(analysis)* |
 | CARiNG-member screening funnel co-designed with Welltech | **Partner opportunistically** | 2.4M members + in-store screening events are a low-cost top-of-funnel; keep clinical data and billing inside Welltech[^22][^37] |
 
+### Governance & shareholder map (pre-IPO → post-IPO)
+
+| Holder | Pre-IPO | Post-IPO (planned) | Note |
+|---|---|---|---|
+| Lee Meng Chuan & Lim Sin Yin (founders) | Significant controlling stakes | Sell 5.1%; retain significant holdings | Continuity of retail-led strategy[^5][^6] |
+| Creador (via Iris Pallida Sdn Bhd) | ~33.7% (sources cite 34–35%) | ~19.4% | PE partially exiting; residual stake keeps M&A discipline[^5][^10] |
+| Chong Yeow Siang & Caring co-founders | Exited (25% sold to BIG, Dec 2023) | — | Founder knowledge no longer in group[^25][^15] |
+| 7-Eleven Malaysia / Berjaya (Vincent Tan) | Exited Dec 2023 (RM670–675M) | — | Berjaya-era Caring chapter closed[^25][^24] |
+| Public float | — | Up to 25.5% of enlarged base | Targeted ~Oct 2026[^5][^8] |
+
+### Regional relevance (Singapore / Hong Kong)
+
+- BIG CARING's stated ambition is "Southeast Asia's integrated healthcare group," and its Dec-2025 alliance spans Japan (B&S) and Taiwan (Great Tree) — a North-Asia knowledge axis rather than a SG/HK retail entry; no Singapore or Hong Kong store plans were found as of July 2026.[^3][^27]
+- Post-IPO capital could fund regional M&A; Great Tree's Taiwan model (pharmacy + health services density) is the template management is signalling. *(inference)*[^28]
+- For Welltech SG/HK, BIG CARING is a Malaysia-only consideration today; its relevance is as the eventual scale acquirer/partner for any Malaysian fulfilment network Welltech relies on. *(analysis)*
+
+### Monitoring dashboard (review quarterly)
+
+| Signal | Where to check | Why it matters |
+|---|---|---|
+| Final prospectus services disclosure | SC/Bursa filings | Sizing of tele-consultation/physio ambitions[^7] |
+| Post-IPO M&A (telehealth, clinics) | The Edge, Bloomberg | The fastest route to a doctor layer[^6] |
+| Centralised WhatsApp/chat commerce launch | bigpharmacy.com.my, caring2u.com | Converts footfall into an operated channel[^43][^32] |
+| GLP-1 merchandising or program launch | brand eStores, social | Direct category entry[^38] |
+| Great Tree/B&S format pilots in Malaysian stores | bigcaring.com.my newsroom | Preventive-services retailisation[^27] |
+| Loyalty-base health-data products | Caring Membership app updates | 2.4M members as care-funnel[^22] |
+
 ### Data gaps & verification queue
 
 1. Final IPO prospectus: prescription vs front-shop revenue split, tele-consultation/physiotherapy segment size, digital-health use of proceeds — read on SC/Bursa release.[^7]

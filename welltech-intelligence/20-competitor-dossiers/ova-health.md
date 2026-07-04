@@ -88,7 +88,60 @@ Public review volume is strikingly thin for a funded regional brand:
 
 Roczen is the most clinically credentialed threat (UK NHS validation narrative, employer-partnership playbook, Malaysiakini paid-partnership advertising in-market); Seimbang is the price-value benchmark (medication-inclusive RM899); OVA owns the female-consumer brand position; DoctorOnCall caps what anyone can charge for the drug itself.[^12][^13][^21][^25]
 
-## 9. Strengths / weaknesses
+## 9. Composite patient journey at OVA (Malaysia, 2026)
+
+```mermaid
+journey
+    title OVA Malaysia weight-loss patient journey (reconstructed from site flow and reviews)
+    section Discover
+      Instagram/celebrity content or price-comparison blog: 4: Patient
+      Browse getova.com.my, medication names withheld on category pages: 3: Patient
+    section Convert
+      Add treatment + RM15 video consult to cart, Atome option: 4: Patient
+      Video consult with licensed MY doctor, eligibility check: 3: Patient, OVA
+    section Treat
+      Discreet courier delivery of pen, self-injection guides: 4: Patient
+      Nausea weeks 2-8, in-platform messaging only: 2: Patient
+      Titration price step-up at dose increase: 2: Patient
+    section Renew or churn
+      Auto-renewal charge, disputes if cancellation mistimed: 1: Patient, OVA
+      Quiet discontinuation, no publicised win-back protocol: 1: Patient
+```
+
+Reconstruction basis: purchase flow and FAQ content,[^5][^6] Trustpilot complaint narratives,[^19] and category norms documented in the [market file](../10-market-intelligence/malaysia-weight-loss-market.md) §5.2. The journey is strong at the top (best-in-market conversion UX for women) and weakest exactly where GLP-1 economics are decided: weeks 2–8 side-effect management and the renewal decision.
+
+### 9.1 Failure points vs Welltech design targets
+
+| Journey stage | OVA observed state | Welltech design target |
+|---|---|---|
+| First consult | RM15 video call; reviews describe perfunctory, script-bound encounters[^19] | Named doctor continuity; consult includes written plan + total 6/12-month cost |
+| Weeks 2–8 side effects | Reactive in-platform messaging; no published triage SLA | Proactive WhatsApp check-ins at days 3/7/14/30; <4h triage response target |
+| Titration | Price steps up with dose (RM1,150 → higher tiers, unpublished)[^5][^16] | Flat or pre-published ladder; no surprise re-pricing at the moment of clinical vulnerability |
+| Renewal | Auto-renew default; refund refusals documented[^19] | Explicit opt-in renewal via WhatsApp confirmation; pause/skip a month without penalty |
+| Discontinuation | Silent churn; no visible maintenance or relapse program | Maintenance tier (lower price, dietitian-led) + festive-cycle re-engagement protocols |
+
+## 10. Scenario analysis — how the digital cohort evolves, 2026–2028 *(analyst assessment)*
+
+| Scenario | Trigger | OVA's likely move | Consequence for Welltech |
+|---|---|---|---|
+| Consolidation | Series B pressure for path-to-profit across ORA's three brands | Double down on highest-margin verticals; weight loss defended with marketing spend, not care depth | Window stays open for a care-led differentiator; talent/asset acquisition opportunities from weaker cohort members |
+| Hybrid replication | Singapore hybrid model shows retention lift[^9][^10] | Malaysian clinic partnership + named local medical advisor; "telehealth abuse" narrative used to attack pure-online rivals | Welltech must have physical-exam answer ready (partner clinic network or at-home phlebotomy) before OVA reframes the credibility bar |
+| Price war | Seimbang holds RM899 all-in; oral semaglutide launches | Entry-price promotions, bundle with women's-health SKUs (contraception, skin) | Avoid matching headline price; compete on published outcomes and total-cost honesty |
+| Regulatory tightening | NPRA/MMC rules on remote first prescriptions for Group B weight-loss drugs | OVA pivots consults to hybrid/in-person partners; smaller pure-online players exit | Compliance-first architecture becomes the moat; early MMC-aligned protocol documentation pays off |
+| Pharma D2C entry | Novo/Lilly direct-to-patient platforms reach MY | Cohort competes for "services layer on top of pharma platform" positioning | Preferred-provider integrations and employer channels matter more than consumer brand alone |
+
+Probability weighting: hybrid replication and regulatory tightening are the two most likely (both have live precedents in-market); price war is already underway at entry doses.[^13][^17]
+
+## 11. Monitoring checklist (review quarterly)
+
+- getova.com.my price ladder and any move off RM1,150 tirzepatide entry; appearance of a published semaglutide floor below RM900.[^5]
+- Announcement of a Malaysian hybrid clinic partner, named medical director, or endocrinology advisor (mirror of the Feb 2025 Singapore playbook).[^9]
+- Trustpilot/complaint volume shift — resolution of the auto-renewal pattern would signal operational maturation.[^19]
+- Roczen: Malaysian employer/insurer contract announcements; any NHS-outcome PR localised to Malaysia.[^12][^22]
+- Seimbang: evidence of scale (hiring, delivery coverage claims) or margin distress at RM899 all-inclusive.[^13]
+- ORA group: Series B raise, Middle East expansion drawing management attention away from Malaysia, or retail-channel launches that reposition OVA as a products brand.[^2]
+
+## 12. Strengths / weaknesses
 
 **Strengths**
 1. First-mover consumer brand for women's digital weight loss in Malaysia; celebrity-backed Malay-market reach.[^7]
@@ -104,14 +157,14 @@ Roczen is the most clinically credentialed threat (UK NHS validation narrative, 
 4. Multi-brand, multi-market focus dilutes weight-loss specialisation just as Roczen (specialist) and Seimbang (value) sharpen theirs.[^12][^13]
 5. Results claims recycle global trial statistics without local proof — vulnerable to a competitor that publishes real cohort outcomes.
 
-## 10. SWOT synthesis — OVA vs the Malaysian opportunity
+## 13. SWOT synthesis — OVA vs the Malaysian opportunity
 
 | | Helpful | Harmful |
 |---|---|---|
 | **Internal** | **S:** female-first brand equity; regional funded platform; pharmacy-parity pricing; compliant acquisition engine; celebrity channel | **W:** thin longitudinal care; negative early reviews (billing, consult quality); no local clinical figurehead; no published outcomes; WhatsApp-native care absent |
 | **External** | **O:** 8–9M CPG-eligible adults, most of them women in OVA's demographic; Wegovy launch tailwind; hybrid-model template from Singapore; employer channel unopened | **T:** Roczen's clinical credential attack; Seimbang undercutting with medication-inclusive RM899; enforcement wave could tighten rules on remote first prescriptions; pharma direct-to-patient platforms |
 
-## 11. Implications for Welltech
+## 14. Implications for Welltech
 
 1. **Do not fight OVA on brand-for-women; fight it on care.** OVA has spent to own "discreet weight loss for women." The undefended ground is *outcome-accountable, WhatsApp-first longitudinal care*: weekly proactive touchpoints, 48-hour side-effect triage, published retention and %-weight-loss cohorts. Every public OVA complaint (robotic consults, billing surprises) is a service-design brief.
 2. **Price architecture:** match the RM899–1,150 entry corridor (Seimbang has anchored medication-inclusive RM899; OVA RM1,150 tirzepatide entry), but publish the full 6/12-month total honestly — none of the cohort does, and ACTION Malaysia shows cost opacity is the #1 barrier.[^13][^5]

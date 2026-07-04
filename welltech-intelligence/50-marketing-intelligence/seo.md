@@ -188,6 +188,17 @@ Attribution: use per-page WhatsApp deep links (`wa.me` with pre-filled page iden
 3. **Trends pull.** Google Trends MY, 5-year: Ozempic vs Wegovy vs Mounjaro vs "ubat kurus" vs "cara kurus"; confirm Ramadan/January seasonality for launch timing.
 4. **SERP-feature audit.** Which money terms show local packs, "People also ask", or AI Overviews (which compress click-through on informational terms — prioritise decision pages accordingly) *(analyst caution; not directly observed for MY)*.
 
+## 9a. Risk register for the organic strategy
+
+| Risk | Likelihood | Impact | Mitigation |
+|---|---|---|---|
+| AI Overviews compress informational-click volume in MY health SERPs | High (global trajectory) | Medium — awareness content loses clicks | Weight roadmap to decision/price/booking pages (§8a); structure content for citation inside AI answers (clear entities, sourced claims) |
+| Google core/quality update hits thin-YMYL competitors *and* any Welltech shortcuts | Medium | Symmetric — an opportunity if standards held | E-E-A-T discipline (§7); no scaled AI-generated content without doctor review |
+| MAB/BPF enforcement wave against weight-loss content marketing | Medium — weight-loss promises are a stated enforcement flag[^15] | High for claim-heavy competitors; low for compliant content | Compliance-by-design editorial rules (§7.4); quarterly legal review of top-20 pages |
+| HelloDoktor/DoctorOnCall pivot into program-layer content | Medium — HelloDoktor already runs weight-management commerce pages[^6] | High — erodes the open lane | Speed: own BM/zh program clusters within 6 months; build proprietary Q&A corpus they cannot replicate (§8a) |
+| Aggregators (Erufu, Bookimed) deepen longevity/weight listings | Medium | Medium — head terms lost | Maintain listings + reviews on aggregators; win long-tail and brand demand |
+| Google Business Profile suspensions (common for telehealth/hybrid clinics) | Low–medium | Medium — local pack invisibility | Physical-address verification, category hygiene, avoid keyword-stuffed GBP names |
+
 ## 10. Implications for Welltech — summary judgments
 
 1. **Organic is the structural counterweight to advertising law.** GLP-1 brand demand exists and cannot be bought via ads in Malaysia; it can only be earned via compliant content. First-mover depth here is a regulatory moat, not just a marketing asset.

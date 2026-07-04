@@ -118,7 +118,48 @@ Last updated: July 2026.
 
 Common structural facts: every clinic requires an in-person doctor consult; none publishes retention, average %-weight-loss, side-effect management protocols, or dietitian staffing; all monetise the pen; all use WhatsApp for booking but none for structured care; Instagram is universal, TikTok patchy, XHS absent from our findings.[^3][^10][^24][^26][^30][^32]
 
-## 4. SWOT — aesthetic-clinic segment as a weight-loss competitor set
+## 4. Price benchmark: aesthetic clinics vs alternative channels (advertised, MYR/month, 2025–mid-2026)
+
+| Product / dose | Online pharmacy floor | Digital program | Aesthetic clinic (this dossier) | Aesthetic premium over floor |
+|---|---|---|---|---|
+| Wegovy 0.25–1.0 mg | RM879–999 (HelloDoktor/DoctorOnCall)[^6] | RM895–1,150 program-inclusive (Roczen, OVA, Seimbang)[^36] | **RM1,288–1,290** (Nexus)[^5] | +29–47% |
+| Wegovy 1.7 mg | ~RM1,088 (GP-clinic benchmark)[^7] | dose-dependent, unpublished | **RM1,588** (Nexus)[^5] | +46% |
+| Wegovy 2.4 mg | ~RM1,288 (GP-clinic benchmark)[^7] | dose-dependent, unpublished | **RM2,088** (Nexus)[^5] | +62% |
+| Ozempic 1 mg | RM999/pen (DoctorOnCall)[^6] | RM999 + program fee (DoctorOnCall program)[^36] | "from RM1,800" (Nexus legacy page); RM1,200–2,500 typical clinic programs[^21][^7] | +80% at Nexus list |
+| Mounjaro 2.5–5 mg | no retail channel (clinic/telehealth only)[^36] | RM1,150 (OVA 2.5 mg entry)[^36] | from ~RM1,100 (Her Clinic) to RM1,800–2,400 (KL norm)[^32][^30] | up to +100%+ at prestige sites |
+
+Two observations. First, the aesthetic premium is largest exactly where patient value is thinnest — high maintenance doses, month 6+, when the patient no longer needs hand-holding to inject. Second, Her Clinic's ~RM1,100 Mounjaro entry shows a single-site women's clinic already price-matching telehealth: the segment's smarter operators will not defend the markup, they will defend the relationship.[^32]
+
+## 5. Composite patient journey through an aesthetic clinic (2026)
+
+```mermaid
+journey
+    title GLP-1 patient journey via KL aesthetic clinic (composite)
+    section Discover
+      Google "Wegovy price Malaysia", clinic SEO page wins SERP: 4: Patient
+      WhatsApp inquiry, price quoted for first pen only: 3: Patient, Clinic
+    section First visit
+      Walk-in consult RM100-250, BMI + brief history: 3: Patient, Clinic
+      Buy pen at 30-60% over pharmacy price, injection demo: 2: Patient
+      Offered adjuncts: mesolipo, fat-freeze, skin packages: 2: Patient
+    section Months 1-3
+      Self-inject at home, nausea questions via clinic WhatsApp: 2: Patient
+      Return visits for refill purchase, queue + parking friction: 2: Patient
+    section Months 4-12
+      Price-shops refills at pharmacy or telehealth: 2: Patient
+      Clinic loses the refill, keeps occasional aesthetic sales: 1: Clinic
+```
+
+The economics of this journey explain the segment's ceiling: the clinic captures a high-margin transaction and loses the annuity. Composite is built from clinic pages' own process descriptions,[^3][^24][^30] the Feb 2026 walk-in-surge reporting,[^8] and channel-spread data in the [market file](../10-market-intelligence/malaysia-weight-loss-market.md) §4.3 and §5.2.
+
+## 6. Segment economics and forces *(analyst assessment)*
+
+- **Revenue mix logic:** GLP-1 pens are the traffic driver; margin resilience comes from adjuncts (mesolipo ~RM500+/syringe, HIFU, body-contouring packages) cross-sold to pen buyers.[^15][^16] As pen margins compress toward pharmacy parity, expect clinics to keep GLP-1 as a loss-leader for aesthetic upsell — which further weakens their incentive to build weight-outcome infrastructure.
+- **Capacity constraint:** every profiled operator is doctor-on-premises by regulation; consult throughput caps volume per site (roughly 15–30 weight consults/day/doctor at observed appointment norms *(analyst estimate)*). None can scale follow-up without hiring clinicians linearly — the structural cost disadvantage versus AI-assisted telehealth ops.
+- **Fragmentation:** six operators profiled here hold perhaps 10–15 physical sites among them in a market with thousands of prescribing-capable clinics ([market file](../10-market-intelligence/malaysia-weight-loss-market.md) §5) — no aesthetic chain has pricing power; all are price-takers against the pharmacy floor.
+- **Rivalry escalator:** Nexus's listicle SEO ("top 10 Mounjaro clinics" ranking itself first) signals the marketing arms race consuming segment margin; content spend is rising while the underlying product (a pen) commoditises.[^4]
+
+## 7. SWOT — aesthetic-clinic segment as a weight-loss competitor set
 
 | | Helpful | Harmful |
 |---|---|---|
@@ -127,7 +168,7 @@ Common structural facts: every clinic requires an in-person doctor consult; none
 
 Sources for enforcement/warning context.[^1][^8][^35]
 
-## 5. Implications for Welltech
+## 8. Implications for Welltech
 
 1. **Attack the markup, not the clinics.** Publish honest total-cost comparisons: Nexus's own printed ladder (RM1,288–2,088/pen) versus a pharmacy-parity program price makes the argument arithmetically — no disparagement needed.[^5]
 2. **Convert their weakness into product:** none of the six can offer proactive week-by-week follow-up without rebuilding their operating model (commission-driven, visit-based). WhatsApp-native titration support, side-effect triage and published cohort outcomes are structurally hard for them to copy.
@@ -135,6 +176,15 @@ Sources for enforcement/warning context.[^1][^8][^35]
 4. **Borrow what works:** Her Clinic's NPRA/MAL-verification education and CLEO's credential-forward positioning are the segment's best trust assets — Welltech should institutionalise both (verification receipts, LCP/MMC credentials surfaced in every patient touchpoint).[^24][^34]
 5. **Watch the aesthetic-repair flank:** clinics will increasingly pair GLP-1 with skin-tightening ("post-weight-loss face") — a partnership/referral opportunity rather than a battleground; a two-way referral deal with one credible chain (e.g., Premier) could resolve channel conflict profitably.
 6. **Regulatory tailwind:** every enforcement action against molecule-name advertising hits this segment hardest (their SEO estates are drug-name-built). Welltech's condition-level, physician-led content strategy compounds in relative value with each takedown wave.[^1][^35]
+
+## 9. Monitoring checklist (review quarterly)
+
+- Nexus price ladder movements (the segment's published benchmark) and whether "program-inclusive" pricing replaces per-pen pricing.[^5]
+- Her Clinic's entry price versus telehealth (~RM1,100 Mounjaro): if it holds or falls, the women's-clinic niche is converging on program economics.[^32]
+- Any profiled clinic hiring dietitians/coordinators or publishing outcome data — the first credible move toward program care from this segment.
+- Chain expansion or M&A (e.g., Premier adding branches; a group acquiring single-site GLP-1 leaders) — consolidation would change the pricing-power picture.
+- Enforcement actions against clinic drug-name pages under Group B advertising rules; the February-warning pattern repeating at the 2027 festive cycle.[^8][^35]
+- "Post-GLP-1 aesthetics" packaging (skin-laxity programs marketed to GLP-1 patients) as the segment's second act — and a Welltech referral-partnership trigger.
 
 ---
 

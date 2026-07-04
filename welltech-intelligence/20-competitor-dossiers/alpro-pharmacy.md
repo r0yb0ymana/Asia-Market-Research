@@ -149,6 +149,15 @@ Weak links from Welltech's perspective: retention is manual (no proactive schedu
 - **B2B2C funnels:** AIA (free Vitality screenings; DOC2US inside My AIA), Hong Leong Bank (OncoHelp financing), DKSH (supply partnership) extend reach without ad spend.[^20][^41][^22][^21]
 - **Category thesis:** Alpro publicly argues e-pharmacy can reach 20–30% of Malaysia's pharma market share — it intends to lead the online-Rx shift, not resist it.[^49]
 
+### 7.1 How Alpro wins prescriptions (flywheel)
+
+1. **Hospital/clinic overflow** — chronic patients leave public hospitals with prescriptions and long refill queues; Alpro positions outlets and pharmacists as the faster refill point (the founding insight from the founders' compulsory hospital service).[^1]
+2. **Corporate panels** — 300+ employers route staff medication through Alpro, seeding chronic refill relationships.[^26]
+3. **Screening-to-Rx conversion** — free AIA Vitality checks and in-store screening surface undiagnosed hypertension/diabetes, converted via Alpro Clinic/DOC2US into new prescriptions dispensed in-house.[^20][^9]
+4. **Retention rails** — WhatsApp refills, 2-hour delivery, membership points and smart lockers raise switching costs.[^24][^28]
+
+Each loop compounds the prescription base that underwrites the Malaysia Book of Records volume claim — and each is a loop Welltech must either rent (partner) or rebuild (compete).[^1] *(analysis)*
+
 ## 8. Reviews & reputation
 
 - **Customer:** ScamAdviser rates alpropharmacy.com legit/safe; the company has had to warn about scam impersonations (SMS/Facebook competitions) — a brand-trust tax of scale. Outlet-level Google reviews skew positive on pharmacist counselling *(directional; per-outlet ratings not systematically compiled here)*.[^46]

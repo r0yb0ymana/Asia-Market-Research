@@ -133,6 +133,31 @@ Last updated: July 2026
 
 **Reading.** The high-frequency column is dominated by *operations* (queues, GLs, support), not medicine. The severity-A cell that matters strategically is slimming-centre conduct: it is the reputational landmine adjacent to Welltech's weight-loss category. The emptiest quadrant — high-frequency, severity-A — stays empty only because regulators and media police it; any entrant that drifts toward package-prepayment + weak refunds would fill it.
 
+## 10.1 Theme interactions — how complaints compound
+
+Complaints rarely arrive alone; the corpus shows characteristic chains. Understanding the chains matters more than the individual themes because the *second* failure is what converts a private annoyance into a public one-star review.
+
+| Chain | Mechanism | Observed at |
+|---|---|---|
+| T4 → T2 → T5 | Delivery fails → support goes silent → refund stalls → patient posts publicly | DoctorOnCall, Doctor Anywhere[^7][^11] |
+| T6 → T1 | Long GL/queue wait primes the patient → any billing surprise afterwards reads as exploitation | Pantai, KPJ, Gleneagles[^1][^3][^22] |
+| T8 → T3 | Rushed consult (<3 min) → prescription decision feels sales-driven, not clinical | Doctor Anywhere, Prince Court[^5][^7] |
+| T7 → T5 | Hard-sold package → buyer's remorse → refund refused by policy → tribunal/complaint board | LWM, Marie France[^8][^21] |
+| T9 → T2 | App bug captures payment or blocks access → support cannot be reached in-app | Doctor Anywhere, Naluri[^7][^32] |
+
+Design consequence: breaking any chain at link two (communication) suppresses most public complaints even when link one (the operational failure) still occurs. This is the cheapest complaint-management investment available to Welltech.
+
+## 10.2 Root-cause classification *(analysis)*
+
+| Root cause class | Themes it drives | Fixable by an entrant? |
+|---|---|---|
+| Margin architecture (medication markup as revenue engine) | T1, T3 | Yes — choose consult/programme revenue instead of dispensing spread |
+| Understaffed exception-handling (tickets, GL counters, refunds) | T2, T5, T6 | Yes — AI-assisted ops + WhatsApp async absorb exception load cheaply |
+| Incentive design (commissioned consultants, counter KPIs) | T7 | Yes — structural, not cultural: remove commissions from clinical roles |
+| Throughput economics (consult-per-hour targets) | T8 | Partially — telehealth economics permit longer async touch at same cost |
+| Under-invested consumer software | T9 | Yes — WhatsApp-first sidesteps the app-quality battle entirely |
+| Regulatory vacuum (no OHS telemedicine rules; illegal e-pharmacies) | T3 ambient fear | No — but visible over-compliance converts the vacuum into advantage |
+
 ## 11. Exploitation map for Welltech
 
 | Theme | Incumbent failure | Welltech counter-position (product requirement, not slogan) |
@@ -146,6 +171,28 @@ Last updated: July 2026
 | T7 | Trial-to-hard-sell funnels | No packages sold in-session; cooling-off period by design; no commission on clinical staff |
 | T8 | <3-minute consults | Minimum consult standards; async follow-up bundled |
 | T9 | Buggy apps as the only door | WhatsApp-first pathway removes app-quality as a failure surface |
+
+## 12. Frequency summary table
+
+| # | Theme | Providers evidenced | Platforms evidenced | Persistence | Trend signal |
+|---|---|---|---|---|---|
+| T1 | Pricing opacity / bill shock | 5 hospitals + DA + slimming | Maps aggregators, App Store, ComplaintsBoard | Years (2017–2025 reviews) | Stable — no incumbent has restructured pricing |
+| T2 | Communication failure | DA, DoC, Speedoc, Sunway, Pantai | App stores, aggregators | Years; Sep 2025 reviews current[^10] | Stable-worsening with scale |
+| T3 | Prescription/medication | DA (structural), category-wide (illegal sellers) | App Store, MOH/MJPharm studies | Structural | Stable until regulation lands |
+| T4 | Delivery/logistics | DoC (dominant), DA, Speedoc (tail) | App stores | Years | Unclear — no recent corpus large enough |
+| T5 | Refund failure | Gleneagles, PCMC, LWM, Marie France, DoC | Aggregators, ComplaintsBoard, tribunal | Decade+ | Stable |
+| T6 | Waiting/queue integrity | All 5 hospital brands + DA matching | Maps, iBanding, PissedConsumer | Decade+ | Stable — staffing-bound |
+| T7 | Hard sell | LWM, Marie France, Dorra; latent at retail pharmacy | ComplaintsBoard, NCCC, forums, blogs | Two decades (2005–2008 NCCC archive → 2026 boards) | Migrating from salons toward aesthetic clinics *(inference)* |
+| T8 | Rushed consults | KPJ, DA, Pantai | Maps corpora, App Store | Years | Stable |
+| T9 | App/tech failure | Naluri, DA, Doctor2U | Play/App Store | Ongoing; Naluri improving[^32] | Improving where funded |
+
+## 13. Monitoring plan (quarterly refresh)
+
+1. Re-pull ComplaintsBoard/PissedConsumer counts for LWM, Marie France, KPJ pages — complaint velocity, not stock, is the leading indicator for T5/T7.[^22][^23]
+2. Track TTPM annual claim statistics and any KPDN enforcement actions naming slimming/aesthetic operators.[^30]
+3. Watch DA's App Store corpus for any prescription-letter policy change — it would close Welltech's T3 wedge.[^7]
+4. Watch Alpro's Birdeye volumes as the benchmark for review-solicitation performance in Malaysian healthcare (per-outlet pages).[^24][^25]
+5. Add Grab/foodpanda-style delivery-experience complaints to the T4 scan once Welltech's own logistics launch — the comparison set patients will actually use. *(analyst note)*
 
 ---
 

@@ -162,6 +162,40 @@ Constant across all five: **patients trust the doctors and resent the machine** 
 | S5 Follow-up | Nobody's reviews mention proactive follow-up — the stage is simply absent from the market's review corpus | All | Continuity is uncontested white space |
 | S6 Redress | Slow refunds (4 months, Gleneagles), unanswered tickets (DA, DoC), refusal-by-policy (slimming) | DA, DoC, LWM/Marie France | 48h resolution SLA; refunds as marketing |
 
+### 5.1 The composite Malaysian digital-health patient journey (review-evidence view)
+
+```mermaid
+journey
+    title Composite patient journey scored from review evidence (1 = pain, 5 = delight)
+    section Discover & trust (S1)
+      Search brand, hit scam warnings / UK namesakes: 2: Patient
+      Verify MMC/MOH anchors on site: 3: Patient
+    section Book & pay (S2)
+      Flat-price teleconsult booking: 4: Patient
+      Hospital GL / deposit / admission wait: 1: Patient
+    section Consult (S3)
+      Doctor responds fast, is polite: 4: Patient
+      Consult ends in under 3 minutes: 2: Patient
+    section Medication (S4)
+      On-platform meds priced above retail: 2: Patient
+      Delivery arrives days late, support silent: 1: Patient
+    section Follow-up (S5)
+      No proactive follow-up from any provider: 1: Patient
+    section Redress (S6)
+      Refund or ticket enters black hole: 1: Patient
+```
+
+### 5.2 What this cycle changed vs the dossier priors
+
+| Dossier prior | Status after this cycle |
+|---|---|
+| DoctorOnCall: fulfilment complaints dominate ([dossier](../20-competitor-dossiers/doctoroncall.md) §8) | **Confirmed**; trust/authenticity praise also confirmed as the countervailing theme[^1][^3] |
+| DOC2US: consumer corpus too thin to extract themes ([dossier](../20-competitor-dossiers/doc2us.md) §8) | **Confirmed**, with one new academic datapoint (high satisfaction; 25% privacy concern)[^43] |
+| Doctor Anywhere: pharmacy margin capture + weak support ([dossier](../20-competitor-dossiers/doctor-anywhere.md) §7) | **Confirmed and current** — Sep 2025 reviews repeat both themes[^7][^8] |
+| Speedoc: positive anecdotes, thin consumer base ([dossier](../20-competitor-dossiers/speedoc.md) §7) | **Refined** — a verifiable 4.68★/3.2k Play rating now exists via AppBrain; severe-failure tail newly documented[^11][^12] |
+| Naluri: praise for coaches, low volume ([dossier](../20-competitor-dossiers/naluri.md) §11) | **Extended** — app-stability complaints (crashes, keyboard bugs) are the dominant negative, partially improving[^14] |
+| Hospitals: trust doctors, resent the machine (all hospital dossiers §5–6) | **Confirmed across all five brands** with additional dated rating snapshots[^28] |
+
 ## 6. Implications for Welltech
 
 1. **The review layer is winnable by process, not spend.** Alpro proves solicited review flywheels work in Malaysian healthcare; no telehealth or GLP-1 player runs one.[^13]
