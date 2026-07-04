@@ -199,6 +199,55 @@ Attribution: use per-page WhatsApp deep links (`wa.me` with pre-filled page iden
 
 ---
 
+## Appendix A — 40-keyword verification basket (for the §9 Ahrefs/SEMrush audit)
+
+Volumes/difficulty deliberately left blank — to be populated from tool data, not estimated here.
+
+| # | Keyword | Lang | Cluster | Funnel | Target page type |
+|---|---|---|---|---|---|
+| 1 | cara kuruskan badan | BM | Weight | Awareness | BM cornerstone guide |
+| 2 | cara turunkan berat badan | BM | Weight | Awareness | BM cornerstone guide |
+| 3 | ubat kurus | BM | Weight | Consideration | Compliant class guide |
+| 4 | ubat kurus patuh KKM | BM | Weight | Consideration | Regulatory-trust hub |
+| 5 | suntikan kurus | BM | Weight | Consideration | Program page (BM) |
+| 6 | klinik kurus badan | BM | Weight | Decision | City decision page |
+| 7 | harga Wegovy Malaysia | BM/EN | Weight | Decision | Cost guide |
+| 8 | doktor online | BM | Telehealth | Consideration | Teleconsult service page |
+| 9 | jumpa doktor online | BM | Telehealth | Decision | Teleconsult service page |
+| 10 | pakej pemeriksaan kesihatan | BM | Longevity | Consideration | Screening package hub |
+| 11 | medical check up murah | BM | Longevity | Decision | Screening package page |
+| 12 | how to lose weight fast Malaysia | EN | Weight | Awareness | Cornerstone guide |
+| 13 | weight loss injection Malaysia | EN | Weight | Consideration | Class guide |
+| 14 | Ozempic Malaysia | EN | Weight | Consideration | Class/cost guide (compliant) |
+| 15 | Wegovy price Malaysia | EN | Weight | Decision | Cost guide |
+| 16 | Mounjaro Malaysia price | EN | Weight | Decision | Cost guide |
+| 17 | Ozempic vs Wegovy vs Mounjaro | EN | Weight | Consideration | Comparison hub |
+| 18 | GLP-1 side effects | EN | Weight | Consideration | Safety guide |
+| 19 | medical weight loss program Malaysia | EN | Weight | Decision | Program page |
+| 20 | weight loss clinic KL | EN | Weight | Decision | City decision page |
+| 21 | weight loss doctor online Malaysia | EN | Weight | Decision | Program page |
+| 22 | semaglutide Malaysia | EN | Weight | Consideration | Class guide |
+| 23 | weight loss maintenance after GLP-1 | EN | Weight | Consideration | Program differentiator page |
+| 24 | health screening package Malaysia | EN | Longevity | Consideration | Screening hub |
+| 25 | full body checkup price Malaysia | EN | Longevity | Decision | Screening package page |
+| 26 | executive health screening KL | EN | Longevity | Decision | Premium screening page |
+| 27 | longevity clinic Malaysia | EN | Longevity | Decision | Longevity hub |
+| 28 | biological age test Malaysia | EN | Longevity | Consideration | Longevity content |
+| 29 | HbA1c test meaning | EN | Longevity | Awareness | Biomarker library |
+| 30 | preventive health screening for 40s | EN | Longevity | Consideration | Persona page |
+| 31 | online doctor consultation Malaysia | EN | Telehealth | Consideration | Teleconsult page |
+| 32 | telemedicine Malaysia | EN | Telehealth | Awareness | Category explainer |
+| 33 | online prescription Malaysia | EN | Telehealth | Decision | Service page (compliance-checked) |
+| 34 | doctor WhatsApp consultation | EN | Telehealth | Decision | WhatsApp-first service page |
+| 35 | 减肥针 马来西亚 | ZH | Weight | Consideration | zh program page |
+| 36 | Ozempic 价格 马来西亚 | ZH | Weight | Decision | zh cost guide |
+| 37 | 吉隆坡 减肥诊所 | ZH | Weight | Decision | zh city page |
+| 38 | 全身检查 马来西亚 | ZH | Longevity | Consideration | zh screening page |
+| 39 | Welltech (brand + misspellings) | All | Brand | — | Homepage/brand SERP |
+| 40 | [competitor brands: DoctorOnCall, OVA, HelloDoktor weight loss] | All | Competitive | — | Comparison/positioning pages ([positioning.md](positioning.md)) |
+
+---
+
 ## References
 
 [^1]: StatCounter Global Stats, "Search Engine Market Share Malaysia", https://gs.statcounter.com/search-engine-market-share/all/malaysia; Statista, "Malaysia: market share of search engines", https://www.statista.com/statistics/954408/malaysia-market-share-of-search-engines/ (accessed July 2026).

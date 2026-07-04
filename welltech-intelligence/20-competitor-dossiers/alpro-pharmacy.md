@@ -55,6 +55,33 @@ Alpro monetises the **chronic-prescription patient relationship**, with retail, 
 
 **Prescription vs OTC mix:** exact split unpublished, but the brand identity ("prescription pharmacy"), record prescription volumes and 150-strong nutritionist/dietitian bench indicate a materially higher Rx share than BIG/CARiNG or Watsons/Guardian. *(inference from positioning and cited volumes)*
 
+### 3.0 Group ecosystem map
+
+| Entity | Function | Status (July 2026) |
+|---|---|---|
+| Alpro Pharmacy | Core community pharmacy chain (~300 touchpoints) | Flagship[^1][^2] |
+| Alpro ePharmacy | Digital pharmacy: WhatsApp line, teleconsult, delivery | Launched 2021[^24] |
+| Alpro Clinic | GP clinics: consults, screening, chronic care, vaccination, homecare | Small but growing footprint[^5] |
+| Alpro Physio | Physiotherapy services | Operating[^3] |
+| BB Fortress | Mother & baby retail format | Operating[^3] |
+| Alpro Sugi (JV) | Japanese-style drugstores with Sugi Holdings | 1st store Nov 2023; 5 targeted H1 2024; SEA ambitions[^12][^13] |
+| Apotek Alpro (Indonesia) | Jakarta-metro pharmacy chain; WhatsApp consults, 30-min delivery | Launched Dec 2024[^17][^18] |
+| Alpro Academy | Healthcare training & certification arm | Operating[^1] |
+| Alpro Foundation | Charitable arm (flood medication relief, Project :D) | Operating[^31][^30] |
+
+### 3.0b Observed price points (MYR)
+
+| Item | Price | Note | Source |
+|---|---|---|---|
+| Lifetime membership | RM10 | RM1 = 1 point; 2,000 points = RM10 | [^25] |
+| CarePass preventive pass | RM99 | Claimed RM500+ value of services/vouchers | [^19] |
+| Rybelsus 3 mg 30s | RM472.50 | 6% off RM500 list; Rx-gated | [^33] |
+| Rybelsus 7 mg 30s | RM661.50 | 12% off RM750 list; Rx-gated | [^32] |
+| Rybelsus 14 mg 30s | Listed (price varies) | Rx-gated | [^33] |
+| Klang Valley same-day delivery | ~2-hour window | GrabExpress on-demand; fee via "on-demand delivery fees" SKU | [^8][^24] |
+| Nationwide delivery | 2–5 days Peninsular; 5–10 days East Malaysia | RM6 member shipping rebate | [^24][^25] |
+| Wegovy / Ozempic / Saxenda | Not listed online | In-store dispensing against Rx; market pens ~RM850–1,150 | [^34][^35] |
+
 ### 3.1 GLP-1 / weight-management posture — strategically important
 
 - **Rybelsus (oral semaglutide) is openly listed on Alpro's OneClick store** with prices: 3 mg 30s RM472.50 (6% off RM500), 7 mg 30s RM661.50 (12% off RM750), 14 mg 30s also listed; all prescription-gated through Alpro's doctor-teleconsult/e-Rx flow.[^32][^33]
@@ -84,6 +111,26 @@ Alpro is the most WhatsApp-operationalised pharmacy chain in Malaysia:
 - **Chronic refill by chat:** ePharmacy explicitly scopes WhatsApp refills to chronic medications (diabetes, hypertension), i.e. the highest-LTV cohort.[^24]
 - **Indonesia replication:** Apotek Alpro launched with WhatsApp-based online consultations plus 30-minute delivery as headline features — WhatsApp-first pharmacy ops are Alpro's export template, not an accident.[^17][^18]
 - **Assessment:** Alpro has proven that Malaysian chronic patients will transact medication refills over WhatsApp at scale, but the channel is staffed-pharmacist chat, not automated, program-based or doctor-led. It validates Welltech's channel thesis while leaving the clinical-program layer open. See [../10-market-intelligence/malaysia-whatsapp-healthcare.md](../10-market-intelligence/malaysia-whatsapp-healthcare.md).
+
+### 5.1 Alpro WhatsApp refill journey (as documented)
+
+```mermaid
+journey
+    title Alpro ePharmacy chronic-refill journey (reconstructed from cited pages)
+    section Initiate
+      WhatsApp +60 19-702 1923 with Rx/med list: 4: Patient
+      Pharmacist responds, counsels, checks Rx validity: 4: Alpro pharmacist
+    section Prescribe (if Rx expired)
+      Teleconsult with licensed doctor (DOC2US/ePharmacy): 3: Doctor
+      Digitally signed e-prescription issued: 4: Doctor
+    section Fulfil
+      Pharmacist reviews and dispenses: 4: Alpro pharmacist
+      2-hour GrabExpress (Klang Valley) or courier/GDEX: 4: Logistics
+    section Retain
+      Manual re-contact for next refill; points accrue: 2: Patient
+```
+
+Weak links from Welltech's perspective: retention is manual (no proactive scheduled outreach documented), the doctor step is a hand-off to a partner brand, and no health-outcome loop exists between refills.[^24][^9] *(analysis of cited flow)*
 
 ## 6. Technology & AI
 
@@ -131,6 +178,21 @@ Alpro is the most WhatsApp-operationalised pharmacy chain in Malaysia:
 | **Internal** | Prescription-patient panel; nationwide fulfilment incl. cold chain; pharmacist workforce + allied health; corporate panel base; WhatsApp refill ops; logistics automation | No doctors of its own; no outcome-based programs; manual chat ops; price-promo creep on OneClick; private financial opacity limits partnership diligence |
 | **External** | GLP-1 demand boom (see [../10-market-intelligence/malaysia-weight-loss-market.md](../10-market-intelligence/malaysia-weight-loss-market.md)); insurer-funded prevention (AIA); Indonesia/SEA white space; MOH e-Rx normalisation | BIG CARING's IPO-funded scale (626 outlets, RM3.41B revenue); DTC telehealth players adding fulfilment; Watsons+DOC2US funnel; possible e-pharmacy regulation tightening |
 
+## 10b. Benchmark vs other Malaysian pharmacy chains
+
+| Dimension | Alpro | BIG CARING ([dossier](big-caring-group.md)) | Watsons/Guardian |
+|---|---|---|---|
+| Outlets (2026) | ~300 touchpoints[^2][^6] | 626 (per IPO prospectus — see [big-caring-group.md](big-caring-group.md)) | ~500–700 each (drugstore format) *(directional)* |
+| Identity | Prescription/chronic care | Discount scale retail | Beauty-led front shop |
+| Revenue | ~RM1.44B/yr *(press estimate)*[^2] | RM3.41B FY2025 (verified, IPO filings — see BCG dossier) | Not directly comparable (regional groups) |
+| WhatsApp ops | Single national pharmacist line + 2-hr delivery[^24] | Per-store WhatsApp numbers, decentralised | Limited; app/marketplace-led |
+| Doctors | Via DOC2US partner + small Alpro Clinic network[^9][^5] | Via DOC2US partner network | Watsons embeds DOC2US in-app |
+| GLP-1 online listing | Rybelsus openly listed with prices[^32][^33] | None found (July 2026) | None found (July 2026) |
+| In-store clinical staff | 150+ nutritionists/dietitians[^38] | Dietitian advice at selected BIG stores | Minimal |
+| Capital posture | Private, founder-held, no IPO[^2] | PE-backed, RM3B IPO in motion | MNC-owned |
+
+Alpro is the **service-depth** leader; BIG CARING the **scale** leader. For chronic/weight-care subscription competition, depth matters more in the next 24 months; scale matters more after. *(analysis)*
+
 ## 11. Threat assessment
 
 **Threat level to Welltech: HIGH (structural), MEDIUM (near-term).** Pharmacy chains are the most credible long-run rivals for chronic and weight-care subscriptions because they own fulfilment, footfall and refill relationships — Alpro more than anyone in Malaysia, since its identity *is* the chronic prescription. If Alpro bolts a doctor layer onto its WhatsApp refill flow (deeper DOC2US integration or Alpro Clinic telehealth) and packages Rybelsus/Wegovy into a supervised program with its dietitian bench, it could launch a medical weight-loss subscription with ~300 distribution points and zero fulfilment build-out. Its restraints are real but not permanent: conservative public posture on GLP-1 weight use, retail management bandwidth consumed by Sugi JV + Indonesia, and no evident program-design capability. Expect Alpro to follow proven demand rather than create the category — which gives Welltech a 12–24-month category-creation window. *(analyst judgment)*
@@ -143,6 +205,23 @@ Alpro is the most WhatsApp-operationalised pharmacy chain in Malaysia:
 4. **Price benchmark:** Rybelsus at RM472.50–661.50/month retail at Alpro sets the floor consumers will compare against; Welltech program pricing must justify its premium via supervision and outcomes, not molecule access.[^32][^33]
 5. **Watch triggers:** (a) Alpro Clinic expansion or an in-house telehealth licence; (b) any Alpro "weight management program" SKU or Wegovy OneClick listing; (c) CarePass evolving from vouchers into subscription care; (d) AIA co-designed chronic programs. Each would signal Alpro moving up the stack from fulfilment to care.
 6. **Corporate channel collision:** Alpro's 300+ corporate panels and onsite screening trucks compete directly with any Welltech B2B wellness motion; consider co-selling (Welltech clinical programs inside Alpro corporate accounts) before competing head-on.[^26][^27]
+
+### Partner-vs-compete decision matrix
+
+| Scenario | Welltech posture | Rationale |
+|---|---|---|
+| Welltech needs GLP-1 cold-chain fulfilment + nationwide refill logistics | **Partner (preferred)** | Alpro has the licence footprint, cold chain, 2-hour metro delivery and pharmacist counselling; building this independently is capital-inefficient[^24][^8] |
+| Alpro launches a branded medical weight-loss program with DOC2US doctors | **Compete on program quality** | Their program would be pharmacist-led, retail-incentivised; Welltech wins on physician supervision, titration care and outcomes data *(analysis)* |
+| Alpro offers white-label dispensing to multiple telehealth brands | **Partner, with data ring-fence** | Accept non-exclusivity; protect patient records, outcomes and billing relationship contractually *(analysis)* |
+| AIA or another insurer builds a chronic program with Alpro | **Pre-empt via payer partnerships** | The AIA Vitality screening tie-up shows payer-pharmacy assembly is live; Welltech should own the clinical layer in at least one payer stack first[^20] |
+
+### Data gaps & verification queue
+
+1. Actual prescription vs OTC revenue split — request in any partnership diligence (ROC-exempt financials).[^7]
+2. ALPRO App store ratings/downloads — check Google Play/App Store directly (not verifiable from fetched sources).[^44][^45]
+3. In-store availability and pricing of Wegovy/Ozempic/Saxenda — mystery-shop 3–5 Klang Valley outlets.
+4. CarePass subscriber numbers and renewal rates — no public data.[^19]
+5. Whether the WhatsApp line runs on WhatsApp Business API (automatable) or handset-level accounts — determines how fast Alpro could scale automated care journeys.[^24]
 
 ---
 

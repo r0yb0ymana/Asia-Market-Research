@@ -41,6 +41,17 @@ Last updated: July 2026
 - **29 Dec 2023** — Completion; MarketScreener records the 75% completion at **RM670M** (final adjusted consideration), plus acquisition of the remaining 25% from Motivasi Optima Sdn Bhd (Chong Yeow Siang and partners).[^8][^25]
 - **Total consideration ~RM888.33M for 100% of Caring**, funded by an RM831.3M term loan — the debt the IPO is designed to repay.[^9][^5]
 
+**Deal-value reconciliation (figures conflict across sources — do not quote a single number without vintage):**
+
+| Figure | What it refers to | Source |
+|---|---|---|
+| RM637.5M | Initial agreed price for 7-Eleven's 75% (Jul 2023) | NST, FMT[^23] |
+| RM675M | Revised price for the 75% (+RM37.5M, Sep 2023) | FMT[^24] |
+| RM670M | Completion consideration recorded for the 75% (29 Dec 2023) | MarketScreener[^25] |
+| ~RM900M | Press framing of 100% enterprise deal incl. 25% minority | Malay Mail, BusinessToday[^4] |
+| RM888.33M | Total acquisition cost of Caring Pharmacy Group per IPO-era reporting | The Exchange Asia[^9] |
+| RM831.3M | Term loan raised to fund the acquisition | The Exchange Asia[^9] |
+
 ### Post-merger build-out (2024–2026)
 
 - **2024** — Integration of CARiNG/Georgetown/Wellings portfolios; Ting Pharmacy brand (East Malaysia/Sarawak presence, outlets "managed by BIG").[^9][^26]
