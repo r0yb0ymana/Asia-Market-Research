@@ -154,7 +154,36 @@ journey
 | **Internal** | Affinity distribution; Raffles-grade panel rates; low cost base; payments rails in clinics | Zero product velocity; no capital; no clinical assets; skeleton team; brand confusion |
 | **External** | Sell/licence panel network + membership book to an insurer or scaled telehealth player; SME employee-benefits packaging | Singapore's free national booking layer (health.gov.sg same-day GP booking) erodes directory value[^27]; scaled players (Doctor Anywhere, [Speedoc](speedoc.md), [DoctorOnCall](doctoroncall.md)) bundle discovery + telehealth + delivery; app-store delisting risk from stale binaries |
 
-## 12. Implications for Welltech
+## 12. Comparison snapshot — where GetDoc sits
+
+| Dimension | GetDoc | [BookDoc](bookdoc.md) | [Teleme](teleme.md) |
+|---|---|---|---|
+| Core model today | Benefits membership (GetDocPlus) + clinic payments | Government/corporate step challenges | Integrated telemedicine |
+| Geographic base | SG entity, SG+MY operations | MY entity, MY-centric | MY only |
+| Clinical depth | None | None | Real (e-Rx, pharmacy, labs) |
+| App maintenance | Stale since Mar 2021[^19] | Active (Jul 2025) | Active (Jan 2026) |
+| Distribution asset | Bank/club affinity channels (UOB, SAFRA, AA)[^10][^11] | PERKESO national programme | Telekom Malaysia white-label |
+| Funding | Reported US$1.6M, unconfirmed[^8] | ~USD 2.3–4.3M angels | RM300K grant |
+| Status call | Quasi-dormant / harvest | Frozen incumbent | Sustainable micro-business |
+
+GetDoc is the weakest of the three on every operating dimension except distribution creativity: its affinity-partnership roster is the one capability Welltech should actively copy.
+
+## 13. Intelligence gaps & monitoring plan
+
+Open questions (not answerable from public sources as of July 2026):
+
+1. **Is GetDocPlus still enrolling members, and at what volume?** The UOB/SAFRA pages remain live, but promo-code redemption may be dormant. Mystery-shop the signup flow.
+2. **Does the iOS app still function against the backend?** A broken booking flow would confirm full consumer abandonment.
+3. **Which clinics still honour GetDocPlus rates?** The Raffles rate-card PDFs are undated; call two panel clinics to verify.
+4. **What share of Jireh Group revenue is GetDoc vs Rapha Radiology/devices?** The ~US$3M aggregate estimate is not product-split.[^6]
+
+Monitoring triggers (semi-annual review is sufficient given the trajectory):
+
+- App-store delisting or website lapse → formal death; panel/membership assets may become cheaply acquirable.
+- Any new funding, hiring, or PR → re-open the dossier; a revival would most plausibly be insurer-backed.
+- Affinity partners (UOB/SAFRA) dropping the benefit → confirms the membership book has churned out.
+
+## 14. Implications for Welltech
 
 1. **Directory + discount-card models plateau at sub-scale in MY/SG.** GetDoc executed the "ZocDoc + benefits card" playbook competently and still flatlined at a ~10-person lifestyle business. Welltech should not treat clinic discovery or panel-rate discounting as a growth engine — only as an acquisition hook attached to actual care delivery.
 2. **Affinity-channel distribution is available and underpriced.** GetDoc got UOB, SAFRA and AA to distribute a S$6/year membership. The same channel types (banks, membership clubs, universities) are plausible low-CAC routes for Welltech's screening/longevity entry products — with a far stronger clinical offer behind them.

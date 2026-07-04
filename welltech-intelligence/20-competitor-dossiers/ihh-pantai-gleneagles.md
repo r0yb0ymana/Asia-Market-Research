@@ -4,7 +4,12 @@
 
 Last updated: July 2026
 
-Related: [Malaysia market intelligence](../10-market-intelligence/malaysia-market-intelligence.md) · [Malaysia longevity market](../10-market-intelligence/malaysia-longevity-market.md) · [Prince Court Medical Centre dossier](prince-court.md)
+Related dossiers and context:
+
+- [Prince Court Medical Centre](prince-court.md) — IHH's premium flagship, covered in depth separately
+- [KPJ Healthcare](kpj-healthcare.md) and [Sunway Healthcare](sunway-healthcare.md) — Malaysia's other private-hospital incumbents
+- [Doctor Anywhere](doctor-anywhere.md) — IHH Innovation Fund portfolio telehealth operator
+- [Malaysia private healthcare](../10-market-intelligence/malaysia-private-healthcare.md) · [Malaysia market intelligence](../10-market-intelligence/malaysia-market-intelligence.md) · [Malaysia longevity market](../10-market-intelligence/malaysia-longevity-market.md) · [Malaysia weight-loss market](../10-market-intelligence/malaysia-weight-loss-market.md)
 
 ---
 
@@ -341,6 +346,12 @@ The matrix shows near-total complementarity outside the screening product itself
 | Mitsui 49% transaction completes | Bursa/SGX filings[^2][^4] | strategy and capital-allocation reset |
 | Screening package repricing at PHKL/GKL | screening pages[^22][^27] | benchmark for Welltech diagnostics pricing |
 | DRG implementation milestones | MOH/CodeBlue reporting[^43] | reshapes hospital episode economics and referral appetite |
+
+### 7.2 Bottom line
+
+IHH Malaysia is the gravity well of private healthcare demand in Welltech's home market: it owns the beds, the specialists, the labs and a third of the medical tourists. It does not own — and is structurally disincentivised from owning — the continuous preventive relationship. Welltech's play is to build the longitudinal layer on top of IHH's episodic infrastructure: compete for the consumer relationship, partner for everything that requires a hospital.
+
+**Source-confidence note.** IHH-owned hospital websites (pantai.com.my, gleneagles.com.my, ihhhealthcare.com) and the annual-report PDFs were blocked to direct fetching at research time; figures above are drawn from search-index extracts of those pages, analyst notes (Kenanga, DBS), wire reports (Bernama, The Star, The Edge) and price aggregators, cross-checked across at least two sources for all load-bearing financials. Screening prices are promotional and hospital-specific — re-verify by phone/WhatsApp before quoting in pricing decks.
 
 ---
 

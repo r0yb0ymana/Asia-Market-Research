@@ -179,7 +179,38 @@ The travel integrations (AirAsia, Agoda, TripAdvisor, Grab) are affiliate deep-l
 - Evidence of stagnation: no funding since ~2018[^24]; no new product announcements since the founder's death; no named CEO; PR output near-zero since 2022.
 - Most probable trajectory: continued operation as a services vendor to PERKESO and corporates on the Activ platform, with consumer booking/telehealth ambitions effectively shelved. The RM4M 2023 technology-investment plan announced weeks before Beh's death has no visible public follow-through beyond routine app releases.[^19]
 
-## 13. Implications for Welltech
+## 13. Comparison snapshot — first-generation MY platforms
+
+| Dimension | BookDoc | [GetDoc](getdoc.md) | [Teleme](teleme.md) |
+|---|---|---|---|
+| Core model today | Government/corporate step challenges (Activ) | Benefits membership + clinic payments | Integrated telemedicine (consult→e-Rx→pharmacy→labs) |
+| Clinical depth | None (booking + vestigial teleconsult) | None (discovery + discounts) | Real: compliant e-Rx, licensed dispensing, labs |
+| Funding | ~USD 2.3–4.3M, angels/celebrities, none since 2018[^24][^25] | Reported US$1.6M, unconfirmed | RM300K grant + accelerator only |
+| Anchor B2B relationship | PERKESO (national, recurring)[^6] | UOB/SAFRA/AA affinity deals | Telekom Malaysia Unifi (white-label) |
+| App maintenance (2025–26) | Active (Jul 2025 release)[^5] | Stale since Mar 2021 | Active (Jan 2026 release) |
+| Founder status | Deceased (2022); no named successor[^21] | Muddled/absent from press | Intact founder team |
+| Threat to Welltech core (GLP-1/longevity/concierge) | None | None | None directly; workflow-relevant |
+| Main lesson for Welltech | Government channel works; PR ≠ capital; breadth ≠ moat | Directory/discount models plateau | Clinical loop is buildable cheaply; scale needs capital |
+
+Common pattern across all three: founded 2015–2016, celebrated 2016–2018, capital-starved by 2020, and by 2026 either frozen (BookDoc), harvesting (GetDoc), or surviving as infrastructure (Teleme). None converted early attention into a durable consumer franchise — that space was taken by better-funded clinical operators ([DoctorOnCall](doctoroncall.md), [Doc2Us](doc2us.md)) and corporate-clinical players ([Naluri](naluri.md)).
+
+## 14. Intelligence gaps & monitoring plan
+
+Open questions (not answerable from public sources as of July 2026):
+
+1. **Who controls and runs Health4U Solutions post-2022?** Verify via SSM (Companies Commission of Malaysia) filings — directors, shareholders, charges. Highest-value single check on this company.
+2. **PERKESO contract terms and tenure** — value, renewal cadence, and whether Activ@Work has ever been competitively tendered.
+3. **Actual MAU vs the 1M cumulative-download claim** — approximate via app-analytics vendors if a commercial decision ever depends on it.
+4. **Whether the Tele-Consult module has any doctor supply today** — mystery-shop the app.
+
+Monitoring triggers (quarterly review):
+
+- New leadership announcement or rebrand → possible restart/sale of the asset.
+- Activ@Work absent from a calendar year → anchor loss; expect rapid decline.
+- App update gap exceeding 12 months → reclassify toward zombie.
+- Any fundraising or M&A chatter → the PERKESO relationship would be the asset being sold; a buyer could become a real corporate-channel competitor overnight.
+
+## 15. Implications for Welltech
 
 1. **Do not fear BookDoc in Welltech's core domains.** It has no GLP-1/weight-loss capability, no longevity or preventive-medicine clinical programmes, no concierge layer, no WhatsApp workflow, and no AI. Its telehealth module is vestigial. The overlap is zero on clinical depth and partial only in the corporate channel.
 2. **Study the PERKESO playbook — then leapfrog it.** BookDoc proved a Malaysian digital-health startup can win and retain a multi-year national government wellness contract with a gamified step product. Welltech's corporate/insurer strategy should assume incumbents own "steps and vouchers" and differentiate on clinically meaningful outcomes (weight, HbA1c, metabolic age) that procurement cannot get from a pedometer challenge.
