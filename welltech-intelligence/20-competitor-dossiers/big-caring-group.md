@@ -59,6 +59,28 @@ Last updated: July 2026
 - **Apr 2026** — Opens automated **Klang distribution centre + HQ**: 160+ robots, 700 racks, 90,000+ order lines/day, 76.5% picking-efficiency improvement, 99.8% accuracy, AI-driven smart replenishment.[^29][^30]
 - **Apr–May 2026** — Files draft IPO prospectus (SC exposure); Bloomberg reports RM3B (~USD750M) target raise — potentially one of Malaysia's biggest listings in a decade.[^5][^7][^52]
 
+### Financial trajectory (reported figures)
+
+| Period | Entity | Revenue | Net profit | Outlets | Source |
+|---|---|---|---|---|---|
+| FY2019 (May) | Caring Pharmacy Group (listed) | RM599.2M | RM25.6M | 125 | [^17] |
+| 2020 | Caring privatised at RM2.60/share | — | — | ~130+ | valuation ~RM566M[^16][^18] |
+| FY2024 (Jun) | Big Caring Group | n/d | n/d | ~580 *(directional)* | SSSG 7.3%[^2] |
+| FY2025 (Jun) | Big Caring Group | RM3.41B | RM143.02M | 626 | [^2][^1] |
+| 2026 target | Big Caring Group (post-IPO) | +40–50 outlets/yr | — | ~670+ by FY2027 *(projection)* | [^5][^6] |
+
+Net margin of ~4.2% (FY2025) is thin retail economics — context for why the group is reaching for higher-margin services (tele-consultation, physiotherapy, manufacturing) in its prospectus story.[^2][^7] *(analysis)*
+
+### Brand portfolio
+
+| Banner | Heritage | Format/role | Coverage |
+|---|---|---|---|
+| BIG Pharmacy | Founded 2006, KL | Discount-led community pharmacy; volume engine | Nationwide[^11] |
+| CARiNG Pharmacy | Founded 1994, Cheras | Professional "pharmacist always on duty" format | Peninsular, urban[^14] |
+| Georgetown Pharmacy | Acquired 2020 (67% for RM25.51M) | Northern-region chain | Penang/north[^21] |
+| Wellings | Acquired 2020 (60% for RM19.9M) | Community pharmacy | Klang Valley/select[^21] |
+| Ting Pharmacy | Under BIG management | East Malaysia presence; earns BIG points | Sarawak/Sabah[^26][^34] |
+
 ## 2. Business model
 
 | Stream | Mechanics | Evidence |

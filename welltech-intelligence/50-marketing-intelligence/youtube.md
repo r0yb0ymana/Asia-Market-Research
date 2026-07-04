@@ -117,6 +117,17 @@ YouTube is conventionally described as the world's second search engine; the mor
 
 For Malaysia specifically, the arbitrage is language. Malaysian health searches skew to Malay keywords across most states,[^9] while quality BM health content — from government or private sources — is scarce relative to demand (§2), and researchers document persistent gaps in Malay-language health materials and multilingual access generally.[^38] English-language health queries face saturated global competition (Mayo Clinic, Cleveland Clinic, NHS); BM queries like "suntikan kurus", "cara turun berat badan selepas bersalin", "ubat diabetes dan berat badan" face almost none from credible local clinicians. Video titles, descriptions, chapters and transcripts in BM are therefore the cheapest page-one real estate in Malaysian health marketing. The same logic applies at smaller scale to Malaysian-accented Mandarin queries, where local supply is near-zero (§2).
 
+Illustrative BM query clusters and the video each should own *(analyst framework — validate volumes with Keyword Planner/TubeBuddy before production)*:
+
+| BM query cluster | Search intent | Owning video format |
+|---|---|---|
+| "cara turunkan berat badan" / "diet turun berat" | Broad weight-loss how-to | Long-form: doctor's evidence hierarchy of weight-loss methods |
+| "suntikan kurus" / "ubat kurus doktor" | GLP-1-adjacent, high commercial intent, misinformation-heavy | Long-form myth-buster: what medically supervised treatment actually involves (class-level, no brand names) |
+| "kenapa berat naik selepas diet" | Regain/plateau frustration | Explainer: metabolic adaptation, why crash diets fail |
+| "apa itu HbA1c / kolesterol tinggi" | Screening-result comprehension | Biomarker explainer series, one marker per video |
+| "medical check up berapa kerap / apa test" | Preventive screening intent | Screening walk-through + age-based checklist |
+| "puasa dan diabetes / berat badan" | Seasonal (Ramadan) metabolic questions | Annual refreshed seasonal explainer |
+
 **Implications for Welltech.** Build the video roadmap off a BM-first health-keyword map, not off editorial instinct: every long-form video targets one query cluster, gets BM title/description/chapters, a full transcript (also feeding the website's SEO), and an embedded placement on the corresponding Welltech article page so site and channel reinforce each other's rankings.
 
 ---
