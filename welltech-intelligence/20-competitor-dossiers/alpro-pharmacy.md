@@ -215,6 +215,23 @@ Alpro is the **service-depth** leader; BIG CARING the **scale** leader. For chro
 | Alpro offers white-label dispensing to multiple telehealth brands | **Partner, with data ring-fence** | Accept non-exclusivity; protect patient records, outcomes and billing relationship contractually *(analysis)* |
 | AIA or another insurer builds a chronic program with Alpro | **Pre-empt via payer partnerships** | The AIA Vitality screening tie-up shows payer-pharmacy assembly is live; Welltech should own the clinical layer in at least one payer stack first[^20] |
 
+### Regional relevance (Singapore / Hong Kong)
+
+- Alpro ePharmacy already ships to **Singapore, Brunei, Japan, Australia, USA and Cambodia**, and the Alpro Sugi JV names Singapore among target SEA markets — Alpro is the only Malaysian pharmacy chain with a stated Singapore vector.[^24][^11]
+- Its expansion sequencing to date (Indonesia first, via greenfield Apotek Alpro with WhatsApp consults) suggests Alpro prioritises underserved, price-sensitive metros over Singapore's saturated, Guardian/Watsons/Unity-dominated market. *(inference)*[^17]
+- For Welltech's SG/HK operations, Alpro is not a near-term competitor; the relevant risk is Alpro exporting its WhatsApp-pharmacy playbook regionally faster than Welltech locks in messaging-native chronic care partnerships. *(analysis)*
+
+### Monitoring dashboard (review quarterly)
+
+| Signal | Where to check | Why it matters |
+|---|---|---|
+| Wegovy/Saxenda appearing on OneClick | alpropharmacy.com/oneclick search | Injectable GLP-1 e-commerce = program prelude[^32] |
+| "Weight management program" SKU or landing page | alpropharmacy.com site/blog | Direct entry into Welltech's category |
+| Alpro Clinic outlet count | alpropharmacy.com/pages/alpro-clinic | Owned-prescriber capacity[^5] |
+| CarePass evolution (vouchers → subscription care) | carepass.com.my | Consumerised preventive subscription[^19] |
+| New telehealth partner beyond DOC2US | press, doc2us.com newsroom | Signals dissatisfaction with rented doctor layer[^9] |
+| IPO stance change | The Edge, Bursa filings | Capital for services build-out[^2] |
+
 ### Data gaps & verification queue
 
 1. Actual prescription vs OTC revenue split — request in any partnership diligence (ROC-exempt financials).[^7]

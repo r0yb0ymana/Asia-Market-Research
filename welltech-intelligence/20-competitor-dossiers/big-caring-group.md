@@ -170,6 +170,24 @@ Contrast with Alpro's single national pharmacist line and e-Rx integration ([alp
 | **Internal** | Scale, price leadership, automated logistics, loyalty base, multi-banner coverage, IPO capital | No prescriber layer; fragmented WhatsApp; integration debt; discount brand ceiling for medical services; leverage |
 | **External** | GLP-1/preventive-health demand growth; ageing chronic population; IPO-funded services M&A; Japan/Taiwan preventive-format partners | Alpro's professional-services lead; DTC telehealth (DoctorOnCall, DOC2US) owning the prescription origin; margin erosion from price wars; public-market scrutiny of thin services margins |
 
+## 9b. Benchmark vs Alpro (head-to-head)
+
+| Dimension | BIG CARING | Alpro ([dossier](alpro-pharmacy.md)) |
+|---|---|---|
+| Outlets | 626 across five banners[^1] | ~300 touchpoints (see Alpro dossier) |
+| Revenue (latest) | RM3.41B FY2025, audited for IPO[^2] | ~RM1.44B/yr *(press estimate)* |
+| Financial transparency | High (prospectus, Bursa listing path)[^7] | Low (ROC filing exemption) |
+| Identity | Price/scale retail | Prescription/chronic services |
+| WhatsApp | Decentralised per-store ordering[^43] | Single national pharmacist line, 2-hr delivery |
+| Clinical staff in-store | Pharmacists; dietitian advice at selected BIG stores[^31] | Pharmacists + 150+ nutritionists/dietitians |
+| Clinics/home care | None found | Alpro Clinic + homecare |
+| GLP-1 posture | Dispenses in-store; nothing merchandised online[^38][^39] | Rybelsus listed online with prices; cautionary content |
+| Loyalty | 2.4M+ CARiNG members + BIG base[^22] | RM10 lifetime membership; CarePass RM99 |
+| Capital | PE-backed; RM3B IPO in motion[^5] | Founder-held, private, self-funded |
+| Logistics | Automated Klang DC, 90K lines/day[^29] | RM15M AI logistics, AWS cloud inventory |
+
+Read: BIG CARING wins on physical and financial scale; Alpro wins on everything Welltech's category actually requires today (care workflows, chronic identity, WhatsApp care ops). *(analysis)*
+
 ## 10. Threat assessment
 
 **Threat level to Welltech: MEDIUM today, HIGH post-IPO.** BIG CARING owns the two assets that decide long-run chronic/weight-care economics — fulfilment (626 outlets + automated DC) and footfall (millions of loyalty members) — making it structurally the most dangerous potential entrant into subscription chronic care. But its DNA is discount retail: no doctors, no program design, no centralised care channel, and management attention through 2026–2027 is consumed by IPO, integration and debt reduction. The realistic threat path is **acquisition or partnership post-IPO** (e.g., buying a telehealth provider or launching a GLP-1 program with a partner-prescriber) rather than organic build. The Dec-2025 Great Tree/B&S preventive-health alliance and the prospectus's "tele-consultation" service line show the intent is already documented. *(analyst judgment)*[^7][^27]
@@ -181,7 +199,24 @@ Contrast with Alpro's single national pharmacist line and e-Rx integration ([alp
 3. **Their loyalty base is a customer-acquisition channel.** A co-branded screening-to-program funnel (CARiNG members → Welltech assessment → GLP-1/longevity program → dispense at CARiNG) would monetise their footfall without Welltech building retail — the AIA/Alpro screening tie-up is the template.[^37]
 4. **Watch triggers:** (a) final IPO prospectus disclosure of tele-consultation/physiotherapy revenue and any "digital health" use-of-proceeds; (b) acquisition of a telehealth/clinic asset post-listing; (c) centralisation of WhatsApp ordering or a chronic-refill subscription; (d) online GLP-1 merchandising or a weight-management program launch; (e) Great Tree-style preventive formats appearing in Malaysian stores.[^5][^7][^27]
 5. **Pricing gravity:** BIG's discount culture will compress retail margins on GLP-1s and supplements; Welltech should avoid molecule-margin dependence and anchor pricing on supervision, outcomes and continuity — the parts a discount retailer cannot replicate. See [../10-market-intelligence/malaysia-weight-loss-market.md](../10-market-intelligence/malaysia-weight-loss-market.md).
-6. **Talent/ops caution:** both big chains show sales-KPI cultures in employee reviews; Welltech's pharmacist- and coach-facing propositions can differentiate on professional autonomy when recruiting from these networks.[^50][^47]
+6. **Talent/ops caution:** both big chains show sales-KPI cultures in employee reviews; Welltech's pharmacist- and coach-facing propositions can differentiate on professional autonomy when recruiting from these networks.[^50][^51]
+
+### Partner-vs-compete decision matrix
+
+| Scenario | Welltech posture | Rationale |
+|---|---|---|
+| Welltech needs maximum-coverage dispensing (incl. East Malaysia) | **Partner (second wave)** | 626 doors + Ting's Sarawak/Sabah reach exceed any alternative; engage after program economics are proven with a depth partner[^1][^26] |
+| BIG CARING acquires a telehealth platform post-IPO | **Compete; accelerate payer/clinic moats** | Their integration record is retail M&A, not clinical ops; expect 12–18 months of assembly before a credible program threat *(analysis)* |
+| BIG CARING centralises WhatsApp ordering across banners | **Compete on care depth** | Even centralised, it is commerce chat; Welltech's doctor-in-the-loop journeys remain differentiated — but CAC via their member base rises for everyone *(analysis)* |
+| CARiNG-member screening funnel co-designed with Welltech | **Partner opportunistically** | 2.4M members + in-store screening events are a low-cost top-of-funnel; keep clinical data and billing inside Welltech[^22][^37] |
+
+### Data gaps & verification queue
+
+1. Final IPO prospectus: prescription vs front-shop revenue split, tele-consultation/physiotherapy segment size, digital-health use of proceeds — read on SC/Bursa release.[^7]
+2. BIG Pharmacy and Caring Membership app store ratings/downloads — check stores directly; not verifiable from fetched sources.[^41][^46]
+3. In-store GLP-1 availability/pricing across banners — mystery-shop BIG vs CARiNG outlets (expect price undercutting vs Alpro).
+4. Status of any owned clinic/telehealth pilots — none found in press to July 2026; confirm via prospectus "future plans" section.[^7]
+5. Corporate/panel business scale — absent from press coverage; likely disclosed at listing.[^7]
 
 ---
 

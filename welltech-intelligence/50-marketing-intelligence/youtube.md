@@ -157,9 +157,34 @@ The honest-limitations posture (side effects, who *shouldn't* take GLP-1s, cost 
 - **Live/premiere (quarterly):** doctor AMA on a theme (post-Raya weight regain; new-year screening), repurposed into clips.
 - Sustainable floor before scaling: 1 long-form/month + 3 Shorts/week is the minimum credible cadence; consistency beats volume for channel authority.
 
-### 6.4 Measurement
+### 6.4 Funnel role
+
+```mermaid
+flowchart LR
+    A[Shorts / TikTok cross-posts<br>discovery, BM-first] --> B[Long-form explainers<br>trust + depth, mobile & CTV]
+    B --> C[Website article + embedded video<br>SEO reinforcement]
+    B --> D[Pinned comment / description link]
+    C --> E[WhatsApp entry point<br>question or screening booking]
+    D --> E
+    F[KKLIU-approved service pre-rolls<br>paid amplification] --> B
+    E --> G[Consult → program enrolment]
+```
+
+The channel never sells in-video; it routes attention to owned surfaces (site, WhatsApp) where regulated service conversations can happen with proper consent and context — consistent with the WhatsApp-first operating model in [../10-market-intelligence/malaysia-consumer-behaviour.md](../10-market-intelligence/malaysia-consumer-behaviour.md).
+
+### 6.5 First-quarter execution plan
+
+| Month | Long-form (BM unless noted) | Shorts | Infrastructure |
+|---|---|---|---|
+| 1 | "Kenapa susah turun berat badan?" + English "How doctors treat obesity in 2026" | 12 (cut-downs + 4 native Q&As) | Channel art, BM keyword map, transcript workflow, comment-moderation SOP (medical-advice disclaimers) |
+| 2 | "Suntikan kurus: apa yang doktor nak anda tahu" (myth-buster) + biomarker explainer #1 | 15 | First MAB/KKLIU application for a service pre-roll; website embed pages live |
+| 3 | Screening walk-through + Mandarin pilot episode | 15 | Quarterly doctor AMA premiere; review analytics, kill/double formats |
+
+### 6.6 Measurement
 
 Primary: branded-search volume lift (Google Trends + Search Console), YouTube→site assisted conversions (UTM'd descriptions, dedicated landing paths), subscriber growth rate, and returning-viewer share. Secondary: average view duration (>50% on long-form = format works), Shorts→long-form conversion, comment sentiment/question harvest rate (fuel for WhatsApp funnel content). Paid: KKLIU-approved service ads measured on cost-per-consult-booked, not CPM. Do not use view counts as a KPI; they reward the wrong content.
+
+**Implications for Welltech.** The strategy's economics rest on reuse: one long-form shoot yields the YouTube video, 4–6 Shorts, TikTok/Reels duplicates, a transcript-derived SEO article, and WhatsApp-shareable clips for patient education. Production cost per asset falls with every derivative, while the compliance cost (medical review, MAB approvals for paid variants) is incurred once per topic. A two-person content pod (producer/editor + coordinating clinician hours) sustains the §6.3 cadence; scale headcount only after month-6 data proves branded-search lift.
 
 ---
 
