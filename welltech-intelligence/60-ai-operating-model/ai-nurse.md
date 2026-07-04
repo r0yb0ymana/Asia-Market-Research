@@ -163,7 +163,22 @@ Assumptions from the repository: AI absorbs 60–80% of inbound; ~40% of GLP-1 p
 | AI Nurse first-line + structured check-ins (this design) | **~300–400** at titration-heavy mix; ~500 at maintenance-heavy mix | Nurse time concentrates on ~30–60 amber tasks + ~25 outbound calls + QA per week per 350 patients ≈ 25–30 h clinical work |
 | Stretch (mature protocols, tuned automation) | 500–600 | Only after amber precision and SLA adherence hold for 2+ quarters |
 
-Rostering: two shifts covering 08:00–22:00 daily (matching Malaysian messaging behaviour); overnight = AI + on-call rota. Minimum viable team at launch: 2 FTE RNs + nurse lead for the first ~500 programme patients, giving redundancy and QA headroom before the ratios above are earned. Growth gate: patients-per-nurse may only rise while amber SLA ≥95% and QA pass-rate ≥98% — staffing follows safety metrics, not the reverse.
+Rostering: two shifts covering 08:00–22:00 daily (matching Malaysian messaging behaviour); overnight = AI + on-call rota (§5.3). Minimum viable team at launch: 2 FTE RNs + nurse lead for the first ~500 programme patients, giving redundancy and QA headroom before the ratios above are earned. Growth gate: patients-per-nurse may only rise while amber SLA ≥95% and QA pass-rate ≥98% — staffing follows safety metrics, not the reverse.
+
+### 7.3 A nurse shift, by the clock *(illustrative day shift, ~350-patient panel)*
+
+| Time | Work | Console surface |
+|---|---|---|
+| 08:00–08:30 | Night digest review; morning pulses to overnight ambers; prioritise the day's amber queue | Night handover view |
+| 08:30–10:30 | Amber queue: callbacks and in-thread follow-ups (typically 4–8 tasks), each opening from its context pack; dose-hold queries filed to doctor P1 queue | Amber queue + SLA clocks |
+| 10:30–11:30 | Scheduled outbound care calls (week-2 / week-6 / churn-risk list, ~5 calls) | Outbound call list |
+| 11:30–12:00 | First-injection video calls (booked by the day-1 sequence) | Calendar + in-thread video |
+| 12:00–13:00 | QA sampling: score ≥15 AI conversations; flag protocol gaps to nurse lead | QA sampler |
+| 14:00–16:00 | Amber queue second pass; lab-chase and refill-friction tasks; cohort-group moderation window | Task queue |
+| 16:00–17:00 | Follow-through messages on yesterday's resolved ambers ("how are you feeling today?"); documentation completeness check | Watch-list |
+| Throughout | Red pages interrupt everything (rare: <0.5%/month of panel); AI drafting mode assists every reply | Banner takeover |
+
+The point of the table for recruiting and investors alike: the nurse's day is clinical judgment, coaching and human connection — the AI has already done the reading, sorting, chasing and typing. That division of labour is the entire economic and safety thesis of the layer.
 
 ## 8. Care protocols library
 
