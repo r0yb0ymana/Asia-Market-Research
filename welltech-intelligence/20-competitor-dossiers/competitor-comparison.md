@@ -392,11 +392,101 @@ The strategic bottom line: across 21 dossiers and roughly 40 named operators, We
 
 ## Singapore
 
-*To be appended: Singapore competitive landscape (Doctor Anywhere home market, ORA Group home market, Speedoc/MIC@Home, Euro Group, polyclinic/GP ecosystem, longevity clinics).*
+### S1. Landscape overview
+
+Singapore's competitive field is the inverse of Malaysia's: capital-rich, regulation-heavy, and already consolidated at the two ends of the care journey — but with the same hollow centre. Generic telehealth rails are owned by two well-funded incumbents ([Doctor Anywhere](doctor-anywhere.md), >S$190m raised; [WhiteCoat](whitecoat.md), AIA-exclusive with SoftBank Vision Fund entering) and crowded from below by the state (Healthier SG, HealthHub, polyclinics at S$10–27). The clinical-outcomes tier has exactly one credible occupant — [NOVI Health](novi-health.md), which publishes real GLP-1 cohort data (12.7% mean weight loss at 12 months, n=708, with NUS) but operates a single clinic behind an app wall. The DTC brand tier belongs to [ORA Group](ora-group.md) (andSons/OVA), which owns the funnel but has a visibly broken post-purchase layer. Corporate/screening funnels are held by [Minmed](minmed.md) and the panel/TPA incumbents ([Quality HealthCare/Bupa](quality-healthcare.md) regionally, Fullerton and [MyDoc](mydoc-fullerton.md)). Longevity is a barbell — Chi Longevity and Parkway/Raffles executive screening at the top, nothing assembled in the S$2–6k/yr middle. The decisive market fact is regulatory: the MaNaDr enforcement action (>100,000 sub-minute consults) and MOH/HSA Joint Circular 87/2024 (no remote GLP-1 initiation, POM advertising banned and enforced) mean the low, transactional end of the category has been actively closed by the regulator — making governance-grade operations the price of admission and, once paid, a moat.
+
+### S2. Master comparison matrix — Singapore
+
+| Company | Category | Ownership / funding | Scale | Model | Pricing anchor (SGD) | GLP-1 / weight offer | Longevity offer | Continuity | WhatsApp | AI | B2C/B2B | Reputation | Threat | Partner potential |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [Doctor Anywhere](doctor-anywhere.md) | Omnichannel telehealth | >S$190m (Asia Partners, Novo, IHH) | 2.8m users, 6 mkts | Teleconsult + panel + clinics + marketplace | GP S$27.25; member S$14.17 | Education + refills, no packaged program | Premium screening (Orchard) | Weak (gig doctors) | None (app-first) | Low | Both | ~4.3★; support/pharmacy-margin complaints | High (could assemble "DA Weight" 12–24mo) | Low (rival) |
+| [WhiteCoat](whitecoat.md) | Insurer-integrated telehealth | Series A S$10.8m; Good Doctor ID acq.; SoftBank VF | 6.8m insured lives (group) | AIA-exclusive teleconsult + claims | S$25/S$50; S$12 AIA rate | None packaged | None | Weak | None | Low | B2B2C (AIA) | Refill-friction complaints | High (AIA-bundled weight benefit) | Low (AIA-locked) |
+| [NOVI Health](novi-health.md) | Metabolic/weight clinic | US$5m Series A (Monk's Hill) | 1 clinic, ~34 staff | Multidisciplinary program + CGM | Optimum Plus GLP-1 from S$430/mo | **Yes — published outcomes** (12.7%/12mo) | NOVI Max (longevity, unpriced) | **Strong** (program design) | Limited | Moderate | Both (Medisave/CHAS) | Strong clinical reputation | Medium-high (Novo alliance Jun 2026) | **High** (acquisition/benchmark) |
+| [ORA Group](ora-group.md) (andSons/OVA) | DTC GLP-1/men's/women's | US$17m (TNB Aura, Antler) | SG/MY/PH, 11–50 staff | Subscription DTC + hybrid clinic | Consult S$20; ED from S$32/mo | **Yes** — hybrid w/ Dr Ben Ng (Feb 2025) | None | Weak (thin follow-up) | None | None | B2C | Trustpilot ~2.3★ (post-purchase) | **High** (closest DTC analogue) | Low (rival) |
+| [Minmed](minmed.md) | GP + screening chain | Private, founder (Dr Eric Chiam) | ~32 outlets + 4 screening centres | Clinics + screening + teleconsult | Teleconsult S$21.60; weight pen from S$150 | Yes — weekly-injection program | None | Moderate | Concierge (bot) | Low | Both (MOE contract) | Connect app ~1★; competent clinicians | High (weight + screening funnel) | Medium (screening partner) |
+| [Quality HealthCare](quality-healthcare.md) (Bupa) | Panel clinic network | Bupa (bought 2013, US$355m) | 100–120+ centres | Clinics + panel + insurer vertical | GP ~S$460–500; screening S$1,650–10,200 | **None** (dietetics only) | Screening only | Weak | Manual | Low (Blua) | B2B (panel) | Competent doctors; 2.3★ ops | Low-medium | **High** (distribution) |
+| [Fullerton / MyDoc](mydoc-fullerton.md) | Corporate health / TPA | Fullerton >S$900m rev (Far East Drug, Mitsubishi); MyDoc defunct | 500+ facilities APAC | Clinics + TPA + panel admin | Screening S$95.92–1,758 | None | None | Weak | Manual | Low | B2B | Corruption case (founders); MyDoc dormant | Low | Medium (TPA channel) |
+| [Speedoc](speedoc.md) | Home care / hospital-at-home | ~US$33–51m (Vertex) | SG + MY | House calls + MIC@Home | Teleconsult from S$21.80; house call S$327 | None | None | Weak (acute) | None | **Strong (agentic)** | Both (MOH clusters) | Positive service anecdotes | Low (different battlefield) | **High** (home logistics) |
+| Chi Longevity / [SG longevity clinics](singapore-longevity-clinics.md) | Longevity/concierge | Chi: founders + private | Camden + Four Seasons | Concierge longevity programs | Vital Start from S$4,250 | None | **Yes** (bio-age, high-end) | Moderate | None | Low | B2C | NUS/academic legitimacy | Low-medium (barbell top) | Partner (referral) |
+
+### S3. Strategic groups — Singapore
+
+Six groups recur, mapping closely to Malaysia's: (1) **insurer-integrated telehealth** (WhiteCoat, DA) — sticky, low-CAC, but transactional and drug-agnostic; (2) **outcome-led metabolic clinics** (NOVI, standalone) — the only group in the medical-and-longitudinal quadrant, but single-site and app-bound; (3) **DTC GLP-1 brands** (ORA/andSons/OVA) — funnel-strong, retention-weak; (4) **GP + screening chains** (Minmed, Quality HealthCare, Raffles Medical) — footfall and panel access, episodic economics; (5) **corporate health / TPA** (Fullerton, IHP, Alliance MediNet) — the employer rail; (6) **longevity concierge** (Chi, Parkway/Raffles executive screening) — a barbell with an empty mass-affluent middle. The state (Healthier SG, polyclinics) is a seventh force compressing the transactional floor.
+
+### S4. Capability-gap conclusion — Singapore
+
+The medical-and-longitudinal quadrant is **narrowly occupied, not empty** — NOVI Health holds it clinically, which is the single most important difference from Malaysia (where it is fully vacant). But NOVI holds only two of the eight decisive capabilities at scale (medical prescribing, published outcomes); it lacks WhatsApp-native operations, subscription-retention automation at scale, multi-site presence, the employer sale, and a longevity membership tier. No Singapore operator combines published outcomes **and** WhatsApp-native service **and** subscription retention **and** the employer channel. The competitive question in Singapore is therefore not "is the quadrant open" but "can Welltech out-execute NOVI on operations and channel while matching its evidence bar" — a harder, more specific contest than Malaysia's greenfield.
+
+### S5. Threat ranking — Singapore (top 6)
+
+1. **NOVI Health** (now–12mo) — the outcomes benchmark; its June 2026 Novo Nordisk partnership and any regional/Malaysia expansion is the primary watch item.
+2. **WhiteCoat-powered AIA weight benefit** (12–24mo) — the most dangerous flank; AIA's 1m+ insured members bundled with a GLP-1 benefit would compress the DTC market overnight.
+3. **ORA Group** (now–12mo) — adds a retention layer or raises capital; already runs the hybrid-clinic model Welltech intends.
+4. **Doctor Anywhere "DA Weight"** (12–24mo) — an assembly problem, not a build; owns doctors, pharmacy, screening, 2.8m users.
+5. **Minmed** (now–18mo) — already sells weekly-injection weight programs plus the screening funnel; weak only on digital experience.
+6. **Prenuvo Singapore** (opening imminent — incorporated Aug 2025) — reshapes the longevity-imaging tier and the mass-affluent membership economics.
+
+### S6. Partnership map — Singapore
+
+- **NOVI Health** — highest-value acquisition/partnership target if the build-vs-buy math favours buying the outcomes brand.
+- **Quality HealthCare/Bupa, Fullerton, IHP, Alliance MediNet** — the TPA/panel rails for the employer beachhead (the recommended SG entry motion, since it avoids POM-ad exposure and taps HPB co-funding).
+- **Speedoc** — home phlebotomy/nursing for blood panels and injection-support visits.
+- **Parkway/Raffles radiology** — member-rate imaging for the longevity tier, locked before Prenuvo lands.
+
+### S7. Whitespace statement — Singapore
+
+No Singapore operator combines published outcomes, WhatsApp-native service, subscription retention economics and the employer sale at the mass-affluent tier. NOVI has the evidence but one clinic and an app walled garden; ORA has the funnel but a broken post-purchase layer; the longevity market is a barbell with an empty S$2–6k/yr middle. The opening is the outcome-accountable, WhatsApp-native, employer-distributed metabolic and longevity operating system — the same whitespace as Malaysia, but contested at one corner (outcomes) rather than fully vacant, and defended by a regulator that has already evicted the transactional low end.
 
 ## Hong Kong
 
-*To be appended: Hong Kong competitive landscape.*
+### H1. Landscape overview
+
+Hong Kong's competitive field is the least regulated and most consolidated-at-the-top of the three. There is no telemedicine statute (only non-binding 2019 Medical Council guidelines), so entry is fast — but the UMAO advertising wall forbids drug-name marketing, and the market is dominated by two very different incumbents. [EC Healthcare](ec-healthcare.md) (HKEX: 2138) is the largest non-hospital medical group (HK$4.14bn revenue, ~46 brands, ~1.08m member records) — but it is financially distressed (FY2025 net loss HK$167m, share price down ~96% from its 2021 peak), trust-damaged (a PCPD enforcement notice, pervasive hard-sell "黑店" complaints), and structurally built for quick-cash prepaid slimming rather than protocol-driven metabolic medicine. [Quality HealthCare/Bupa](quality-healthcare.md) owns the employer-panel and TPA rails (100+ centres, ~468k Bupa insured) but runs no GLP-1 or longevity program — only dietetics. Telehealth is small and B2B2C-dominated ([DrGo/HKT](hk-telehealth-platforms.md) consumer-stalled; [Bowtie](hk-telehealth-platforms.md) the funded payer-provider threat at HK$687m ARR; DoctorNow/ZA Health niche); the only HK-native medical-weight vertical is Zoey (women's GLP-1, nascent). The [concierge/expat and longevity tier](hk-concierge-expat-clinics.md) (OT&P, Humansa, LifeHub, Prenetics) sells tests, drips and supplements — inputs, not outcomes. The [weight-loss field](hk-weight-loss-providers.md) is legacy slimming chains (Perfect Medical, Sau San Tong) plus aesthetic clinics advertising GLP-1 drug-names openly in a UMAO grey zone at an 11× price spread for the same molecule-month.
+
+### H2. Master comparison matrix — Hong Kong
+
+| Company | Category | Ownership / funding | Scale | Model | Pricing anchor (HKD) | GLP-1 / weight offer | Longevity offer | Continuity | WhatsApp | AI | B2C/B2B | Reputation | Threat | Partner potential |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| [EC Healthcare](ec-healthcare.md) | Non-hospital medical roll-up | HKEX:2138; founder ~61%; FY25 rev HK$4.14bn (loss) | ~168 sites, ~46 brands, 1.08m members | Prepaid packages + med-spa→medical funnel | re:HEALTH screen HK$980; Saxenda ~HK$1,293/pen | Yes (DR REBORN Saxenda pen) | Screening + imaging (HKAI); no bio-age | Moderate (prepaid, not clinical) | Sales/booking line | CRM/imaging, not clinical AI | B2C | Damaged (PCPD, hard-sell) | **High but degrading** | Partner (imaging/labs; avoid co-brand) |
+| [Quality HealthCare](quality-healthcare.md) (Bupa) | Panel/TPA network | Bupa (2013, US$355m) | 100–120+ centres, ~468k insured | Panels + TPA + screening + insurer vertical | GP HK$460–500; video from HK$398 | **None** (dietetics only) | Screening only | Weak clinical; sticky contracts | Booking only | AI imaging; Blua | **B2B/payer** | Competent, gruff ops (2.3★) | Low-medium (High as gatekeeper) | **High** (Bupa panels) |
+| [Bowtie](hk-telehealth-platforms.md) | Virtual insurer + clinics | >HK$1.2bn (Sun Life, Mitsui); Series C US$70m | ARR HK$687m; 2 clinics | Insurer ARR funds owned clinics | GP HK$350; VDoctor+ HK$39/mo | "Weight care" menu item only | Body-check screening | Emerging (payer-provider) | None | Low | Both | Strong/fast-growing | **High** (payer-provider flywheel) | High (insurance wrap) |
+| [DrGo](hk-telehealth-platforms.md) (HKT) | Telco teleconsult | HKT/PCCW | ~180k downloads/5yr | Teleconsult + One Wellness membership | Consult HK$398; membership HK$48/mo | None | None | Weak | None | Low | B2B2C/enterprise | Consumer-stalled | Low | Partner (logistics/enterprise) |
+| [OT&P](hk-concierge-expat-clinics.md) | Concierge/expat GP | Private | 8 clinics | Premium GP + screening + test lines | GP ~HK$460–500; Ultra screen HK$15,900 | Publishes GLP-1 content, no program | Longevity/Medical test lines | Moderate (relationship GP) | Manual (HK norm) | Low | B2C (expat/HNW) | Trusted expat institution | Medium (could package GLP-1 18–24mo) | Partner (referral) |
+| [Humansa](hk-concierge-expat-clinics.md) | HNW wellness/longevity | New World Development | ~40 GBA centres | HNW longevity + wellness | Bio-age test HK$1,680 | None | **Yes** (HNW, racing upmarket) | Moderate | Manual | Low | B2C (HNW/UHNW) | Premium brand (parent distressed) | Low-medium (leaves mass-affluent open) | Partner |
+| [Prenetics/LifeHub](hk-concierge-expat-clinics.md) | Diagnostics/longevity | NASDAQ: PRE | IM8 ~US$120m ARR (12mo) | Consumer genomics + supplements + IV | CircleDNA HK$1,490–4,990; IV HK$2,080+ | None | Bio-age clocks, no program | Weak (sells inputs) | Manual | Some | B2C | Beckham/IM8 halo | Low | Partner (diagnostics) |
+| [Perfect Medical / slimming](hk-weight-loss-providers.md) | Legacy slimming | HKEX:1830 (FY26 rev HK$962m) | Listed prepaid chain | Prepaid packages | Package-based (no GLP-1) | None (device slimming) | None | Weak | Sales | None | B2C | Prepayment scandals (sector) | Low (category radioactive) | Ignore |
+| [Aesthetic GLP-1 retailers](hk-weight-loss-providers.md) | Med-spa GLP-1 | Fragmented | Many clinics | Per-pen drug retail (drug-name ads) | Mounjaro HK$3,999–11,000/4wk; Wegovy HK$6k–11.5k/mo | Yes (UMAO grey zone) | None | Weak | Manual | None | B2C + 代購 mainland | UMAO-exposed | Medium (volume channel) | Ignore/monitor |
+| Zoey / [HK digital GLP-1](hk-weight-loss-providers.md) | DTC GLP-1 (women) | Nascent, undisclosed | Nascent | DTC prescribing + delivery | First consult HK$200; Bare from HK$1,080/cycle | **Yes** (drug-retail-first) | None | Weak (no published outcomes) | Possible | Low | B2C | Nascent | Medium (category validator) | Low (rival/acq target) |
+
+### H3. Strategic groups — Hong Kong
+
+The same seven groups recur: (1) **non-hospital medical roll-up** (EC Healthcare — unique to HK's scale); (2) **panel/TPA networks** (Quality HealthCare/Bupa, insurer channels); (3) **payer-provider integrators** (Bowtie — the most strategically advanced); (4) **telco/fintech telehealth** (DrGo, ZA Health — distribution-led, care-shallow); (5) **concierge/expat and HNW wellness** (OT&P, Humansa — barbell top); (6) **diagnostics/longevity retail** (Prenetics, LifeHub — sells inputs); (7) **weight-loss** (legacy slimming + med-spa GLP-1 retailers + nascent DTC). As in Malaysia and Singapore, no group occupies the medical-and-longitudinal quadrant.
+
+### H4. Capability-gap conclusion — Hong Kong
+
+The quadrant is **empty**, as in Malaysia — but for a different reason. Hong Kong has the assets scattered across incumbents (EC has prescribers and imaging; Bupa has the panel and Blua chassis; Bowtie has the payer flywheel; Humansa has HNW longevity; Zoey has a nascent GLP-1 vertical) but no operator assembles medical prescribing + retention + WhatsApp-native care + published outcomes. EC is closest on raw assets (1m+ members, hundreds of prescribers, HKAI imaging) and could bolt on a GLP-1 program fastest — but its prepaid/commission economics and trust deficit steer it toward quick-cash slimming, not protocol medicine, and its financial distress limits investment. Bowtie is closest on strategic model (payer-provider integration) but has only two generalist clinics and embryonic weight/longevity depth.
+
+### H5. Threat ranking — Hong Kong (top 6)
+
+1. **EC Healthcare** (3–6mo to move, but degrading) — highest raw capability to bolt on a GLP-1 program across 1m+ members; watch for a semaglutide/tirzepatide program brand, offset by distress and trust liabilities.
+2. **Bowtie** (12–24mo) — the payer-provider flywheel is the most dangerous long-run model; move before it packages GLP-1 into its VHIS/clinic funnel.
+3. **Quality HealthCare/Bupa as gatekeeper** (ongoing) — controls the employer/insurer channel; the risk is Bupa building weight/longevity in-house via Blua before Welltech empanels.
+4. **Zoey / HK-native DTC GLP-1** (now) — category validator; evaluate for out-execution vs acquisition.
+5. **OT&P** (18–24mo) — the expat-trust institution most able to package GLP-1 into existing relationships.
+6. **Humansa** (12–24mo) — well-capitalised (until New World's distress) HNW longevity that could descend into the mass-affluent membership tier.
+
+### H6. Partnership map — Hong Kong
+
+- **Quality HealthCare/Bupa** — the priority distribution partnership (empanel as metabolic/longevity provider, cashless, outcomes-reported) — time-sensitive before Bupa builds in-house.
+- **EC Healthcare (HKAI imaging / PathLab)** — diagnostics/imaging wholesale and distressed-asset/team acquisition; **avoid** DR REBORN co-branding or data-sharing (reputational contagion).
+- **Bowtie** — the natural downstream VHIS insurance wrap once Welltech has a HK cohort.
+- **ZA Bank / DrGo(HKT)** — distribution and delivery-logistics rails.
+- **Speedoc (HK-adjacent), private radiology** — home phlebotomy and member-rate imaging for the longevity tier.
+
+### H7. Whitespace statement — Hong Kong
+
+No Hong Kong operator owns supervised, longitudinal, outcome-accountable medical weight or longevity care on WhatsApp. The assets exist but sit unassembled across a distressed roll-up (EC), a payer that won't build clinically (Bupa), an insurer with two clinics (Bowtie) and a diagnostics-and-supplements retail tier that sells inputs not outcomes. A HK$1,500–3,000/month medication-inclusive metabolic membership, and a HK$25–40k/yr managed longevity membership between check-up retail and true concierge, both sit in empty price-value bands — the richest-margin version of the same regional whitespace, entered last precisely because it demands the Singapore-earned clinical credibility to win Asia's most sceptical consumer.
 
 ---
 
