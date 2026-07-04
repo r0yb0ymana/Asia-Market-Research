@@ -16,6 +16,7 @@ Last updated: July 2026. Research standards: [RESEARCH-STANDARDS.md](RESEARCH-ST
 | [50-marketing-intelligence/](50-marketing-intelligence/) | SEO, paid search, social channels, pricing, funnels, positioning |
 | [60-ai-operating-model/](60-ai-operating-model/) | AI clinic design: patient journey, AI staff roles, WhatsApp operating model, automation map |
 | [70-welltech-blueprint/](70-welltech-blueprint/) | Go-to-market, product, pricing, moat, roadmap, investor thesis |
+| [80-us-reference-market/](80-us-reference-market/) | The mature US DTC GLP-1/telehealth market studied for lessons (pros/cons) — not a target market; overview, Hims & Hers, Medvi, the wider cohort, and the adopt/avoid synthesis |
 | [sources/](sources/) | Bibliography, link index, regulatory source index, dataset index |
 
 ## Suggested reading order
