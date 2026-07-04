@@ -103,6 +103,16 @@ journey
 - **E-prescription & pharmacy licensing:** DOC2US's core differentiation. Digitally signed e-Rx complies with Poisons Act 1952 and Digital Signature Act 1997 (partnering one of only four licensed digital-signature providers in Malaysia); dispensing happens at licensed partner pharmacies rather than an owned pharmacy, sidestepping the online-dispensing grey zone that drew parliamentary questions at DoctorOnCall.[^11][^12][^6]
 - **Continuity of care:** chat history persists and refill delivery exists for chronic meds,[^34] but there is no published named-doctor continuity model, care plans, or outcome tracking; the e-referral product (2025) is the closest move toward longitudinal coordination.[^5]
 
+### 5.1 Journey friction points (patient-experience read)
+
+| Stage | Friction observed | Impact |
+|---|---|---|
+| Entry | Consumer must know to open DOC2US (or find it buried inside Watsons/My AIA menus) | Low top-of-mind demand; partner-funnel dependence |
+| Triage | Free-text chat with no structured intake; provider self-selection by patient | Variable history quality; escalation depends on doctor diligence |
+| Consult | Asynchronous replies fit doctor moonlighting but response latency is uncontrolled | Uncertain wait experience vs booked-slot models |
+| Fulfilment | e-Rx pickup requires travel to an authorised outlet unless Alpro/GDEX delivery is arranged | Convenience gap vs courier-native pharmacies[^33] |
+| Follow-up | Refill flows exist for chronic meds; no proactive outreach or outcome checkpoints published | Chronic care remains patient-driven[^34] |
+
 ## 6. Technology
 
 - **Native apps + web app**: iOS (App Store id1009218855) and Android (`com.doc2us.app`), plus web.doc2us.com; built originally by co-founder Agmo Studio.[^36][^37][^3]

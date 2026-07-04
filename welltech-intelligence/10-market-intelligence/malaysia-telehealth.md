@@ -137,7 +137,19 @@ Read-through: satisfaction is decent but not enthusiastic; the binding constrain
 | **Insurer/TPA telehealth** — AIA (DOC2US), Prudential Pulse (Babylon + DoctorOnCall), Great Eastern (via Doctor2U partnerships) | MY | Free/subsidised consults inside insurer apps; wellness gamification | Carrier-funded | Pulse launched MY Aug 2019 (first market); AIA consults + e-prescriptions in My AIA app | Free to policyholders[^41][^43][^44][^48] |
 | **Grab Health (historical)** | SG/regional | 2018 JV with Ping An Good Doctor ("Grab Health/GoodDoctor"); launched Indonesia 2019; never scaled in Malaysia; Good Doctor Indonesia sold to WhiteCoat (Oct 2024) | JV: Ping An + Grab; Good Doctor raised US$10M+ Series A | Exit/consolidation case study | Defunct as consumer play in MY[^66][^67][^68] |
 
-### 5.2 Deep dives on the four incumbents that matter
+### 5.2 B2C pricing benchmark (published prices, mid-2020s)
+
+| Service | DoctorOnCall | Doctor Anywhere MY | Speedoc MY | DOC2US | Hospital telehealth (IHH/KPJ/Sunway) | Walk-in GP (reference) |
+|---|---|---|---|---|---|---|
+| GP teleconsult | from RM19.90[^30] | RM25 (RM19.80 promo)[^35] | from RM30 / 15 min[^37] | chat-based, low-cost/bundled tiers[^38] | n/a (GP layer not offered) | RM30–80 typical *(analyst reference)* |
+| Specialist teleconsult | from ~RM80[^30] | via app, per specialist | n/a | n/a | full specialist consult fees[^63][^64] | RM80–250 |
+| House call | n/a | n/a | from RM250 (+RM100/extra person)[^37] | via DOC2HOME[^49] | Sunway Home Healthcare packages[^65] | n/a |
+| Medicine delivery | ≤2h express (Klang Valley)[^30] | ≤3h[^35] | same-day[^37] | GDEX nationwide / pharmacy pickup[^38] | hospital pharmacy | n/a |
+| Insurer-funded consult | via Pulse (Prudential)[^43] | via corporate/insurer panels[^32] | Manulife Home Ward (H-Ward)[^69] | free in My AIA app[^41] | panel/GL arrangements | panel clinics |
+
+Two readings: (1) B2C consult pricing is pinned at RM19.90–30 — below the RM58–78 measured willingness-to-pay — because platforms treat the consult as pharmacy-funnel CAC;[^17][^30] (2) nobody prices a *membership*: there is no published subscription tier for continuous care on any Malaysian consumer platform *(observation from public price pages, mid-2020s)*.
+
+### 5.3 Deep dives on the four incumbents that matter
 
 **DoctorOnCall — the traffic monopolist.** DOC's moat is SEO + brand: ~1M monthly web visits by 2020 and a pharmacy catalogue of ~3,000 registered medicines make it Malaysia's default "online doctor" destination.[^27][^30] Its economics lean on pharmacy margin (medicines claimed "up to 70% cheaper than clinics/hospitals") and corporate/insurer panels; its government work (COVID Virtual Health Advisory, Klinik Kesihatan appointment system) bought regulatory goodwill.[^23][^26][^30] Funding is thin for its ambitions — tracked equity is only ~USD 5.1M plus undisclosed cheques from Samsung Ventures, Khazanah-linked MTDC and, in 2024, India's Fischer Medical Ventures, which is using DOC as the chassis for international expansion.[^28][^29][^31] Weakness: the model is a funnel, not a relationship — consults are anonymous, episodic, doctor-rotating.
 
