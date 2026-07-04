@@ -4,7 +4,7 @@
 
 **Last updated: July 2026.**
 
-Related documents: [Malaysia market sizing](malaysia-market-sizing.md) · [Malaysia telehealth deep dive](malaysia-telehealth.md) · [Singapore regulations](singapore-regulations.md) · [Hong Kong regulations](hong-kong-regulations.md) · [Regulatory source index](../sources/regulatory-source-index.md) · [Welltech blueprint](../70-welltech-blueprint/)
+Related documents: [Malaysia market sizing](malaysia-market-intelligence.md) · [Malaysia telehealth deep dive](malaysia-telehealth.md) · [Singapore regulations](singapore-market-intelligence.md) · [Hong Kong regulations](hong-kong-market-intelligence.md) · [Regulatory source index](../sources/regulations.md) · [Welltech blueprint](../70-welltech-blueprint/)
 
 ---
 
@@ -239,7 +239,7 @@ Health data is **sensitive personal data** under the PDPA, requiring explicit co
 - **AI processing** (LLM triage/scribing on patient messages): sending identifiable health data to a foreign AI API is simultaneously a sensitive-data processing event and a cross-border transfer; minimum controls are de-identification where feasible, DPA/sub-processor terms, and coverage in the consent/privacy notice. The Commissioner has signalled active guideline development (DPIA-style expectations are emerging in JPDP guidance).
 - Appoint the DPO early (a compliance-manager DPO is acceptable; JPDP registration required) and stand up the 72-hour breach playbook — a leaked WhatsApp thread of GLP-1 patients is precisely the "significant harm" scenario the amendment targets.
 
-> **Implications for Welltech.** Malaysia is now the strictest of Welltech's three markets on paper for data operations timing: the obligations are new (2025), the regulator is building an enforcement docket, and health data + weight-loss context is high-sensitivity. Treat PDPA compliance as a launch gate, not a retrofit: DPO appointed and notified, TIAs for Meta/cloud/AI vendors, consent flows in Bahasa Malaysia and English, breach playbook drilled. Compare [singapore-regulations.md](singapore-regulations.md) for the PDPA-SG contrast.
+> **Implications for Welltech.** Malaysia is now the strictest of Welltech's three markets on paper for data operations timing: the obligations are new (2025), the regulator is building an enforcement docket, and health data + weight-loss context is high-sensitivity. Treat PDPA compliance as a launch gate, not a retrofit: DPO appointed and notified, TIAs for Meta/cloud/AI vendors, consent flows in Bahasa Malaysia and English, breach playbook drilled. Compare [singapore-market-intelligence.md](singapore-market-intelligence.md) for the PDPA-SG contrast.
 
 ### 7.3 WhatsApp-first workflow: legal exposure map by journey stage
 
@@ -285,7 +285,7 @@ Because Welltech's operating model is WhatsApp-native, each message type crosses
 
 - **Foreign doctors** need MMC registration to practise in/into Malaysia: full registration (with qualifying exams for most), or a **Temporary Practising Certificate (TPC)** under s.16 for defined activities; applications flow through prospective employers, generally requiring ~5 years' experience.[^72][^73]
 - **Inbound telemedicine**: the MMC Guideline on Telemedicine states practitioners **outside Malaysia** providing telemedicine to patients in Malaysia must comply with the ethical, legal and statutory requirements of a registered practitioner — i.e., MMC's position is that serving Malaysian patients remotely without Malaysian registration is non-compliant. Enforcement against offshore doctors is practically difficult; enforcement lands on the local platform instead. **Do not** route Malaysian patients to Singapore/HK-licensed doctors for prescribing.[^6][^34]
-- **Outbound/regional model**: a Malaysian hub serving SG/HK patients triggers *those* jurisdictions' registration rules — see [singapore-regulations.md](singapore-regulations.md) and [hong-kong-regulations.md](hong-kong-regulations.md).
+- **Outbound/regional model**: a Malaysian hub serving SG/HK patients triggers *those* jurisdictions' registration rules — see [singapore-market-intelligence.md](singapore-market-intelligence.md) and [hong-kong-market-intelligence.md](hong-kong-market-intelligence.md).
 - **Medical tourism**: the Malaysia Healthcare Travel Council (MHTC, MOH agency, est. 2009) actively promotes teleconsultation for healthcare travellers (pre-arrival and follow-up), with 2026 designated Malaysia's Year of Medical Tourism. MHTC membership is a legitimising channel for a compliant digital-health brand targeting Indonesian/regional patients.[^74][^75]
 
 > **Implications for Welltech.** Market-by-market licensing is unavoidable: separate Malaysian, Singaporean and Hong Kong clinical panels, with the tech layer shared. Malaysia's cost base plus MHTC's teleconsult-friendly medical-tourism posture make it the natural regional service hub for *Malaysian-registered* care of inbound patients (e.g., Indonesian weight-loss patients combining travel with onboarding), but not a licence-arbitrage base for treating Singaporeans remotely.

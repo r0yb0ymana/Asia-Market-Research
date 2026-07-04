@@ -4,7 +4,7 @@
 
 **Last updated: July 2026**
 
-Related documents: [WhatsApp operating model](../60-ai-operating-model/whatsapp-operating-model.md) · [AI operating model overview](../60-ai-operating-model/ai-operating-model.md) · [Malaysia telehealth market](./malaysia-telehealth-market.md) · [Malaysia GLP-1 & medical weight loss market](./malaysia-glp1-weight-loss-market.md) · [Marketing intelligence: patient acquisition](../50-marketing-intelligence/patient-acquisition-channels.md) · [Welltech blueprint](../70-welltech-blueprint/blueprint-overview.md)
+Related documents: [WhatsApp operating model](../60-ai-operating-model/whatsapp-operating-model.md) · [AI operating model overview](../60-ai-operating-model/ai-clinic.md) · [Malaysia telehealth market](./malaysia-telehealth.md) · [Malaysia GLP-1 & medical weight loss market](./malaysia-weight-loss-market.md) · [Marketing intelligence: patient acquisition](../50-marketing-intelligence/funnels.md) · [Welltech blueprint](../70-welltech-blueprint/product-strategy.md)
 
 ---
 
@@ -452,7 +452,7 @@ Reading: WhatsApp wins every *engagement* job and loses only on *system-of-recor
 | 2 — Programme rails | Month 6–12 | GLP-1 titration cadence; refill loop; cohort Communities pilot; CTWA acquisition at scale with conversation-level attribution | Week-12 persistence baseline established; CAC per consulted patient beats web-form funnel |
 | 3 — Moat | Month 12–24 | Direct Cloud API/360dialog migration option; proprietary AI orchestration; outcomes publication; SG/HK channel replication assessment | Messaging infra portable in <30 days; first outcomes white paper |
 
-This document pairs with the [WhatsApp operating model](../60-ai-operating-model/whatsapp-operating-model.md) (staffing, escalation trees, AI guardrail specs) and the [patient acquisition analysis](../50-marketing-intelligence/patient-acquisition-channels.md) (CTWA budget modelling); regulatory detail is expanded in the [Malaysia telehealth market](./malaysia-telehealth-market.md) dossier.
+This document pairs with the [WhatsApp operating model](../60-ai-operating-model/whatsapp-operating-model.md) (staffing, escalation trees, AI guardrail specs) and the [patient acquisition analysis](../50-marketing-intelligence/funnels.md) (CTWA budget modelling); regulatory detail is expanded in the [Malaysia telehealth market](./malaysia-telehealth.md) dossier.
 
 ### 11.2 Open questions and monitoring list
 

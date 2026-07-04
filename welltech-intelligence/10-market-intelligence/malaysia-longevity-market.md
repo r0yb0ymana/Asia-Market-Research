@@ -4,7 +4,7 @@
 
 **Last updated: July 2026**
 
-Related reading: [Malaysia market sizing & demand drivers](malaysia-market-sizing.md) · [Malaysia GLP-1 / medical weight-loss market](malaysia-glp1-weight-loss-market.md) · [Malaysia telehealth market](malaysia-telehealth-market.md) · [Malaysia regulations](malaysia-regulations.md) · [Cross-market comparison](cross-market-comparison.md) · [Welltech blueprint](../70-welltech-blueprint/) · [Research standards](../RESEARCH-STANDARDS.md)
+Related reading: [Malaysia market sizing & demand drivers](malaysia-market-intelligence.md) · [Malaysia GLP-1 / medical weight-loss market](malaysia-weight-loss-market.md) · [Malaysia telehealth market](malaysia-telehealth.md) · [Malaysia regulations](malaysia-regulations.md) · [Cross-market comparison](cross-market-comparison.md) · [Welltech blueprint](../70-welltech-blueprint/) · [Research standards](../RESEARCH-STANDARDS.md)
 
 ### Key numbers at a glance
 
@@ -70,7 +70,7 @@ The critical gap is **healthspan**. With diabetes at 15.6% and >54% of adults ov
 | High cholesterol (among comorbid) | — | — | 5.1% have diabetes+HTN+high-chol together[^4] |
 | ≥3 concurrent NCDs | >2 million adults | rising | Multimorbidity cluster[^3] |
 
-**Implications for Welltech.** The undiagnosed fraction is the commercial heart of preventive medicine: two in five diabetics — and the overwhelming majority of young diabetics — do not know their status.[^3][^4] A preventive offer that converts "worried well" affluent Malaysians into early-detected, actively managed patients addresses a genuine clinical gap, not a manufactured one. Metabolic health (diabetes/pre-diabetes, obesity, dyslipidaemia) — not exotic anti-ageing — is the scientifically defensible core, and it directly adjoins Welltech's GLP-1 weight-loss franchise (see [Malaysia GLP-1 market](malaysia-glp1-weight-loss-market.md)).
+**Implications for Welltech.** The undiagnosed fraction is the commercial heart of preventive medicine: two in five diabetics — and the overwhelming majority of young diabetics — do not know their status.[^3][^4] A preventive offer that converts "worried well" affluent Malaysians into early-detected, actively managed patients addresses a genuine clinical gap, not a manufactured one. Metabolic health (diabetes/pre-diabetes, obesity, dyslipidaemia) — not exotic anti-ageing — is the scientifically defensible core, and it directly adjoins Welltech's GLP-1 weight-loss franchise (see [Malaysia GLP-1 market](malaysia-weight-loss-market.md)).
 
 ---
 
@@ -398,7 +398,7 @@ The "functional medicine" label spans a spectrum from legitimate lifestyle/preve
 
 ### 13.1 The metabolic-longevity–GLP-1 flywheel
 
-Malaysia's specific epidemiology makes **metabolic health the natural centre of gravity** for a longevity offer — and that centre overlaps almost perfectly with Welltech's GLP-1/medical-weight-loss franchise (see [GLP-1 market](malaysia-glp1-weight-loss-market.md)). The logic chain:
+Malaysia's specific epidemiology makes **metabolic health the natural centre of gravity** for a longevity offer — and that centre overlaps almost perfectly with Welltech's GLP-1/medical-weight-loss franchise (see [GLP-1 market](malaysia-weight-loss-market.md)). The logic chain:
 
 1. Prevention screening (ApoB, CGM, HbA1c, weight, BP) **surfaces** the dysmetabolic majority — plausibly a majority of any affluent 35–55 cohort given national obesity at 54%.[^4]
 2. A material share qualify for **GLP-1 therapy or structured weight/metabolic intervention** — a high-value, recurring, clinically-supervised product.

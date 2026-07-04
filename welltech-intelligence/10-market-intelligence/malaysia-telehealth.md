@@ -4,7 +4,7 @@
 
 Last updated: July 2026.
 
-Related documents: [Malaysia market overview](malaysia-market-overview.md) · [Malaysia regulations](malaysia-regulations.md) · [WhatsApp healthcare workflows](whatsapp-healthcare-workflows.md) · [Competitor dossiers](../20-competitor-dossiers/) · [Welltech blueprint](../70-welltech-blueprint/) · [Research standards](../RESEARCH-STANDARDS.md)
+Related documents: [Malaysia market overview](malaysia-market-intelligence.md) · [Malaysia regulations](malaysia-regulations.md) · [WhatsApp healthcare workflows](malaysia-whatsapp-healthcare.md) · [Competitor dossiers](../20-competitor-dossiers/) · [Welltech blueprint](../70-welltech-blueprint/) · [Research standards](../RESEARCH-STANDARDS.md)
 
 ---
 

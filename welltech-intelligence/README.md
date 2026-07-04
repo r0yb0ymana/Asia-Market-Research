@@ -29,8 +29,17 @@ Last updated: July 2026. Research standards: [RESEARCH-STANDARDS.md](RESEARCH-ST
 
 ## Status
 
-| Market | Status |
-|---|---|
-| Malaysia | Complete |
-| Singapore | Complete |
-| Hong Kong | Complete |
+All three markets complete. The repository comprises **84 documents** (~35,000 lines, ~480,000 words), with **2,900+ footnote citations** and a deduplicated index of **3,100+ source URLs** in [sources/](sources/).
+
+| Market | Status | Coverage |
+|---|---|---|
+| Malaysia | Complete | Full market intelligence (8 docs), 22 competitor dossiers, reviews, doctor experience, marketing, AI operating model, executive summary, blueprint |
+| Singapore | Complete | Market intelligence, 7 competitor dossiers, executive summary |
+| Hong Kong | Complete | Market intelligence, 5 competitor dossiers, executive summary |
+| Cross-market | Complete | Comparison, regional summary, and the full Welltech blueprint (GTM, product, pricing, moat, roadmap, investor thesis, expansion) |
+
+### Known caveats (carried from the research)
+
+- **Network access:** many government portals and paywalled market-research pages returned HTTP 403 to direct fetches in the research environment; affected figures were sourced from search-indexed content of those same pages and are flagged in-document. Items marked for live re-verification are collected in each document's verification queue.
+- **Market-size divergence:** telehealth/digital-health market estimates differ materially by vendor (e.g. Statista vs Grand View vs Ken Research); documents present the range and a reconciled analyst view rather than a single number.
+- **One figure to reconcile before external use:** unmanaged 12-month GLP-1 persistence appears as both ~30% and ~38% across sources; standardise to a single cited baseline in investor-facing extracts.
