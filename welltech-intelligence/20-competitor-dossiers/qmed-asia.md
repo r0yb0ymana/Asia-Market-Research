@@ -152,7 +152,35 @@ Published pricing was not found for any line. Directional signals: queue SaaS wa
 
 ---
 
-## 9. SWOT
+## 9. Competitive landscape (Malaysia provider-side and telehealth)
+
+| Player | Model | Overlap with Qmed | Notes |
+|---|---|---|---|
+| DoctorOnCall | Consumer telehealth marketplace + e-pharmacy | Teleconsult layer | Stronger consumer brand; Qmed is provider-side rails[^9] |
+| Doc2Us | Text-based telemedicine, e-prescriptions | Teleconsult layer | Pharmacy-channel focus[^9] |
+| Hospital HIS/EMR vendors (e.g., total-HIS programmes) | Enterprise hospital IT | Queue, documentation modules | MOH's larger HIS expansions could absorb queue functionality[^9] |
+| Global ambient-AI scribes | Clinical documentation AI | Qmed Copilot/Scribe | Better-funded; Qmed's defence is localisation (mixed-language, local CPGs)[^19] |
+| Naluri | B2B2C health coaching for employers/insurers | Employer wallet (vs Qmed GO) | Different layer: coaching programmes vs care-delivery infrastructure — see [Naluri dossier](naluri.md) |
+
+Qmed's defensible ground is the intersection Malaysian incumbents and global vendors both underserve: **clinic-level workflow + local-language clinical AI + government trust**, delivered cheaply by a profitable local company.
+
+## 10. Strengths and weaknesses
+
+**Strengths**
+1. Profitability and capital efficiency — net profit RM1.7M on RM12.5M revenue (FY2022) with ~USD 1.6M ever raised; rare in SEA healthtech.[^4][^7]
+2. Distribution: 4,500+ providers including ~400 MOH clinics; 6M+ patients touched; 14M+ bookings processed.[^2][^5][^6]
+3. Clinician-founder credibility and "doctors + engineers" product culture; strong local media halo (Tatler Gen.T, DNA).[^1][^3][^18]
+4. Early, localised generative-AI suite (mixed-language scribe, Malaysian CPG Q&A, ICD-10/11 coding) ahead of most local rivals.[^12][^19]
+5. Hardware-to-software breadth (kiosks, IoT vitals, SaaS, AI) enables bundled employer and provider deals.[^15][^22]
+
+**Weaknesses**
+1. Sub-scale capital (~USD 1.6M) against global AI-scribe entrants and funded regional platforms; ECF cap table adds governance drag.[^6][^7]
+2. No consumer brand or owned patient relationship despite 6M "patients reached"; Qmed Portal rating volume is negligible.[^25]
+3. Product sprawl (queues, kiosks, screening, AI, home care, even pet care via QM Care) risks diffuse execution for a small team.[^23]
+4. Government dependence: MOH deployments drove scale, but procurement and administrations change; "official partner" status is self-described.[^5][^13]
+5. No condition-specific clinical programmes, no outcomes publications — sells efficiency, not health outcomes (the opposite of Naluri).
+
+## 11. SWOT
 
 | | Helpful | Harmful |
 |---|---|---|
@@ -161,7 +189,7 @@ Published pricing was not found for any line. Directional signals: queue SaaS wa
 
 ---
 
-## 10. Competitive overlap with Welltech — infrastructure player, partial competitor
+## 12. Competitive overlap with Welltech — infrastructure player, partial competitor
 
 Qmed competes with Welltech only at the edges; most of its business is provider tooling Welltech does not sell.
 
@@ -177,7 +205,17 @@ Strategically, Qmed is best read as **the provider-infrastructure incumbent of M
 
 ---
 
-## 11. Implications for Welltech
+## 13. Key questions to monitor
+
+| Question | Signal to watch | Why it matters |
+|---|---|---|
+| Does Qmed raise institutional capital? | Series A announcement, PitchBook updates | Would fund consumer or regional pushes and change its partnership posture[^7] |
+| Qmed GO traction with employers | Corporate logos, kiosk counts, panel-clinic displacement claims | Direct read on the employer-health wallet Welltech may also target[^15] |
+| AI-scribe competitive pressure | Global ambient-AI entries into MY/SG; Copilot pricing moves | Determines whether Copilot remains the local benchmark to buy or beat[^12][^19] |
+| MOH digitisation contracts | Clinic cloud-system tenders, HIS expansions | Confirms or erodes the B2G moat[^9] |
+| HEYDOC partnership scope | Joint product announcements post-Mar 2026 | Indicates appetite to power third-party clinical services — the slot Welltech could occupy[^17] |
+
+## 14. Implications for Welltech
 
 1. **Partner potential outweighs threat.** Qmed's 4,500-provider network and Qmed GO employer kiosks are distribution rails a consumer medical-weight-loss brand could ride (screening → referral into Welltech programmes; kiosk vitals feeding GLP-1 monitoring). Its capital constraints make it partnership-hungry, as the Taiwan/Cambodia/HEYDOC MOUs show.[^10][^17]
 2. **Do not expect Qmed to enter medical weight loss soon** — nothing in its portfolio (2019–2026) points at condition-specific consumer programmes; its DNA is horizontal provider tooling. But its telehealth + kiosk + pharmacy-delivery stack means it *could* white-label such a service for employers if a clinical partner supplied protocols. Welltech should aim to be that partner before an insurer or hospital group is.

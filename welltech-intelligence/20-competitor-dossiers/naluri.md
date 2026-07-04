@@ -146,7 +146,7 @@ flowchart LR
 |---|---|---|---|
 | Diabetes management | T2D and pre-diabetic employees | Multidisciplinary coach team, AI food journal, glucose + weight tracking, 16-week curriculum, start/end screening | HbA1c reduction, weight, medication adherence[^16] |
 | Weight & obesity management | Overweight/obese employees | Dietitian + fitness + psychologist coaching, habit trackers, challenges; positions "reduce reliance on medications" | Weight, BMI, waist circumference[^17] |
-| Hypertension management | Hypertensive employees | BP tracking, lifestyle coaching, medication-adherence support | Blood pressure control[^26] |
+| Hypertension management | Hypertensive employees | BP tracking, lifestyle coaching, medication-adherence support | Blood pressure control[^36] |
 | Mental health / EAP | All employees | Counselling, therapy sessions, thought journal (CBT), 24/7 carelines, manager training, webinars | DASS/engagement measures, utilisation[^18] |
 | Wellbeing extensions | All employees | Financial-planning coaching, career/workplace coaching (part of holistic positioning) | Engagement, self-reported wellbeing[^21][^25] |
 
@@ -346,3 +346,4 @@ journey
 [^33]: ITU AI for Good Global Summit, "Naluri" (speaker organisation), https://aiforgood.itu.int/speaker/naluri/ (accessed July 2026).
 [^34]: Human Resources Online, "HR Vendors of the Year awards, Malaysia" (employee-wellness vendor category context), https://awards.humanresourcesonline.net/hr-vendors-of-the-year-my/ (accessed July 2026).
 [^35]: CB Insights, "Top Intellect alternatives & competitors" (lists Naluri, ThoughtFull, Ooca), https://www.cbinsights.com/company/intellect/alternatives-competitors ; MindFi, "Best employee wellbeing solution providers for APAC companies in 2023", https://mindfi.co/for-hr/best-employee-wellbeing-solution-providers-apac-companies-2023-mindfi-intellect-naluri/ (accessed July 2026).
+[^36]: Naluri, "Hypertension Management Programme", https://www.naluri.life/what-we-offer/health-improvement-programmes/hypertension (accessed July 2026).

@@ -371,6 +371,25 @@ All figures are *(analyst estimates)* with assumptions stated; MYR throughout (M
 
 **Growth forecast:** 25–40% CAGR for the medical weight-loss segment 2026–2030 *(analyst estimate)*, driven by Wegovy/Mounjaro commercialisation, price competition, employer channel opening, and the epidemiological escalator (41%-by-2035 trajectory)[^7]; downside scenarios hinge on safety scares, aggressive advertising crackdowns, or a public-payor pivot that commoditises supply.
 
+### 10.1 Sensitivity of the 2030 SAM *(analyst model)*
+
+| Scenario | Treated patients 2030 | Avg annual spend | SAM 2030 | Key assumption shift |
+|---|---|---|---|---|
+| Bear | 80k | RM7,000 | ~RM0.6B | Safety scare or ad-crackdown chills category; prices fall but volumes stall |
+| Base | 150k–300k | RM8–12k | **RM1.5–3.5B** | Steady price decline, employer pilots, no reimbursement |
+| Bull | 450k+ | RM9,000 | ~RM4B+ | Oral semaglutide at <RM500/mo; insurer wellness riders begin part-funding |
+
+### 10.2 Risk register (market-level)
+
+| Risk | Likelihood | Impact | Mitigant for a compliant operator |
+|---|---|---|---|
+| Advertising enforcement widens to condition-level claims | Medium | Medium | Physician-led content, owned community channels, PR over paid media[^41][^53] |
+| GLP-1 safety event (class-level) dents demand | Low–medium | High | Metabolic-health framing beyond one molecule; NPRA-aligned pharmacovigilance messaging[^56] |
+| Novo/Lilly launch direct-to-patient platforms in MY | Medium | High | Own the service layer + local clinical relationships they cannot replicate quickly |
+| Price war compresses drug margin to zero | High | Medium | Business model already assumes pharmacy-parity drug pricing (§9) |
+| Counterfeit incident erodes category trust | Medium | Medium | Publicise MAL-verification and licensed cold chain as brand assets[^38][^55] |
+| Regulatory tightening of off-label tirzepatide marketing | Medium | Low–medium | Prefer on-label Wegovy as program default; tirzepatide via specialist protocols |
+
 ---
 
 ## 11. Porter's Five Forces — GLP-1 weight-loss clinic segment (Malaysia, 2026)
@@ -395,6 +414,13 @@ All figures are *(analyst estimates)* with assumptions stated; MYR throughout (M
 4. **Sequence segments:** urban women 30–55 (discretion-led), pre-diabetic/diabetic men via screening funnels, fertility-prep referrals, then employer B2B2C (possibly with Naluri/insurer wellness riders).
 5. **Lock supply and compliance early:** distributor allocation (Zuellig/DKSH), licensed e-pharmacy cold chain, Group-B-compliant marketing — each is a moat as enforcement tightens.
 6. **Watch list:** Roczen's Malaysian traction, OVA's expansion beyond women's health, Novo/Lilly direct-to-patient platform ambitions, oral semaglutide launch pricing, and any NPRA move to restrict off-label tirzepatide marketing.
+
+### SWOT — Welltech entry into Malaysian medical weight loss
+
+| | Helpful | Harmful |
+|---|---|---|
+| **Internal** | **Strengths:** telehealth + WhatsApp-first ops matched to the discretion/retention problem; AI-enabled triage lowers cost-to-serve below clinic economics; regional (MY/SG/HK) platform amortises protocol and content build | **Weaknesses:** no local clinical brand yet; dependent on distributor allocation for supply; must build e-pharmacy/cold-chain partnerships from zero |
+| **External** | **Opportunities:** 8–9M CPG-eligible adults with <1% medically treated; discredited slimming-centre incumbents; Wegovy launch tailwind and falling drug prices; employer channel unopened; fertility-prep niche unclaimed | **Threats:** low entry barriers → copycat programs; pharma direct-to-patient platforms; advertising enforcement narrowing acquisition channels; class-level safety narrative risk |
 
 ---
 
@@ -486,3 +512,4 @@ All figures are *(analyst estimates)* with assumptions stated; MYR throughout (M
 [^76]: Bariatric Surgery Malaysia, "Anti-Obesity Medication: A Complete Guide to Prescription Weight Loss in Malaysia" (insurance classification of obesity treatment as cosmetic/lifestyle), https://bariatricsurgerymalaysia.com/anti-obesity-medication/ (accessed July 2026).
 [^77]: Alainn Clinic, "GLP-1 Weight Loss Injection in Malaysia: Benefits, Eligibility & Cost" (10–15% body-weight loss over 6–12 months on therapeutic semaglutide with lifestyle support), https://alainnclinic.com/weight-loss-injection/ (accessed July 2026).
 [^78]: Seimbang, "GLP-1 Weight Loss Malaysia: Complete 2026 Guide" (telehealth program pricing from RM899/month incl. medication; historical clinic pricing RM1,500–3,000/month), https://www.seimbang.my/blog/glp-1-weight-loss-malaysia-complete-guide (accessed July 2026).
+[^79]: Premier Clinic, "Weight Loss Program & Weight Management" and "Mesolipo Fat Melting Injection" (RM500+/syringe), https://premier-clinic.com/weight-loss/ and https://premier-clinic.com/our-services/mesolipo-fat-melting-injection/; Klinik Suzana (Johor Bahru) services pages, https://kliniksuzana.com/tag/skin-clinic-johor-bahru/ (accessed July 2026).

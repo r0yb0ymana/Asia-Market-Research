@@ -109,6 +109,16 @@ journey
 - **Pharmacy licensing:** DoctorOnCall does not itself hold the retail licence for all fulfilment; it partners with independent pharmacies whose pharmacists hold **Type A Poison Licences**; prescriptions valid 90 days per Poisons Regulation 1989; Group B (prescription-only) items require a valid prescription from an MMC-registered doctor; no sale to under-18s per Poison Act 1952 provisions.[^25][^33] The model drew parliamentary scrutiny in 2020 when the Lanang MP asked how DoctorOnCall could sell prescription drugs online — resolved in practice by the consult-then-dispense flow, but a standing regulatory-overhang risk.[^33]
 - **Continuity of care:** transactional. No published evidence of assigned named doctors, longitudinal care plans, or proactive follow-up programs; follow-up is patient-initiated. *(inference from site structure and reviews)*
 
+### 5.1 Journey friction points (patient-experience read)
+
+| Stage | Friction observed | Impact |
+|---|---|---|
+| Booking/triage | No structured intake triage before payment; patient self-selects GP vs specialist | Misrouted consults; RM80 specialist fee risk for issues a GP could solve |
+| Consult | Queue-based matching, rotating doctors | No chart memory across episodes; repeat history-taking |
+| Payment | Consult fee + platform fee + delivery fee accrue separately | Perceived nickel-and-diming vs all-in program pricing[^21][^26] |
+| Fulfilment | Partner-pharmacy hand-off is where reviews report failures (delays up to 15 days) | Trust erosion exactly at the clinical moment[^34] |
+| Follow-up | Patient-initiated; support via WhatsApp/email with reported response lag | Chronic conditions leak back to physical GPs[^34][^40] |
+
 ## 6. Technology
 
 - **Web-first architecture** (doctoroncall.com.my for Malaysia; doctoroncall.com for Singapore/international), with multiple mobile apps: "DoctorOnCall - Online Pharmacy" (Android `com.docmobile`, ~26k downloads per AppBrain, last updated Jan 2024; a newer `com.doctoroncall.pharmacy` listing exists) and iOS app id1549810871 published by Health Digital Technologies Sdn Bhd.[^34][^38][^39] The fragmentation across app listings and the modest download counts indicate the web funnel, not the app, carries the business. *(inference)*
@@ -124,6 +134,18 @@ journey
 - **Social:** Instagram @doctoroncallmy ~13K followers; LinkedIn ~6.9K followers; active Facebook page. Small relative to its traffic — organic search, not social, drives the funnel.[^43][^44]
 - **Partnership marketing:** insurer/TPA co-branded portals (e.g., Great Eastern Takaful), Zurich campaign, AirAsia, Touch 'n Go — distribution via payers and consumer platforms.[^27][^41]
 
+### 7.1 Funnel anatomy (assessment)
+
+| Funnel stage | DoctorOnCall mechanism | Strength |
+|---|---|---|
+| Awareness | SEO condition pages, health A-Z content, vaccine-era brand residue, insurer co-branding | Strong |
+| Consideration | Price anchoring (from RM15), promo codes, "No. 1 / first" claims, MMC-doctor trust badges | Strong but discount-dependent |
+| Conversion | Web checkout for consult/pharmacy/screening; multiple apps as secondary channel | Medium — funnel friction, queue-based consults |
+| Retention | Referral rewards, repeat pharmacy baskets; no membership, no care plans | Weak |
+| Advocacy | Referral cash incentives; thin organic social community | Weak |
+
+The retention gap is structural: with no subscription, no named doctor and no program layer, repeat behaviour depends on pharmacy repurchase habits and insurer routing rather than clinical relationships. *(assessment)*
+
 ## 8. Reviews & reputation
 
 Ratings availability: an aggregate Google Play star rating for the pharmacy app could not be verified (AppBrain shows individual 5-star and 2-star reviews but "no user ratings" aggregate for `com.docmobile`); the iOS App Store aggregate rating was likewise not retrievable from sources reviewed. **No Trustpilot presence for the Malaysian entity was found** (UK "Doctorcall" is an unrelated company). These are honest gaps — do not quote a star figure.[^38][^39]
@@ -136,6 +158,16 @@ Ratings availability: an aggregate Google Play star rating for the pharmacy app 
 | Refund/service recovery | Negative | Formal return & refund policy exists, but complaint anecdotes centre on slow resolution[^34] |
 | Employer reputation | Weak | Glassdoor 2.7/5 across 37 reviews — relevant as an execution-quality signal[^37] |
 | Community chatter | Thin | No substantive r/malaysia or Lowyat complaint threads surfaced in searches for this dossier — brand awareness skews functional/transactional rather than loved or hated *(inference)* |
+
+### 8.1 Regulatory & reputational context
+
+DoctorOnCall's reputation cannot be separated from Malaysia's regulatory vacuum. Three durable facts:
+
+1. **The Telemedicine Act 1997 is unenforced and non-prescriptive** — it neither defines permitted modalities nor registration pathways for online practice; there is no dedicated Online Healthcare Services (OHS) regulation covering telemedicine and e-prescriptions.[^11][^32]
+2. **DoctorOnCall's dispensing model has survived direct political challenge.** The November 2020 parliamentary question from the Lanang MP ("how can DoctorOnCall sell prescription drugs online?") did not result in enforcement action; the consult-then-dispense flow through Type A-licensed partner pharmacists remains the operating consensus.[^33][^25]
+3. **The company positions itself as pro-regulation**, publicly calling for OHS rules (The Edge cover story) — a classic incumbent strategy: rules written around the incumbent's architecture raise rivals' costs.[^32]
+
+For reputation, the practical consequence is asymmetric: DoctorOnCall carries quasi-official legitimacy from MOH partnerships while bearing no formal telehealth licensing obligations — but any future OHS regime becomes a compliance re-platforming event for it and every competitor simultaneously.
 
 ## 9. Strengths / weaknesses
 
@@ -155,6 +187,30 @@ Ratings availability: an aggregate Google Play star rating for the pharmacy app 
 - **Opportunities:** insurer digitisation budgets; GLP-1 wave (they own the traffic but not the program); GCC/SEA licensing deals via Fischer; public-sector digitisation (KKM).
 - **Threats:** telemedicine/e-pharmacy regulation formalising against their partner-licence model; Doctor Anywhere's better-funded regional push; vertical entrants (weight loss, men's health) peeling off their most profitable categories; marketplace disintermediation by hospitals' own apps.
 
+## 10a. Competitive position vs. adjacent players
+
+| Dimension | DoctorOnCall | DOC2US ([doc2us.md](doc2us.md)) | Doctor Anywhere (MY) |
+|---|---|---|---|
+| Core motion | B2C web marketplace + e-pharmacy | B2B2C e-Rx rails + chat consults | App-first regional telehealth, VC-funded |
+| Consult channel | Video/phone/chat queue | Asynchronous text chat | App video |
+| Pharmacy | Own storefront + partner licences | Partner dispensing network (Watsons, Alpro, etc.) | In-app pharmacy + delivery |
+| Payer layer | 10 insurers / 8 TPAs claimed | AIA, MiCare integrations | Insurer/employer plans regionally |
+| Funding | ~USD 5.11M + undisclosed strategics | Bootstrapped | USD 58.7M+ Series C (regional)[^20] |
+| Government ties | MOH advisory, KKM booking, NTIS | MySejahtera COVID advisory | Limited (MY) |
+| Weight/GLP-1 program | None published | None published | Weight-loss clinic vertical marketed regionally |
+
+Read: DoctorOnCall is the volume incumbent, DOC2US the infrastructure incumbent, Doctor Anywhere the capitalised regional threat. None currently owns a clinician-led weight/longevity program in Malaysia — the segment is open.[^31]
+
+### Porter's Five Forces snapshot (DoctorOnCall's seat)
+
+| Force | Pressure | Driver |
+|---|---|---|
+| New entrants | High | Telemedicine effectively unregulated; low technical barriers to consult marketplaces; vertical D2C entrants (men's health, weight) proliferating[^11] |
+| Supplier power (doctors/hospitals) | Medium-high | Specialists are hospital-employed; platforms compete for moonlighting GPs; no exclusivity |
+| Buyer power (payers) | High | Insurers/TPAs can multi-home or insource; corporate contracts competitive |
+| Substitutes | High | Free/subsidised public clinics (RM1 outpatient), walk-in GPs at RM30–60, pharmacy self-care |
+| Rivalry | High | DOC2US, Doctor Anywhere, BookDoc, Qualitas digital arms, hospital apps |
+
 ## 11. Differentiation analysis — where DoctorOnCall is vulnerable to Welltech
 
 1. **Program vs. transaction.** DoctorOnCall monetises visits and baskets. A weight-loss/longevity entrant selling outcomes over 3–12 month programs (GLP-1 titration, labs, coaching) attacks demand DoctorOnCall only serves with content and one-off consults.[^31]
@@ -171,6 +227,25 @@ Ratings availability: an aggregate Google Play star rating for the pharmacy app 
 - **B2B2C is their fortress; pick niches.** Rather than chasing their 10-insurer panel breadth, target employer/insurer programs specifically for obesity/metabolic risk (claims-cost story), where their generic screening offer is shallow.[^24]
 - **Regulatory posture as marketing.** Mirror their compliance architecture (MMC doctors, Type A-licensed pharmacy partners, 90-day Rx rules) from day one and communicate it louder; their model survived parliamentary scrutiny, proving the playbook is defensible.[^25][^33]
 - **Track:** (a) any GLP-1/weight program launch on doctoroncall.com.my; (b) Fischer-funded product upgrades ("AI-driven ecosystem") reaching the Malaysian consumer UX; (c) new insurer white-labels; (d) Singapore site expansion into consults (currently pharmacy-led).[^16][^36]
+
+### Monitoring dashboard (review quarterly)
+
+| Signal | Where to check | Why it matters |
+|---|---|---|
+| Weight-loss/GLP-1 program SKU | doctoroncall.com.my `/health-centre/health-services/weight-management/` and `/medicine/` search | Direct entry into Welltech's core segment[^31] |
+| Consult price / platform fee changes | Help-centre FAQ + checkout | Price-anchor drift affects Welltech's premium gap[^21][^26] |
+| New insurer/TPA logos | `/corporate/` portals | B2B lock-up of employer channels[^24] |
+| App consolidation / relaunch | Google Play, App Store listings | Signals consumer-experience investment[^34][^38] |
+| Fischer/HDT announcements | fischermv.com press room, Bursa/NSE disclosures | Capital injections and international pivots[^15] |
+| Regulatory positions | CodeBlue, The Edge health coverage | They lobby publicly for OHS regulation; rule changes reshape everyone's cost base[^32][^33] |
+
+### Open intelligence gaps
+
+1. Verified app-store aggregate ratings and review volumes (require direct store scraping; route to [../30-patient-reviews/](../30-patient-reviews/)).
+2. Actual consult volumes, GMV and take-rates — no audited figures anywhere in the public domain; treat all "20M visits / 1.9M users" claims as company-sourced.[^15]
+3. Terms of Samsung Ventures and Fischer investments (size, stake, board rights).
+4. Whether the Saudi hospital-group contract has gone live and at what scope.[^16]
+5. Doctor-side economics (per-consult payout, utilisation) — needed for [../40-doctor-experience/](../40-doctor-experience/) modelling.
 
 ---
 
