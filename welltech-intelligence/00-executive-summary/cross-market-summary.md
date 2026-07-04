@@ -106,6 +106,8 @@ Headline vendor "telemedicine" figures (e.g. Grand View's USD 4.1bn for Singapor
 
 The pattern is exact: seven strategic groups, the same disqualifying economics, in all three markets. No incumbent category can assemble the full stack without breaking the model that funds it — which is why one de-novo operating system can occupy the vacant quadrant three times.
 
+**The measurement gap is the deepest moat.** The single most telling number in the repository is that **only two published outcome studies exist across all three markets combined** (Naluri in Malaysia, NOVI in Singapore; zero in Hong Kong). Weight care is sold on price, convenience, brand and before/after imagery — almost never on measured, published results. An operator that instruments and publishes outcome cohorts from launch out-reputations incumbents within quarters in every market, and turns those cohorts into the tender asset that wins the employer/insurer channel. Because outcomes require patients, retention and time to accumulate, this is the slowest-to-copy asset and the one that compounds fastest across a three-market platform.
+
 ---
 
 ## 4. The sequencing logic & what each market contributes
@@ -219,6 +221,14 @@ The economic core of the thesis is that most of the machine is built once and re
 
 **The capital-efficiency payoff.** Because the stack, the AI machine, the protocols, the data architecture and the governance playbook travel, the marginal cost of entering markets two and three is dominated by **local regulatory build, clinician recruitment and brand** — not software or process re-invention. This is what allows a sequenced three-market rollout to be funded as one platform rather than three independent country raises, and what lets each market's proof accelerate the next rather than starting from zero.
 
+**Cross-border corridors — the optionality only a regional platform holds.** Three corridor flows convert the multi-market footprint into products no single-country operator can offer, each run as separate licensed entities per jurisdiction with a shared data layer and hand-off protocols:
+
+- **JB–Singapore:** 4–8× SG:MY price differentials on dental/screening/pharmacy and several hundred thousand Malaysian commuters make the corridor a product, not just a comparison — the MY entity serves cheaper care, the SG entity handles SG follow-up.
+- **Penang/JB medical tourism:** MHTC's RM7bn-by-2030 target and Indonesian/regional preventive demand feed the longevity and screening lines via Malaysia's tourism clusters.
+- **Greater Bay Area & mainland-shopper (Hong Kong):** state-normalised cross-boundary care (elderly vouchers at 21 mainland service points; eHealth+ record recognition) and durable mainland-visitor demand for HK GLP-1/screening — a follow-on option only after HK unit economics prove out, and only within export/licensing law (never cross-border dispensing).
+
+These options are genuinely unavailable to any single-market incumbent, and they are why the regional platform's terminal value exceeds the sum of three country P&Ls.
+
 ### 7.1 Standing operating principles (apply in all three markets)
 
 Nine rules hold across every deployment — the regional operating doctrine that keeps the platform coherent:
@@ -307,7 +317,7 @@ In all three markets the decisive variables are the same — **retention and cli
 
 ## 10. Regional risks & mitigations
 
-The cross-market risks that most affect the platform thesis (country-specific risks are ranked in each country summary's §7). These are the ones that threaten the *regional* logic — the sequence, the shared machine, or the compounding moat.
+The cross-market risks that most affect the platform thesis (country-specific risks are ranked in each country summary's §7). These are the ones that threaten the *regional* logic — the sequence, the shared machine, or the compounding moat. Two properties of the risk profile are worth naming: first, the highest-probability regional risks are competitive and executional (regionalisation, sequence-dependency, clinician supply), not demand-side — the demand is structurally validated in all three markets. Second, several risks are two-sided: GLP-1 price deflation compresses drug revenue but expands eligible volume; payer coverage of weight-loss GLP-1 would re-price the premium pool but also validate the category and hand Welltech the tender asset. The mitigations therefore lean on design choices already made (coaching-weighted margin, clinician-light delivery, governance-to-the-SG-ceiling) rather than on new hedges.
 
 | # | Risk (class) | Why it threatens the regional thesis | Mitigation |
 |---|---|---|---|
@@ -326,7 +336,17 @@ Each risk has a designed response rather than a hedge; the standing rule across 
 
 ## 11. Regional key-numbers dashboard
 
-The sharpest load-bearing figures pulled from all three markets. Each traces to the linked country summary or master.
+**The numbers that carry the thesis:**
+
+
+- **~USD 1.4–3.0bn** — regional Welltech-relevant SAM/year across the three markets.
+- **~USD 30–80m** — achievable Year-3 SOM ARR, scaling toward USD 100m+ as Malaysia matures.
+- **1.6–3.0×** — the ARPU gradient for the same GLP-1 program-month, Malaysia → Hong Kong.
+- **2** — published outcome studies across all three markets combined (the measurement-gap moat).
+- **6–24 months** — the persistence window before the fastest regionaliser can assemble a competing model.
+- **~90%** — share of the operating machine (stack, AI ops, protocols, governance) re-used across all three markets.
+
+The full load-bearing figures pulled from all three markets, for quick reference and investor-deck sourcing. Each traces to the linked country summary or master; verify flagged items before external quotation.
 
 | # | Figure | Malaysia | Singapore | Hong Kong | Source |
 |---|---|---|---|---|---|
@@ -334,22 +354,31 @@ The sharpest load-bearing figures pulled from all three markets. Each traces to 
 | 2 | Median age | 31.3 | 43.2 | 49.4 | [cross-market §2](../10-market-intelligence/cross-market-comparison.md) |
 | 3 | GDP per capita (USD) | ~12–13k | ~99.4k | ~54.1k | masters §1 |
 | 4 | Overweight+obese | 54.4% (WHO ≥25) | 12.7% obese (≥30) | 54.6% (Asian) | masters §2 |
+| 4b | Life expectancy | 75.2 yrs | ~84 yrs | **88.4 F / 82.8 M — world's highest** | masters §1 |
 | 5 | Diabetes | 15.6% | 1-in-3 lifetime | 8.5% raised glucose | masters §2 |
 | 6 | OOP / payer | 76% of private financing | 71% IP-insured; OOP ~25% | private 48.2% of CHE | masters §3 |
 | 7 | Medical trend (2025) | ~15% | 12–15.5% (16.9% proj. 2026) | ~9.8% | [cross-market §4](../10-market-intelligence/cross-market-comparison.md) |
+| 7b | Wealth concentration | KL affluent ~8.8m | 332k millionaires; 2,000+ family offices | 12,546 UHNWIs (#2 globally); ~3,384 family offices | masters §1 |
 | 8 | WhatsApp reach | 90.7% | ~84% (+Telegram 38%) | ~74.7% | masters §7–9 |
 | 9 | Telehealth licence | None enforced | **HCSA + CGO required** | None (MCHK guidelines) | masters §6/§4 |
 | 10 | Enforcement flagship | Tele-MC ban (Sep 2025) | **MaNaDr shutdown (2024)** | UMAO ad wall | masters |
 | 11 | GLP-1 formation | Wegovy Jan 2026 | Mounjaro weight Jun 2025 | Wegovy Nov 2025 | masters |
+| 11b | Retail Wegovy anchor | (RM899–3,200 GLP-1 band) | S$350–1,000/mo | ~HK$2,700/mo | masters §6/§4 |
 | 12 | Welltech program-month (USD) | ~213 | ~346–538 | ~449–641 | [cross-market §12](../10-market-intelligence/cross-market-comparison.md) |
+| 12b | ARPU multiple vs MY (program) | 1.0× | ~1.6–2.5× | ~2.1–3.0× | [cross-market §12](../10-market-intelligence/cross-market-comparison.md) |
 | 13 | Longevity membership target | RM3.6–8.8k/yr | S$2–6k/yr | HK$25–40k/yr | masters §7/§11 |
+| 13b | Longevity market shape | Nascent cottage industry | State-legit hub; barbell | Mature checks; HNW barbell | masters §7/§11 |
 | 14 | Published outcome studies | 1 (Naluri) | 1 (NOVI) | 0 | [competitor-comparison](../20-competitor-dossiers/competitor-comparison.md) |
+| 14b | Closest live analogue | OVA/ORA | NOVI (benchmark) / ORA (funnel) | Zoey / EC Healthcare | masters §5/§10 |
 | 15 | Attractiveness score (of 5) | 4.45 | 3.00 | 4.10 | [cross-market §16](../10-market-intelligence/cross-market-comparison.md) |
+| 15b | Entry order | 1st | 2nd | 3rd | §4 |
 | 16 | Strategic role | Volume + proving ground | Credibility + payer + capital | Margin + longevity + GBA | §4 |
 | 17 | Year-3 SOM (USD ARR) | ~13–34m | ~7.7–20m | ~9–26m | §2 |
 | 18 | **Regional SAM** | — | — | — | **~USD 1.4–3.0bn/yr** |
 | 19 | **Regional Year-3 SOM** | — | — | — | **~USD 30–80m ARR** |
 | 20 | Regional digital-health envelope | — | — | — | ~USD 1.3–2.25bn (2024–25) |
+| 21 | Whitespace persistence window | — | — | — | 6–24 months before a regionaliser assembles the model |
+| 22 | Shared-IP re-use across markets | — | — | — | ~90% of the operating machine; ~10% re-engineered locally |
 
 ---
 
@@ -365,5 +394,7 @@ Carried from the country summaries, the regional-level open questions that most 
 | 4 | **Regulatory trajectory** | SG tightening (87/2024); MY Digital Health Act unlanded; HK CMPR by end-2026; virtual-only rests on forbearance (MY) / PHFO grey zone (HK) | Build to SG ceiling everywhere; physical-clinic anchor; legal review before each launch |
 | 5 | **Competitor regionalisation timing** | Whether DA / ORA / Naluri-for-insurers assembles cross-border inside the 6–24-mo window | Speed on slow-to-copy assets; overlap the sequence; open Naluri step-up referral early |
 | 6 | **Northern-market unit economics at scale** | Whether the MY-proven cost base holds under SG/HK doctor time, rent and clinician scarcity | Clinician-light delivery (~1:600) as entry condition; retention KPIs as board metrics |
+
+**The case in one paragraph.** Malaysia, Singapore and Hong Kong present a single, durable whitespace — supervised, longitudinal, outcome-accountable metabolic and longevity care on WhatsApp — that every incumbent can see and none can enter, because each is blocked by its own unit economics. The demand is structurally validated everywhere (metabolic-disease majority, double-digit medical inflation, a 2024–26 GLP-1 category-formation window), the channel is universal (WhatsApp), and the failure mode is universal (episodic care, no follow-through, no published outcomes). The winning move is one operating system deployed three times in a self-de-risking sequence — Malaysia to prove it cheaply, Singapore to credential it and bank a portable licence, Hong Kong to monetise it at maximum ARPU — producing a regional platform of ~USD 1.4–3.0bn SAM and ~USD 30–80m Year-3 SOM whose margin *rises* as it scales north and whose moat (published outcomes, portable governance, WhatsApp-native operations, corridor optionality) compounds with each market entered. The window is timed, not permanent; the thesis is a speed thesis executed with governance discipline; and a proven, outcomes-published Welltech is either the category's defining operator or its most valuable acquisition target — in every scenario, not a casualty.
 
 *For the rigorous three-market side-by-side tables underpinning every claim here, see [../10-market-intelligence/cross-market-comparison.md](../10-market-intelligence/cross-market-comparison.md). For per-market depth, see the three country executive summaries and their masters.*

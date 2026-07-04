@@ -66,6 +66,8 @@ All local-currency figures are drawn from the three market masters. To compare a
 
 **Analytical read.** The financing logic differs but converges on the same opening. Malaysia's 76% private-OOP share means a cash-pay subscription fits ingrained behaviour ([MY §3.2](malaysia-market-intelligence.md)). Singapore's low OOP is misleading — the money moves through **claims inflation** and 71% IP coverage, so the buyer is the employer/insurer, and the 1 April 2026 rider reform is pushing insured consumers toward package-priced prevention ([SG §3.3](singapore-market-intelligence.md)). Hong Kong's queue-versus-price binary generates continuous private demand with **no subsidy competitor in the middle market** ([HK §2.4](hong-kong-market-intelligence.md)). In all three, the state anchors or subsidises the low end (or lets it queue) and vacates the premium metabolic/longevity middle — the layer Welltech targets.
 
+**Implication for Welltech.** The economic buyer differs by market and dictates the beachhead motion: patient-cash DTC in Malaysia, employer/insurer-first in Singapore, and cash-plus-employer with queue-avoidance in Hong Kong. The universal constant is that the premium metabolic/longevity middle is unsubsidised and uncontested by the state everywhere — so the go-to-market lead varies (DTC vs B2B2C) but the target layer does not.
+
 ---
 
 ## 4. Health expenditure & medical inflation
@@ -491,6 +493,8 @@ timeline
 7. **Compliance is the portable moat.** Three markets ban consumer drug advertising and two (SG, HK) enforce hard; building to the Singapore governance ceiling everywhere turns the region's strictest regime into a credibility passport that clears the other two markets and converts governance into brand.
 
 8. **The platform is worth more than the parts.** Shared IP (~90% of the machine re-used), portable credibility (the SG licence improves the MY CAC problem and opens HK), a three-market outcomes dataset no country incumbent can assemble, and corridor optionality (JB–SG, Penang/JB tourism, GBA, mainland-shopper) make the regional platform the correct unit of competition — and, in the consolidation scenario, the category's most valuable acquisition target rather than its casualty.
+
+9. **The one-line synthesis.** Three markets, one whitespace, one operating system, a 1.6–3.0× ARPU ladder, and a sequence — Malaysia to prove, Singapore to credential, Hong Kong to monetise — in which each deployment de-risks and enriches the next, and the region's strictest regime (Singapore) becomes the portable moat that clears the other two.
 
 **Comparison-table index (for quick navigation):** demographics/burden §2 · system/OOP §3 · expenditure/inflation §4 · digital/WhatsApp §5 · regulation/enforcement §6 · GLP-1 status/pricing §7 · advertising §8 · privacy §9 · competition + Five Forces §10 · longevity §11 · price levels §12 · TAM/SAM/SOM §13 · universal whitespace §14 · market-specific + portability §15 · attractiveness scoring §16 · corridors/synergies §17.
 
