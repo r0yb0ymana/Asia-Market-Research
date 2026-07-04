@@ -646,6 +646,25 @@ Net: **structurally attractive only for a differentiated, clinician-light, progr
 
 ---
 
+## Appendix: verification backlog & data gaps
+
+Items flagged for live verification before capital commitment (in priority order):
+
+| # | Item | Why it matters | Section |
+|---|---|---|---|
+| 1 | Full LCQ1 (9 Jul 2025) obesity reply text and any post-PHS-2020-22 survey wave | Latest official prevalence + policy signals; direct fetch of info.gov.hk was blocked in this research pass | §2.1[^15] |
+| 2 | Current HA SOPC stable-case waiting times by specialty (live HA dashboard) | Quantifies the queue Welltech competes against; only historical LCQ figures verified here | §3.2[^20][^23] |
+| 3 | Primary GLP-1 price survey (≥20 clinics/med-spas/pharmacies, mystery-shop) | This report relies on advertised prices + one third-party buyer's guide; programme pricing decisions need primary data | §6.2[^106] |
+| 4 | Legal opinions: PHFO applicability to virtual-first care; UMAO review of planned creative; export-control posture for visitor sales | The three legal edges that can end the business | §4 |
+| 5 | Insurer GLP-1/weight coverage policies (AXA, Manulife, Cigna, Bupa group books, current year) | Determines employer-channel economics | §6.3[^43] |
+| 6 | Screening-to-programme conversion benchmarks (commissioned survey or pilot data) | Single largest uncertainty in longevity SOM | §7.1, §10.2a |
+| 7 | Telehealth market bottom-up build (platform volumes: DrGo, QHMS video, Bowtie utilisation) | Third-party market sizes are scope-inconsistent; no platform discloses volumes | §5.1[^83][^85] |
+| 8 | Humansa/New World asset status | Potential partnership/M&A window | §7.2, §11.4[^122][^123] |
+
+Known data gaps acknowledged in-text: Asian- vs WHO-cutoff obesity comparability (§2.1); Insights10 telemedicine figures paywalled (§5.1); expat population definitional spread (§1.3); private telehealth platform volumes undisclosed (§5.3).
+
+---
+
 ## References
 
 [^1]: news.gov.hk, "Mid-year population at 7.52m" (14 August 2025), https://www.news.gov.hk/eng/2025/08/20250814/20250814_163532_979.html (accessed July 2026).
