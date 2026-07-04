@@ -208,6 +208,10 @@ The doctor-experience payoff of this structure — protocol risk carried by the 
 | Psychotropic audit spillover | Low (if formulary excludes) | High reputationally | Hard formulary exclusion of phentermine/benzodiazepines[^32][^33] |
 | Fee-splitting recharacterisation of pharmacy rebates | Medium | Medium | Flat technology/service fees; legal review of pharmacy contracts[^5] |
 
+### 7.3 Bottom line
+
+Malaysia's prescribing rules reward the operator who builds the boring version first: a registered clinic that examines patients, a licensed-CA digital signature on every script, a pharmacist-governed supply chain, and a refill cadence that never outruns clinical review. Each of those is also what a risk-averse Malaysian doctor needs to see before lending the model their APC — the prescribing architecture and the doctor-recruitment pitch are the same artefact viewed from two sides (see [clinician-pain-points.md](clinician-pain-points.md)).
+
 ---
 
 ## References
