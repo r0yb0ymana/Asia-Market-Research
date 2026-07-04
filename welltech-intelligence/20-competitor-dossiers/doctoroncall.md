@@ -67,6 +67,23 @@ DoctorOnCall is a multi-sided platform: consumers (consults + pharmacy + screeni
 
 **Subscriptions/memberships:** none observed for consumers; corporate contracts are the recurring-revenue layer. *(inference)*
 
+### 4.1 Observed price points (July 2026, MYR unless stated)
+
+| Item | Price | Notes | Source |
+|---|---|---|---|
+| GP teleconsultation | from RM15 | chat/video/audio; prescription + delivery add-ons | [^22] |
+| Teleconsultation platform fee | RM7.99 | documented in help-centre FAQ (slug history shows an earlier RM9 level — fee has moved over time) | [^21] |
+| Specialist teleconsult | from RM80 | varies by practitioner; 20+ specialties advertised | [^22] |
+| Standard delivery | RM25 | free above RM350 basket (2024 policy) | [^26] |
+| Legacy delivery policy | RM10 | free above RM120 (2021-era policy, superseded) | [^26] |
+| Small-order fee | applies < RM10 basket | margin protection on tiny OTC orders | [^26] |
+| Health screening packages | RM49.90 – RM1,998 | observed range across standalone and bundled packages | [^23] |
+| Referral reward | RM30 cash | plus RM12-off signup voucher | [^42] |
+| Touch 'n Go promo | 10% off, cap RM30 | code TNGDOC10, min spend RM50 | [^41] |
+| Weight-loss program | none published | content hub + dietitian consults only; no program SKU or GLP-1 pricing found | [^31] |
+
+Pricing hygiene note: DoctorOnCall's public price points are scattered across the main site, help centre and promo portals rather than a single rate card; several FAQ figures lag the live checkout. Figures above are as observed/reported at access date; refresh before quoting in external materials.
+
 ## 5. Clinical workflow
 
 ```mermaid

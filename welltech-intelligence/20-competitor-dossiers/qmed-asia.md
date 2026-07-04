@@ -86,6 +86,39 @@ Implication: Qmed answers to revenue, not investors. It can undercut venture-fun
 
 Patient-side apps (Qmed Portal) provide booking, live-queue status, teleconsults and records — free to patients, monetised via providers.[^25]
 
+### Product stack
+
+```mermaid
+flowchart TB
+    subgraph Patients
+        P1[Qmed Portal app: booking, live queue, teleconsult]
+        P2[Qmed GO workplace kiosk: GP consult + 16-param vitals]
+        P3[QM Care: screening, home care, vaccination]
+    end
+    subgraph Providers
+        S1[Queue / appointment / registration SaaS]
+        S2[Virtual clinic: teleconsult, payment, med delivery, RPM]
+        S3[Qmed Copilot: Ask CPG + Scribe + ICD coding]
+        S4[Qmed AI enterprise: vision, LabLens, navigation, RCM, agents]
+    end
+    subgraph Payors_Government
+        G1[MOH clinic deployments ~400 sites]
+        G2[Employer dashboards / panel-clinic substitution]
+    end
+    P1 --> S1
+    P2 --> G2
+    P3 --> G2
+    S1 --> G1
+    S2 --> S1
+    S3 --> S4
+```
+
+*(Analyst read)* The stack is horizontally broad but vertically shallow: each layer serves clinic operations generally rather than any specific condition or patient cohort. That breadth is why Qmed is everywhere in Malaysian primary care yet owns no therapeutic category.
+
+### Pricing signals
+
+Published pricing was not found for any line. Directional signals: queue SaaS was cheap enough for mass GP-clinic adoption during COVID (4→400 government clinics without a large procurement announcement)[^5]; Qmed GO is sold against employers' panel-clinic spend, i.e., priced below expected per-employee clinic claims[^15][^16]; Copilot is distributed as a freemium/subscription app for individual doctors with enterprise tiers via qmed.ai.[^12][^14] *(Analyst estimate: low three-figure MYR per clinic per month for SaaS; kiosks likely leased with per-consult fees — unverified.)*
+
 ---
 
 ## 6. Technology and AI
