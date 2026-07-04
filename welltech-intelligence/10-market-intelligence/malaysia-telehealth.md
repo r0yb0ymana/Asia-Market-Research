@@ -107,6 +107,17 @@ Reconciliation:
 | Statista consumer survey | Jan 2023 | 48.7% never used online health consultation; ~5% frequent users.[^4] |
 | Telehealth adoption modelling (Journal of Infrastructure, Policy and Development) | 2024 | Performance expectancy, effort expectancy, self-efficacy and trust explain 82.1% of variance in intention to adopt telehealth.[^42] |
 
+### 4.1 Demand segmentation read-out
+
+| Segment | Telehealth behaviour (evidence) | Value to a continuity operator |
+|---|---|---|
+| Urban convenience users | Drove the COVID surge (DOC MAU 600K→2.5M); price-sensitive at RM20–30; churn between platforms freely[^27][^30] | Top-of-funnel only; convert selectively into programmes |
+| Chronic-disease patients | Served today by public phone-based follow-up (diabetes/hypertension dominate public teleconsult use); refill demand powers e-pharmacy growth (DOC2US: one e-prescription filled per minute; +160% prescription demand)[^16][^49] | Core programme economics; highest annual value |
+| Employer-covered workforce | Reached via HealthMetrics TPA rails, Qmed kiosks, insurer apps; consults free at point of use[^41][^50][^56] | B2B2C channel for weight/metabolic programmes with measurable absenteeism ROI (Naluri's claimed 4× ROI is the reference sales motion)[^60] |
+| Weight-management / GLP-1 seekers | Buying Wegovy today through aesthetic-clinic online consults with delivery — fragmented, unmonitored, premium-priced[^78][^79] | Immediate wedge segment: high WTP, clinically underserved, no incumbent owner |
+| Mental-health users | Teleconsultation satisfaction driven by convenience/privacy but limited by depth of connection (49.1% highly satisfied)[^18] | Adjacent programme layer; integrates with metabolic care (Naluri's pairing validates it)[^58] |
+| Rural / access-constrained users | Target of MOH virtual clinics and NaDi internet centres; unlikely to pay privately[^13][^24] | Public-sector domain; not a Welltech segment near-term |
+
 Read-through: satisfaction is decent but not enthusiastic; the binding constraints are trust, scheduling friction, and the shallow, transactional nature of encounters — not technology availability. Notably, the WTP evidence (RM58–78) sits **well above** prevailing B2C consult prices (RM19.90–30), implying incumbents compete on price in a market that would pay ~2–3× for perceived quality.[^17]
 
 **Implications for Welltech.** The RM58–78 WTP headroom is the single most actionable datapoint in the Malaysian evidence base: a premium, continuity-based teleconsult experience (named doctor, WhatsApp follow-up, programme context) can price at RM60–100 without fighting the RM19.90 commodity floor.
@@ -365,6 +376,20 @@ Net: an unattractive industry *as currently defined* (commodity consults), attra
 | Consumer ever-use of online consultation | ~51% (2023 baseline) | rising | — | — | Statista survey[^4] |
 
 ---
+
+### 13.1 Watchlist: leading indicators to monitor (2026–2027)
+
+| Signal | Why it matters | Where to watch |
+|---|---|---|
+| Digital Health Act tabling & final text (target 2026) | Could introduce platform licensing, prescribing limits, or data-localisation duties that reset entry economics | Parliament order papers; MOH digital health division; Skrine/Donovan & Ho alerts[^10][^14] |
+| Abolition of Telemedicine Act 1997 | Confirms the OHS Guideline → statute pathway | Baker McKenzie / MOH consultations[^6] |
+| CCMS + One-Individual-One-Record rollout pace | Determines when public–private data interoperability becomes real; CCMS vendors may become private EMR defaults | 13MP documents; MOH procurement; OpenGov Asia[^24] |
+| DoctorOnCall's Fischer-funded internationalisation | Distraction from the home market = wider domestic window; alternatively fresh capital could fund a chronic-care vertical | Fischer MV disclosures (listed in India)[^31] |
+| WhiteCoat/Good Doctor post-merger moves into Malaysia | The consolidated group (130+ insurers, 7,500 corporates regionally) entering MY via insurer contracts would contest the B2B2C layer | TechNode/MobiHealthNews; insurer app partner changes[^68] |
+| GLP-1 supply and pricing (Wegovy, successors) | Programme economics depend on reliable supply; NPRA approvals of oral GLP-1s would expand the addressable base | NPRA registers; MIMS Malaysia; Novo Nordisk MY announcements[^78] |
+| MySejahtera chronic-care expansion | Public super-app absorbing NCD follow-up would compress the low end; its fragmentation record (separate Madani app) suggests slow execution | MOH announcements; CodeBlue[^71][^72] |
+| Naluri's move (or not) into prescribing/clinical services | The only player positioned one step from Welltech's model; its Series B investors expect profitability, which argues against costly clinical expansion | Naluri releases; DealStreetAsia[^58] |
+| SEA healthtech funding recovery | A funding rebound re-arms incumbents; the current winter is Welltech's structural ally | Tracxn/Galen Growth quarterlies[^45][^46] |
 
 ## 14. Bottom line for Welltech
 

@@ -148,7 +148,76 @@ Comparative note: DA undercuts Speedoc on teleconsults in Malaysia (RM25 vs RM30
 
 ---
 
-## 8. Strengths / Weaknesses / SWOT
+## 8. Competitive context
+
+### 8.1 Reconciliation of conflicting figures
+
+| Figure | Values reported | Treatment |
+|---|---|---|
+| Series C size | S$88M (company) = ~US$65.7M (PR Newswire); MobiHealthNews headline "US$66M" | Single round; currency framing differs[^13][^14] |
+| Users | 1.5M (2021) → 2.5M (Jan 2023) → 2.8M+ (late 2023) → "2M+"/"2.5M+" on current LinkedIn/marketplace pages | Growth series retained with dates; current public figure is loosely stated by DA itself[^1][^3][^5][^6] |
+| Losses | S$44.6M (FY2022), S$43.5M (FY2023) after-tax (ACRA via press) | Reported as-is; no FY2024 filing surfaced this cycle[^7][^8] |
+| Android rating | ~4.3★ (third-party tracker) | Unverified against live Play Store; flagged[^55] |
+| Countries | "six countries" incl. Indonesia; ID consumer footprint appears limited (FAQ site, LinkedIn entity) | Indonesia counted as market entry, depth unverified[^3] |
+
+### 8.2 Comparison matrix — DA vs key rivals in Welltech's geographies
+
+| Dimension | Doctor Anywhere | Speedoc (see [dossier](speedoc.md)) | DoctorOnCall (MY) |
+|---|---|---|---|
+| Core motion | Omnichannel telehealth + clinics + marketplace | Home clinical logistics, hospital-at-home | MY online pharmacy + teleconsult |
+| Geography | SG+5 SEA markets | SG, MY | MY |
+| GP teleconsult | S$27.25 / RM25 (S$14.17 member) | S$21.80 / RM30 | ~RM20[^29] |
+| Owned clinics | 9 (SG) + VN clinics/pharmacies | 0 | 0 (pharmacy partners) |
+| Insurer panels | 7+ majors | GE, Allianz MY | Corporate panels |
+| Home services | House calls, home screening/vaccination | Full stack incl. nursing, ambulance, virtual wards | Limited |
+| Marketplace/pharmacy | 9,000+ SKUs | None | Core business |
+| Weight/GLP-1 programme | Consults only, no packaged programme | None | Pharmacy-led categories |
+| Funding | >S$190M | ~US$33–51M | (not assessed) |
+
+### 8.3 Porter-style forces snapshot (DA's position)
+
+| Force | Assessment |
+|---|---|
+| Buyer power | **High** — insurers/employers negotiate per-consult rates; consumers churn on price and promo codes. *(inference)* |
+| Supplier power | **Medium** — gig-GP supply is elastic in SG/MY, but per-consult payouts floor the unit cost; specialist supply (AHS) is owned.[^48] |
+| New entrants | **Medium-high** — teleconsult is commoditised; omnichannel estate is the differentiator but capital-hungry. |
+| Substitutes | **High** — GP walk-ins, polyclinics, insurer-owned telehealth, pharmacy apps, and (in MY) DoctorOnCall at lower price points.[^29] |
+| Rivalry | **High** — multi-front: Speedoc (home), WhiteCoat (B2B SG), Ping An/Grab-adjacent plays regionally. |
+
+### 8.4 Customer journey (B2C teleconsult, SG)
+
+```mermaid
+journey
+    title Doctor Anywhere patient journey (typical teleconsult)
+    section Trigger
+      Minor illness, need MC or refill: 2: Patient
+    section Access
+      App download, sign-up, queue: 3: Patient
+      GP connects in under 5 min (review-reported): 5: DA
+    section Care
+      Video consult S$27.25 (S$14.17 member): 4: Doctor
+      e-MC issued, meds pushed in-app: 3: Patient
+    section Fulfilment
+      Medication couriered about 3h: 4: DA
+      Pharmacy pricing above retail (review theme): 2: Patient
+    section Aftermath
+      Marketplace cross-sell, promos: 3: DA
+      Different doctor next time, no continuity: 2: Patient
+```
+
+Two structural notes: (1) speed-to-doctor is genuinely excellent and repeatedly praised; (2) monetisation concentrates post-consult (pharmacy margin, marketplace), which is precisely where trust complaints cluster.[^47]
+
+### 8.5 Customer segments *(analyst synthesis)*
+
+1. **Insured employees** (largest, via 7+ insurer/employer panels) — cashless, low-friction, low-loyalty.
+2. **Convenience B2C** — MC/refill seekers, parents; promo-price sensitive.
+3. **Heartland primary care** — CHAS/Healthier SG patients at nine DA Clinics.
+4. **Premium screeners** — DA Orchard MedSuites imaging/screening clients.
+5. **Regional mass-market** — TH (Raksa base), VN, PH, ID users at local price points.
+
+---
+
+## 9. Strengths / Weaknesses / SWOT
 
 ### Strengths
 1. Regional scale and brand: 6 markets, 2.8M+ users, deepest funding stack in SEA consumer telehealth.[^1][^6]
@@ -174,7 +243,7 @@ Comparative note: DA undercuts Speedoc on teleconsults in Malaysia (RM25 vs RM30
 
 ---
 
-## 9. Vulnerability analysis vs a WhatsApp-first continuity-care weight/longevity entrant
+## 10. Vulnerability analysis vs a WhatsApp-first continuity-care weight/longevity entrant
 
 1. **Continuity is the wedge.** DA's per-consult gig model cannot deliver a named clinician who follows a patient through 12 months of GLP-1 titration, labs and behaviour change. Welltech's care-team-in-your-WhatsApp model attacks DA where its unit economics forbid it to follow.
 2. **Pharmacy-margin resentment is pre-built demand.** App-store reviewers already complain of inflated med prices and prescription lock-in.[^47] Transparent GLP-1 pricing + prescription portability is a direct conversion message.
@@ -185,7 +254,7 @@ Comparative note: DA undercuts Speedoc on teleconsults in Malaysia (RM25 vs RM30
 
 ---
 
-## 10. Implications for Welltech
+## 11. Implications for Welltech
 
 1. **Position against transactional telehealth explicitly.** "A doctor who knows you on WhatsApp" vs DA's queue-of-strangers. Use continuity, named clinicians and outcome tracking as the category frame.
 2. **Move before DA packages weight loss.** DA has ingredients but no programme; Welltech's window to own "medical weight loss done right" in SG/MY is open but time-boxed (est. 12–24 months). *(analyst estimate)*

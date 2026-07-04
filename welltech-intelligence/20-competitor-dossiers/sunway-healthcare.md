@@ -40,6 +40,18 @@ Related: [KPJ Healthcare dossier](kpj-healthcare.md) · [Research standards](../
 | Aftermarket | Shares up 63.5% from IPO price within weeks, prompting valuation debate; analysts had already backed a premium multiple pre-listing[^13][^14] |
 | Earlier guidance | Pre-IPO reporting (Jan 2025) had sketched a US$675m raise at ~US$3.3b valuation — the final outcome materially exceeded this[^9] |
 
+**Recent corporate timeline**
+
+| Date | Event |
+|---|---|
+| 1999 | Sunway Medical Centre opens in Sunway City[^5] |
+| Jan 2021 | Telemedicine Command Centre launches — Malaysia's first 24/7 in-house online healthcare helpdesk[^40][^41] |
+| 2021 | GIC invests RM750m for 16%; ~RM4.69b implied valuation[^6][^8] |
+| 2024 | Annalise.ai radiology AI partnership; United Imaging digital PET/CT (first in SEA)[^47][^48] |
+| 2024–25 | SMC Damansara and SMC Ipoh open and ramp[^1] |
+| Sep 2025 | RM1.6b expansion programme detailed: seven hospitals, ~3,000 beds by 2032[^18] |
+| 18 Mar 2026 | Bursa Main Market listing at RM1.45; +28% debut; KLCI inclusion 25 March[^3] |
+
 ### 1.4 Financials
 
 | Metric (MYR) | FY2024 | FY2025 |
@@ -183,6 +195,37 @@ Evidence base: ibanding and Top-Rated.Online review aggregations for SMC Sunway 
 
 **Net assessment:** Sunway's consumer reputation is the strongest of Malaysia's hospital groups — high praise density, complaints concentrated in throughput and communication rather than competence or billing disputes. For Welltech this raises the experience bar: differentiation against Sunway must come from *continuity and outcomes*, not baseline service quality.
 
+### 5.3 The Sunway screening-customer journey vs the Welltech model
+
+```mermaid
+journey
+    title Screening customer at SMC (composite from pages and reviews cited)
+    section Purchase
+      Buy package online or via bank privilege: 5: Customer
+      WhatsApp booking, SMS confirmation: 4: Customer
+    section Visit day
+      Wellness Centre visit, half day: 4: Customer
+      Premium facility experience: 5: Customer
+    section Results
+      Report via app or debrief: 3: Customer
+      Abnormal finding referred to consultant clinic: 3: Customer
+    section Aftermath
+      TCC available if customer initiates: 3: Customer
+      No proactive follow-up programme: 1: Customer
+```
+
+Sunway executes the first half of the preventive journey better than anyone in Malaysia — then hands the customer a report and waits. The reactive TCC softens but does not close the continuity gap: nothing in the public offer schedules the next intervention, tracks biomarker trajectories, or manages medication between visits.
+
+### 5.4 Reputation summary
+
+| Dimension | Assessment | Basis |
+|---|---|---|
+| Clinical trust | Very high — quaternary flagship, triple accreditation, awards | [^7] |
+| Process experience | Good with pinch-points — file misrouting, appointment prioritisation, peri-op comms | §5.2 [^53][^54] |
+| Digital experience | Market-leading among MY hospital groups — TCC, WhatsApp lines, e-commerce, app | §3 [^39][^24][^22] |
+| Price perception | Premium; softened via bank/insurer privilege discounts | §2.1 [^27][^31] |
+| Brand consistency | High across a small flagship network; test comes as seven new sites open | §1.5 *(inference)* |
+
 ---
 
 ## 6. SWOT
@@ -206,7 +249,21 @@ Evidence base: ibanding and Top-Rated.Online review aggregations for SMC Sunway 
 | Continuity | TCC answers questions 24/7[^40]; app shows results[^43] | Reactive helpdesk ≠ proactive longitudinal management; no coaching cadence, titration or outcome dashboards |
 | Escalation | Quaternary flagship, oncology, robotics[^7][^33] | Genuinely strong — partner tier-one referral destination |
 
-### Partnership vs competition scenarios
+### 7.1 Benchmark: Sunway vs KPJ (summary)
+
+Full KPJ analysis in the [KPJ Healthcare dossier](kpj-healthcare.md).
+
+| Dimension | Sunway Healthcare | KPJ Healthcare |
+|---|---|---|
+| FY2025 revenue / profit | RM2.20b / RM252m net[^1] | RM4.26b / RM366m PATAMI |
+| Network shape | Few large urban flagships; 7 hospitals in pipeline[^18] | ~29–30 hospitals, national breadth incl. secondary cities |
+| Valuation signal | RM21.3b+ post-debut — premium growth multiple[^3] | Listed incumbent re-rated upward in Sunway's slipstream[^58] |
+| Screening entry price | ~RM680 core; to RM3,290 comprehensive[^22][^26] | from RM399; to ~RM1,260 executive tiers |
+| Digital front door | TCC 24/7 + WhatsApp + e-commerce (§3) | App + call centres; fragmented WhatsApp |
+| Preventive ambition | Active: wellness retail, MCED, TCM integrative | Passive: screening SKUs only |
+| Threat to Welltech | Medium-high — adjacent and well-funded | Low-medium — structurally slower |
+
+### 7.2 Partnership vs competition scenarios
 
 1. **Partner — premium diagnostics & escalation (attractive).** Welltech members get priority imaging/labs and MCED at SMC; Welltech refers surgical and complex cases in. Sunway gets high-value insured volume for new beds; Welltech gets quaternary credibility. Sunway's occupancy pressure (69%) makes it a motivated partner through 2028.[^1]
 2. **Partner — channel co-development.** Joint propositions into the same private-bank/insurer catalogues (UOB, Prudential)[^27][^31]: Sunway sells the screen, Welltech sells the year-round programme.

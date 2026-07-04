@@ -152,6 +152,18 @@ Pricing observations:
 
 ---
 
+### Customer segments served *(analyst synthesis from service mix and partnerships)*
+
+1. **Families of frail elderly** — house calls, home nursing, CDHM, ambulance; the highest-LTV B2C segment.
+2. **Post-discharge / hospital-substitution patients** — H-Ward/MIC@Home, referred and funded institutionally, not self-acquired.
+3. **Time-poor professionals and parents** — night house calls, baby vaccinations, teleconsults; episodic, marketing-expensive.
+4. **Insurer/telco members** — Great Eastern, Allianz MY, NTUC, StarHub bundles; discounted entry pricing (e.g., S$16 GE teleconsults).[^17][^27][^28][^29]
+5. **Expats in Malaysia** — explicitly targeted with English-language teleconsult content on the MY blog.[^25]
+
+Segment 1 and 2 dominate the economics; none of the five constitutes a preventive/longevity cohort, confirming the retention-vacuum thesis in §8.4.
+
+---
+
 ## 7. Reviews & reputation
 
 Hard rating numbers for the consumer app were not verifiable in this research cycle (Play/App Store pages were not directly fetchable); treat the following as thematic evidence rather than audited scores.

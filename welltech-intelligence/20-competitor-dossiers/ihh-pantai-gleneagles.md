@@ -130,6 +130,13 @@ Read-through:
 
 **Implications for Welltech.** IHH's weight franchise is bariatric-surgical (RM20k+ episodes) with GLP-1 pharmacotherapy only recently marketed, and only at Prince Court. There is no subscription care model, no titration-support workflow, no digital follow-up. Welltech's GLP-1 program competes mainly with *individual endocrinologists' private practices inside these hospitals*, not with an IHH product.
 
+### 2.4 Medical tourism and executive-demand context
+
+- Malaysia received ~1.6 million healthcare travellers in 2024 (+14% y/y), generating RM2.72bn in revenue (+21%) per MHTC-linked reporting; another outlet reports RM2.13bn for 2024 — the two figures likely reflect different revenue definitions and are shown unreconciled. National ambition: ~RM12bn by 2030, with 2026 designated Malaysia Year of Medical Tourism.[^47]
+- Post-Island Hospital, more than one in three medical tourists to Malaysia is treated in an IHH facility, and foreign patients contributed ~19% of IHH's Malaysia revenue in Q1 2026.[^8][^10]
+- Executive screening is a standard entry product in this flow: Penang and KL hospitals package screening + hotel for Indonesian and regional visitors, and Gleneagles/Pantai screening pages are mirrored on IHH's dedicated international-patient site (ihhmalaysia-international.com).[^25][^26]
+- Read-through for Welltech: the same regional affluent segment IHH courts for episodic tourism (Indonesian, Singaporean, HK patients into KL/Penang) is Welltech's cross-border concierge segment — but Welltech can own them *between* trips.
+
 ---
 
 ## 3. Digital initiatives
@@ -153,6 +160,18 @@ Read-through:
 - **Premier Integrated Labs** deployed Malaysia's first AI-assisted fully automated haematology system in private practice (October 2025).[^41]
 - Group-level AI: SmartPeep AI video analytics for fall prevention; AI-supported pathology decision support (developed with Acibadem/Virasoft); Innovation Fund portfolio (Doctor Anywhere, Us2.ai echocardiography AI, Belun, Leo Cancer Care); Global Incubator launched October 2025.[^14][^15][^16]
 - Malaysia-specific consumer-facing AI: none observed. AI investment is diagnostic/back-of-house, not care-navigation or engagement.
+
+### 3.4 Channel inventory (as observed July 2026)
+
+| Channel | Scope | Hours | Function | Gap vs Welltech model |
+|---|---|---|---|---|
+| MyHealth360 app | 11 Pantai + 4 Gleneagles | 24/7 app; TeleConsult office hours | booking, records, bills, teleconsult[^36] | no messaging, no care team, no proactive outreach |
+| WhatsApp (Pantai KL +6016-313 0888) | per-hospital | Mon–Fri 9–5, Sat 9–1[^38] | specialist appointment capture | closes evenings/weekends; no clinical use |
+| WhatsApp (Gleneagles KK; international line) | per-hospital / international | office hours[^39] | booking, cross-border enquiries | same |
+| Call centres / web forms | all hospitals | office hours | enquiries, screening bookings[^22][^27] | asynchronous latency |
+| eHealth video (Prince Court) | PCMC only | booking-gated, ≥1 day ahead[^40] | lead-gen chat + paid consult | not continuous care |
+
+*(inference)* Every IHH consumer channel is an **inbound scheduling funnel**. None initiates contact with a patient who hasn't booked. A care model that messages the patient first — titration check-ins, abnormal-result follow-ups, renewal reminders — does not exist anywhere in this network.
 
 ---
 
@@ -283,6 +302,23 @@ Three consumer-experience facts worth internalising:
 
 IHH's own playbook supports partnership: it invested in Doctor Anywhere rather than building consumer telehealth in-house.[^15]
 
+### 6.3 Capability matrix — IHH Malaysia vs a digital-first concierge/longevity operator
+
+| Capability | IHH Pantai/Gleneagles | Welltech (target state) | Advantage |
+|---|---|---|---|
+| Specialist depth & procedures | >200 specialists at PHKL alone; full surgical stack[^17] | none in-house; referred out | IHH |
+| Inpatient/emergency capacity | ~3,300 operational beds[^9] | none | IHH |
+| Diagnostics | captive 35-lab network, 24m tests/yr[^21] | partner-dependent | IHH |
+| Brand trust (offline, older demographics) | 45+ years (Pantai)[^17] | to be built | IHH |
+| 24/7 asynchronous care channel | none (TeleConsult office hours; WhatsApp switchboard)[^36][^38] | core product | Welltech |
+| Longitudinal metabolic program (GLP-1 titration, coaching) | none under Pantai/Gleneagles brands (§2.3) | core product | Welltech |
+| Price transparency | dispersed, promo-driven, opaque billing[^45] | published subscription pricing | Welltech |
+| Data continuity (biomarkers over time) | records app (MyHealth360), no longitudinal analytics product[^36] | designed-in | Welltech |
+| Payor relationships | deep GL/panel infrastructure[^43] | thin; mostly cash-pay | IHH |
+| CAC for preventive consumers | screening promos + card partnerships | content/community/WhatsApp funnels | contested |
+
+The matrix shows near-total complementarity outside the screening product itself — the structural basis for a referral MOU.
+
 ---
 
 ## 7. Implications for Welltech
@@ -293,6 +329,18 @@ IHH's own playbook supports partnership: it invested in Doctor Anywhere rather t
 4. **Monetise their friction.** GL delays, 3–6h admission/discharge waits and billing opacity are the dominant complaint themes at both flagships.[^45][^46] A concierge membership that "handles the hospital for you" sells against documented pain.
 5. **Build the referral bridge early.** Welltech needs bariatric surgery, advanced imaging, oncology and cardiology partners; IHH needs high-yield elective volume (its entire Malaysia strategy is revenue-intensity, §1.3). A structured referral MOU — Welltech sends procedures, IHH sends post-episode patients needing longitudinal metabolic care — is plausible and precedented (Doctor Anywhere).
 6. **Watch two moves:** (a) any Malaysia rollout of a packaged weight/metabolic program under the Gleneagles brand (the GKL Weight Management Centre is the seed); (b) ACC expansion into the Klang Valley, which would put IHH outpatient capacity — and possibly screening-plus-follow-up products — closer to Welltech's demographic.
+
+### 7.1 Monitoring triggers (review quarterly)
+
+| Trigger | Where to check | Why it matters |
+|---|---|---|
+| Gleneagles/Pantai launches a branded weight or metabolic *program* (vs specialty page) | gleneagles.com.my, pantai.com.my packages pages | direct entry into Welltech's category |
+| MyHealth360 adds asynchronous messaging or subscription features | App Store release notes[^36] | continuity capability closes |
+| New IHH ACC announced in Klang Valley | quarterly analyst decks[^7][^8] | outpatient capacity nearer Welltech's segment |
+| Innovation Fund / Incubator invests in a weight, longevity or WhatsApp-care startup | IHH newsroom, incubator releases[^14][^16] | partner-or-compete signal; also Welltech's own BD opening |
+| Mitsui 49% transaction completes | Bursa/SGX filings[^2][^4] | strategy and capital-allocation reset |
+| Screening package repricing at PHKL/GKL | screening pages[^22][^27] | benchmark for Welltech diagnostics pricing |
+| DRG implementation milestones | MOH/CodeBlue reporting[^43] | reshapes hospital episode economics and referral appetite |
 
 ---
 
