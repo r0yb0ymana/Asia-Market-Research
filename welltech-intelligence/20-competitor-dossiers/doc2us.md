@@ -64,6 +64,21 @@ DOC2US monetises three layers: consumer chat consults, B2B/B2B2C service contrac
 
 **Pricing observations:** consult price points are deliberately low (≤RM20 GP) and partner-subsidised to free in the Watsons funnel — DOC2US competes on prescription volume and network fees, not consult margin. *(inference from cited pricing)*
 
+### 4.1 Observed price points (MYR unless stated)
+
+| Item | Price | Vintage / caveat | Source |
+|---|---|---|---|
+| GP chat consult (8am–11:59pm) | RM9.99 | 2017 press; cited as RM10 around 2022 Watsons launch | [^10][^23] |
+| GP chat consult (12am–7:59am) | RM19.99 | 2017 press; cited as RM20 in 2022 | [^10][^23] |
+| Specialist chat (day / overnight) | RM19.99 / RM39.99 | 2017 press; RM20/RM40 in 2022 citations | [^10][^23] |
+| Watsons-funnel virtual consult | Free to consumer | e-Rx dispensed at selected Watsons pharmacies | [^21][^22] |
+| RTKis COVID test-verification package | RM45 | 2021 B2B product, now legacy | [^17] |
+| DOC2HOME Health Concierge | Subscription (price unpublished) | residence-level contracts (e.g., S P Setia developments) | [^24][^25] |
+| Long-term medication delivery | Delivery fees via Alpro/GDEX (unpublished rate card) | chronic-refill logistics | [^33][^34] |
+| Weight-loss / GLP-1 program | none published | content only; no program SKU found (July 2026) | [^35] |
+
+Charging mechanics: card on file, charged only when a chat session ends; cancelling before a provider accepts incurs no fee.[^10] Current in-app rates should be re-verified directly in the app before quoting externally — public documentation lags.
+
 ## 5. Clinical workflow
 
 ```mermaid

@@ -297,6 +297,7 @@ journey
 | Philippines/Vietnam execution | Local entity launches, client logos | Diverts management attention from Malaysian product depth |
 | Insurer channel deepening (AIA/Prudential expansion) | HolistiCare v2, group-policy embedding | Insurer-embedded wellbeing raises the bar for Welltech's own payor conversations |
 | Engagement disclosure | Any published MAU/enrolment rates | Would confirm or refute the covered-lives vs active-users gap |
+| Regional consolidation | M&A involving Intellect/ThoughtFull/MindFi | A merged mental-health platform with chronic-disease ambitions would compress Naluri's differentiation[^35] |
 
 ## 16. Implications for Welltech
 

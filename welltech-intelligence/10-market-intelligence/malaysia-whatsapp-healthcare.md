@@ -92,6 +92,17 @@ Across these examples, five recurring patterns *(analyst synthesis of the provid
 
 What is *absent* in nearly every observed deployment: structured templates, opt-in capture, Flows-based intake, CRM/EMR integration, measurable SLAs, automated reminder cadences, AI triage, and audit-grade message retention. Even the largest hospital chains run WhatsApp as a manually staffed inbox.
 
+### 3.3 The public-sector counterfactual
+
+Government primary care deliberately routes digital demand elsewhere: Klinik Kesihatan appointments are mandated through the **MySejahtera** app, and MOH facilities do not operate patient-facing WhatsApp booking at scale.[^31b] This bifurcation matters strategically: the *private* market has standardised on WhatsApp precisely because it is the lowest-friction differentiator against public queues, and no public-sector WhatsApp incumbent will emerge to compress that advantage. Meanwhile the app-first counterexamples — Pathlab pushing results into its own app,[^27b] hospitals shipping branded apps with low engagement — illustrate the install-wall problem WhatsApp avoids (§10.2). *(analyst synthesis)*
+
+### 3.4 What Malaysian patients now expect *(analyst synthesis of §2–3 evidence)*
+
+- **Immediacy:** a WhatsApp message to a business is expected to be answered in minutes during business hours — an expectation set by SME commerce, not healthcare.
+- **Persistence:** the chat thread is the patient's de facto personal health record ("scroll up" retrieves the doctor's advice, the receipt, the result PDF) — which is exactly why the *clinic* must hold the authoritative archived copy (§6.5).
+- **Informality with authority:** patients voice-note symptoms in Manglish and expect clinically reliable answers; tone calibration (warm, brief, bilingual) is a product feature, not a style choice.
+- **One thread for everything:** booking, paying, asking, rebooking in a single continuous conversation; every forced channel-switch (call this number, fill this web form) is experienced as service failure.
+
 **Implications for Welltech.** Patient behaviour requires zero education — Malaysians already book, ask, and receive results on WhatsApp. Incumbent execution is shallow, so the bar for "best WhatsApp care experience in Malaysia" is low and the delta is visible to patients within one conversation (instant structured booking vs. "we will get back to you"). The playbook in §9 is designed to make that delta systematic.
 
 ---
@@ -460,6 +471,7 @@ Reading: WhatsApp wins every *engagement* job and loses only on *system-of-recor
 [^29]: respond.io, "WhatsApp for Healthcare: A Comprehensive Guide" (cites NIH-indexed finding: 74% of Malaysian and 97% of Brazilian physicians use WhatsApp in practice), https://respond.io/blog/whatsapp-for-healthcare (accessed July 2026).
 [^30]: Ganasegeran K. et al., "The m-Health revolution: Exploring perceived benefits of WhatsApp use in clinical practice", *International Journal of Medical Informatics* (307 health professionals, Malaysian public hospital; 68.4% perceived benefit), https://www.sciencedirect.com/science/article/abs/pii/S1386505616302283 (accessed July 2026).
 [^31]: Him Clinic (https://forhimclinic.com/) and Klinik Tuah "Buat Temujanji" (https://kliniktuah.com/buat-temujanji/) — examples of wa.me/WhatsApp booking CTAs at Malaysian private clinics (accessed July 2026).
+[^31b]: eCentral, "Cara Tempah Temu Janji Klinik Kesihatan Online (MySejahtera)" (government clinic appointments routed through MySejahtera), https://ecentral.my/janji-temu-klinik-kesihatan-online/ ; see also MOH Malaysia, "COVID-19 (Temujanji Atas Talian)", https://www.moh.gov.my/en/covid-19-temujanji-atas-talian (accessed July 2026).
 [^32]: "Effectiveness of educational intervention in improving medication adherence among patients with diabetes in Klang Valley, Malaysia", *Frontiers in Clinical Diabetes and Healthcare* (2023) (daily WhatsApp-group reminders + education, n=389; significant adherence improvement), https://www.frontiersin.org/journals/clinical-diabetes-and-healthcare/articles/10.3389/fcdhc.2023.1132489/full (accessed July 2026).
 [^33]: "Feasibility of a peer-supported, WhatsApp-assisted, lifestyle modification intervention for weight reduction among adults in an urban slum of Karachi, Pakistan" (mean −2.2 kg; −386 kcal/day), https://pubmed.ncbi.nlm.nih.gov/37527890/ and https://pmc.ncbi.nlm.nih.gov/articles/PMC10394542/ (accessed July 2026).
 [^34]: "WhatsApp in Clinical Practice — The Challenges of Record Keeping and Storage: A Scoping Review", *Int J Environ Res Public Health* 18(24):13426 (2021), https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8708459/ (accessed July 2026).
