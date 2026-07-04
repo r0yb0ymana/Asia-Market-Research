@@ -247,11 +247,23 @@ No regional competitor productises this ([consumer behaviour §6.1](../10-market
 | Ramadan −30d | Ramadan-mode activation ("reply RAMADAN") + adjusted calendar | Utility | Dr/Assistant | Annual disruption protocol |
 | Lapsed +30/60/90d | Reactivation ladder (segment-matched) | **Marketing** | Brand | Opt-out carried; frequency-capped |
 
+**Steady-state cadence (months 4–12):**
+
+| Rhythm | Message | Class | Purpose |
+|---|---|---|---|
+| Fortnightly | Check-in Flow (weight, symptoms, adherence) — monthly from month 6 by preference | Utility | Monitoring without fatigue |
+| Monthly | Progress summary + coach content matched to phase | Utility | Engagement floor |
+| Monthly, T-5d | Renewal reminder + rails + instalment option | Utility | Involuntary-churn defence |
+| Quarterly | Labs cycle: order → collection → doctor-signed explanation | Utility→Service | Outcome evidence + clinical safety |
+| Quarterly | Doctor review teleconsult | Service | Dose strategy, relationship |
+| Event-driven | Plateau flag content; supply-status notices; festival protocols (Ramadan, CNY, Raya, Deepavali) | Utility | The researched calendar ([consumer behaviour §6](../10-market-intelligence/malaysia-consumer-behaviour.md)) |
+| Month 9–12 | Step-down conversation sequence + maintenance-tier offer + longevity cross-serve | Service | Off-ramp by design |
+
 Cost note: this cadence is ~85% utility/service class; modelled Meta fees stay ≈RM0.50–1.05 per patient-month ([WhatsApp healthcare §5.2](../10-market-intelligence/malaysia-whatsapp-healthcare.md)) — the proactive-care model is nearly free at the channel layer; its real cost is the human escalation capacity in [ai-clinic.md §7](ai-clinic.md).
 
 ---
 
-## 4. Journey-wide metrics
+## 5. Journey-wide metrics
 
 | Layer | Metrics |
 |---|---|
