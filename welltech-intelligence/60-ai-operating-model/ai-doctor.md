@@ -4,7 +4,7 @@
 
 **Last updated: July 2026**
 
-Related documents: [AI Nurse design](ai-nurse.md) · [WhatsApp operating model](whatsapp-operating-model.md) · [Clinician pain points](../40-doctor-experience/clinician-pain-points.md) · [Doctor workflows](../40-doctor-experience/doctor-workflows.md) · [Prescribing models](../40-doctor-experience/prescribing-models.md) · [Malaysia regulations](../10-market-intelligence/malaysia-regulations.md) · [Qmed Asia dossier](../20-competitor-dossiers/qmed-asia.md)
+Related documents: [AI-native clinic master architecture](ai-clinic.md) · [AI Nurse design](ai-nurse.md) · [WhatsApp operating model](whatsapp-operating-model.md) · [Automation opportunity map](automation.md) · [Clinician pain points](../40-doctor-experience/clinician-pain-points.md) · [Doctor workflows](../40-doctor-experience/doctor-workflows.md) · [Prescribing models](../40-doctor-experience/prescribing-models.md) · [Malaysia regulations](../10-market-intelligence/malaysia-regulations.md) · [Qmed Asia dossier](../20-competitor-dossiers/qmed-asia.md)
 
 ---
 

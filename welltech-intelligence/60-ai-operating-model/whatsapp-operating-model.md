@@ -4,7 +4,7 @@
 
 **Last updated: July 2026**
 
-Related documents: [Malaysia WhatsApp healthcare intelligence](../10-market-intelligence/malaysia-whatsapp-healthcare.md) (the evidence base this design executes) · [AI Doctor Assistant](ai-doctor.md) · [AI Nurse design](ai-nurse.md) · [Malaysia regulations](../10-market-intelligence/malaysia-regulations.md) · [Prescribing models](../40-doctor-experience/prescribing-models.md) · [Patient acquisition channels](../50-marketing-intelligence/patient-acquisition-channels.md)
+Related documents: [Malaysia WhatsApp healthcare intelligence](../10-market-intelligence/malaysia-whatsapp-healthcare.md) (the evidence base this design executes) · [AI-native clinic master architecture](ai-clinic.md) · [AI Doctor Assistant](ai-doctor.md) · [AI Nurse design](ai-nurse.md) · [AI-orchestrated patient journey](ai-patient-journey.md) · [Malaysia regulations](../10-market-intelligence/malaysia-regulations.md) · [Prescribing models](../40-doctor-experience/prescribing-models.md) · [Marketing funnels](../50-marketing-intelligence/funnels.md) · [Positioning](../50-marketing-intelligence/positioning.md)
 
 ---
 
