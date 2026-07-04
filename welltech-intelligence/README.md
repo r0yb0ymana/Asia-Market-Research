@@ -17,6 +17,7 @@ Last updated: July 2026. Research standards: [RESEARCH-STANDARDS.md](RESEARCH-ST
 | [60-ai-operating-model/](60-ai-operating-model/) | AI clinic design: patient journey, AI staff roles, WhatsApp operating model, automation map |
 | [70-welltech-blueprint/](70-welltech-blueprint/) | Go-to-market, product, pricing, moat, roadmap, investor thesis |
 | [80-us-reference-market/](80-us-reference-market/) | The mature US DTC GLP-1/telehealth market studied for lessons (pros/cons) — not a target market; overview, Hims & Hers, Medvi, the wider cohort, and the adopt/avoid synthesis |
+| [90-verification/](90-verification/) | Second-pass fact verification: load-bearing-numbers audit, price verification, regulatory verification, cross-document consistency reconciliation, and the confidence-tag methodology. The driver-based [financial model](70-welltech-blueprint/financial-model.md) lives with the blueprint. |
 | [sources/](sources/) | Bibliography, link index, regulatory source index, dataset index |
 
 ## Suggested reading order
