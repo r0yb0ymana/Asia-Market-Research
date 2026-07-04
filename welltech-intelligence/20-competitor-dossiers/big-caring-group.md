@@ -111,6 +111,23 @@ Net margin of ~4.2% (FY2025) is thin retail economics — context for why the gr
 - **Structure:** WhatsApp is **decentralised to ~600 individual store numbers** — no single national pharmacist line, no published chronic-refill WhatsApp workflow, no WhatsApp Business API/automation evident. This contrasts with Alpro's single advertised pharmacist line (+60 19-702 1923) and Klang Valley 2-hour flow.[^43][^32]
 - **Assessment:** BIG CARING treats WhatsApp as a store-level convenience channel, not an operated care channel. Its 2.4M+ CARiNG members and 626-store footprint mean a centralised WhatsApp refill program would be instantly massive if launched — a key strategic watch-item. See [../10-market-intelligence/malaysia-whatsapp-healthcare.md](../10-market-intelligence/malaysia-whatsapp-healthcare.md).
 
+### 4.1 BIG store-level WhatsApp order journey (as documented)
+
+```mermaid
+journey
+    title BIG Pharmacy WhatsApp home-delivery journey (reconstructed from cited pages)
+    section Initiate
+      Find nearest outlet via store locator: 3: Customer
+      WhatsApp/SMS/call that outlet with name, phone, address: 4: Customer
+    section Fulfil
+      Store staff confirm items, price and payment: 3: Store staff
+      Outlet arranges local dispatch: 3: Store staff
+    section Retain
+      No documented follow-up or refill scheduling: 1: Customer
+```
+
+Contrast with Alpro's single national pharmacist line and e-Rx integration ([alpro-pharmacy.md](alpro-pharmacy.md), section 5): BIG CARING's flow is store-clerk commerce, not pharmacist-led care; quality varies by outlet and nothing accrues to a central patient record.[^43][^44][^32] *(analysis of cited flow)*
+
 ## 5. Technology & AI
 
 - **Supply chain:** Apr-2026 Klang DC is the group's technology showpiece — 160+ robots, tote-to-person/shelf-to-person systems, AI demand-forecast replenishment across the network, 90,000+ order lines/day, 99.8% accuracy; built because the Bukit Raja facility would hit capacity within five years at 40–50 new stores/year.[^29][^30]
