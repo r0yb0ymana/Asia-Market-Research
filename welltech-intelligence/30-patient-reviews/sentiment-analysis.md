@@ -118,6 +118,16 @@ flowchart LR
 
 **Cross-segment note:** the Malaysian telehealth satisfaction literature confirms the pragmatist profile — high satisfaction driven by convenience and scheduling, with older users hitting technical friction and ~25% carrying privacy concerns — meaning privacy assurance is a minority-but-material trust lever, especially for weight and mental-health use cases where the data is sensitive.[^30]
 
+### 6.1 Sub-segment: mental-health and coaching users (Naluri corpus)
+
+Distinct from all three main segments: these users praise **relationship continuity** (a coach who replies within 24h and remembers context) and punish **interface failure** hardest, because the app *is* the therapeutic channel — a crash mid-journal is not friction, it is treatment interruption.[^33] Privacy sensitivity is also highest here (employer-paid access creates a "will my company see this?" anxiety the review corpus hints at and the satisfaction literature's 25% privacy-concern figure supports).[^30] For Welltech's behavioural layer around GLP-1 care, the lesson transfers directly: the coaching channel must be the most reliable and most explicitly confidential surface in the product, not the most feature-rich.
+
+### 6.2 Language and tone notes for Malaysian review corpora *(observational)*
+
+- Complaint narratives are written in English far more often than praise, which frequently appears in Malay or Manglish — English-only sentiment scans overweight negativity. Multilingual monitoring is required for a true read.
+- "Recommend/tak recommend" verdict framing and warn-others intent ("jangan sign up") dominate slimming-centre complaints — reviewers see themselves as protecting the next victim, which is why these reviews are long, detailed and durable in search.
+- Named-staff praise ("Nurse X was so caring") is the strongest positive pattern across hospital corpora — individual recognition, not brand loyalty. A provider that surfaces and celebrates named staff gives patients the exact vocabulary they already want to use.
+
 ## 7. Implications for Welltech — ranked
 
 1. **(Highest impact) Build the anti-hard-sell weight programme and say so structurally, not rhetorically.** No packages sold in-session, cooling-off periods, non-commissioned clinicians, published refund policy. The category's complaint record (NCCC, tribunal case law, ComplaintsBoard) is a ready-made "what we will never do" manifesto that directly neutralises the dominant emotional trigger.[^11][^13][^15]

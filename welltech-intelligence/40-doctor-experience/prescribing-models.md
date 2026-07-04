@@ -123,6 +123,25 @@ Private KL clinics marketing Wegovy programmes describe a consistent envelope �
 - Market practice: DoctorOnCall's dispensation policy and pharmacy operation show refill mechanics running openly at scale (prescription verification by pharmacists before supply); DOC2US built its telepharmacy business substantially on chronic refills.[^31][^16]
 - Bounds for programme design: (a) each supply against a valid prescription within validity; (b) new prescription requires a consult — a fast teleconsult is sufficient for stable chronic patients under continuation of care; (c) quantity per supply should track the review cadence (monthly during titration; up to 3 months at stable maintenance) *(analyst protocol recommendation, consistent with the above instruments)*.[^6][^9][^30]
 
+### 5.1 Reference refill cadence for a Welltech GLP-1 programme
+
+*(analyst protocol recommendation, built on the instruments cited in §5 and the CPG 2023 chronic-disease framing)*
+
+| Phase | Consult cadence | Supply per dispensing | Prescription action |
+|---|---|---|---|
+| Titration (months 0–4) | Teleconsult every 4 weeks before each dose step | 4 weeks (one pen per step — avoids waste on dose changes) | New Rx or endorsed continuation at each step |
+| Early maintenance (months 5–6) | Teleconsult q4–8 weeks | 4–8 weeks | Rx renewal within validity |
+| Stable maintenance (month 7+) | Teleconsult q12 weeks + monitoring bloods per protocol | Up to 12 weeks (within ~3-month prescription validity) | Fresh Rx each quarter |
+| Interruption/restart after >2 weeks missed | Mandatory teleconsult; re-titration per label | Reset to titration supply | New Rx |
+
+Design logic: supply quantity always tracks the review interval, so a patient can never hold more medicine than their last clinical review covers — the strongest audit-defence posture available under current rules, and a natural retention mechanic for the programme business model.
+
+### 5.2 What a refill must never become
+
+- **No auto-ship without a live prescription**: subscription billing may recur; supply may not, unless a valid prescription covers it.[^1][^6]
+- **No "add to cart before consult"**: Pharmacy Enforcement's marketplace takedown campaign shows exactly where the line sits (see [regulations §4.3](../10-market-intelligence/malaysia-regulations.md)).
+- **No cross-border fulfilment** into Malaysia to arbitrage price — imports require registered products through licensed channels.[^1]
+
 ## 6. Controlled and excluded medicines
 
 | Class | Instrument | Rule for a digital operator |
