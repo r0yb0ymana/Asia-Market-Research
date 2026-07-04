@@ -31,6 +31,6 @@ Last updated: July 2026. Research standards: [RESEARCH-STANDARDS.md](RESEARCH-ST
 
 | Market | Status |
 |---|---|
-| Malaysia | In progress |
-| Singapore | Pending |
+| Malaysia | Complete (46 documents) |
+| Singapore | In progress |
 | Hong Kong | Pending |
