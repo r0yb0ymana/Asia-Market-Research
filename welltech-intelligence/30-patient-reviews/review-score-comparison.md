@@ -137,6 +137,26 @@ The correlation in this corpus is direct: DoctorOnCall (Glassdoor 2.7) has the w
 3. **Trustpilot is empty space in Malaysian healthcare.** No incumbent has claimed it; conflation with unrelated UK/US firms actively pollutes brand searches for DoctorOnCall and Doctor Anywhere — a small SEO defence opportunity.[^2][^3]
 4. **Snapshot decay.** The most complete hospital numbers are April 2024; treat as floor/ceiling indicators and commission a direct Maps/Play scrape (outside this environment's restrictions) before quoting externally.
 
+### 7.1 Reconciliation of conflicting figures
+
+| Figure | Conflicting values | Treatment in this document |
+|---|---|---|
+| Pantai KL Google rating | 4.0★/2,011 (Apr 2024 dated snapshot)[^1] vs "4.8 on Google" (social-listening review, undated aggregation)[^31] | Dated snapshot preferred; both retained. Plausible reconciliation: different entity scoped (single hospital vs brand-wide pages) or different date *(inference)* |
+| Sunway ratings | SJMC 4.5★/4,300 — often mislabelled "Sunway" in secondary coverage; SMC Sunway City itself unscored this cycle[^1] | SJMC explicitly flagged as a different hospital (Ramsay Sime Darby), not attributed to Sunway |
+| Doctor Anywhere Play rating | ~4.3★ (tracker, dossier cycle) vs no live confirmation | Quoted only with "unverified" flag |
+| BookDoc Android rating | 4.1★/10,736 votes via a scraper site of unclear vintage[^20] | Retained as low-confidence legacy figure |
+| Speedoc rating scope | 4.68★ is the regional app (SG+MY combined)[^13] | Never quoted as "Malaysia rating" |
+
+### 7.2 Benchmark targets for Welltech *(analyst recommendation)*
+
+| Platform | Category benchmark today | Welltech 12-month target | Rationale |
+|---|---|---|---|
+| Google Business Profile | Alpro outlets 4.8★ at 100–300 reviews each[^24][^25] | ≥4.7★ with ≥200 reviews for flagship presence | Matches the only proven review flywheel in MY healthcare |
+| Google Play / App Store | Speedoc 4.68★ (3.2k)[^13] | n/a in year one if WhatsApp-first (no app to rate) — a deliberate non-exposure | Avoids the T9 complaint surface entirely |
+| Trustpilot | Unclaimed by all incumbents[^2][^3] | Claim + seed ≥50 verified reviews | First-mover on an empty shelf; defends brand SERP |
+| Facebook Recommendations | Present but unmanaged across incumbents[^5][^6] | Active management; response time <24h visible | Malaysian weight-loss discourse lives on Facebook groups |
+| Complaint platforms | LWM 1.7★/36 complaints as the cautionary floor[^41] | Zero unanswered complaints — respond on-platform | Response visibility matters more than complaint absence |
+
 ## 8. Refresh checklist (quarterly)
 
 - Direct-scrape Google Play aggregates: com.doctoranywhere, com.speedoc.patient, life.naluriclientapp, com.doc2us.app, com.doctoroncall.pharmacy.

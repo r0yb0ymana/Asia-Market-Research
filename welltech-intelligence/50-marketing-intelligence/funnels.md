@@ -200,7 +200,62 @@ Track weekly against §5 table: cost/conversation, intake completion, qualified 
 
 ---
 
-## 7. Risks & watch items
+## 7. WhatsApp flow specifications (message-level)
+
+Operational detail lives in [malaysia-whatsapp-healthcare.md](../10-market-intelligence/malaysia-whatsapp-healthcare.md) and the [AI operating model](../60-ai-operating-model/); the funnel-critical flows and their conversion jobs:
+
+### 7.1 Qualification flow (entry → consult booked)
+
+| Turn | Message intent | Design notes |
+|---|---|---|
+| 0 | Prefilled CTWA first message ("Hi, saya nak tahu tentang program berat badan") | User-initiated = clean opt-in + free 72h window[^12] |
+| 1 | Instant AI greeting + language selector (BM/EN/中文) + "real doctors, real prices" one-liner | <1 min response SLA kills the 3-provider comparison loss |
+| 2–5 | Goals, height/weight (BMI computed and *acknowledged supportively* — Noom lesson), prior attempts, comorbidities | Each answer echoes back personalisation ("Ramai pesakit kami pernah cuba X…") |
+| 6–8 | T&CM use, halal/gender/language preferences, budget band (RM299 / RM999 / premium framing as "program styles") | Preference capture doubles as objection pre-emption ([positioning.md §8](positioning.md)) |
+| 9 | Eligibility outcome + RM49 credited consult offer + slot picker + payment link | Price shown only after personalisation is complete (Hims sequencing)[^3] |
+| 10 | Booking confirmation (utility template) + what-to-expect video + doctor profile card (name, MMC no., photo) | Named-doctor card is the single strongest trust artefact ([positioning.md §5](positioning.md)) |
+
+Fallbacks: silent-after-turn-2 → one gentle nudge at +4h, one at +22h (inside free window), then stop (no marketing-template chasing — cost and annoyance); "not ready" → opt-in to monthly education broadcast (marketing template, priced ~RM0.30–0.45/msg, sent sparingly).[^6]
+
+### 7.2 Retention flow (enrolment → month 12)
+
+| Trigger | Message | Job |
+|---|---|---|
+| Day 0 | Onboarding pack: dosing video, side-effect playbook, cold-chain unboxing verification | Set expectations; authenticity proof |
+| Day 3 / 7 / 14 | AI check-in ("Macam mana minggu pertama? Ada loya?") with structured buttons; nausea → nurse callback <2h | Attack the 28.2% side-effect quit driver in its peak window[^13] |
+| Weekly | Weigh-in prompt + trend chart image | Progress visibility = persistence |
+| Monthly −3 days | Refill confirmation + MD review booking (utility template) | Remove refill friction (the documented DIY failure point, [weight-loss §5.2](../10-market-intelligence/malaysia-weight-loss-market.md)) |
+| Plateau detected (3 weeks flat) | Doctor-authored explainer + dietitian session offer | Pre-empt "it stopped working" churn |
+| Ramadan −30 days | Ramadan-mode protocol activation | Safety + differentiation ([consumer-behaviour §6.1](../10-market-intelligence/malaysia-consumer-behaviour.md)) |
+| Goal milestone (−5%, −10%) | Celebration + referral card (RM50 credit both sides) | Convert success moments into CAC relief |
+| Month 5 | Maintenance-tier conversation opened by the *doctor*, not marketing | Graduation framed clinically, not commercially |
+
+### 7.3 90-day funnel launch plan
+
+| Phase | Weeks | Milestones | Gate to proceed |
+|---|---|---|---|
+| Instrument | 1–2 | WABA + CRM + conversation attribution live; KKLIU submissions filed; claims library approved | End-to-end test lead traced ad→enrolment |
+| Seed | 3–6 | 3 creative concepts × 2 languages at RM150–300/day; SEO hub (10 condition/price pages) published; referral mechanics live | Cost/qualified-lead <RM120; intake completion >45% |
+| Scale | 7–12 | Winning creative to RM500–1,000/day; Mandarin/XHS cell; first corporate pilot LOI | CAC/enrolled <RM800; week-4 persistence >85%; consult show-rate >75% |
+
+---
+
+### 7.4 Funnel diagnostics playbook (symptom → likely cause → fix)
+
+| Symptom | Likely cause | First fix | Second fix |
+|---|---|---|---|
+| High CPC, low conversation rate | Creative reads as ad, not help; audience too broad | Doctor-fronted hook; interest narrowing | Prefilled-message copy test |
+| Conversations open, intake abandoned at turn 2–3 | AI greeting too long / wrong language guess | Language selector first; ≤2-line messages | Human-name signing of messages |
+| Intake completes, consult not booked | Price shock at RM49 or slot friction | Reorder: slots before price; credit framing louder | RM29 test cell ([pricing.md §6.2](pricing.md)) |
+| Consults booked, no-shows >25% | Low commitment; reminder gap | T-24h and T-1h utility reminders; reschedule button | Deposit-style framing of the credit |
+| Consults happen, close rate <30% | Tier presentation or trust gap at price reveal | In-consult tier walkthrough by doctor; spouse PDF | Guarantee/refund policy disclosure test |
+| Strong closes, week-4 drop | Side-effect management failing | Audit day-3/7 check-in response times | Nurse callback SLA tightening |
+| Month-4–6 churn spike | Dose-cost anxiety (should not exist on flat tier) or plateau | Verify flat-price comprehension at onboarding | Plateau-protocol content + dietitian push |
+| Referral coefficient <0.1 | Asking at wrong moment | Move ask to milestone celebrations only | Raise credit to RM75/side temporarily |
+
+Weekly funnel review runs this table against the §5 dashboard; any two consecutive weeks outside range triggers the corresponding fix as an experiment, not a permanent change.
+
+## 8. Risks & watch items
 
 | Risk | Impact | Mitigation |
 |---|---|---|

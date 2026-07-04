@@ -105,6 +105,16 @@ flowchart LR
 3. **It simply worked** — fast delivery, genuine product, smooth end-to-end journeys (Sunway City's "registration to chemotherapy to billing, everything went smoothly").[^25]
 4. **Affordability with legitimacy** — RM19.99 real-doctor consults; Alpro's free-ish Minute Consult screenings drawing hundreds of grateful reviews.[^21][^27]
 
+### 5.1 Praise-language patterns (characterised, not verbatim-invented)
+
+| Pattern class | Typical construction observed | Where observed | What it tells product |
+|---|---|---|---|
+| Time-recovery brag | Elapsed-time specifics volunteered ("within 24 hours", "in 30 minutes", "arrived in just 2 days") | Speedoc, DoctorOnCall, Esyms corpora[^4][^20][^29] | Patients measure you in hours; publish and beat time promises |
+| Named-person gratitude | Staff named individually, role + behaviour described | Hospital corpora (nurses), Naluri (coaches)[^25][^26][^33] | Surface staff identity; make thanking easy |
+| Effort-avoided relief | "Did not have to travel/queue/wait outside clinic when so unwell" | Telehealth corpora, incl. Aug 2025 DA review[^8] | Sell the avoided journey, not the consult |
+| End-to-end smoothness | Sequence recitals ("registration to chemo to billing, everything went smoothly") | Sunway City corpus[^25] | Patients narrate journeys, not features — instrument the whole chain |
+| Legitimacy echo | Marketing trust-claims repeated back (MMC registration, board certification) | DoctorOnCall blog reviews[^21] | Trust copy gets memorised verbatim; write it to be quoted |
+
 ## 6. Segment-level sentiment differences
 
 | Dimension | Weight-loss patients | Telehealth users | Private-hospital patients |
@@ -138,6 +148,32 @@ Distinct from all three main segments: these users praise **relationship continu
 6. **Run an Alpro-style review flywheel from day one.** Malaysian patients leave reviews in volume when asked at the moment of service; the GLP-1/longevity category has zero incumbent review equity to displace.[^27]
 7. **Own the empty follow-up stage.** No provider's reviews mention proactive aftercare; continuity is uncontested sentiment territory and the natural home of a WhatsApp-first model. *(inference from corpus absence)*
 8. **(Defensive) Claim brand search surfaces early** — Trustpilot page, Google Business profiles, FAQ content that disambiguates from foreign namesakes — so the first review-shaped result about Welltech is one Welltech seeded.[^31]
+
+## 8. Messaging guardrails derived from sentiment evidence
+
+| Do | Because | Don't | Because |
+|---|---|---|---|
+| "Consult is RM X, all-in. Medication optional, prescription is yours." | Directly answers the two biggest telehealth resentments[^8] | "Free trial" / "free consultation" for weight services | The phrase itself is the slimming-centre hard-sell cue[^11][^12] |
+| Show MMC number + doctor photo before payment | Layer-1/2 trust proofs (§3.1)[^2][^21] | "Trusted by thousands" without verifiable anchors | Reads as exactly what scam sites say; MOH teaches consumers to check, not believe[^1] |
+| "If we're late, you're refunded automatically" | Converts the T4/T5 complaint chain into a selling point | Aspirational delivery times without tracking | DoctorOnCall's gap between promise and delivery is the cautionary corpus[^4] |
+| Discreet, medical, metabolic-health framing for GLP-1 | Stigma evidence: patients hide treatment[^17] | Before/after body imagery, weight-shame urgency copy | Mirrors the slimming-centre aesthetic that triggers the defensive crouch[^13] |
+| Publish response-time stats and complaint outcomes | Sunway's real-time feedback shows transparency is credible and rare[^28] | Delete/bury negative reviews | Complaint-platform archaeology (NCCC 2005–2008 archive still ranking) proves suppression fails[^15] |
+
+## 9. Sentiment measurement plan for Welltech (own-brand, from launch)
+
+1. **Instrument the review flywheel before scale:** post-episode WhatsApp review prompt (Alpro-pattern), routed to Google Business Profile; target ≥20% review conversion vs. the market's ~0.03–1%.[^27]
+2. **Track the four trigger KPIs monthly:** scam-mention rate in inbound queries; price-question-before-booking rate; hard-sell-suspicion phrases in chat logs; discretion requests (unbranded packaging opt-ins).
+3. **Run complaint-platform alerts** (ComplaintsBoard, PissedConsumer, Trustburn, NCCC, TTPM filings) on Welltech and top-5 competitor names — quarterly velocity reporting into the [monitoring plan](recurring-complaints.md).
+4. **Multilingual social listening** (Malay, English, Chinese) across TikTok/Facebook groups, where GLP-1 discourse actually lives, since indexed forums under-sample it (see [review-analysis.md](review-analysis.md) §2).
+5. **Close the loop publicly:** publish a quarterly "what patients complained about and what we changed" note — no Malaysian digital-health player does this; Sunway's cancer-centre feedback page is the only adjacent precedent.[^28]
+
+## 10. Limitations and refresh triggers
+
+1. **No computational sentiment scoring** was possible (store corpora blocked from direct scraping); everything here is thematic synthesis, robust to direction but not to magnitude. A proper multilingual NLP pass over scraped Maps/Play corpora is the highest-value upgrade to this document.
+2. **The weight-loss segment is under-sampled by design of the public web**: closed Facebook/WhatsApp/Telegram groups and TikTok carry the live GLP-1 discourse; indexed sources skew historical (slimming-centre era) and English-language. Treat §2.3–2.4 as floor estimates of trigger intensity.
+3. **Positive-experience invisibility**: satisfied B2B2C users (DOC2US via AIA, Naluri via employers) rarely reach public platforms, so cross-provider sentiment comparisons structurally flatter consumer-brand players and understate embedded ones.
+4. **Refresh triggers**: any incumbent claiming Trustpilot; DA changing its prescription policy; a KPDN/TTPM enforcement wave against aesthetic clinics; first public GLP-1 patient-community thread in Malay — each would materially shift a section above.
+5. Cross-check quarterly against the [complaint-theme monitoring plan](recurring-complaints.md) and re-date all scores via [review-score-comparison.md](review-score-comparison.md).
 
 ---
 
@@ -174,3 +210,6 @@ Distinct from all three main segments: these users praise **relationship continu
 [^29]: Esyms, "Pharmacy Delivery" (3-hour Klang Valley express), https://esyms.com/pharmacy-delivery (accessed July 2026).
 [^30]: JSM Computer Science and Engineering, "An In-Depth Analysis of Patient Satisfaction and the Multifaceted Challenges Encountered in the Utilization of E-Health Platforms in Malaysia: A Telehealth Case Study" (convenience-led satisfaction; ~25% privacy concerns; older-user friction), https://www.jscimedcentral.com/jounal-article-info/JSM-Computer-Science-and-Engineering/An-In-Depth-Analysis-of-Patient-Satisfaction-and-the-Multifaceted-Challenges-Encountered-in-the-Utilization-of-E-Health-Platforms-in-Malaysia-A-Telehealth-Case-Study-12314 (accessed July 2026).
 [^31]: Trustpilot, "Doctorcall (doctorcall.co.uk)" and "Doctor Care Anywhere (doctorcareanywhere.com)" — unrelated UK companies polluting Malaysian brand searches, https://www.trustpilot.com/review/doctorcall.co.uk and https://www.trustpilot.com/review/doctorcareanywhere.com (accessed July 2026).
+[^32]: PMC, "The use of a multi-disciplinary geriatric telemedicine service (TELEG) and its acceptance at a tertiary care centre in Malaysia", https://pmc.ncbi.nlm.nih.gov/articles/PMC10845621/ (accessed July 2026).
+[^33]: Google Play, "Naluri" listing and reviews (crash/keyboard-bug themes; coach-responsiveness praise), https://play.google.com/store/apps/details?id=life.naluriclientapp&hl=en_US (accessed July 2026).
+[^34]: AppGrooves, "Doctor2U — review aggregation" (forced app install; counter-intuitive UI), https://appgrooves.com/android/my.doctor2u.client/doctor2u-your-one-stop-healthcare-app/bp-healthcare-group/negative (accessed July 2026).

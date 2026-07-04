@@ -11,6 +11,8 @@ Last updated: July 2026
 - **Frequency signal** is a qualitative triangulation: how many independent platforms/providers the theme appears on, and whether it recurs across years. Remote research cannot produce true complaint counts for most providers (no scrapeable corpora; see limitations in [review-analysis.md](review-analysis.md) §1.2).
 - **Severity** is graded by consumer harm: A = financial/clinical harm (lost thousands of ringgit, wrong medication), B = care denied or materially degraded, C = friction/annoyance.
 
+**Theme index:** T1 pricing opacity · T2 communication failure · T3 prescription/medication · T4 delivery/logistics · T5 refunds · T6 waiting times · T7 hard sell · T8 doctor quality/rushed consults · T9 app/tech failures. Interactions in §10.1; root causes in §10.2; frequency summary in §12; anticipated new classes in §14.
+
 ---
 
 ## 1. Theme T1 — Pricing opacity & bill shock
@@ -194,6 +196,19 @@ Design consequence: breaking any chain at link two (communication) suppresses mo
 4. Watch Alpro's Birdeye volumes as the benchmark for review-solicitation performance in Malaysian healthcare (per-outlet pages; see [review-score-comparison.md](review-score-comparison.md) §3).[^31]
 5. Add Grab/foodpanda-style delivery-experience complaints to the T4 scan once Welltech's own logistics launch — the comparison set patients will actually use. *(analyst note)*
 
+## 14. Forward view — complaint classes Welltech will face that incumbents don't *(analysis)*
+
+The taxonomy above maps incumbent failure. A GLP-1/longevity/concierge entrant should expect four additional complaint classes with no Malaysian public precedent yet, and should pre-build responses:
+
+| Anticipated class | Analogue evidence | Pre-emptive design |
+|---|---|---|
+| GLP-1 side-effect distress ("nobody warned me about the nausea") | Side-effect profiles are the core of international GLP-1 patient-experience literature; Malaysian clinic pages under-communicate them relative to price[^34] | Structured onboarding on side effects; day-3/day-7 proactive check-ins; documented consent |
+| Supply interruption mid-treatment | Global semaglutide shortages; Malaysian price-tracker pages already log month-to-month availability/price shifts[^34] | Stock-visibility promise; therapeutic-switch protocol communicated before it's needed |
+| Subscription/programme cancellation friction | The slimming-centre package-refund record shows exactly how prepaid-programme exits go wrong[^8][^21] | One-message cancellation; pro-rated refunds as published policy |
+| Weight-regain disappointment after cessation | Qualitative obesity literature: repeated failed attempts are the segment's defining scar (see [sentiment-analysis.md](sentiment-analysis.md) §2.4) | Off-ramp programme and expectation-setting from month one |
+
+The first provider whose complaint record shows *handled* versions of these four classes will define the category standard the way Sunway's feedback transparency defines the hospital standard.
+
 ---
 
 ## References
@@ -231,3 +246,4 @@ Design consequence: breaking any chain at link two (communication) suppresses mo
 [^31]: Glassdoor, "Alpro Pharmacy Reviews", https://www.glassdoor.com/Reviews/%E2%80%8BAlpro-Pharmacy-Reviews-E1379925.htm (accessed July 2026).
 [^32]: Google Play, "Naluri" listing and reviews, https://play.google.com/store/apps/details?id=life.naluriclientapp&hl=en_US (accessed July 2026).
 [^33]: AppBrain, "Naluri (life.naluriclientapp)", https://www.appbrain.com/app/naluri/life.naluriclientapp (accessed July 2026).
+[^34]: Peak Protocol, "Weight Loss Injection Prices Malaysia 2026 (updated monthly)", https://peakprotocolmy.com/glp-1/weight-loss-injection-prices-malaysia/ (accessed July 2026); PMC, "Patients' experiences with GLP1-RAs — a systematic review", https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12090293/ (accessed July 2026).

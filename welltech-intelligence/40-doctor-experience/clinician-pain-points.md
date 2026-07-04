@@ -25,7 +25,29 @@ Ranking criteria: breadth (share of target doctors affected) × intensity (evide
 | 9 | **Platform gig disillusionment** — RM10–18 implied per-consult payouts vs RM40–60/h locum; queue volatility; no patient ownership | Telehealth panel doctors | Consumer pricing vs payout opacity (analysis in [telehealth-consultation-analysis.md §3](telehealth-consultation-analysis.md))[^22][^23] | ○ |
 | 10 | **Burnout as the compound outcome** | All segments | 25.2% (medical officers, tertiary hospital); 30.3% (assistant MOs nationwide); higher in COVID-era HCW samples; 67.9% in medical students (pipeline signal)[^24][^25][^26][^27] | ● |
 
-### 1.1 The burnout evidence in detail
+### 1.1 The evidence, friction by friction
+
+**1. Income pressure.** The consultation fee band a Malaysian GP could lawfully charge was set in 1992 (RM10–35) and codified in 2006; it did not move for 34 years while rents, wages and drug costs compounded — the defining economic fact of the profession. Doctors' bodies demanded RM50–150 (FPMPAM) and RM40–125 (GP town hall); the April 2026 revision delivered a RM80 ceiling but kept the RM10 floor, so realised uplift depends on payer mix. Meanwhile the historic shock absorber — drug margin — is threatened by mandatory-prescription and price-transparency moves (see [prescribing-models.md §2](prescribing-models.md)). A GP's income anxiety is therefore double-ended: the fee side was frozen for a generation, and the margin side is now in regulatory play.[^1][^2][^3]
+
+**2. TPA/GL bureaucracy and extraction.** With ~70% of GP patients arriving through TPA panels, the TPA relationship *is* the revenue relationship — and it is documented as extractive: 10–15% deductions from professional fees, registration and renewal charges, onboarding fees to RM5,000, 30–90 day settlement, unilateral formulary directives (2025's generic-only instruction), and clinical interference (GL conditions on anaesthesia choice). The MMA has demanded TPA regulation for roughly three decades; MOH only began building an MCO/TPA registry in late 2025 and the MMC banned fee-splitting in May 2026 — recognition, not yet relief.[^4][^5][^6]
+
+**3. Unpaid administration and data entry.** Layered mandates each add unpaid clinic hours: per-TPA portals and claim formats, PRIMIS for Madani claims, LHDN e-invoicing (clinics >RM500K turnover from July 2025, all from July 2026), SST changes, price-display compliance — on top of clinical documentation in fragmented CMS products. International primary-care data puts administrative-task dissatisfaction at 50%, double the dissatisfaction with clinical workload itself; there is no reason to believe Malaysian GPs sit below that line given the mandate stack. *(inference on the last point)*[^7][^8][^9]
+
+**4. Unpaid after-hours WhatsApp load.** The Malaysian norm is that patients message the doctor's personal WhatsApp and receive free asynchronous care — services openly advertise free WhatsApp follow-up, no fee schedule line exists for asynchronous advice, and defence bodies warn about the medico-legal exposure of clinical WhatsApp use outside the record. Asynchronous message growth is a documented burnout mechanism internationally. No Malaysian study quantifies the daily load — a measurement gap Welltech should close with its own data.[^10][^11][^12]
+
+**5. Medico-legal anxiety.** The best doctor-side survey evidence in Malaysian telemedicine: 80.6% of practitioners cite medico-legal issues and consent as the top adoption barrier — ahead of money and technology. The 2025 MC-ban episode ([timeline](telehealth-consultation-analysis.md)) validated the anxiety: a service platforms had productised became a disciplinable act overnight, with individual doctors carrying the exposure.[^13][^14][^15]
+
+**6. Follow-up load without follow-up revenue.** Fee-for-service pays for encounters, not outcomes or continuity; titration checks, results explanations and reassurance messaging generate zero revenue in every existing Malaysian construct — clinic, panel or platform. Platform routing to next-available doctors additionally strips the continuity that QUALICOPC links to GP job satisfaction.[^16]
+
+**7. The volume treadmill.** ~40 consultations/day at <15 minutes each is the measured Malaysian primary-care norm; the Madani scheme's 1,000-patients/month clinic target (~50/day) drew public FPMPAM protest as unsafe arithmetic. Volume at this intensity is not a growth lever; it is the ceiling on care quality and the floor of exhaustion.[^17][^18]
+
+**8. Career insecurity.** The contract system placed a generation of doctors on rolling short-term terms: 23,077 contract MOs by 2021 with a 3.4% permanency conversion rate, ~RM3,500/month junior base pay, and on-call rates near RM9/hour — producing the first physician strike in Malaysian history (July 2021) and 6,417 public-sector exits from 2019–2023. These doctors are now in the private/locum/telehealth labour pool with fully formed grievances about employers.[^19][^20][^21]
+
+**9. Platform gig disillusionment.** Consumer teleconsult prices of RM15–30 minus platform economics imply doctor payouts around RM10–18/consult *(inference — no platform publishes rates)*; against a liquid locum market clearing RM40–60/hour, platform work only pays at sustained 3–4 consults/hour, which queue volatility rarely delivers. Add zero patient ownership and full medico-legal duty per encounter, and platform work rationally remains marginal moonlighting rather than a career.[^22][^23]
+
+**10. Burnout.** The compound outcome, quantified below.
+
+### 1.2 The burnout evidence in detail
 
 | Population | Prevalence | Study |
 |---|---|---|
@@ -95,7 +117,20 @@ The core design claim: every top-10 friction is either a **workflow artefact** (
 4. **The settlement SLA** — payment timing published and audited.
 5. **Message-load caps** — panel-size and after-hours policies in the contract, not the FAQ.
 
-### 3.5 Recruiting-funnel implications
+### 3.5 Anticipated objections and answers
+
+Doctor recruitment will meet four predictable objections; the pitch should pre-empt them rather than survive them:
+
+| Objection | Root | Answer built into the model |
+|---|---|---|
+| "Another platform paying peanuts per consult" | RM15-consult incumbents; payout opacity[^22] | Published rate card; guaranteed minimums for scheduled blocks; programme-panel recurring income — the economics are subscription-funded, not consult-arbitrage |
+| "I'll get an MMC complaint for something the app did" | 2025 MC-ban whiplash; 80.6% medico-legal barrier[^13][^14] | Public protocol book; medical director owns protocol risk; no MC-from-teleconsult policy stated in the doctor contract; indemnity top-cover platform-paid |
+| "AI will make me the rubber stamp for unsafe automation" | MMC AI-ethics guideline climate (see [regulations §8](../10-market-intelligence/malaysia-regulations.md)) | AI acts only within written protocol; every clinical output is doctor-signed; deviation and override rates are audited and published internally |
+| "Telehealth killed my clinic's walk-ins — why help you?" | Clinic-owner channel conflict | Owned-clinic partnership tier: GLP-1 initiation visits routed **to** partner GP clinics; Welltech feeds physical visits rather than cannibalising them |
+
+The fourth answer doubles as a market-entry tactic: routing paid initiation consults into established GP clinics converts potential opposition (12,000 incumbent clinics and their associations) into a distribution and referral network. *(analyst recommendation)*
+
+### 3.6 Recruiting-funnel implications
 
 - **Channel**: the doctor market already organises on Facebook locum groups, Lowyat/Reddit threads and WhatsApp networks — recruitment content should target the exact grievances documented there (84-hour weeks, RM9/h on-call, TPA skims) with numbers, not employer branding.[^5][^21][^30]
 - **Credibility carriers**: MMA/FPMPAM-adjacent GP voices and Hartal-era advocates are the influencers of this labour market; an advisory panel drawn from them de-risks the pitch.[^2][^4]

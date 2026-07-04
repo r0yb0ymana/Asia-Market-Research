@@ -176,7 +176,51 @@ Regulatory detail in [malaysia-regulations.md](../10-market-intelligence/malaysi
 
 ---
 
-## 9. Implementation notes & monitoring
+## 9. Brand architecture & naming system
+
+*(Recommendation — final names require trademark search and KKLIU pre-vetting, §7.)*
+
+| Layer | Approach | Examples / rules |
+|---|---|---|
+| Masterbrand | Single endorsed masterbrand ("Welltech Health" or successor consumer name) across all lines | Multi-line trust compounds; separate brands would fragment scarce credibility |
+| Program lines | Descriptive, outcome-neutral: "Medical Weight Program", "Metabolic Start", "Longevity Membership", "Family Care Plan" | No molecules, no "kurus", no disease names in SKUs (§7.5) |
+| Tier names | Functional (Start / Core / Premium) not aspirational (no "Platinum/VIP" — codes aesthetic-clinic) | Tier names appear on invoices and in WhatsApp; clarity beats flair |
+| Doctor sub-brand | "Welltech Doctors" roster with named profiles; individual doctor TikTok handles affiliated, not owned | Doctor-personality reach with brand governance ([funnels.md §2.3](funnels.md)) |
+| BM/中文 naming | Native naming per language, not transliteration; BM line built on *sihat/terkawal*; 中文 on 管理/安心 | Translated taglines test poorly across registers ([consumer-behaviour §6.4](../10-market-intelligence/malaysia-consumer-behaviour.md)) |
+| Domain/handle hygiene | Secure brand + "medical weight management malaysia" descriptive slugs; claim XHS/TikTok/IG handles at once | Competitors squat fast in this category |
+
+## 10. Sample compliant creative (per channel, pre-KKLIU drafts)
+
+| Channel | Sample copy (EN shown; develop BM/中文 natively) | Compliance notes |
+|---|---|---|
+| TikTok doctor video | "I'm Dr [Name], MMC [no.]. Three things nobody tells you about weight-loss injections in Malaysia — including who should NOT take them." | Education framing; no product name; doctor identity verifiable; KKLIU number in caption once approved |
+| Meta CTWA ad | "Doctor-led weight management. Real prices published. No hard sell — ever. Chat with our care team on WhatsApp." | Condition-level; price-transparency hook; CTWA prefilled message user-initiated[^13] |
+| Google search (brand-adjacent) | "Medical Weight Management Malaysia — Named doctors · All-in pricing · WhatsApp care" | Bid on category and vernacular-correction terms; never on molecule names in ad copy |
+| XHS post (Mandarin) | 体检报告一堆看不懂?我们的医生帮你全年跟进 ("A pile of screening reports you can't decode? Our doctors follow up all year") | Longevity-membership entry for P2; no therapeutic claims |
+| Employer one-pager | "Obesity drives your four biggest claim lines. A supervised program bends the curve — and we report outcomes quarterly." | B2B factual claims sourced to Aon/NHMS data ([private-healthcare §1](../10-market-intelligence/malaysia-private-healthcare.md)) |
+| WhatsApp status/broadcast | "Ramadan mode is live: adjusted dosing calendars reviewed by our doctors. Members, reply RAMADAN." | Utility register; member-only; no acquisition claims |
+
+Every asset passes the four-check gate before trafficking: (1) claims library match, (2) KKLIU approval number valid, (3) no Group B references, (4) platform policy (Meta health / WhatsApp commerce) scan.
+
+## 11. Competitive-response scenarios
+
+| Move | Likelihood (24 mo) | Welltech response |
+|---|---|---|
+| DoctorOnCall launches a GLP-1 program SKU on its traffic base | High — it owns the search demand and pharmacy rails ([dossier §10](../20-competitor-dossiers/doctoroncall.md)) | Out-position on continuity ("same doctor, proactive care") and outcomes publication; its brand is transactional — do not fight on price or SEO breadth, fight on care depth |
+| OVA/Seimbang raise funding and match service depth | Medium-high | Move second on features, first on proof: cohort outcomes, guarantee, corporate channel (they are B2C-only); consider partnership/acquisition screen |
+| Sunway/IHH reframe "medical weight management" under hospital brands | Medium | Pre-empt with category-defining content + MEMS-affiliated advisory board; position hospitals as our escalation partners, not rivals ([private-healthcare §3](../10-market-intelligence/malaysia-private-healthcare.md)) |
+| Naluri adds GLP-1 wraparound for insurers | Medium | Accelerate insurer pilots; differentiate on prescribing depth + consumer brand Naluri lacks ([naluri.md §8](../20-competitor-dossiers/naluri.md)) |
+| Aesthetic chains copy "transparent pricing" language | High (cheap to copy) | Escalate to verifiable proof they cannot fake: published retention/outcome dashboards, refund policy, named-doctor continuity |
+| Regulatory crackdown freezes weight-category advertising | Low-medium | Owned channels (referral, WhatsApp community, SEO education) carry acquisition; compliance record becomes the moat ([funnels.md §8](funnels.md)) |
+
+## 12. Message & tagline validation plan
+
+1. **Qual (weeks 1–4):** 6 focus cells (Malay women 30–50, Chinese 40–60 Mandarin-preferring, Indian 30–50, M40 mixed, T20 women, expat) testing positioning statement, three tagline candidates per language, and trust-code recall.
+2. **Quant (weeks 4–8):** ad-level A/B on CTWA click-to-conversation and conversation-to-qualified rates per message frame (medical-credibility vs anti-scam vs convenience lead) — the funnel itself is the survey ([funnels.md §5](funnels.md)).
+3. **Tracker (quarterly):** unaided category association, tagline attribution, price-fairness vs aesthetic clinics, trust-code recognition; sample ≥400 urban adults, quotas per segment.
+4. **Kill rules:** any line with religious/cultural friction signals in qual dies regardless of quant performance; any line requiring KKLIU exceptionalism dies.
+
+## 13. Implementation notes & monitoring
 
 - **Sequence:** launch messaging on weight (category entry with highest intent), extend to screening/longevity membership once doctor-brand equity exists (P1→P2 pathway mirrors the persona-upgrade logic in [consumer-behaviour §9](../10-market-intelligence/malaysia-consumer-behaviour.md)).
 - **Measure positioning, not just performance:** quarterly brand tracker on (a) unaided association with "medical weight management", (b) trust-code recognition (named doctors, registration), (c) price-fairness perception vs aesthetic clinics; plus share-of-search vs OVA/Seimbang/Roczen.

@@ -183,7 +183,18 @@ Design rules encoded above:
 5. **Pharmacy commercials as flat fees, not percentage splits** (MMC fee-splitting ban).[^5]
 6. **Model C always offered** — the patient may take the prescription elsewhere; this defuses the anti-lock-in critique pharmacist bodies aim at dispensing doctors.[^7][^8]
 
-### 7.1 Risk table
+### 7.1 Prescriber roles and credentialing inside the architecture
+
+| Role | Requirement | Prescribing scope |
+|---|---|---|
+| Panel GP (teleconsult layer) | MMC registration + current APC + indemnity; MOH approval if government-employed (see [regulations §2.1](../10-market-intelligence/malaysia-regulations.md)) | Minor acute; continuation-of-care refills; GLP-1 titration follow-ups under protocol |
+| Programme physician (GLP-1/longevity) | As above + documented obesity-medicine CPD; trained on Welltech CPG-2023-aligned protocol[^21] | GLP-1 initiation (in person), off-label decisions with consent documentation[^25] |
+| Medical director | Senior registered practitioner at board/senior-management level (OHS 2025 requirement)[^3] | Protocol ownership; audit sign-off; NPRA pharmacovigilance responsibility |
+| Pharmacist (in senior management if e-pharmacy offered) | Licensed pharmacist (OHS 2025)[^3] | Dispensing governance, cold-chain SOPs, prescription-record integrity |
+
+The doctor-experience payoff of this structure — protocol risk carried by the governance system rather than the individual prescriber — is a primary recruiting asset, developed in [clinician-pain-points.md §3](clinician-pain-points.md).
+
+### 7.2 Risk table
 
 | Risk | Likelihood | Impact | Mitigation |
 |---|---|---|---|
@@ -231,3 +242,4 @@ Design rules encoded above:
 [^32]: Poisons (Psychotropic Substances) Regulations 1989, MOH consolidated text, https://pharmacy.moh.gov.my/sites/default/files/document-upload/poisons-psychotropic-substances-regulations-1989-2-0_0.pdf (accessed July 2026).
 [^33]: MOH Pharmaceutical Services, private-clinic psychotropic audit programme (audited classes incl. benzodiazepines, zolpidem, phentermine), https://pharmacy.moh.gov.my/en/content/number-premises-private-medical-clinics-involved-psychotropic-substances-audit-2011.html-0 (accessed July 2026).
 [^34]: Malaysian Pharmacists Society, "Psychotropic Substances Diversion", https://www.mps.org.my/newsmaster.cfm?menuid=37&action=view&retrieveid=3177 (accessed July 2026).
+[^35]: DOC2US, "Watsons and DOC2US ink regional partnership agreement", https://www.doc2us.com/pressrelease/watsons-and-doc2us-ink-regional-partnership-agreement-t4 (accessed July 2026).

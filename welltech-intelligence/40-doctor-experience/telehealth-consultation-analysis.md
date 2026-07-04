@@ -20,6 +20,19 @@ Related documents: [Doctor workflows](doctor-workflows.md) · [Prescribing model
 
 *(analyst inference)* The revealed preference of both Malaysian doctors and patients is **asynchronous-capable, low-bandwidth channels** — phone and chat — not scheduled video. This matters for Welltech: WhatsApp-native care is an extension of existing behaviour, not a behaviour change.
 
+### 1.2 Phone vs chat vs video: the trade-off matrix
+
+| Dimension | Telephone | Chat/asynchronous (DOC2US/WhatsApp pattern) | Video |
+|---|---|---|---|
+| Malaysian adoption | Dominant in public teleconsultation (60.5% of providing clinics phone-only)[^1] | Dominant in private low-cost tier; native to patient behaviour | Funded by MOH, marketed by platforms, used least[^1] |
+| Doctor time per encounter | Medium; synchronous but fast | Lowest per message; but encounters fragment across hours | Highest (setup, tech friction, webside expectations) |
+| Clinical information yield | Voice cues only | Text + photos + documents; persistent record | Visual inspection possible (rashes, affect, injection technique) |
+| Documentation | Must be written separately after call | **The thread is the raw record** — AI-summarisable | Must be written separately |
+| Medico-legal posture | Weakest (no artefact of what was said) | Strongest if archived properly; weakest if on personal WhatsApp outside the record[^19] | Intermediate; recording raises consent questions |
+| Fit for GLP-1 programme | Escalation channel | **Core channel**: titration check-ins, side-effect triage, adherence nudges | Scheduled checkpoints: initiation follow-up, technique review |
+
+*(analyst assessment built on the modality evidence above)* The chat column wins on five of six dimensions for chronic-programme care — provided the thread is captured into a governed clinical record, which no personal-WhatsApp arrangement achieves today. That capture is precisely what a WhatsApp Business Platform architecture provides (see [WhatsApp healthcare](../10-market-intelligence/malaysia-whatsapp-healthcare.md)).
+
 ### 1.2 Duration and throughput
 
 No Malaysian platform publishes consult-duration data. Structural markers: Speedoc's 15-minute billing block; in-person GP consults run <15 minutes at ~40/day (see [doctor-workflows.md §2](doctor-workflows.md)); global telemedicine literature finds unprepared patients inflate visit duration and that pre-visit staff preparation protects clinician time.[^5][^6] *(analyst estimate)* A Malaysian GP teleconsult is realistically 5–12 minutes of doctor time for minor acute presentations, plus unmeasured documentation and follow-up messaging time.
@@ -80,7 +93,20 @@ Read-through: the Malaysian evidence base is thin on the doctor's experience —
 | Prescribing exposure | Off-label GLP-1s, continuation-of-care limits, no psychotropics online (see [prescribing-models.md §4–6](prescribing-models.md)) | Poisons/psychotropic instruments |
 | Indemnity | Professional indemnity is an APC prerequisite; whether a doctor's cover extends to platform telemedicine is the doctor's problem to confirm — platforms are silent | Medical Regulations 2017 (see [regulations §2.1](../10-market-intelligence/malaysia-regulations.md)) |
 
-The September–November 2025 MC episode is the defining case study: platforms had built consumer funnels on a service (digital MCs) the regulator then declared unethical overnight, leaving individual doctors holding the professional risk for encounters the platforms had productised. Every Malaysian doctor watching learned the lesson: *the platform's business model is not your safe harbour.*[^17][^18][^20]
+### 4.1 The MC-ban episode as a timeline
+
+| Date | Event | Doctor-side consequence |
+|---|---|---|
+| 2022 | MMC FAQ position: an MC requires appropriate consultation including physical examination | Largely unenforced; platforms scale digital-MC funnels |
+| Feb 2025 | MOH publicly considering digital MCs and e-prescriptions in its digitalisation agenda (see [regulations §3.4](../10-market-intelligence/malaysia-regulations.md)) | Doctors read the direction of travel as permissive |
+| 23 Sep 2025 | MMC notification: **no MCs after teleconsultation-only encounters**[^17] | Overnight, a routine platform task becomes a disciplinable act |
+| Nov 2025 | MMA backs the ban (duty of care "personal, non-transferable"); ADHM demands an evidence-based teleconsultation guideline instead; Doctor Anywhere announces compliance[^18][^20][^21] | Platforms rewire flows; consult volumes drop; doctors absorb patient anger |
+
+The episode is the defining case study: platforms had built consumer funnels on a service (digital MCs) the regulator then declared unethical overnight, leaving individual doctors holding the professional risk for encounters the platforms had productised. Every Malaysian doctor watching learned the lesson: *the platform's business model is not your safe harbour.*[^17][^18][^20]
+
+### 4.2 Documentation as the quiet burden
+
+Across every modality, the record is the doctor's only defence in an MMC complaint — and Malaysian platform architecture works against the doctor on three counts. First, records live in platform systems the doctor cannot export when they leave the panel. Second, chat consults produce sprawling threads that no one summarises into a clinical note, so the effective record quality is worse than a two-line paper entry. Third, care that migrates to personal WhatsApp after the consult (the standard Malaysian follow-up pattern — see [doctor-workflows.md §7](doctor-workflows.md)) generates clinically material exchanges that never reach any record at all.[^19] International evidence identifies documentation growth as a primary mechanism of telehealth burnout;[^25] in Malaysia the same hours are spent producing records that still fail the doctor medico-legally. AI-drafted structured notes from the full message thread, with doctor sign-off and guaranteed export rights, fix the burden and the exposure in one move. *(analyst assessment)*
 
 **Implications for Welltech.** Welltech's clinical governance must be visibly doctor-protective: published clinical protocols, in-person initiation for GLP-1s, no MC-from-teleconsult ever, platform-paid indemnity top-cover, and a medical director who owns protocol risk. This flips the market's core anxiety into a recruiting message (developed in [clinician-pain-points.md §6](clinician-pain-points.md)).
 
@@ -107,6 +133,35 @@ The international literature converges on a three-phase design — preparation, 
 | Fee for asynchronous care | No construct anywhere in market | Unpaid WhatsApp work (see [doctor-workflows.md §7](doctor-workflows.md)) |
 
 **Implications for Welltech.** The teleconsult Welltech sells doctors should be: AI-prepared (structured intake, vitals/labs surfaced, draft note pre-written), 10–15 protected minutes, named-panel continuity, zero live administrative typing, paid asynchronous follow-up bundles, and hard triage rules that keep out encounters telemedicine cannot ethically serve. Every element is directly responsive to a documented failure of the incumbent model — and to the global evidence on what makes teleconsultation work.
+
+## 6. The Welltech teleconsult blueprint
+
+Synthesising §1–§5 into an operating specification *(analyst design; pilot-validate)*:
+
+**Stage 0 — Triage gate (AI, WhatsApp).**
+- Structured symptom intake; hard exclusions routed out immediately (emergencies → ED guidance; MC requests → in-person clinic booking, never teleconsult; psychotropic requests → declined per [prescribing-models.md §6](prescribing-models.md)).
+- Identity verification and consent per OHS 2025 expectations; PDPA notices delivered in-channel.[^19]
+
+**Stage 1 — Preparation (AI + ops, before doctor sees anything).**
+- History structured into a one-screen pre-read: complaint, red-flag screen, medication list, prior Welltech encounters, relevant labs/vitals from the programme record.
+- Delphi-consensus preparation criteria (appropriateness, tech check, agenda) executed by the system, not the doctor.[^22]
+- Booking into a protected 10–15-minute slot with the patient's **named panel doctor**; chat-first by default, voice/video escalation one tap away.
+
+**Stage 2 — The encounter (doctor).**
+- Doctor opens with the pre-read already absorbed — the first minute is clinical, not clerical.
+- Webside-manner standards trained at onboarding (verbalised examination substitutes, structured safety-netting language).[^23]
+- Prescribing decisions inside protocol rails; anything off-protocol flags to the medical director asynchronously.
+
+**Stage 3 — Post-consult (AI, doctor signs).**
+- Draft SOAP note generated from the full thread within seconds; doctor edits/signs; note is exportable by the doctor permanently.
+- Prescription issued via the digitally signed e-Rx rail ([prescribing-models.md §3](prescribing-models.md)); fulfilment tracked in-channel.
+- Follow-up plan instantiated as scheduled WhatsApp touchpoints; asynchronous questions between touchpoints answered by AI within protocol, batched to the doctor otherwise — and the batching time is paid.
+
+**Stage 4 — Measurement.**
+- Per-encounter metrics: preparation completeness, consult duration, note turnaround, escalation rate, patient-reported resolution.
+- Per-doctor metrics: effective RM/clinical hour, message load, after-hours touches — reviewed monthly as clinical-safety indicators (targets in [clinician-pain-points.md §4](clinician-pain-points.md)).
+
+This blueprint prices the doctor's synchronous time correctly, converts asynchronous care from unpaid leakage into a compensated product, and produces — as a by-product — the consult-duration, satisfaction and churn dataset that the Malaysian literature currently lacks (§2). Publishing selected metrics would simultaneously build regulator trust (ADHM's demanded "evidence-based teleconsultation guideline" needs exactly this evidence[^18]) and set a recruiting benchmark competitors cannot match without re-architecting.
 
 ---
 

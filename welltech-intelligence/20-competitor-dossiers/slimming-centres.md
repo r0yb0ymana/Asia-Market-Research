@@ -80,6 +80,36 @@ Last updated: July 2026.
 
 **Trajectory read:** a fading long-tail brand illustrating the segment's endgame — sub-scale, supplement-adjacent, invisible to the post-GLP-1 consumer.
 
+### 2.5 Cross-operator economics and marketing anatomy
+
+**Segment size.** No official statistics isolate slimming centres. Bracketing from available data: the consumer weight-loss economy is plausibly RM3–5B/year, of which packaged goods dominate; slimming-centre services are credibly a **low-hundreds-of-millions RM revenue pool and shrinking** *(analyst estimate — triangulated from outlet counts (~40–60 branded-chain outlets nationally across the four profiled operators plus Dorra, Mayfair, Slim Doc and independents), observed RM1,200–10,000 package values, and the [market file](../10-market-intelligence/malaysia-weight-loss-market.md) §3.1 and §6.3)*. Marie France Bodyline Sdn Bhd's reported 2024 revenue growth (+12.8% net sales) cautions against declaring the model dead — the uninformed-consumer segment still converts.[^17]
+
+**Package economics** *(analyst reconstruction from documented price points)*:
+
+| Line | Typical value | Note |
+|---|---|---|
+| Trial session | RM28–88 (loss-leader) | Marketing cost, not revenue[^5] |
+| Entry package | RM888–2,000 | The in-room conversion target[^7][^8] |
+| Full program | RM5,000–10,000 prepaid | 20–40 sessions over ~6 months[^10][^18] |
+| Marginal cost/session | Low (therapist time + machine amortisation) | Explains tolerance for unused-session breakage |
+| Breakage + upsell | Material profit driver | Unused prepaid sessions expire; products/supplements added mid-course[^8][^9] |
+
+The model is, in effect, **prepaid-breakage retail wearing a wellness uniform** — profitability improves when customers *don't* complete their programs, the exact inverse of outcome-aligned medicine.
+
+**Channel mix by operator (observed July 2026):**
+
+| Channel | Marie France / BMF | London Weight | Slimming Sanctuary | Terimee |
+|---|---|---|---|---|
+| TV/celebrity | Historical mainstay | Active (ambassador model)[^12][^24] | No | No |
+| Mall atrium/trial promos | Yes (heritage malls) | Yes (RM28 So Slim)[^5] | Yes | Limited |
+| Blogger/influencer seeding | Defining 2010s program[^18][^19] | Moderate | Review-site seeding[^27] | Minimal |
+| Instagram/Facebook | BMF-branded | @londonweightmanagementmalaysia[^24] | Facebook-first[^27] | Facebook only[^29] |
+| TikTok/XHS | Regional MF content (PH); MY thin | Thin | No | No |
+| BNPL / e-commerce | Atome merchant; GBI e-store[^20] | Own e-store (mylwmstore.com)[^24] | No | No |
+| WhatsApp | Booking only | Booking only | Booking only | Booking only |
+
+Read-through: the chains mastered *reach* channels and never built *relationship* channels — WhatsApp exists solely to book appointments. Their databases plus BNPL rails would, however, make a pivot partner dangerous in the right hands (§9.5).
+
 ---
 
 ## 3. Consumer-protection infrastructure the industry keeps feeding
@@ -99,6 +129,16 @@ The consistent lesson from complaint archives: the industry's injury is **contra
 - The flagship's own rebrand away from "Bodyline" (2017/2022) and Indonesia exit (2018) mark the leadership's verdict on the legacy model.[^15][^16]
 - GLP-1 pharmacotherapy resets consumer expectations: visible, measurable weight loss for RM900–1,500/month makes "RM8,000 for wraps and water weight" untenable for the informed urban segment. Euromonitor's counterpoint — that prescription cost and access will keep GLP-1s niche and protect packaged/services incumbents in the near term — is the honest hedge: the legacy segment shrinks from the top (affluent, informed) down, not all at once.[^37]
 - The chains retain real assets: prime mall floors, therapist workforces, databases of tens of thousands of paying weight-loss customers, and BNPL-enabled checkout. A pivot to "medical partner" models (renting credibility from clinics or telehealth) is the logical next move for the better-capitalised groups — BMF's Singapore clinic arm shows the path.[^15][^16][^20]
+
+### 4.1 Survivor differentiation attempts
+
+A younger cohort of slimming operators is positioning *against* the legacy chains' reputation while keeping the non-medical model:
+
+- **Dorra Slimming** (Singapore-origin, Malaysian outlets): markets targeted "tummy, hips and thighs" programs and leans on French-technology branding; its Singapore marketing has emphasised no-hard-selling pledges — an explicit acknowledgement that hard-sell is the category's known defect.[^38]
+- **Mayfair Wellness / Mayfair Bodyline**: repositioned around "wellness" vocabulary with body-slimming menus intact.[^38]
+- **Slim Doc**: adopts quasi-clinical naming ("Doc") without prescribing capability — the linguistic drift toward medical credibility that KPDN's updated guidelines will eventually have to police.[^38]
+
+These rebrandings confirm the dossier's core finding from inside the industry: the category knows its trust deficit is existential, and its only responses so far are vocabulary changes — "sanctuary," "wellness," "doc" — rather than structural ones (refundability, outcome measurement, clinical governance).
 
 ## 5. Timeline — how the category rose and unravelled
 
@@ -163,6 +203,14 @@ The left-hand column is not a caricature — every row cites a documented compla
 - Complaint-volume signals: new NCCC/TTPM patterns or viral Lemon8/Threads exposés — each spike is a free acquisition moment for a trust-positioned medical brand.[^23][^32]
 - Slimming chains adopting GLP-1 *language* without prescribing capability ("GLP-1-friendly body sculpting", supplement "natural Ozempic" claims) — a misinformation wave Welltech content should pre-bunk.
 
+## 11. Data gaps and verification queue
+
+1. **Current outlet counts** for BMF Malaysia and Slimming Sanctuary — websites list historical footprints; verify by store-locator crawl and mall directories before quoting in external material.
+2. **KPDN complaint statistics by category** — the ministry publishes channels but not granular slimming-centre complaint counts in sources reviewed; a formal data request (or NCCC annual-report retrieval) would quantify the complaint trend this dossier documents qualitatively.[^31][^34]
+3. **TTPM case outcomes** involving named slimming chains — the e-Tribunal portal was not searchable from this environment; targeted case-law retrieval (LexisNexis/CLJ) recommended.[^32]
+4. **Marie France Bodyline Sdn Bhd financials** — EMIS headline growth figures cited; full filings via SSM would establish whether Malaysian revenue is genuinely recovering or consolidating fewer outlets.[^17]
+5. **Euro Group corporate structure** — brand-family attribution rests on group marketing materials and forum documentation; confirm via ACRA (Singapore) and SSM records before use in any legal or PR context.[^21]
+
 ---
 
 ## References
@@ -203,4 +251,5 @@ The left-hand column is not a caricature — every row cites a documented compla
 [^34]: KPDN, "Consumer Complaints" and "Inquiries & Complaints Channel", https://www.kpdn.gov.my/en/consumerism/hak-pengguna/consumer-complaints and https://www.kpdn.gov.my/en/contact-us-2/inquiries-complaints-channel (accessed July 2026).
 [^35]: SingaporeMotherhood forum, "If you havent went to slimming ctr pls read!", https://singaporemotherhood.com/forum/threads/if-you-havent-went-to-slimming-ctr-pls-read.214741/ (accessed July 2026).
 [^36]: SG Budget Babe, "Why I Will Never Sign Up With London Weight Management", https://sgbudgetbabe.com/why-i-will-never-sign-up-with-london-weight-management/ (accessed July 2026).
+[^38]: Dorra Slimming Malaysia, "Slim Tummy, Hips and Thighs", https://dorra.com.my/ and Dorra Slimming Singapore, https://dorraslim.com.sg/; Mayfair Wellness, "Body Slimming Treatments in Malaysia", https://mayfairbodyline.com.my/body/; Slim Doc, https://slimdoc.com.my/ (accessed July 2026).
 [^37]: Euromonitor International, "Weight Management and Wellbeing in Malaysia" (GLP-1s unlikely to significantly disrupt supplements/meal-replacement demand in forecast period due to prescription and cost barriers), https://www.euromonitor.com/weight-management-and-wellbeing-in-malaysia/report (accessed July 2026).

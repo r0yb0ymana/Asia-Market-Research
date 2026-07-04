@@ -110,6 +110,22 @@ OVA's compliance architecture is worth studying because it defines the lawful-ag
 
 The model's implication: OVA's economics are acquisition-led, and its LTV is capped by the same churn that caps everyone's. A competitor that spends OVA-level CAC but doubles 12-month retention wins on contribution even at a lower headline price — the quantitative case for Welltech's service-heavy design.
 
+## 8C. Regional read: what Singapore and the Philippines signal for Malaysia
+
+- **Singapore (getova.com.sg)** is the group's home market and innovation lead: the weight-loss evaluation flow, hybrid clinic partnership and endocrinology advisory all debuted there.[^3][^9] Singapore's public "telehealth abuse" debate (regulator concern over prescription-mill dynamics in weight-loss telehealth) is the leading indicator for Malaysian rule-making — and ORA's answer (hybrid care, named specialist advisor) previews the compliance bar Malaysia may adopt.[^10]
+- **Philippines (getova.com.ph)** demonstrates the platform's replication speed: same storefront, localized FAQs, local doctors — a template that could extend to other ASEAN markets faster than any clinic chain can build.[^3]
+- **Malaysia's position in the portfolio:** second market by maturity, first by obesity prevalence. If ORA allocates its next clinical-upgrade investment by market attractiveness, Malaysia is the logical recipient — reinforcing the §10 expectation of a Malaysian hybrid launch.
+- **Implication:** Welltech's MY/SG/HK regional thesis collides with ORA's MY/SG/PH footprint in exactly two markets. Watching OVA Singapore is therefore not optional context; it is direct product-roadmap intelligence for what OVA Malaysia becomes 6–12 months later.
+
+### Verdict in one table
+
+| Question | Answer |
+|---|---|
+| Is OVA the "leading Malaysian digital GLP-1 player"? | Leading *brand* for women; Roczen leads on clinical credential, Seimbang on price-value; no player yet leads on outcomes |
+| Is the RM900 flat fee real? | Recorded mid-2026 for semaglutide-plan entry; current advertised tirzepatide entry is RM1,150/month; treat "from ~RM900" as the program floor, verify quarterly[^5][^16][^17] |
+| Is it beatable? | Yes — on care depth, billing trust, local clinical identity and published outcomes; not on acquisition polish or funding |
+| Most dangerous move it could make | Malaysian hybrid clinic + named endocrinologist + retention program — closing its only structural gaps[^9][^10] |
+
 ## 9. Composite patient journey at OVA (Malaysia, 2026)
 
 ```mermaid
@@ -193,6 +209,16 @@ Probability weighting: hybrid replication and regulatory tightening are the two 
 3. **Transparent billing as a weapon:** no auto-renew traps; pause/cancel in WhatsApp in one message; refund policy in plain language. OVA's Trustpilot record shows exactly how cheap this trust is to win.[^19]
 4. **Pre-empt the hybrid move in Malaysia.** ORA already runs virtual+physical weight care in Singapore with an endocrinologist advisor; expect a Malaysian replication. Welltech should secure MEMS-affiliated endocrinology advisors and a bariatric referral loop first (see [market file](../10-market-intelligence/malaysia-weight-loss-market.md) §7).
 5. **Watch items:** OVA Malaysia hybrid/clinic launch; a named Malaysian medical director; Roczen employer/insurer deals; Seimbang's ability to hold RM899 economics after Wegovy launch pricing; any NPRA move on remote first-prescription rules.
+
+## 15. Data gaps and verification queue
+
+Per [research standards](../RESEARCH-STANDARDS.md), unresolved items are listed rather than papered over:
+
+1. **Full OVA price ladder above tirzepatide 2.5 mg** — not published; capture via purchase-flow walkthrough (requires Malaysian payment context).
+2. **Semaglutide plan current floor** (the "~RM900 flat" datum) — re-verify against live product pages; getova.com.my blocked automated fetching during this review (Cloudflare 403), so pricing rests on search-indexed page content and our mid-2026 market scan.[^5][^17]
+3. **Malaysian medical director / responsible practitioner identity** — not surfaced; check MMC registry and OVA terms-of-service documents.
+4. **Volume indicators** (Malaysian patient counts, app/web traffic) — no public data; consider Similarweb/Sensor Tower pulls in the marketing-intelligence workstream.
+5. **Cancellation/refund policy text** — obtain verbatim from checkout terms to substantiate (or correct) the auto-renewal complaint pattern before citing it in any external-facing material.[^19]
 
 ---
 

@@ -230,9 +230,53 @@ Every +10pp of 12-month retention is worth ~RM900–1,000 per enrolled patient �
 
 ---
 
-## 6. Monitoring & refresh cadence
+## 6. Discount governance & pricing-experiment plan
+
+### 6.1 Discount governance (protecting the reference price)
+
+Malaysian consumers are voucher-trained (Shopee flash pricing; DoctorOnCall's TNGDOC10-style codes) and will probe for discounts. Rules:
+
+| Rule | Rationale |
+|---|---|
+| Discount only the entry consult (RM49→RM0 in defined campaigns) and the first program month; never the recurring tier price | Reference-price integrity; Hims/Ro/Noom all discount entry, not the run-rate[^3][^4][^6] |
+| Prepay discount (~8% on 6-month) is the *only* standing price concession | Converts churn risk to cash; mirrors Ro's annual-prepay logic[^4] |
+| Referral value is delivered as account credit (RM50 both sides), not cash | Cash referral (DoctorOnCall RM30) attracts mercenary sharing; credit compounds retention |
+| Corporate discounts are volume-banded on enrolled seats, contractual, and invisible to B2C | Prevents B2B pricing leaking into consumer negotiations |
+| Festive campaigns (post-CNY, post-Raya) bundle value (free CGM sensor, extra dietitian session) rather than cut price | Seasonality is real ([weight-loss §3.2](../10-market-intelligence/malaysia-weight-loss-market.md)); value-adds protect the ladder |
+
+### 6.2 Launch pricing experiments (first two quarters)
+
+| Experiment | Design | Decision rule |
+|---|---|---|
+| Core tier RM949 vs RM999 vs RM1,099 | Geo/cohort split at checkout, identical creative | Adopt highest price where consult→enrol stays within 5pp of best cell |
+| Consult RM29 vs RM49 vs RM69 (all credited) | CTWA cohort split | Optimise for *enrolments per 1,000 conversations*, not consult revenue |
+| 6-month prepay discount 5% vs 8% vs 12% + BNPL | Offer-screen split | Adopt lowest discount that holds prepay mix ≥30% |
+| Outcome-guarantee framing (refund policy disclosed vs not) | Post-consult close-rate comparison | Roll out if close rate +5pp and refund incidence <4% |
+| Maintenance tier RM199 vs RM299 | Offered at month-5 decision point | Optimise 18-month revenue per graduate, not tier ARPU |
+
+Instrumentation: every price shown, offered and accepted logged at conversation level (CTWA attribution chain, [funnels.md §6.4](funnels.md)); minimum cell sizes per power calc before reading results; no mid-experiment creative changes.
+
+### 6.3 Regional read-across (SG/HK expansion placeholder)
+
+Singapore benchmarks already in-repo (DA S$27.25 consult; Healthwise S$14.17 member rate) suggest the same architecture ports with a currency-and-WTP rebase rather than a redesign; HK pricing research is pending in the market-intelligence pipeline. Do not export Malaysian ringgit price points; export the *structure* (credited consult ≤ local WTP median, flat core tier between pharmacy floor and clinic ceiling, pass-through premium tier, annual longevity membership).
+
+---
+
+## 7. Monitoring & refresh cadence
 
 Track monthly: OVA/Seimbang/Roczen list prices; DoctorOnCall & HelloDoktor pen prices (the drug floor); Nexus/CLEO dose-tier boards (the ceiling); Wegovy/Mounjaro distributor list changes; BNPL licensing register (CCC, from June 2026); Schedule 7/13 amendments; any first Malaysian outcome-guarantee copycat. Owner: pricing analyst; feed changes into [funnels.md](funnels.md) CAC model and [positioning.md](positioning.md) claims.
+
+### 7.1 Quick-reference price card (Welltech recommended, for internal use)
+
+| SKU | Price | Payment options |
+|---|---|---|
+| Doctor Review consult | RM49 (100% credited) | Card / wallet / DuitNow |
+| Metabolic Start | RM299/mo | Monthly; cancel anytime |
+| Medical Weight Program (core) | RM999/mo flat; RM5,499 6-mo prepay | Monthly, prepay, Atome/SPayLater/Grab BNPL |
+| Premium Metabolic + Concierge | RM1,599/mo (semaglutide) or drug pass-through + RM399 fee (tirzepatide) | Monthly, BNPL |
+| Maintenance | RM199–299/mo | Monthly |
+| Longevity Membership Core / Executive | RM3,600 / RM8,800 per year | Annual, 12-mo instalment |
+| Corporate base / program seat | RM8–15 PEPM / RM350–500 per enrolled month | Contract |
 
 ---
 
