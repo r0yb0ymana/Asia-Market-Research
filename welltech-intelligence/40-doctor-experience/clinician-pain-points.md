@@ -51,6 +51,17 @@ Ranking criteria: breadth (share of target doctors affected) × intensity (evide
 
 **10. Burnout.** The compound outcome, quantified below.
 
+### The frictions in the profession's own words
+
+The register of public statements is itself evidence of intensity — these are professional bodies and doctors speaking on the record, not anonymous grumbling:
+
+- On duty of care vs platform commerce: the MMA framed the MC ban as a reminder that a doctor's duty is "personal, non-transferable and must not be compromised by commercial pressures from employers, insurers or digital health platforms."[^15]
+- On TPAs: a practising GP's CodeBlue exposé titled the phenomenon "the double-dipping scandal" — TPAs charging corporates for panel management while simultaneously extracting fees from the clinics delivering the care.[^5]
+- On workload honesty: a serving contract medical officer's public letter — "stop lying to the public that we have enough doctors."[^21]
+- On the fee freeze: FPMPAM's demand was not an increase but a "correction" — language asserting that GP pricing had been objectively wrong for a generation.[^2]
+
+A recruiting message that quotes this register back to doctors — accurately and with numbers — will read as insider fluency; one that leads with "join the future of healthcare" will read as another platform. *(analyst note)*
+
 ### 1.2 The burnout evidence in detail
 
 | Population | Prevalence | Study |
@@ -198,7 +209,13 @@ The strategic point: in a market where the doctor experience is defined by extra
 
 Failure mode to guard against: scaling consult volume before the admin-zero and boundary systems hold at load — which would recreate, under Welltech's brand, exactly the treadmill this document catalogues. The clinician-experience KPIs above should gate growth the way clinical-safety metrics gate a drug launch.
 
+### 6.2 Bottom line
+
+The Malaysian clinician labour market in 2026 is defined by a paradox: doctors are simultaneously overworked (40 consults/day, 84-hour public weeks) and underpaid per unit of clinical value (RM10–35 fee legacy, RM10–18 implied platform payouts, unpaid asynchronous care) — because the systems around them monetise their licence while taxing their time. Every incumbent structure — TPA, platform, contract system — extracts from the doctor's workflow; none invests in it. Welltech's opportunity is not to pay marginally more for the same broken encounter, but to sell a different job: prepared consults, paid follow-up, protected boundaries, carried protocol risk, and published economics. The evidence in this folder says that job does not currently exist in Malaysia. The first operator to build it recruits from a queue.
+
 ---
+
+*Underlying evidence files: [doctor-workflows.md](doctor-workflows.md) (volumes, fees, locum rates, TPA mechanics, EMR landscape, income) · [prescribing-models.md](prescribing-models.md) (dispensing economics, e-Rx rails, GLP-1 pathway) · [telehealth-consultation-analysis.md](telehealth-consultation-analysis.md) (platform economics, MC ban, consult design).*
 
 ## References
 

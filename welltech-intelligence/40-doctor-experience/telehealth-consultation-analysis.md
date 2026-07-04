@@ -8,6 +8,10 @@ Related documents: [Doctor workflows](doctor-workflows.md) · [Prescribing model
 
 ---
 
+**Contents:** 1. What a Malaysian teleconsult is (modality, duration) · 2. Published evidence and its limits · 3. Platform gig economics for doctors · 4. Medico-legal anxiety stack and the MC ban · 5. Global best-practice benchmark · 6. Welltech teleconsult blueprint · 7. Bottom line · References
+
+---
+
 ## 1. What a Malaysian teleconsult actually is
 
 ### 1.1 Modality mix
@@ -198,6 +202,16 @@ Synthesising §1–§5 into an operating specification *(analyst design; pilot-v
 - Per-doctor metrics: effective RM/clinical hour, message load, after-hours touches — reviewed monthly as clinical-safety indicators (targets in [clinician-pain-points.md §4](clinician-pain-points.md)).
 
 This blueprint prices the doctor's synchronous time correctly, converts asynchronous care from unpaid leakage into a compensated product, and produces — as a by-product — the consult-duration, satisfaction and churn dataset that the Malaysian literature currently lacks (§2). Publishing selected metrics would simultaneously build regulator trust (ADHM's demanded "evidence-based teleconsultation guideline" needs exactly this evidence[^18]) and set a recruiting benchmark competitors cannot match without re-architecting.
+
+## 7. Bottom line
+
+Three facts organise everything above:
+
+1. **The Malaysian teleconsult, as currently sold, is a phone call or chat priced at RM15–30 with the doctor's payout undisclosed and their medico-legal exposure undiminished** — a product doctors serve reluctantly and regulators have begun to prune (the MC ban being the first cut).[^1][^7][^17]
+2. **Everything the global literature says makes teleconsultation work — preparation, continuity, engineered documentation, pathway embedding — is absent from the Malaysian incumbent model.**[^6][^22][^25]
+3. **Therefore the consult itself is the open competitive surface.** Not price, not app features: the redesign of the encounter around the doctor's prepared, protected, paid time. The operator that treats the teleconsult as a manufactured product with quality specifications — rather than a marketplace transaction — takes the doctors, and the doctors bring the patients.
+
+Doctor-side economics are benchmarked in [doctor-workflows.md](doctor-workflows.md); prescribing rails in [prescribing-models.md](prescribing-models.md); the full recruiting synthesis in [clinician-pain-points.md](clinician-pain-points.md).
 
 ---
 
