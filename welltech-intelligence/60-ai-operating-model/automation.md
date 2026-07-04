@@ -121,6 +121,17 @@
 
 **Tally**: 21 Full · 17 Assisted · 6 Human-only. The human-only set (diagnosis, prescribing, dispensing verification, abnormal-result interpretation, MCs, save-calls/dispute judgment) is exactly the licence-bearing and relationship-bearing core — consistent with the design principle that Welltech automates the clinic *around* the clinician, never the clinician.
 
+### 2.9 Priority quadrant (impact × complexity)
+
+*(analyst placement of the high-impact processes above; low-impact processes omitted)*
+
+| | **Low complexity** | **Medium complexity** | **High complexity** |
+|---|---|---|---|
+| **High impact** | Quick wins — build first: A1 first-touch reply, A4 all-in quoting, B1 consent, B5 expectation-setting, D4 proactive delay notices, D5 refill nudges, E3/E4 dunning & auto-refunds, F8 clean cancellation | Core machine — the phase-1 spine: A2 qualification, B2/B3 booking & payment, B4 intake Flows, B6 briefs, C3/C4 documentation, C5 check-in grading, C9 result drafting, D1/D3 e-Rx & cold chain, E2 renewals, F1/F2/F4 retention engine, G1 audit log, G3 archiving | Handle with governance: C6 red-flag detection — the only high-impact/high-complexity item, and the one with zero error tolerance; deterministic tripwires + 100% grade-2/3 audit, never "ship and iterate" |
+| **Medium impact** | A6 creative linting, C7 advice library, C14 Ramadan mode, F5 plateau content, F6 step-down, H2/H4/H5 dashboards | A7 attribution, B7 identity, C8 labs logistics, C12 referrals, C15 AE capture, D6/D7 inventory & switches, E1/E6 invoicing & claims, F7 reactivation, G4–G6 QA/compliance, H1/H3 cohort & outcome data | — (nothing medium-impact justifies high complexity at launch) |
+
+Reading: the quick-win column is disproportionately *communication* processes — consistent with the research finding that the second failure (silence after a problem) is what converts operational slip-ups into public complaints ([recurring complaints §10.1](../30-patient-reviews/recurring-complaints.md)). Cheap automation buys expensive reputation.
+
 ---
 
 ## 3. Prioritised build roadmap
@@ -163,6 +174,14 @@ Phase-1 deliberate exclusions: no scribe dependency for launch (doctors are few;
 | Titration decision-support as a **registered Class B SaMD** (optional, deliberate) | C2-adjacent | Only if strategy warrants CAB conformity assessment; never a feature flag |
 | Longevity/preventive membership automation (screening cycles, biomarker trends) | C8, H3 | P1→P2 conversion engine ([journey stage 11](ai-patient-journey.md)) |
 | Multi-market replication layer (SG/HK panels on shared tech) | Cross-cutting | Market-by-market licensing per [regulations §10](../10-market-intelligence/malaysia-regulations.md) |
+
+### 3.4 Phase gates *(analyst-designed; growth gated the way clinical safety gates a drug launch — [clinician pain points §6.1](../40-doctor-experience/clinician-pain-points.md))*
+
+| Gate | Criteria to pass | If failed |
+|---|---|---|
+| Launch → open enrolment | Missed-red-flag audit clean over 4 consecutive weeks at pilot volume; consent/archiving verified end-to-end; escalation SLAs met ≥95%; refund automation fires correctly on injected test breaches | Hold marketing spend; fix before scale |
+| Phase 1 → Phase 2 | Week-8 cohort persistence ≥ target on ≥200 patients; containment rate ≥60% without CSAT degradation; doctor non-clinical minutes measured ≤10 (path to ≤5); number quality rating "High" sustained | Scale humans, not automation, until quality recovers |
+| Phase 2 → Phase 3 | Month-6 persistence beats unmanaged baseline by ≥15pp; ≥6 months QA-labelled transcripts; edit-distance on doctor sign-offs stable (no rubber-stamping drift) | Defer fine-tuning/SaMD projects; data isn't ready |
 
 ---
 
@@ -222,6 +241,18 @@ Phase-1 deliberate exclusions: no scribe dependency for launch (doctors are few;
 3. **Scaling shape.** Traditional cost scales linearly with patients; AI-native people-cost scales with *exceptions* (≈0.4–0.5 FTE per +100 patients) while technology cost scales with tokens (near-linear but small). At 5,000 patients the models diverge to roughly RM95–105/patient (traditional, unchanged) vs RM45–55 *(analyst extrapolation)*.
 4. **Where not to save.** Doctor compensation is deliberately above market ([clinician value proposition](../40-doctor-experience/clinician-pain-points.md)) and human save-calls are deliberately retained — the evidence says live contact outperforms automation where it matters ([WhatsApp healthcare §4.4](../10-market-intelligence/malaysia-whatsapp-healthcare.md)).
 
+### 5.3 Sensitivity *(analyst analysis of the §5.1 model)*
+
+| Assumption stressed | Effect on AI-native model | Break-even observation |
+|---|---|---|
+| Containment rate 70% → 50% | +0.5–1.0 human FTE (≈RM3–5K/month) | Model still ≈25% cheaper; containment below ~35% erodes most of the people saving |
+| Doctor panel 600 → 400 (heavier acuity mix) | +0.5–0.75 doctor FTE (≈RM7–11K/month) | Cost advantage narrows to ~15–20%; the retention upside is unaffected |
+| LLM prices double | +RM4–8K/month | Immaterial (<10% of total); inference is not the cost driver, people are |
+| Escalation volume 2× (sicker cohort or looser guardrails) | Nurse 1.5 → 2.5 FTE | Still cheaper; but signals guardrail tuning, not staffing, as the fix |
+| Persistence uplift only +5pp (not +10pp) | Revenue upside ≈RM20–35K/month | Automation still pays for itself on retention alone at half the assumed effect |
+
+The model is robust to every single-variable stress; the genuinely dangerous scenario is compound (low containment **and** heavy escalation **and** small panels), which is the signature of shipping the conversational layer before the protocol book and guardrails are tuned — the phase gates in §3.4 exist to prevent exactly that sequence.
+
 ---
 
 ## 6. The metrics stack (instrument from day 1)
@@ -243,9 +274,25 @@ Instrumentation rules: (a) every AI decision carries model + prompt version for 
 
 ---
 
-## 7. Bottom line
+## 7. Automation anti-patterns (what this map deliberately avoids)
 
-Of 44 clinic processes, 21 automate fully and 17 more become AI-drafted/human-signed; the six that remain human-only are precisely the acts Malaysian law and good medicine reserve for licensed judgment. The build order follows the money and the law: compliance spine and the weeks-2–8 persistence machine first, doctor-keyboard removal second, data-moat compounding third. The cost model says an AI-native clinic runs ~30–37% cheaper per patient — but the decisive line is that it delivers an order of magnitude more care touches, and in a category where half of unmanaged patients quit within a year[^4], those touches *are* the revenue.
+| Anti-pattern | Why it fails here | This map's counter-position |
+|---|---|---|
+| Automating the doctor's judgment to cut the biggest cost line | SaMD Class B registration trigger; MMC accountability; the researched market *trusts clinicians and punishes administration* ([recurring complaints §15](../30-patient-reviews/recurring-complaints.md)) | Six human-only processes are load-bearing by design; doctors get leverage, not replacement |
+| Chatbot-first, workflow-later (a bot bolted onto manual ops) | The Malaysian incumbent pattern — keyword bots over unstructured inboxes ([WhatsApp healthcare §8.1](../10-market-intelligence/malaysia-whatsapp-healthcare.md)); the bot answers, then the T4→T2→T5 chain fires anyway | Orchestration/state machine is the phase-1 core; conversation is its interface |
+| Marketing-blast economics | Pays RM0.30–0.45/message, degrades number quality, triggers MASA exposure | Service-led messaging; marketing class confined to stage-12 reactivation |
+| Automating retention as pressure (win-back scripts, exit friction) | Recreates the slimming-centre T7 record that defines the category's reputation | Retention by service quality; one-message cancellation is itself automated |
+| Shipping unmeasured automation | Cannot prove safety to MMC, value to the board, or improvement to itself | The §6 metrics stack and audit spine are phase-1 deliverables, not phase-3 polish |
+
+## 8. Bottom line
+
+Of 44 clinic processes, 21 automate fully and 17 more become AI-drafted/human-signed; the six that remain human-only are precisely the acts Malaysian law and good medicine reserve for licensed judgment. The build order follows the money and the law:
+
+1. **Phase 1 buys trust and safety** — consent, archiving, audit, instant response, honest prices, kept delivery promises, and the weeks-2–8 check-in engine.
+2. **Phase 2 buys doctor leverage and month-2 revenue** — scribes, result drafting, churn scoring, save-calls, renewals.
+3. **Phase 3 buys the moat** — the outcome dataset, tuned local-language models, and (only deliberately) regulated decision support.
+
+The cost model says an AI-native clinic runs ~30–37% cheaper per patient and is robust to every single-variable stress (§5.3) — but the decisive line is that it delivers an order of magnitude more care touches, and in a category where half of unmanaged patients quit within a year[^4], those touches *are* the revenue.
 
 ---
 

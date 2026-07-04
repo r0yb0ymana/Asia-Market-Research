@@ -275,6 +275,23 @@ Cost note: this cadence is ~85% utility/service class; modelled Meta fees stay �
 
 The complaint taxonomy doubles as the journey's QA checklist: a monthly review asks, for each of T1–T9 and the four anticipated classes, "did we generate any instance of this — and did the AI or a human catch it first?" ([recurring complaints §11, §14](../30-patient-reviews/recurring-complaints.md)).
 
+**Patient-visible SLA commitments** (published, monitored, auto-compensated on breach — the anti-T5/T6 trust architecture):
+
+| Commitment | SLA | Breach response |
+|---|---|---|
+| First reply to any message, business hours | <5 min (AI instant; human queue <15 min) | Apology + escalation flag |
+| Booked consult starts on time | ±10 min | Credit per published policy |
+| Medication delivery (Klang Valley) | <24 h from prescription | Proactive notice + delivery-fee refund |
+| Results explained after collection | <72 h | Status update + doctor callback offer |
+| Refund under published policy | <7 days | Auto-escalation to finance lead |
+| Cancellation processed | Same day, one message | — (design guarantee) |
+
+---
+
+## 6. Bottom line
+
+The journey is one continuous WhatsApp thread punctuated by exactly the human moments that matter: an in-person doctor at initiation, a nurse when symptoms escalate, a doctor's signature on every prescription and result, a human voice when churn risk spikes. Everything between those moments — qualification, booking, payment, intake, logistics, monitoring cadence, renewal mechanics, reactivation — is AI-orchestrated, because the research is unambiguous about where incumbents bleed patients: unanswered messages, unexplained prices, broken delivery promises, absent follow-up, and a churn cliff in weeks 2–8 that nobody in the Malaysian market currently even measures. The cadence table is the product; the escalation matrix is the safety case; the three cliff designs (side-effects, Ramadan, payment) are the retention thesis made operational.
+
 ---
 
 ## References

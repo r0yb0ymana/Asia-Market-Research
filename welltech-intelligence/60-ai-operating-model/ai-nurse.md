@@ -4,7 +4,7 @@
 
 **Last updated: July 2026**
 
-Related documents: [AI Doctor Assistant](ai-doctor.md) · [WhatsApp operating model](whatsapp-operating-model.md) · [Malaysia WhatsApp healthcare](../10-market-intelligence/malaysia-whatsapp-healthcare.md) · [Malaysia regulations](../10-market-intelligence/malaysia-regulations.md) · [Malaysia weight-loss market](../10-market-intelligence/malaysia-weight-loss-market.md) · [Prescribing models](../40-doctor-experience/prescribing-models.md)
+Related documents: [AI-native clinic master architecture](ai-clinic.md) · [AI Doctor Assistant](ai-doctor.md) · [WhatsApp operating model](whatsapp-operating-model.md) · [AI-orchestrated patient journey](ai-patient-journey.md) · [Automation opportunity map](automation.md) · [Malaysia WhatsApp healthcare](../10-market-intelligence/malaysia-whatsapp-healthcare.md) · [Malaysia regulations](../10-market-intelligence/malaysia-regulations.md) · [Malaysia weight-loss market](../10-market-intelligence/malaysia-weight-loss-market.md) · [Prescribing models](../40-doctor-experience/prescribing-models.md)
 
 ---
 
@@ -118,6 +118,19 @@ flowchart TD
 ```
 
 Design notes: (a) every green disposition carries a **safety-net phrase** telling the patient exactly what change would upgrade the situation and to message immediately if it occurs — the mechanism that makes over-triage self-correcting; (b) the **watch rule** re-opens green cases automatically on recurrence, preventing "chronic green" drift; (c) after-hours amber is explicitly designed — the AI never improvises overnight; it applies the signed after-hours script and books the morning task; (d) all three tiers write structured outcomes, so escalation precision/recall is measurable (§10).
+
+### 5.3 After-hours operations (22:00–08:00)
+
+Malaysian patients message at night; the design assumes it rather than apologising for it:
+
+| Element | Specification |
+|---|---|
+| First response | AI Nurse operates normally for green traffic and data capture; after-hours auto-acknowledgement states human availability and the emergency instruction (999/nearest ED) in every conversation that turns clinical ([whatsapp-operating-model.md §3](whatsapp-operating-model.md), template 45) |
+| Amber overnight | Signed after-hours script only: acknowledge, safety-net with explicit deterioration triggers ("if you cannot keep sips of water down, or the pain becomes severe, go to the ED now"), book the 08:00 nurse task at the top of the morning queue. The AI schedules a proactive 07:30 "how was the night?" pulse |
+| Red overnight | Identical to daytime: emergency script instant; on-call nurse and on-call clinician paged simultaneously; 15-minute human-contact SLA holds 24/7 — this is the SLA that is *never* degraded |
+| Deterioration rule | Two amber contacts within one night, or any amber + a new symptom, auto-upgrades to red — the overnight system biases upward because no human is watching the queue in real time |
+| Doctor protection | Nothing routes to a panel doctor's personal device overnight except the on-call rota's red pages — the contractual message-load cap and boundary promise ([clinician-pain-points.md §3](../40-doctor-experience/clinician-pain-points.md)) is enforced here, in routing logic |
+| Morning handover | 08:00 shift lead receives the night digest: all overnight conversations, classifications, safety-net scripts sent, pending pulses — reviewed before the amber queue is worked |
 
 ## 6. The human nurse role
 
