@@ -100,6 +100,20 @@ PCMC is the only IHH Malaysia hospital marketing a packaged, pharmacotherapy-inc
 
 Assessment *(analyst view)*: this is the most direct hospital-based analogue to Welltech's medical weight-loss offering in Malaysia. Its constraints: consultant-hours delivery, KLCC single-site access, hospital pricing, no published program price, no remote titration/follow-up infrastructure, and a funnel that naturally tilts toward its surgeons' procedures. It validates GLP-1 demand at the premium end while leaving the continuous-care, WhatsApp-native, transparent-pricing segment open.
 
+### Program-design comparison *(analyst construct; PCMC facts cited)*
+
+| Dimension | PCMC Weight Management Clinic | Welltech GLP-1 program (target state) |
+|---|---|---|
+| Intake | in-person consultant visit, KLCC[^18] | online assessment + teleconsult |
+| Pharmacotherapy | GLP-1, GIP/GLP-1 agonists prescribed in clinic[^18] | same molecules; structured titration protocol |
+| Between-visit support | none published; patient returns for appointments | weekly WhatsApp check-ins; side-effect triage |
+| Escalation pathway | in-house endoscopic/bariatric surgery (Dato' Dr Tikfu Gee)[^19] | referral out — plausibly to PCMC |
+| Pricing | unpublished; hospital consult + dispensing | published monthly subscription |
+| Geography | single site, KL city centre | MY/SG/HK remote-first |
+| Data | episodic clinic records | longitudinal weight/biomarker tracking |
+
+The two models meet at escalation: PCMC wants surgical candidates; Welltech wants a credible surgical partner. This is the single most concrete partnership seam between the companies.
+
 ## 5. Concierge, international patients and digital channels
 
 ### 5.1 Concierge and medical tourism machinery
@@ -119,6 +133,22 @@ Assessment *(analyst view)*: this is the most direct hospital-based analogue to 
 - Accepts guarantee letters (GLs) only from insurers with established credit facilities; **no GL = deposit**: RM5,000 (medical admission, normal room), RM10,000 (ICU), and **100% of estimated cost for surgical admissions**. Excess-deposit refunds take 7–14 working days.[^25]
 - International insurer panel includes Cigna, Aetna, Bupa, Henner, GeoBlue; cash and major cards accepted.[^25][^26]
 
+### 5.4 The international patient journey (as designed by PCMC)
+
+```mermaid
+flowchart LR
+    A[Enquiry:\nWhatsApp / email /\ninternational line] --> B[International Patient\nCentre coordination]
+    B --> C[MHTC aerobridge greeting\n+ medical immigration lane\nat KLIA]
+    C --> D[Complimentary charter\nto hospital or\npartner hotel]
+    D --> E[Screening / treatment\nin single-room facility\n+ interpreter + lounge]
+    E --> F{Follow-up?}
+    F -- report + email --> G[Patient returns home\nno continuity product]
+    F -- complication/next episode --> B
+    style G fill:#f6d5d5
+```
+
+The journey is world-class up to discharge and empty afterwards — the same longitudinal vacuum as the domestic funnel, but with an international patient who is even harder for PCMC to retain remotely.[^8][^23]
+
 ## 6. Reputation themes (review synthesis)
 
 From Google-review aggregators, Trustburn, Wupdoc, iBanding and expat forums:[^17][^27]
@@ -133,6 +163,16 @@ From Google-review aggregators, Trustburn, Wupdoc, iBanding and expat forums:[^1
 | Appointment handling | Accounts of appointments confirmed by email then bumped on the day[^17] |
 
 Net: the brand promise (five-star hospital) amplifies disappointment when process fails. The gap between clinical excellence and administrative experience is PCMC's most exploitable weakness.
+
+### 6.1 Demand segments served — and how each is vulnerable *(analysis)*
+
+| Segment | What PCMC gives them | Unmet need Welltech can own |
+|---|---|---|
+| KL/expat white-collar (US/UK/AU/FR skew)[^7] | trusted English-speaking specialists, premium wards | a single point of contact across providers; out-of-hours access; insurance navigation |
+| Executives (screening) | one-day Signature experience[^12][^14] | the following 12 months: plan execution, retesting, metabolic intervention |
+| Medical tourists (140+ countries)[^8] | concierge arrival-to-discharge machine | pre-trip triage and post-trip remote follow-up in home country |
+| Local affluent inpatients | five-star wards RM280–2,888/night[^9] | GL pre-clearance, deposit avoidance, bill advocacy |
+| Corporate clients | occupational + corporate screening[^28] | ongoing workforce metabolic-health programs, not annual events |
 
 ## 7. SWOT
 
@@ -158,6 +198,17 @@ Net: the brand promise (five-star hospital) amplifies disappointment when proces
 3. **Sell against the deposit-and-queue experience.** PCMC's most repeated complaints — 6–7h screening queues, RM5k–10k deposits, discharge held for payment, refund delays — are concierge product copy waiting to be written. "We pre-clear your GL and you never queue" is a direct, evidence-backed pitch to the same expat/executive segment PCMC serves.
 4. **Use PCMC's medical-tourism machinery as a template and a rail.** Complimentary airport charters, MHTC aerobridge greeting and hotel partnerships define the service bar for Welltech's regional (SG/HK) client flows into KL — and PCMC has every incentive to accept referred international patients from a digital front door it does not have to build.
 5. **Watch for:** publication of weight-program pricing or a subscription-style metabolic offering; any extension of eHealth into asynchronous/WhatsApp care; and IHH group moves to replicate PCMC's Weight Management Clinic at Gleneagles KL — the clearest signal of hospital incumbents moving onto Welltech's turf.
+
+### Monitoring triggers (review quarterly)
+
+| Trigger | Where to check | Signal |
+|---|---|---|
+| Weight Management Clinic publishes program pricing or bundles | princecourt.com/weight-management-clinic[^18] | productisation of GLP-1 care — direct competitive escalation |
+| eHealth adds asynchronous chat, packages, or extended hours | princecourt.com/ehealth[^23] | continuity gap starting to close |
+| New screening tiers or price moves on Signature packages | princecourt.com/health-screening[^12] | premium benchmark shift for Welltech pricing |
+| Renovation/expansion announcements (beds, executive-health floor) | PCMC news page[^10] | capacity bet on preventive demand |
+| Leadership change or IHH repositioning of PCMC vs Island/Gleneagles | IHH quarterly decks, PCMC newsroom[^7][^10] | flagship strategy reshuffle |
+| Corporate-screening product push (named employers, portals) | PCMC + Mya Care listings[^28] | collision with Welltech B2B channel |
 
 ---
 

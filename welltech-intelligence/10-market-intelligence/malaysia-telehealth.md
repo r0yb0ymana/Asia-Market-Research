@@ -8,6 +8,10 @@ Related documents: [Malaysia market overview](malaysia-market-overview.md) · [M
 
 ---
 
+**Contents:** 1. Executive view · 2. History & catalysts · 3. Market size & forecasts · 4. Usage & evidence · 5. Player landscape (matrix, pricing, profiles, funding/M&A) · 6. Business models & unit economics · 7. Government & public-sector telehealth · 8. Regulatory snapshot · 9. Infrastructure & value chain · 10. Gap analysis & WhatsApp whitespace · 11. Porter's Five Forces · 12. SWOT · 13. Growth outlook & watchlist · 14. Bottom line · Appendix A · References
+
+---
+
 ## 1. Executive view
 
 | Dimension | State of play (2024–2026) |
@@ -398,6 +402,12 @@ Net: an unattractive industry *as currently defined* (commodity consults), attra
 3. **Own GLP-1/chronic programmes before anyone else does.** Wegovy is in-market via fragmented aesthetic clinics; DOC-class platforms will eventually bolt on weight verticals — the window is now.[^78][^79]
 4. **Rent the rails, own the relationship.** Partner Alpro/BIG + GrabExpress/GDEX for fulfilment; do not build logistics.[^38][^40]
 5. **Prepare for the Digital Health Act (2026)** as a moat event: early compliance (local entity, RMP governance, PDPA-grade data architecture, auditable records) converts regulation from threat to barrier-to-entry.[^10][^14]
+6. **Sell outcomes to employers via existing rails.** HealthMetrics' TPA network and Qmed's kiosk fleet are distribution, not competition — a Welltech metabolic programme is the product those rails lack, and Naluri has already educated Malaysian HR buyers on programme ROI.[^50][^56][^60]
+7. **Treat public-sector telehealth as a boundary, not a threat.** MOH virtual clinics will own free chronic follow-up for the B40 segment; Welltech's segments (urban professionals, GLP-1 seekers, employer-covered workers) are structurally outside it — but data interoperability with One-Individual-One-Record will eventually be a licence to operate.[^13][^24]
+
+---
+
+*Next scheduled review: on Digital Health Act tabling (expected 2026) or any funding/M&A event involving DoctorOnCall, Doctor Anywhere MY, Speedoc MY, DOC2US, or Naluri — whichever comes first. See the [watchlist](#131-watchlist-leading-indicators-to-monitor-20262027).*
 
 ---
 

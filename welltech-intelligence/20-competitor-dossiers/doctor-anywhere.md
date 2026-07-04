@@ -132,6 +132,16 @@ Comparative note: DA undercuts Speedoc on teleconsults in Malaysia (RM25 vs RM30
 - **Campaigns:** "Highlympics" with Lifebuoy (national sprinter Shanti Pereira, Tyen Rasif, Mongchin Yeoh) pushing subsidised screenings to younger consumers; men's-health street campaigns ("Even strong men stop. It's stronger to know for sure"); student rates programme.[^52][^53]
 - **Social:** Instagram ~7.5k followers; TikTok ~1.4k followers / 29.7k likes — modest owned-social reach; the reach engine is partners, not content.[^54]
 
+### Funnel anatomy *(analyst synthesis)*
+
+| Funnel | Entry point | Conversion lever | Weakness |
+|---|---|---|---|
+| Insurer/corporate | Employer onboarding, PRUPanel etc. | Cashless consults | DA doesn't own the relationship; churns with the contract[^31][^32] |
+| Perks/partners | Grab, DBS, Singtel, PAssion, GetGo codes | Discounted first consult | Promo-shoppers, low LTV[^40][^41] |
+| Organic/SEO | Condition & "teleconsult" queries; support-article long tail | S$14.17 member rate anchor | Price-led, brand-light |
+| Owned clinics | CHAS/Healthier SG enrolment, walk-ins | Government subsidies, health plans | Only nine sites; capex-bound[^34][^39] |
+| Marketplace | Post-consult cross-sell, vouchers | Same-day delivery | Trust friction on med pricing[^47] |
+
 ---
 
 ## 7. Reviews & reputation
