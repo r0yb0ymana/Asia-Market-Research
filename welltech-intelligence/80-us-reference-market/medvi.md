@@ -30,6 +30,20 @@ Welltech's thesis is outcome-accountable, retention-led, compliance-first, brand
 
 **Finding — opacity is the story.** Medvi has no audited accounts, no institutional investors, no board, and a two-person headcount. The "US$1.8B company" framing is a self-reported revenue **run-rate**, not a financed valuation — a distinction multiple analysts stressed after the NYT profile.[^2][^11] For an intelligence file, the thinness and self-reporting of the record is itself a red flag: this is a marketing entity wrapped around outsourced clinical infrastructure, not an integrated care company.
 
+### 2.1 Timeline
+
+| Date | Event |
+|---|---|
+| Sep 2024 | Medvi founded; ~US$20k, AI tooling, two people[^1] |
+| Feb 2025 | FDA declares semaglutide shortage resolved; compounding wind-down begins[^14] |
+| 2025 (FY) | Reports ~US$401M revenue (first full year)[^1] |
+| Dec 2025 | 35 state AGs write to Meta over deceptive AI weight-loss ads (the category Medvi typifies)[^13] |
+| Jan 2026 | Outsourced partner OpenLoop discloses breach (~1.6M patients)[^7] |
+| 20 Feb 2026 | FDA warning letter #721455 to MEDVi, LLC (misbranding)[^4] |
+| 20 Mar 2026 | Class action filed (C.D. Cal.) over affiliate spam / spoofed emails[^11] |
+| 2 Apr 2026 | Glowing NYT profile; ~US$1.8B run-rate claim goes viral[^2] |
+| Apr 2026 | NYT issues substantial corrections after criticism[^16] |
+
 ## 3. Model and pricing
 
 Medvi is a **cash-pay, no-insurance** subscription. The monthly fee bundles the medication with unlimited async messaging and telehealth access; HSA/FSA is accepted.[^10] It is a classic intro-price-then-step-up funnel:
@@ -52,6 +66,12 @@ Marketing *is* the company. Medvi's growth was manufactured through **AI-generat
 - AI-fabricated **before/after** comparison images. In December 2025 a bipartisan coalition of **35 state attorneys general** wrote to Meta warning that fabricated AI images, spokespeople, and medical claims "cross a line" — the category Medvi typifies.[^12][^13]
 
 **Compliance posture: reactive and deflecting.** After the FDA warning letter, founder Gallagher's public line was that doctor portrayals in advertising are "longstanding," that the site carries disclaimers, and that the FDA letter "was sent to an affiliate" and the issue "has since been resolved."[^12] The affiliate-distancing defense is itself a structural tell: growth is subcontracted to affiliates whose conduct the brand then disowns when regulators arrive.
+
+### 4.1 The AI-operations layer — impressive and hollow
+
+The genuinely novel thing about Medvi is how little company sits behind the revenue. The website was "vibe-coded" with AI; customer service is run by AI agents; ad creative (images, personas, testimonials) is generated with tools like Midjourney; and the clinical and pharmacy work is entirely subcontracted.[^1][^3] The result is a business with almost **no operational substance of its own** — a marketing and billing wrapper around third-party infrastructure.
+
+For Welltech the double-edged reading matters. On one edge, it is a real benchmark for how cheap a DTC telehealth funnel now is to stand up — the tooling advantage is genuine. On the other, Medvi shows the **failure mode of the same tooling**: when the creative layer is AI-generated and the accountability layer is outsourced, deception scales as easily as growth, and there is no internal function that owns safety, quality, or truth. The lesson is that AI should compress Welltech's **cost**, never its **accountability**.
 
 ## 5. The compounding-loophole dependence and the 2025 shortage cliff
 
@@ -91,6 +111,21 @@ For a two-person, two-year-old company, the exposure is remarkably dense:
 - **Spam / consumer-protection litigation:** a class action filed **20 March 2026 (C.D. Cal.)** alleging Medvi uses affiliate marketers to send deceptive spam emails with spoofed domains and falsified headers (CAN-SPAM/TCPA theories); Medvi denies wrongdoing.[^11]
 - **OpenLoop data breach:** Medvi's outsourced clinical partner OpenLoop Health disclosed a breach (**Jan 2026**) affecting **~1.6M patients**; OpenLoop notified the Texas AG (**Mar 2026**, 68,160 TX residents) and faces class actions — Medvi patients' data is in scope by virtue of the outsourcing.[^7]
 - **Media reversal:** a laudatory **NYT profile (2 Apr 2026)** omitted the FDA letter and lawsuits; after criticism (Techdirt: "got played by a telehealth scam"; Forrester: "beware the magical two-person US$1B AI-driven startup"), the NYT made **substantial corrections**, conceding the piece "should have included that information."[^2][^11][^16]
+
+### 7.1 Medvi vs Hims — same category, opposite ends
+
+Read alongside [Hims & Hers](hims-hers.md), Medvi maps the far, disreputable end of the compounded-GLP-1 spectrum. The contrast is the lesson:
+
+| Dimension | Hims & Hers | Medvi |
+|---|---|---|
+| Structure | Public, audited, integrated (owns brand, some clinical) | Private, unaudited, two people, all outsourced |
+| Supply | Attempted branded partnership (Novo) | Compounded only, no manufacturer relationship |
+| Marketing | Aggressive but human/celebrity-led | AI-fabricated fake doctors, fake testimonials |
+| Regulatory response | Senate letters, manufacturer dispute | FDA warning letter, AG scrutiny, class actions |
+| Reputation | Mixed but transparent | Bimodal, F BBB, no-refund policy |
+| Accountability | A public company with a board | A marketing shell with a disclaimer |
+
+Both sit on the same compounding cliff. The difference is that Hims has scale, capital, and a diversification path off the cliff; Medvi has a run-rate claim, an FDA letter, and nowhere to land. For Welltech, Hims is "copy the platform, avoid the loophole"; Medvi is "avoid the whole posture."
 
 ## 8. Pros — the (narrow) positives
 
