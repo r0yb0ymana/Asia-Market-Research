@@ -45,6 +45,20 @@ Related: [Malaysia market intelligence](../10-market-intelligence/malaysia-marke
 
 **Implications for Welltech.** IHH's Malaysia strategy is yield-per-admission, daycare conversion, and medical tourism — not continuous care relationships. Its growth math (revenue per inpatient +12% while admissions fall 3%) actively depends on higher-acuity episodes, which leaves the low-acuity, high-frequency preventive/metabolic relationship unowned.
 
+### 1.5 Timeline of key corporate events
+
+| Year | Event | Relevance |
+|---|---|---|
+| 2010 | Khazanah founds IHH as holding company for its healthcare assets[^3] | state-linked origin; policy influence |
+| 2018 | Khazanah divests 16% to Mitsui for RM8.42bn — Mitsui becomes largest shareholder[^5] | Japanese strategic capital; long holding horizon |
+| 2019 | IHH acquires Prince Court Medical Centre from Khazanah for RM1.02bn[^20] | premium/medical-tourism flagship added |
+| 2020 | Group telemedicine launch across Singapore, Malaysia and key markets[^37] | COVID-era; never evolved past office-hours adjunct |
+| 2021 | Co-leads Doctor Anywhere US$27m Series B via Innovation Fund[^15] | precedent: partner for consumer digital, don't build |
+| 2023 | Pantai Premier Pathology rebrands as Premier Integrated Labs (June)[^21] | diagnostics platform ambition (genomics, molecular) |
+| 2024 | Island Hospital Penang acquired for RM4.2bn; RM4bn sukuk (Nov)[^10][^13] | medical tourism doubling; Penang concentration |
+| 2025 | Global Incubator launched (Oct); first private AI-automated haematology lab (Oct); Q3 record Malaysia margin ~28%[^7][^16][^41] | innovation optics + margin peak |
+| 2026 | Capex-intensity cut announced; ACC/daycare pivot emphasised; Mitsui 49% stake reports persist[^2][^8][^12] | capital discipline; ownership overhang |
+
 ---
 
 ## 2. Malaysia network

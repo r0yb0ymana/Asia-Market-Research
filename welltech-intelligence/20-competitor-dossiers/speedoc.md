@@ -141,7 +141,67 @@ Reputation synthesis: strong institutional reputation (MOH, hospital clusters, I
 
 ---
 
-## 8. Strengths / Weaknesses / SWOT
+## 8. Competitive context
+
+### 8.1 Market frame
+
+- **Singapore hospital-at-home:** MOH targeted up to 300 MIC@Home virtual beds in 2024 (from 104 in Jan 2024), with full subsidy/MediShield/MediSave parity — a policy-created market in which Speedoc is a named private partner alongside MinMed, Biofourmis and Masimo.[^15][^16]
+- **Regional tailwind:** APAC home healthcare projected to exceed US$222.4B by 2033 (11.48% CAGR) — the figure Speedoc itself uses to frame its AI platform investment.[^18]
+- **Singapore home-care competitors:** Jaga-Me (acquired by Alliance Healthcare, 2019, ~S$3.5M), WhiteCoat (telemedicine + chronic + mental wellness), MinMed, Doctor Anywhere's house-call service, and hospital clusters' own home teams.[^45]
+- **Malaysia house-call competitors:** a fragmented field of local house-call operators (MyDocSquad's directory lists ten), DoctorOnCall (teleconsult ~RM20) and hospital home-care units; Speedoc is the only regional brand with both SG and MY house-call logistics.[^29][^31]
+
+### 8.2 Comparison matrix — Speedoc vs Doctor Anywhere (detail in [Doctor Anywhere dossier](doctor-anywhere.md))
+
+| Dimension | Speedoc | Doctor Anywhere |
+|---|---|---|
+| Core motion | Home clinical logistics; hospital-at-home | App teleconsult + omnichannel clinics/marketplace |
+| Markets | SG, MY | SG, MY, TH, VN, PH, ID |
+| Funding (reported) | ~US$33–51M[^8][^20] | >S$190M cumulative[^46] |
+| Owned clinics | None | 9 in SG; clinics/pharmacies in VN[^46] |
+| Public-scheme depth | MIC@Home clinical partner (inpatient substitution) | CHAS/Healthier SG (primary care) |
+| Insurer channel | GE, Allianz MY | 7+ insurers incl. Prudential, Cigna, Singlife |
+| GP teleconsult price | S$21.80 / RM30 | S$27.25 (S$14.17 member) / RM25 |
+| House call price | S$327+ / RM250 | Offered in SG; price at booking only |
+| Weight/GLP-1 | None | Consults + content, no packaged programme |
+| AI posture | Agentic ops platform (Searce/Google, 2025) | No flagship deployment found |
+| WhatsApp-first | No (hotline/app) | No (app-first) |
+
+### 8.3 Porter-style forces snapshot (Speedoc's position)
+
+| Force | Assessment |
+|---|---|
+| Buyer power | **High** — MOH/hospital clusters and insurers set terms for the largest revenue blocks; B2C buyers are price-sensitive above S$300/visit. *(inference from model)* |
+| Supplier power | **Medium-high** — SMC/MMC-licensed doctors and nurses are scarce, and 24/7 rosters are costly to retain.[^34] |
+| New entrants | **Medium** — home-nursing agencies are easy to start; MIC@Home-grade integration is not. |
+| Substitutes | **High** — polyclinics/GPs, EDs, hospital-cluster in-house home teams, cheaper teleconsult apps. |
+| Rivalry | **Medium** — few full-stack rivals in home clinical logistics; many partial overlaps (DA, WhiteCoat, Jaga-Me/Alliance). |
+
+### 8.4 Customer journey (B2C house call / step-up to H-Ward)
+
+```mermaid
+journey
+    title Speedoc patient journey (acute home episode)
+    section Trigger
+      Symptom at home (often night): 2: Patient
+    section Access
+      App booking or 24/7 hotline: 3: Patient
+      Triage by care team / AI assistant: 4: Speedoc
+    section Care
+      Teleconsult from S$21.80 or house call from S$327: 4: Doctor
+      On-the-spot meds, MC, labs: 5: Doctor
+    section Escalation
+      Ambulance (S$120-170) or H-Ward step-up: 4: Speedoc
+      Hospital-governed MIC@Home monitoring: 5: Hospital+Speedoc
+    section Aftermath
+      Medicine delivery, follow-up teleconsult: 4: Speedoc
+      No membership; relationship lapses until next episode: 2: Patient
+```
+
+The final step is the strategic point: the journey **ends** rather than converts into a longitudinal relationship — Speedoc has no subscription, panel-doctor continuity, or preventive programme to capture the patient between episodes.
+
+---
+
+## 9. Strengths / Weaknesses / SWOT
 
 ### Strengths
 1. Only private operator with deep, named integration into Singapore's mainstreamed hospital-at-home system (MIC@Home) — a regulatory moat competitors cannot quickly replicate.[^15][^16]

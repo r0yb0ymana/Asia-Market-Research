@@ -138,6 +138,16 @@ Government primary care deliberately routes digital demand elsewhere: Klinik Kes
 
 *(analyst judgment)* The clinical literature supports three design principles for Welltech: (1) **cadence beats content** — frequency and timeliness of touches drive adherence effects; (2) **human-in-the-loop amplifies effect** — reminder systems with live-staff involvement outperform purely automated ones;[^37] (3) **groups add measurable value** in weight management via accountability,[^33] which maps to WhatsApp Communities (§9.8). For GLP-1 patients specifically — where week-4–12 discontinuation from side-effects and titration confusion is the main loss point — a structured WhatsApp check-in cadence is the cheapest known adherence lever.
 
+### 4.4 Limits of the evidence — read before over-claiming
+
+Honesty about what the literature does *not* show *(analyst assessment of the sources above)*:
+
+- **Channel vs. intervention confound.** Most cited trials test a *programme delivered over messaging*, not messaging itself; effect sizes belong to the coaching design (content, cadence, human contact) as much as to WhatsApp. Porting a weak programme onto WhatsApp will not rescue it.
+- **Evidence quality is mixed.** The app-adherence meta-analysis grades its pooled effect as low-certainty;[^36] several WhatsApp studies are small, single-site, or quasi-experimental;[^33] publication bias toward positive mHealth findings is documented in the field.
+- **Effects decay.** Reminder and engagement effects attenuate as novelty fades; sustained impact requires cadence variation, escalating personalisation, and human touchpoints — an argument for the nurse-in-the-loop design over pure automation (§9.4).
+- **Attendance-reminder effects are real but modest** for simple automated nudges; live-staff contact outperforms.[^37] Welltech's hybrid (automated + human follow-through on non-responders) is the evidence-aligned configuration.
+- **No published RCT yet tests WhatsApp-based support for GLP-1 persistence specifically.** *(inference from the searches conducted for this document)* Welltech's own instrumented cohort could become citable evidence — a publishable asset as well as an operational one.
+
 **Implications for Welltech.** Welltech can legitimately describe its WhatsApp care model as *evidence-based*, citing messaging-adherence meta-analyses and Malaysian WhatsApp-delivered interventions — valuable for clinician recruitment, payer conversations, and MOH-facing credibility. It should also instrument its own cohort (adherence, weight change, retention vs. cadence) to build proprietary evidence no competitor holds.
 
 ---

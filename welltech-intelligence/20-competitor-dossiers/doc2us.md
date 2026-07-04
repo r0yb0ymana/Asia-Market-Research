@@ -159,6 +159,30 @@ Ratings availability: aggregate Google Play and App Store star ratings for DOC2U
 - **Opportunities:** national e-Rx standardisation (they are the de facto standard-setter); pharmacist-led chronic care with Watsons/Alpro; DOC2HOME in ageing-in-place; monetising e-referral rails to hospitals.
 - **Threats:** MOH building public e-Rx rails that commoditise their moat; Watsons or AIA insourcing/switching telehealth vendors (concentration risk); better-funded DoctorOnCall/Doctor Anywhere bundling pharmacy + consults; regional players entering with GLP-1/weight programs that pull chronic patients into rival ecosystems.
 
+## 10a. Competitive position vs. adjacent players
+
+| Dimension | DOC2US | DoctorOnCall ([doctoroncall.md](doctoroncall.md)) | Doctor Anywhere (MY) |
+|---|---|---|---|
+| Core motion | e-Rx rails + async chat, B2B2C | B2C marketplace + e-pharmacy storefront | App-first video telehealth, VC-funded |
+| Consumer brand pull | Low (partner-embedded) | High (SEO incumbent) | Medium (app brand) |
+| Pharmacy strategy | Dispense-anywhere network (1,500+ outlets) | Own storefront + courier | In-app pharmacy + delivery |
+| Regulatory asset | Digitally signed e-Rx (DSA 1997) — unique | Poison-licence partner dispensing | Standard consult + delivery model |
+| Capital | Bootstrapped | ~USD 5.11M + strategics (Samsung, MTDC, Fischer) | USD 58.7M+ Series C regionally |
+| Payer/retail distribution | Watsons, AIA, MiCare | 10 insurers, 8 TPAs claimed | Regional insurer/employer plans |
+| Weight/GLP-1 program | None published | None published | Weight-loss clinic vertical marketed regionally |
+
+Read: DOC2US wins on infrastructure legitimacy and retail-pharmacy reach; it loses on consumer brand, capital, and program depth. Its rational endgame is being the neutral e-Rx utility for everyone — including, potentially, Welltech.
+
+### Porter's Five Forces snapshot (DOC2US's seat)
+
+| Force | Pressure | Driver |
+|---|---|---|
+| New entrants | Medium | Chat-consult apps are easy to clone; the digital-signature e-Rx stack and pharmacy onboarding are not |
+| Supplier power (doctors/pharmacies) | Medium | Moonlighting doctors are abundant; pharmacy chains have alternatives but face switching costs once integrated |
+| Buyer power (Watsons/AIA/corporates) | High | Few large accounts dominate distribution; insourcing or vendor-switch risk is existential |
+| Substitutes | High | Paper prescriptions remain legal and universal; walk-in GP dispensing bundles consult + meds |
+| Rivalry | Medium-high | DoctorOnCall bundling, hospital apps, potential MOH public e-Rx rails |
+
 ## 11. Differentiation analysis — where DOC2US is vulnerable to Welltech
 
 1. **Chat-first ≠ WhatsApp-first.** DOC2US validated that Malaysians want asynchronous text care, but forces users into its own app (or a partner app). Welltech running real clinical workflows on WhatsApp itself — zero-download, in the user's default messenger — outflanks the distribution logic DOC2US relies on partners to solve.[^9][^21]
