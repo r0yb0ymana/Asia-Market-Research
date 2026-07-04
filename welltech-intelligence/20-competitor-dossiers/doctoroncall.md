@@ -247,6 +247,19 @@ Read: DoctorOnCall is the volume incumbent, DOC2US the infrastructure incumbent,
 4. Whether the Saudi hospital-group contract has gone live and at what scope.[^16]
 5. Doctor-side economics (per-consult payout, utilisation) — needed for [../40-doctor-experience/](../40-doctor-experience/) modelling.
 
+## 13. Source confidence & related documents
+
+**Source confidence:** company scale claims (users, visits, network counts) are self-reported via press releases and investor announcements — no audited figures exist; pricing was taken from the company's own site/help centre as indexed at access date; app ratings are explicitly marked unverifiable rather than estimated. Direct fetches of doctoroncall.com.my were rate-limited during research, so site facts rest on the company's indexed pages and help-centre documents cited below.
+
+**Related documents:**
+
+- [../10-market-intelligence/malaysia-telehealth.md](../10-market-intelligence/malaysia-telehealth.md) — market sizing and regulatory backdrop
+- [competitor-comparison.md](competitor-comparison.md) — cross-competitor matrix
+- [doc2us.md](doc2us.md) — the e-prescription infrastructure counterpart to this dossier
+- [../30-patient-reviews/](../30-patient-reviews/) — review-scraping workstream (owns the app-rating gap flagged above)
+- [../50-marketing-intelligence/](../50-marketing-intelligence/) — SEO/promo deep dives
+- [../70-welltech-blueprint/](../70-welltech-blueprint/) — where the implications in §12 feed strategy
+
 ---
 
 ## References

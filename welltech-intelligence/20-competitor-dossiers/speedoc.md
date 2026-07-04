@@ -93,6 +93,33 @@ Pricing observations:
 2. **Teleconsult pricing is mid-market** — above Doctor Anywhere's promo/member rates (S$14.17) but near DA's standard S$27.25.[^33]
 3. **MY pricing is 3–4× cheaper in absolute terms** than SG, consistent with GP market rates; RM250 per house call still restricts the addressable market to upper-middle-income urban households and insurer-paid cases.
 
+### Full service catalogue (as listed on country sites, July 2026)
+
+| Service line | Singapore | Malaysia |
+|---|---|---|
+| Telemedicine (video GP) | Yes — 24/7, from S$21.80[^23] | Yes — 08:00–23:59, from RM30[^25] |
+| Doctor house calls | Yes — 24/7, from S$327[^23] | Yes — 08:00–24:00, from RM250[^25] |
+| Nurse home visits (wound care, IV, injections, catheter, vaccinations) | Yes — from S$98.10[^24] | Yes[^32] |
+| Urgent care / "A&E at home" | Yes | Yes — dedicated MY page[^32] |
+| Non-emergency ambulance | Yes — ~S$120–170[^9] | Not verified |
+| Medicine delivery | Yes — free same-day post-consult[^23] | Yes — charges apply[^25] |
+| H-Ward® virtual hospital | Yes — incl. MIC@Home with NUHS/SGH/KTPH[^26] | Marketed on MY site[^11] |
+| CDHM® chronic disease home management | Yes — proprietary, launched off Series A[^10] | Not verified |
+| Baby vaccination / H-BabyCare | Yes — packaged[^24] | Not verified |
+| COVID-era services (swabs, ART) | Legacy capability[^40] | Legacy |
+| Weight loss / GLP-1 / longevity / mental health / aesthetics | **Not offered**[^30] | **Not offered**[^30] |
+
+### Reconciliation of conflicting figures
+
+| Figure | Values reported | Treatment in this dossier |
+|---|---|---|
+| Series A size | US$5M (TechNode) vs S$6.7M (The Edge) | Report both; likely US$5M new money within S$6.7M total tranche[^5][^10] |
+| Total funding | US$33M (Tracxn), US$34.8M (CB Insights), US$51.4M (PitchBook) | Range stated; documented rounds sum to ~US$33M[^8][^20] |
+| Revenue | ~US$10M (Prospeo estimate) | Flagged analyst-estimate; no ACRA-sourced figure found[^8] |
+| Valuation | ~US$32M (Prospeo estimate) | Flagged low-confidence; below 2022 round implied value, treat as unreliable[^8] |
+| MY house-call price | RM250 (own site) vs RM200 (MyDocSquad directory) | Range RM200–250; own site is authoritative for current list price[^25][^31] |
+| COVID bed-days saved | 3,500+ (Healthcare IT News headline) vs 5,000+ (Sep–Dec 2021, three hospitals) | Different measurement windows; both cited with periods[^7] |
+
 ---
 
 ## 4. Clinical workflow & doctor network model
@@ -227,7 +254,7 @@ The final step is the strategic point: the journey **ends** rather than converts
 
 ---
 
-## 9. Vulnerability analysis vs a WhatsApp-first continuity-care weight/longevity entrant
+## 10. Vulnerability analysis vs a WhatsApp-first continuity-care weight/longevity entrant
 
 1. **Different battlefield.** Speedoc wins acute/post-acute episodes; it has no GLP-1, weight, longevity or preventive subscription product.[^30] A Welltech-style entrant does not need to displace Speedoc to win its category — the direct collision is only in home phlebotomy/nursing logistics, where Speedoc could be a **supplier, not a competitor** (its nurse visits at S$98–131 are a plausible outsourced draw-blood layer for a longevity programme).
 2. **Funnel friction.** Speedoc's funnel is app-download or hotline; there is no WhatsApp-native journey. In Malaysia especially, WhatsApp-first onboarding undercuts its acquisition UX.
@@ -238,7 +265,7 @@ The final step is the strategic point: the journey **ends** rather than converts
 
 ---
 
-## 10. Implications for Welltech
+## 11. Implications for Welltech
 
 1. **Partner, don't fight, on logistics.** Speedoc's nurses/phlebotomy/house-call network in SG, KL and JB is the fastest route to home blood panels and injectable-support visits for a GLP-1/longevity programme — negotiate B2B rates against their published B2C prices (S$98.10 nurse visits; RM250 MY house calls).
 2. **Exploit the retention vacuum.** Build the WhatsApp-first longitudinal layer (weight, labs, GLP-1 titration, longevity screening cadence) that Speedoc structurally lacks; position Speedoc-like services as interchangeable fulfilment.
@@ -246,6 +273,22 @@ The final step is the strategic point: the journey **ends** rather than converts
 4. **Price against the umbrella.** Welltech's continuity bundle should cost less per month than one Speedoc house call — a clean marketing contrast ("a year of proactive care for the price of two midnight house calls").
 5. **Malaysia regulatory lesson:** MMC's tele-MC ban and the 2025 MOH online-services guideline show MY rules can shift abruptly; Welltech's MY clinical model should anchor on established doctor–patient relationships and physical touchpoints (as MMC guidance prefers) rather than pure cold-start teleconsults.[^36][^39]
 6. **Talent watch:** Glassdoor signals suggest experienced Speedoc clinical-ops staff may be recruitable for Welltech's home-services coordination roles. *(inference)*
+
+---
+
+## 12. Intelligence gaps & monitoring plan
+
+| Gap / signal | Why it matters | How to monitor |
+|---|---|---|
+| Series B or new funding | Would re-arm Speedoc for vertical expansion (possibly incl. chronic/preventive) | DealStreetAsia, Tech in Asia, Vertex portfolio pages, ACRA filings |
+| Actual app-store ratings & review volume (SG/MY) | Only anecdotal review data verified this cycle | Quarterly pull of Play Store (com.speedoc.patient) and App Store (id1288838601) |
+| Speedoc Malaysia revenue mix & JB volumes | JB is Welltech-relevant geography; MY unit economics unclear | CTOS/SSM filings for Speedoc (Malaysia) Sdn Bhd; MY press |
+| SaaS platform sales to third parties | Would shift Speedoc from operator to infrastructure vendor | Searce/Google Cloud case studies; Speedoc newsroom |
+| Entry into weight/chronic-prevention programmes | Direct collision with Welltech would begin here | Site diffs on sg.speedoc.com / my.speedoc.com service menus |
+| MIC@Home contract renewals/expansions | Confirms or weakens the institutional moat | MOH/MOHT announcements; cluster tenders |
+| Pricing changes | S$327 anchor moving down would signal B2C softness | Monthly checks of house-call and nurse-visit pages |
+
+Verification notes for this dossier: Speedoc's own web properties (sg.speedoc.com, my.speedoc.com) returned HTTP 403 to direct fetching during this research cycle; all site-sourced prices and service descriptions above were reconstructed from indexed search extracts of those exact pages and are marked accordingly in the references. Figures that could not be corroborated from a second source (Prospeo revenue/valuation estimates, PitchBook total-funding figure) are flagged in-line as estimates or conflicting.
 
 ---
 
@@ -295,3 +338,5 @@ The final step is the strategic point: the journey **ends** rather than converts
 [^42]: TheSmartLocal, "13 Doctor Teleconsultations From Home With Reviews", https://thesmartlocal.com/read/telemedicine-singapore/ (accessed July 2026).
 [^43]: Facebook, "Speedoc (@SpeedocMed)", https://www.facebook.com/SpeedocMed/ (accessed July 2026); Instagram, "@speedocmed", https://www.instagram.com/speedocmed/ (accessed July 2026).
 [^44]: Search verification, July 2026: queries targeting r/singapore and r/malaysia Speedoc threads surfaced no substantive indexed consumer discussions. *(analyst verification of absence)*
+[^45]: Tracxn, "Jaga-Me — Company Profile" (acquired by Alliance Healthcare, 19 Dec 2019, ~S$3.5M), https://tracxn.com/d/companies/jaga-me/__y6WUAfhejzQ2ROaby4Pa1PlI0ObP2OhAU0ACEeYFDAI (accessed July 2026); LeadIQ, "Speedoc Company Overview & Competitors" (WhiteCoat and other competitors), https://leadiq.com/c/speedoc/5a1dacce2300005900a2412c (accessed July 2026).
+[^46]: See the [Doctor Anywhere dossier](doctor-anywhere.md) for full sourcing of Doctor Anywhere figures used in the comparison matrix (funding, clinics, insurer partners, pricing).

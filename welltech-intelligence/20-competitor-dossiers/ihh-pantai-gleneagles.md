@@ -65,12 +65,26 @@ Related: [Malaysia market intelligence](../10-market-intelligence/malaysia-marke
 
 ### 2.1 Hospitals
 
-| Network | Facilities (confirmed from IHH/hospital sources) | Notes |
+Facilities confirmed by name in IHH/hospital sources accessed for this dossier:
+
+| Brand / facility | Location | Confirmed detail |
 |---|---|---|
-| **Pantai Hospitals** (11 hospitals) | Pantai Hospital Kuala Lumpur (Bangsar; 450 licensed beds, >200 specialists), Cheras, Ampang, Klang (105 beds, est. 1981), Penang (Bayan Baru), Melaka (Ayer Keroh), Ipoh, Sungai Petani, plus three further hospitals in the network's national footprint | ">45 years of experience and a network of 11 hospitals across Malaysia"[^17] |
-| **Gleneagles Hospitals** | Gleneagles Kuala Lumpur (376 beds, JCI-accredited), Gleneagles Penang, Gleneagles Medini (Johor), Gleneagles Kota Kinabalu | Gleneagles' own site describes hospitals in KL, Penang, Johor and Kota Kinabalu; analyst notes reference "11 Pantai hospitals and four Gleneagles Hospitals"[^18][^19] |
-| **Prince Court Medical Centre** | KL city centre, 277 beds — see [dedicated dossier](prince-court.md) | premium/medical-tourism flagship[^20] |
-| **Island Hospital** | Penang, 600 beds (quaternary), acquired 2024 | medical-tourism engine, +500 beds planned[^10][^13] |
+| Pantai Hospital Kuala Lumpur | Bangsar (8 Jalan Bukit Pantai) | 450 licensed beds; >200 specialists; network flagship[^17] |
+| Pantai Hospital Cheras | Taman Cheras Makmur, KL | community hospital, east KL catchment[^17] |
+| Pantai Hospital Ampang | Ampang, Selangor | KL-east/Ampang expat corridor[^17] |
+| Pantai Hospital Klang | Klang, Selangor | 105 beds; >30 specialists; est. 1981[^17] |
+| Pantai Hospital Penang | Bayan Baru (near Bayan Lepas FTZ) | +139 beds planned in Penang expansion[^10][^17] |
+| Pantai Hospital Melaka | Lebuh Ayer Keroh, Melaka | >200 beds[^17] |
+| Pantai Hospital Ayer Keroh | Melaka | listed separately on screening aggregators[^23] |
+| Pantai Hospital Ipoh | Perak | publishes obesity/weight-management education content[^34] |
+| Pantai Hospital Sungai Petani | Bandar Amanjaya, Kedah | northern-corridor community hospital[^17] |
+| *(2 further Pantai hospitals)* | — | network totals 11; remaining sites not individually confirmed in sources reviewed — see network page[^17] |
+| Gleneagles Kuala Lumpur | Jalan Ampang, KL | 376 beds; JCI + MSQH; centres of excellence: cancer, heart, ortho & spine, stroke[^18] |
+| Gleneagles Penang | George Town, Penang | +20 beds planned[^10][^18] |
+| Gleneagles Medini | Iskandar/Johor | southern gateway (Singapore catchment)[^18] |
+| Gleneagles Kota Kinabalu | Sabah | WhatsApp booking promoted[^18][^39] |
+| Prince Court Medical Centre | KLCC, KL | 277 beds — see [dedicated dossier](prince-court.md)[^20] |
+| Island Hospital | George Town, Penang | 600 beds, quaternary; acquired 2024; +500 beds planned[^10][^13] |
 
 *Count discrepancy:* IHH's FY2024 annual report states 18 Malaysia hospitals;[^9] 11 Pantai + 4 Gleneagles + Prince Court + Island totals 17. Some briefs (including the internal one for this dossier) count 5 Gleneagles hospitals in Malaysia. The Gleneagles Malaysia site lists four cities; the 18th facility likely reflects an additional licensed facility counted separately. Flagged rather than reconciled — verify against the FY2025 annual report operational table.[^19]
 
@@ -153,6 +167,31 @@ Read-through:
 5. **No continuity infrastructure.** TeleConsult runs office hours only; WhatsApp lines close at 5pm; MyHealth360 is a booking/records utility. There is no care team, no asynchronous messaging with clinicians, no proactive outreach. *(observation from §3)*
 6. **Result:** the average IHH patient relationship is episodic — screen, refer, treat, discharge, repeat next year. High-intent preventive consumers (executives, expats, metabolic patients) are monetised once or twice a year rather than continuously.
 
+### 4.1 The screening-to-procedure funnel *(analyst reconstruction)*
+
+```mermaid
+flowchart LR
+    A[Marketing:\nscreening promo\nRM388-1,280] --> B[One-day screening\n3-4 hours]
+    B --> C{Findings?}
+    C -- normal --> D[Report + debrief\nno follow-up product\nsee you next year]
+    C -- abnormal --> E[Referral to in-house\nspecialist clinic]
+    E --> F[Consult RM80-235\ncapped fee]
+    F --> G[Scopes / imaging /\nprocedures / admission\nUNCAPPED fees]
+    G --> H[Rev per admission\nRM10,667 - RM13,446]
+    D -.->|12-month gap:\nno tracking, coaching,\nretesting, titration| A
+    style D fill:#f6d5d5
+    style G fill:#d5e8d4
+```
+
+The dotted edge is the business Welltech builds: everything between this year's report and next year's promotion.
+
+### 4.2 What would have to change for IHH to compete longitudinally *(inference)*
+
+- Compensation reform for consultants (retainers or shared-savings for non-procedural care) — conflicts with the workshop model that attracts top specialists to IHH.
+- A continuity platform (24/7 asynchronous care team) — 2020–2026 evidence shows IHH builds booking utilities and invests in external telehealth instead.[^15][^36][^37]
+- Willingness to price a subscription that reduces downstream procedure volume — directly dilutive to the revenue-intensity strategy management guides the market on.[^8]
+- Probability-weighted view: IHH partners (as with Doctor Anywhere) or acquires rather than builds. That makes Welltech a potential partner/target, and makes speed-to-category-leadership the relevant defence.
+
 **Implications for Welltech.** Hospitals are structurally unable to serve the RM200–600/month continuous-care segment without cannibalising their referral funnel and consultant economics. Welltech can occupy the longitudinal layer *and* feed IHH the procedures it actually wants (colonoscopy, cardiac CT, bariatric surgery, oncology work-ups) — the basis of a referral partnership rather than a fight.
 
 ---
@@ -187,9 +226,39 @@ From iBanding, Yelp, MyMediTravel, Facebook and Google-review roundups:[^46]
 | Price perception | "overpriced", overcharging complaints during critical episodes |
 | Counterweight | 4.3/5 average on MyMediTravel (197 reviews) — clinical outcomes and doctor quality generally rated well |
 
-### 5.4 Synthesis
+### 5.4 The insured-patient journey today (composite from review evidence)
+
+```mermaid
+journey
+    title Insured specialist episode at a flagship IHH KL hospital
+    section Before
+      Find the right consultant (word of mouth): 3: Patient
+      WhatsApp/call for appointment (office hours only): 3: Patient
+    section Admission
+      GL application and approval wait: 2: Patient, Insurer
+      Admission counter wait (up to 3h with approved GL): 1: Patient
+      Room availability wait: 2: Patient
+    section Care
+      Consultant care and clinical outcome: 6: Patient
+      Ward responsiveness (variable): 3: Patient
+    section Discharge
+      Final bill preparation (3-6h): 1: Patient
+      Itemised bill / refund (days-months): 1: Patient
+    section After
+      No structured follow-up; next contact is marketing: 2: Patient
+```
+
+Scores are analyst-assigned (1 = major pain, 7 = delight) from the review themes in §5.2–5.3.[^45][^46]
+
+### 5.5 Synthesis
 
 The consistent failure mode across IHH's flagship KL hospitals is **process, not medicine**: GL/insurance administration, discharge/billing cycle time, and communication. Clinical reputation holds up; the consumer experience around it does not. A concierge layer that pre-clears GLs, books the right consultant, chaperones the visit and closes the loop on results directly monetises these pain points.
+
+Three consumer-experience facts worth internalising:
+
+- Even *approved* GLs do not prevent multi-hour admission waits — the bottleneck is hospital process, not insurer response.[^46]
+- Billing opacity is systemic: itemised bills released >10 days post-discharge and months-long refunds appear at both flagships.[^45]
+- Satisfaction bifurcates by touchpoint: doctors and clinical outcomes score well (4.3/5 aggregate at Pantai KL on MyMediTravel) while administrative touchpoints generate the one-star tail.[^46]
 
 ---
 

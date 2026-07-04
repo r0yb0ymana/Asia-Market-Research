@@ -159,7 +159,19 @@ Two readings: (1) B2C consult pricing is pinned at RM19.90–30 — below the RM
 
 **DOC2US — the rails builder.** DOC2US chose infrastructure over consumer brand: first MOH-recognised digitally-signed e-prescription system, 2,000+ integrated pharmacies, Bayer-partnered telepharmacy for family planning, GDEX logistics, and the AIA Malaysia integration.[^38][^41][^49] Its chat-first model is the nearest existing thing to "messaging-native" care in Malaysia — but it remains transactional, with no longitudinal programme layer.
 
-### 5.3 Funding & M&A history (Malaysia-relevant digital health)
+### 5.4 Second-tier and adjacent players — quick profiles
+
+- **Qmed Asia** began as QueueMed, a queue-and-appointment SaaS for clinics; the pandemic turned it into an operations partner for 42 vaccination centres and pushed it into hardware: Qmed GO workplace kiosks bundle a GP video consult with cloud-connected IoT devices reading up to 16 vital parameters, sold to employers (Nestlé, SP Setia) as a medical-cost-containment tool. Funding remains shallow (RM5.1M ECF, 2023), and the kiosk model is capex- and utilisation-constrained, but Qmed's employer relationships and on-site vitals data are a natural partnership surface for programme operators.[^50][^51]
+- **BookDoc** is a cautionary tale in horizontal breadth: appointments, directories, corporate wellness (BookDoc Activ step-rewards), and virtual consults, funded by celebrity angels (Brunei royalty, the Stanley Ho family) but never past ~US$2.3M in disclosed capital. It retains corporate-wellness distribution but publishes no audited usage.[^53]
+- **Teleme** built a genuinely multi-disciplinary marketplace (doctors, pharmacists, labs) and was early on compliant e-prescriptions (one of only two platforms with Pharmacy Board-compliant e-Rx as of mid-2021), yet stayed sub-scale — evidence that regulatory diligence without distribution does not compound.[^55]
+- **GetDoc** (clinic discovery/payments) has minimal post-COVID visibility; it survives in market-participant lists rather than in consumer mindshare.[^54]
+- **Doctor2U** demonstrates the corporate-parent model: BP Healthcare (diagnostics chain) uses it as a digital front door with house calls, video consults and insurer partnerships (Zurich, AIA, Great Eastern). Its constraint is strategic: it exists to feed BP's diagnostics and retail assets, not to build standalone telehealth economics.[^48]
+- **HealthMetrics** is not a consumer telehealth brand but controls the employer rail that consumer platforms want: digital TPA administration across 3,000+ providers for corporates (PwC, Mr DIY, FamilyMart, KLK), with regional ambitions via its Across Asia Assist investment. Whoever owns claims adjudication owns the employer telehealth on-ramp.[^56][^57]
+- **Naluri** is Malaysia's only evidence-published digital therapeutics operator: cardiometabolic + mental-health coaching sold to employers/insurers, ~270 health professionals (FTE + part-time), peer-reviewed real-world outcomes (60% of participants achieving clinically significant improvements), US$14M Series B completed August 2025 with profitability targeted within a year. It validates Malaysian willingness to fund *programmes* — but it deliberately stops short of prescribing, clinics, and B2C.[^58][^59][^60]
+- **Hospital systems (IHH, KPJ, Sunway, Columbia Asia)** run telehealth as a retention adjunct: IHH books video consults across 11 Pantai and 4 Gleneagles hospitals; KPJ restricts telemedicine to existing patients over Google Meet; Sunway operates a free 24/7 Telemedicine Command Centre as a triage/helpdesk funnel into its hospital. None competes for primary-care telehealth volume — they defend specialist and inpatient revenue.[^63][^64][^65]
+- **Insurer channels**: AIA (DOC2US inside My AIA), Prudential (Pulse, launched in Malaysia August 2019 as its first market, with Babylon symptom-checking and DoctorOnCall consults), Great Eastern (panel model; telehealth exposure via partners such as Doctor2U). Insurer telehealth is free-to-user, which anchors consumer price expectations at zero for basic consults — another reason not to compete at the commodity layer.[^41][^43][^44][^48]
+
+### 5.5 Funding & M&A history (Malaysia-relevant digital health)
 
 | Year | Company | Event | Amount | Investors / notes |
 |---|---|---|---|---|
@@ -215,6 +227,31 @@ Illustrative per-encounter P&L for a standalone B2C GP teleconsult with medicine
 
 Conclusion: at RM19.90–30, the consult is a **loss-leader or break-even funnel**; the economic engine is dispensing margin and (for B2B) contracted panel fees. A chronic patient on monthly refills (hypertension, diabetes, GLP-1) is worth 10–30× a walk-in acute consult per year — yet no consumer platform runs structured chronic programmes with named-clinician continuity.
 
+### 6.3 The structural journey gap
+
+The incumbent journey terminates where clinical value begins:
+
+```mermaid
+flowchart LR
+    subgraph Incumbent["Incumbent transactional loop (DOC / DA / DOC2US)"]
+        A[Symptom or refill need] --> B[Search / app open]
+        B --> C[Anonymous GP consult RM20-30]
+        C --> D[e-Prescription]
+        D --> E[Medicine delivered 2-3h]
+        E --> F[Loop ends. No follow-up owner]
+        F -.->|next episode, often different doctor| A
+    end
+    subgraph Welltech["Care-continuity loop (whitespace)"]
+        G[Onboarding + baseline labs] --> H[Named clinician plan]
+        H --> I[WhatsApp check-ins + titration]
+        I --> J[Refills + monitoring bundled]
+        J --> K[Outcome review, plan update]
+        K --> I
+    end
+```
+
+Every element on the left exists at scale in Malaysia today; no element on the right is offered by any at-scale player. The public system's teleconsultation is closest in *intent* (chronic follow-up for diabetes/hypertension) but is 60% telephone-based, capacity-constrained, and free-tier by design.[^16]
+
 **Implications for Welltech.** Welltech's GLP-1/weight and longevity programmes invert the incumbent structure: the medicine + monitoring subscription is the product, and the consult is a bundled quality signal, priced within (not below) the RM58–78 WTP band. Target contribution: RM150–400/patient/month vs incumbents' RM10–35/encounter.
 
 ---
@@ -253,6 +290,20 @@ Conclusion: at RM19.90–30, the consult is a **loss-leader or break-even funnel
 - **Pharmacy networks as physical rails.** Alpro (>300 outlets, prescription-led), BIG Pharmacy and others act as pickup/fulfilment nodes for telehealth prescriptions — Bayer × DOC2US telepharmacy shows pharma manufacturers will co-fund these channels.[^38][^39]
 - **Messaging.** WhatsApp is used by 90.7% of Malaysian internet users — the highest-reach digital channel in the country, with ~852 sessions/month per user; clinic software (kumoDoc) already integrates WhatsApp for reminders, and SEA WhatsApp Business adoption is scaling.[^52][^76][^77]
 
+### 9.1 Telehealth value chain — who owns what
+
+| Value-chain layer | Current owner(s) | Concentration | Rentable by Welltech? |
+|---|---|---|---|
+| Demand generation (SEO/brand) | DoctorOnCall dominates organic search[^27] | High | Partially — paid channels + owned WhatsApp lists bypass it |
+| Triage & symptom assessment | Insurer apps (Babylon in Pulse), platform bots[^43] | Low | Build (AI-enabled, WhatsApp-native) |
+| Consultation supply (GPs) | Fragmented: >9,800 private clinics; platforms rent locum pools[^75] | Very low | Yes — recruit named-panel clinicians |
+| e-Prescription rails | DOC2US (digitally-signed, MOH-recognised), Teleme; platform-internal others[^38][^55] | Moderate | Yes — partner or replicate with MSC TrustGate-class signatures |
+| Dispensing | Alpro (>300 outlets), BIG, chain + independent pharmacies; Poisons Act gatekeeping[^39][^70] | Moderate | Yes — pharmacy partnerships |
+| Last-mile delivery | GrabExpress, GDEX, platform couriers[^38][^40] | Commoditised | Yes |
+| Payments | FPX, cards, e-wallets (Boost et al.)[^43] | Commoditised | Yes |
+| Longitudinal record | **Nobody** (public EMR at ~3% of clinics; private CMS fragmented)[^22][^76] | — | **Must build — this is the moat layer** |
+| Programme layer (chronic/weight/longevity) | **Nobody at clinical depth** (Naluri = coaching-only)[^58] | — | **Must build — this is the margin layer** |
+
 **Implications for Welltech.** Welltech does not need to build delivery, dispensing, or payment rails — all are rentable (GrabExpress/GDEX, Alpro/BIG, FPX/e-wallets). The unbuilt layer is the *clinical operating system on top of WhatsApp*: identity-verified, PDPA-compliant, auditable care conversations tied to an EMR. The OHS Guideline's record-keeping and secure-communication requirements are a design spec for exactly this.[^10]
 
 ---
@@ -270,6 +321,17 @@ Conclusion: at RM19.90–30, the consult is a **loss-leader or break-even funnel
 | **Funding winter froze innovation** | SEA healthtech funding −79% (2024); incumbents in profitability mode, not product mode[^33][^45] | A well-capitalised focused entrant faces the weakest competitive response in a decade |
 
 ---
+
+### 10.1 The WhatsApp-first whitespace, specified
+
+Why no incumbent has claimed it despite 90.7% national reach:[^52]
+
+1. **Platform DNA.** DOC and DA are web/app funnels optimised for SEO and app-store conversion; their unit of work is the booked consult, and WhatsApp threatens their session metrics. DOC2US is chat-native but inside its own app, where it must re-acquire users the network already gave WhatsApp.
+2. **Compliance uncertainty (now resolved).** Before May 2025 there was no rulebook for identity verification, record-keeping, or secure communications in remote care; running clinical workflows over consumer messaging looked legally reckless. The OHS Guideline 2025 now defines the duties — verification of patients and practitioners, secure records, complaint handling, PDPA compliance — that a WhatsApp-native operator must engineer for, converting ambiguity into a checklist.[^10]
+3. **Operational asymmetry.** WhatsApp-based care requires message-driven clinical operations (queue management, SLA-bound responses, structured data capture from unstructured chat, audit trails) — an operating-model investment, not a feature. Clinic software vendors are already normalising WhatsApp as the patient-communication rail (e.g., kumoDoc's native WhatsApp integration for Malaysian GP clinics), so patient expectations are forming without any care operator meeting them end-to-end.[^76]
+4. **Economic misfit for incumbents.** At RM19.90–25 per consult, incumbents cannot afford the human-in-the-loop messaging operations WhatsApp care requires; at RM200–400/month programme pricing, Welltech can — and AI-enabled operations (triage drafting, follow-up scheduling, adherence nudges) push the marginal cost of a check-in toward zero (see [AI operating model](../60-ai-operating-model/)).
+
+Minimum viable compliance stack for a WhatsApp-first operator under OHS 2025: Malaysian-registered entity with physical premises; an MMC-registered practitioner with valid APC in senior management; verified patient identity at onboarding (MyDigital ID a future rail[^22]); WhatsApp Business API with all clinical exchanges mirrored into a PDPA-compliant EMR; e-prescriptions via digitally-signed rails (DOC2US-style MSC TrustGate signatures[^38]); dispensing only through registered pharmacists per the Poisons Act.[^10][^70]
 
 ## 11. Porter's Five Forces — Malaysian telehealth segment
 

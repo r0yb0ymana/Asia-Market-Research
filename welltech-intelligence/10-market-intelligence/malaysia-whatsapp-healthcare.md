@@ -443,6 +443,28 @@ Reading: WhatsApp wins every *engagement* job and loses only on *system-of-recor
 6. **Instrument everything and publish outcomes**: no-show rate, GLP-1 week-12 persistence, weight outcomes vs. cadence — converting the operation itself into proprietary evidence (§4) no Malaysian competitor holds, and a reusable asset for Singapore/Hong Kong expansion where WhatsApp penetration is similarly dominant.
 7. **Hedge platform risk structurally** (§10.1): Welltech's asset is the consented patient graph and the care logic — both must live in Welltech systems, with WhatsApp as the (current) best-in-class delivery rail.
 
+### 11.1 Sequenced build recommendation *(analyst proposal)*
+
+| Phase | Timeline | Scope | Exit criteria |
+|---|---|---|---|
+| 0 — Foundations | Month 0–2 | Verified WABA + green tick; respond.io-class BSP; template library v1 (Meta + MAB/legal reviewed); consent-ledger intake Flow; EMR archiving webhook; DPO appointed; number warm-up | Quality rating Green at 1K-tier; intake Flow live; archive verified end-to-end |
+| 1 — Service core | Month 2–6 | AI first-responder (BM/EN) with hard clinical guardrails; booking + reminder cadences; payment links (FPX); results-notification pattern; nurse SLA dashboard | <1 min AI response; no-show rate falling; zero clinical messages outside API |
+| 2 — Programme rails | Month 6–12 | GLP-1 titration cadence; refill loop; cohort Communities pilot; CTWA acquisition at scale with conversation-level attribution | Week-12 persistence baseline established; CAC per consulted patient beats web-form funnel |
+| 3 — Moat | Month 12–24 | Direct Cloud API/360dialog migration option; proprietary AI orchestration; outcomes publication; SG/HK channel replication assessment | Messaging infra portable in <30 days; first outcomes white paper |
+
+This document pairs with the [WhatsApp operating model](../60-ai-operating-model/whatsapp-operating-model.md) (staffing, escalation trees, AI guardrail specs) and the [patient acquisition analysis](../50-marketing-intelligence/patient-acquisition-channels.md) (CTWA budget modelling); regulatory detail is expanded in the [Malaysia telehealth market](./malaysia-telehealth-market.md) dossier.
+
+### 11.2 Open questions and monitoring list
+
+Items to re-research quarterly (owner: market-intelligence function):
+
+1. **WhatsApp Pay Malaysia** — any expansion of in-chat payments beyond India/Brazil/Mexico/Indonesia would collapse the payment-link step and should be adopted within one quarter of availability.[^47]
+2. **Meta health-policy drift** — OTC-medicine messaging carve-outs (§6.1) and health-and-wellness ad tiers (§6.3) have both moved within 18 months; each change re-opens or narrows GLP-1-adjacent marketing lanes.
+3. **PDPA subsidiary legislation** — commencement orders, DPO thresholds and cross-border transfer practice notes are still being issued;[^62][^63] compliance posture must track them, not the 2010 Act.
+4. **MMC telemedicine guideline revisions** — any move to formalise asynchronous chat-based care (currently addressed only implicitly) changes documentation duties.[^59]
+5. **respond.io post-funding trajectory** — its AI-agent roadmap and possible healthcare verticalisation could turn a vendor into either a deeper partner or a channel enabler for competitors.[^18]
+6. **Incumbent awakening** — watch Columbia Asia, Sunway, IHH/Pantai-Gleneagles and Alpro for API-grade WhatsApp deployments (structured templates, Flows, bots); first-mover advantage decays from the day one of them ships.
+
 ---
 
 ## References
