@@ -16,6 +16,25 @@ Last updated: July 2026
 
 ---
 
+## 1.1 Platform coverage matrix — where rating data exists at all
+
+| Provider | Google Play | App Store | Google Maps | Trustpilot | Facebook | Birdeye/other |
+|---|---|---|---|---|---|---|
+| DoctorOnCall | listing only | listing only | — | absent | page only | — |
+| DOC2US | listing only | listing only | — | absent | — | — |
+| Doctor Anywhere | tracker figure | review text only | — | absent | page only | — |
+| Speedoc | **score** | listing only | listing only | absent | tab only | Top-Rated.Online |
+| Naluri | **score (low n)** | listing only | — | absent | — | AppBrain |
+| Doctor2U | review corpus | listing only | — | absent | — | AppGrooves, ScamAdviser |
+| BookDoc | **score (low confidence)** | — | — | absent | — | — |
+| Alpro | — | — | **scores per outlet** | absent | — | **Birdeye (rich)** |
+| BIG/CARiNG | — | — | per-outlet only | absent (namesake pollution) | — | — |
+| 5 hospital flagships | — | — | **scores (dated)** | absent | pages only | iBanding, Wupdoc, MyMediTravel, Trustburn |
+| Slimming centres | — | — | — | absent | group posts | **ComplaintsBoard, NCCC** |
+| GLP-1 clinics | — | — | clinic-level | absent | — | Trustindex self-widget |
+
+Reading: Malaysia's healthcare rating economy lives on **Google Maps and app stores only**. Trustpilot is uniformly unclaimed; Facebook reviews exist but are locked behind login for remote research. Any player who systematically populates a second platform (as Alpro did with Birdeye syndication) faces no incumbent competition for that shelf.
+
 ## 2. Telehealth & digital-health apps
 
 | Provider | Google Play | App Store | Trustpilot | Google Maps | Facebook | Notes |
@@ -30,6 +49,16 @@ Last updated: July 2026
 | **Qmed Portal** | Listing live; rating n/a (too new/low volume)[^21] | Listing live; rating n/a[^22] | None found | n/a | n/a | B2B-led, consumer app secondary |
 
 **Context:** Similarweb ranks AIA+ Malaysia as the top Medical Android app in Malaysia with BookDoc second (Apr snapshot) — insurer super-apps, not standalone telehealth, own the category's install base.[^23]
+
+**Not scored, by honesty:** GetDoc and Teleme (see [dossiers](../20-competitor-dossiers/getdoc.md), [teleme.md](../20-competitor-dossiers/teleme.md)) surfaced no retrievable current ratings this cycle and are omitted from the table rather than estimated; both dossiers flag dormancy/thin-consumer-footprint risk, which is consistent with their absence here.
+
+### 2.1 Interpreting the telehealth numbers
+
+- **Speedoc's 4.68★ on ~3.2k ratings is the only high-confidence, current app score in the Malaysian cohort** — and it is a regional (SG+MY) figure, not MY-only.[^13]
+- **Doctor Anywhere's ~40k cumulative ratings dwarf everyone else's volume** (roughly 10× Speedoc, 100× Naluri), so its ~4.3★ tracker figure, even unverified, is the most statistically stable signal in the set.[^11]
+- **DoctorOnCall's rating absence despite market leadership** confirms the dossier read: its business runs on web SEO and WhatsApp-adjacent channels, not app engagement — so app-store sentiment under-samples its actual patient base.[^7]
+- **Naluri's ~280 ratings against ~1M claimed covered lives** is a 0.03% review-conversion rate; B2B distribution produces users who never meet the store listing.[^16][^17]
+- **BookDoc's 10,736 votes** (if the third-party figure is accurate) reflect its consumer-rewards era; treat as legacy volume rather than current engagement.[^20]
 
 ## 3. Pharmacy chains
 
@@ -50,6 +79,16 @@ Last updated: July 2026
 | **KPJ flagships (Damansara / Ampang Puteri / Kajang / Puteri)** | n/a — not retrieved this cycle | Wupdoc 4.4/5 (n=5, Ampang Puteri); WhatClinic 6.4/10 (dossier); iBanding Kajang active; PissedConsumer Puteri page live[^35][^36] | — | Group-level Maps scrape recommended |
 | **Prince Court Medical Centre** | **~4.4★** (Google average reported via ClinicsOnCall; review count not visible)[^37] | Wupdoc 19 reviews; Trustburn page active; Foursquare 179 tips[^38][^39][^40] | — | Premium score with process-complaint tail |
 
+### 4.1 The rating–complaint paradox at hospitals
+
+Every KL flagship holds a 4.0–4.5★ Google average while simultaneously carrying documented complaint clusters (hidden charges, multi-hour GL waits, months-long refunds — see [recurring-complaints.md](recurring-complaints.md) T1/T5/T6). Three mechanics explain it, and all three matter for how Welltech should read competitor scores:
+
+1. **Volume dilution.** At 2,000–4,000+ reviews, thousands of routine positive visits (successful births, discharges, outpatient episodes) swamp the angry tail; the star average measures throughput satisfaction, not exception handling.[^1]
+2. **Clinical gratitude anchoring.** Patients score the doctor/nurse experience, which is genuinely good, and mention the billing trauma only in text. **Star averages systematically overstate process quality; review text understates it.**
+3. **No zero-star option for the worst journeys.** The most damaging experiences (refunds unresolved for months) often end in complaint platforms and tribunals rather than Maps — they exit the rating denominator entirely.[^41][^42]
+
+Practical rule: for hospitals, read the 1–2★ text stream and complaint platforms for the truth about S2/S6 stages; use the star average only as a brand-halo measure.
+
 ## 5. Weight-loss, slimming & aesthetic operators
 
 | Operator | Best-available score | Complaint-platform record | Notes |
@@ -59,6 +98,19 @@ Last updated: July 2026
 | **Dorra Slimming** | n/a | Blog-level complaint accounts (SG)[^45] | |
 | **Nexus Clinic (aesthetic/GLP-1)** | **4.7★ via Trustindex widget (437 reviews); MyMediTravel 4.5/53** (accessed Jul 2026)[^46][^47] | None found | Self-syndicated score; treat as marketing-adjacent |
 | **GLP-1 programmes (CLEO, Her Clinic, RegenX, Roczen MY)** | n/a — no programme-level review corpus exists | None found | Absence is the finding; price pages substitute for patient voice[^48][^49] |
+
+### 5.1 Rating-integrity classification
+
+Not all high scores are the same species. Classification of every scored entity in this document:
+
+| Integrity class | Definition | Entities in class | How to weight |
+|---|---|---|---|
+| Organic, high-volume | Unsolicited reviews, n > 1,000 | Gleneagles KL, Pantai KL, SJMC, DA (ratings volume) | Most reliable; mine the text |
+| Organic, low-volume | Unsolicited, n < 500 | Naluri, Speedoc (3.2k borderline), Wupdoc/WhatClinic hospital pages | Directional only; single campaigns can move it |
+| Solicited, systematic | Point-of-service review requests | Alpro (Birdeye) | Real operational signal, inflated absolute level |
+| Self-syndicated | Widget on own site controls display | Nexus (Trustindex) | Marketing artefact; verify against neutral platforms |
+| Complaint-selected | Platforms people visit only to complain | ComplaintsBoard (LWM 1.7★), PissedConsumer, Trustburn, NCCC | Inverse-inflated; measures harm tail, not average experience |
+| Unverifiable third-party | Tracker figures without live-store confirmation | DA ~4.3★, BookDoc 4.1★ | Quote only with caveats attached |
 
 ## 6. Employer-review table (execution-quality proxy, not patient sentiment)
 
@@ -71,6 +123,12 @@ Last updated: July 2026
 | DOC2US | 4 reviews — too few to signal[^52] | — |
 | Alpro Pharmacy | 4.0/5 (~123–203 reviews)[^27] | Strong, but KPI/sales-target complaints flag upsell pressure |
 | Sunway Medical Centre | 132 reviews on record; score not captured[^53] | — |
+
+Indeed corpora exist for several players (DoctorOnCall, Alpro, Big Pharmacy 76 reviews, Sunway Medical Centre 74 reviews) but expose no reliable aggregate in retrievable form; they are noted for refresh purposes only.[^55][^56]
+
+### 6.1 Why employer reviews belong in a patient-review document
+
+The correlation in this corpus is direct: DoctorOnCall (Glassdoor 2.7) has the worst fulfilment complaints; Speedoc (2.9) shows service inconsistency at the edges; Alpro (4.0) runs the market's best front-line review discipline; Naluri's burnout themes sit under a coaching product whose quality is the coach's energy. In service healthcare, employee-experience scores are a leading indicator of the patient-experience scores by roughly the length of one staff-turnover cycle. *(analyst inference from paired observations, not a measured elasticity)*
 
 ## 7. What the numbers do and do not say
 
@@ -144,3 +202,5 @@ Last updated: July 2026
 [^52]: Glassdoor, "DOC2US Reviews (4)", https://www.glassdoor.com/Reviews/DOC2US-Reviews-E5835581.htm (accessed July 2026).
 [^53]: Glassdoor, "Sunway Medical Centre Reviews (132)", https://www.glassdoor.com/Reviews/Sunway-Medical-Centre-Reviews-E6174285.htm (accessed July 2026).
 [^54]: KPDN, "Consumer Complaints" and TTPM e-Tribunal portal, https://www.kpdn.gov.my/en/consumerism/hak-pengguna/consumer-complaints and https://ttpm.kpdn.gov.my/ (accessed July 2026).
+[^55]: Indeed Malaysia, "Working at Big Pharmacy: 76 Reviews", https://malaysia.indeed.com/cmp/Big-Pharmacy/reviews (accessed July 2026).
+[^56]: Indeed Malaysia, "Working at Sunway Medical Centre: 74 Reviews", https://malaysia.indeed.com/cmp/Sunway-Medical-Centre/reviews (accessed July 2026).

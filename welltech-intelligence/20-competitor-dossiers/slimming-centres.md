@@ -100,7 +100,38 @@ The consistent lesson from complaint archives: the industry's injury is **contra
 - GLP-1 pharmacotherapy resets consumer expectations: visible, measurable weight loss for RM900–1,500/month makes "RM8,000 for wraps and water weight" untenable for the informed urban segment. Euromonitor's counterpoint — that prescription cost and access will keep GLP-1s niche and protect packaged/services incumbents in the near term — is the honest hedge: the legacy segment shrinks from the top (affluent, informed) down, not all at once.[^37]
 - The chains retain real assets: prime mall floors, therapist workforces, databases of tens of thousands of paying weight-loss customers, and BNPL-enabled checkout. A pivot to "medical partner" models (renting credibility from clinics or telehealth) is the logical next move for the better-capitalised groups — BMF's Singapore clinic arm shows the path.[^15][^16][^20]
 
-## 5. What the slimming-centre playbook teaches about trust in this market
+## 5. Timeline — how the category rose and unravelled
+
+| Period | Event | Significance |
+|---|---|---|
+| 1980s–1990s | Marie France Bodyline builds regional chain (HK, Indonesia, Brunei expansion early 90s); Terimee founded 1997; M.A.C-era aesthetic clinics emerge separately | Category legitimised by mall presence and print advertising[^13][^28] |
+| 2002 | London Weight Management enters Malaysia | Singapore's Euro Group multi-brand machine begins Malaysian rollout[^5][^21] |
+| 2000s | Slimming Sanctuary scales from Low Yat Plaza toward ~17–21 outlets | Mid-market copies the prepaid-package model nationally[^26] |
+| 2005–2008 | NCCC archives accumulate slimming/fitness complaint files incl. the LWM "scam" complaint | Consumer-protection record begins compounding[^7] |
+| 2009 | Malaysian court classifies Marie France as slimming centre, not healthcare | Legal bright line: this industry is not medicine[^4] |
+| ~2012 | Gan Siew Hong case: S$400,000 LWM package sold to 82-year-old off S$18 TV trial; CASE censures beauty advertising | The category's defining scandal; hard-sell becomes its public identity[^11][^12] |
+| 2010s | Blogger-seeding era (sponsored Marie France reviews) gives way to unfiltered forum/complaint virality | Marketing control of the narrative is lost[^18][^19][^25] |
+| 2017 | Bella Skin Care + Marie France Bodyline merge into BMF Bella Marie France | Market leader begins retreating from the slimming brand[^15] |
+| 2018 | Marie France/Bella/Svenson exit Indonesia (licensing end, 19 Oct 2018) | Regional footprint contracts[^16] |
+| 2022 | Rebrand to "BMF — The Aesthetics People"; BMF Clinic doctor-led arm in Singapore | Explicit pivot from slimming services to medical-adjacent aesthetics[^15] |
+| 2023–2025 | GLP-1 demand surge in Malaysia; KPDN announces updated beauty-industry guidelines with MOH (July 2025) | Efficacy benchmark resets; regulator moves to formalise conduct[^3] |
+| Jan 2026 | Wegovy commercial launch in Malaysia at RM900-ish entry pricing | A registered medicine now undercuts a slimming package on cost-per-kg by an order of magnitude ([market file](../10-market-intelligence/malaysia-weight-loss-market.md) §4) |
+
+## 6. The customer journey — legacy chain vs medical program
+
+| Stage | Slimming-centre journey (documented) | Medical-program journey (Welltech target) |
+|---|---|---|
+| Hook | RM28/S$18 trial ad, celebrity TV/mall promo[^5][^6] | Transparent consult fee and published program pricing |
+| Assessment | Therapist "body analysis" engineered toward package sale[^8] | Doctor consult, BMI/comorbidity gating, labs; declination possible (cf. andSons' publicised 40% unsuitability rate — see [OVA dossier](ova-health.md)) |
+| Commitment | RM888–10,000 prepaid non-refundable package, signed under in-room pressure[^7][^8][^10] | Monthly billing, cancel anytime, written refund terms |
+| Delivery | Machine sessions + upsell pressure each visit[^8][^9] | Medication + proactive WhatsApp titration/side-effect care |
+| Measurement | Centre-controlled scales (complaint: "they cheated on my scale")[^8] | Patient-owned metrics: home scale sync, labs at 0/3/6 months, %-weight-loss reporting |
+| Failure handling | Diet-blaming; offer of more sessions[^10] | Dose adjustment, dietitian escalation, documented clinical review |
+| Exit | Refund refusal; TTPM/NCCC as only recourse[^7][^32] | Off-ramp protocol: maintenance tier, taper plan, records handover |
+
+The left-hand column is not a caricature — every row cites a documented complaint or promotional artefact. The right-hand column is, point-for-point, the product specification that converts this industry's residue of distrust into a competitive asset.
+
+## 7. What the slimming-centre playbook teaches about trust in this market
 
 1. **Willingness-to-pay is proven and high.** Malaysians paid RM5,000–10,000 per package, repeatedly, for non-evidence-based treatment.[^10][^18] The budget for a 6-month medical program exists; the barrier is trust, not price.
 2. **Every trust violation has a named antidote.** Prepaid lock-in → monthly billing, cancel-anytime. Refund refusal → published refund policy. In-room pressure → asynchronous WhatsApp decisions ("take your time; the price is the same tomorrow"). Diet-blaming → objective metrics (scale + labs) and clinician accountability. Bait trials → transparent first-consult pricing.
@@ -108,20 +139,29 @@ The consistent lesson from complaint archives: the industry's injury is **contra
 4. **Advertising claims are a regulatory and reputational trap.** CASE/KPDN histories show weight-loss advertising draws scrutiny faster than any other beauty category; medical entrants inherit this scrutiny with higher stakes.[^3][^12]
 5. **The vacated demand is addressable.** The chains' core customer — 30–55, female, urban/suburban, festive-cycle dieter, comfortable spending thousands — is precisely the GLP-1 program customer. She has already been burned once; the pitch that wins her is anti-slimming-centre in every visible detail.
 
-## 6. SWOT — legacy slimming industry vs medical weight programs
+## 8. SWOT — legacy slimming industry vs medical weight programs
 
 | | Helpful | Harmful |
 |---|---|---|
 | **Internal** | **S:** prime mall real estate and walk-in traffic; large customer databases; trained service workforces; group-level capital (Euro Group, Global Beauty International); BNPL/e-commerce infrastructure | **W:** zero clinical capability (no prescribing, by regulatory definition); commission-driven sales culture; non-refundable prepaid model under permanent complaint pressure; efficacy claims unsupportable against pharmacotherapy |
 | **External** | **O:** pivot to medical-aesthetic hybrids (BMF path); partnerships with clinics/telehealth for lead monetisation; secondary-city segments GLP-1 providers ignore | **T:** GLP-1 expectation reset among informed consumers; KPDN's updated beauty guidelines tightening conduct; TTPM/NCCC friction costs; social-media complaint virality (Lemon8, Threads) replacing the controlled blogger era |
 
-## 7. Implications for Welltech
+## 9. Implications for Welltech
 
 1. **Position as the structural opposite.** "Doctor-prescribed, registered medicine, monthly billing, cancel anytime, refunds in writing, no packages, no upsell" is a complete positioning statement because the audience knows exactly what it negates.
 2. **Target the burned cohort explicitly.** Content and community plays around slimming-centre experiences ("what RM8,000 taught me") convert high-intent, high-budget customers at low CAC — without naming brands, which avoids defamation and keeps the moral high ground.
 3. **Price against the package, not the pen.** The psychological budget is the RM5,000–8,000 package; a transparent RM7,500–9,500 six-month medical program with visible outcomes wins that comparison (see [market file](../10-market-intelligence/malaysia-weight-loss-market.md) §9.1).
 4. **Institutionalise anti-hard-sell mechanics** — cooling-off periods, same-price-tomorrow guarantees, no phone-call chase sequences — and audit them, because growth pressure will recreate slimming-centre behaviour inside any sales team left unmanaged.
 5. **Watch BMF and Euro Group for medical pivots**: a slimming chain that acquires or partners with a licensed clinic network converts mall traffic into GLP-1 patients overnight — the most plausible dark-horse competitor in this segment. Monitor BMF Clinic's Singapore playbook for Malaysian replication.[^15][^16]
+
+## 10. Monitoring checklist (review semi-annually)
+
+- BMF Malaysia: any launch of doctor-led weight services or a "BMF Clinic" equivalent in Klang Valley (the highest-probability medical pivot).[^15][^16]
+- Euro Group brands: introduction of GLP-1-adjacent messaging, clinic partnerships, or "medical slimming" claims at London Weight outlets — would trigger both a competitive response and, plausibly, regulatory attention.[^21]
+- KPDN's updated beauty-industry guidelines: final text (post-Cabinet), especially any clause on weight-loss claims, prepaid-package caps, or mandatory cooling-off periods.[^3]
+- Slimming Sanctuary/Terimee footprint changes (closures signal segment decay rate; secondary-city closures map where medical demand will surface next).[^26][^28]
+- Complaint-volume signals: new NCCC/TTPM patterns or viral Lemon8/Threads exposés — each spike is a free acquisition moment for a trust-positioned medical brand.[^23][^32]
+- Slimming chains adopting GLP-1 *language* without prescribing capability ("GLP-1-friendly body sculpting", supplement "natural Ozempic" claims) — a misinformation wave Welltech content should pre-bunk.
 
 ---
 

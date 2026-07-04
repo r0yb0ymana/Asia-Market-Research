@@ -74,6 +74,24 @@ The QUALICOPC Malaysia study (2015–16, 239 private practitioners responding) r
 
 ---
 
+### 2.3 A composite working day (clinic GP vs platform telehealth doctor)
+
+*(analyst composite from the workflow, locum-market and platform evidence in this document and [telehealth-consultation-analysis.md](telehealth-consultation-analysis.md))*
+
+| Time block | Clinic GP (panel-heavy urban clinic) | Platform telehealth doctor (moonlighting MO/GP) |
+|---|---|---|
+| 08:30–09:00 | Open clinic; CA reconciles yesterday's panel claims; doctor reviews pending TPA queries | Log into platform queue before hospital shift; 1–2 consults if queue moves |
+| 09:00–13:00 | 15–25 patients; ~10–15 min each; MCs, panel eligibility interruptions | (Day job) |
+| 13:00–14:00 | Lunch punctuated by WhatsApp: results questions, refill requests | (Day job) |
+| 14:00–18:00 | 10–20 more patients; drug-stock decisions; rep visits; sign off claims batch | (Day job) |
+| 18:00–21:00 | Evening peak (workers after office hours); densest MC/URTI load | Peak platform queue: 2–4 consults/hour if demand is good |
+| 21:00–23:00 | Close till; e-invoice run; unfinished clinical notes; WhatsApp follow-ups | Late-night queue thins; effective RM/hour collapses; log off |
+| Unpaid throughout | Panel portal administration, GL coordination, WhatsApp triage | Documentation per consult; indemnity/compliance self-management |
+
+Two observations follow. First, the clinic GP's day contains roughly 2–3 hours of work that generates no revenue line — claims administration, portal work, after-hours messaging — which is precisely the layer AI can absorb. Second, the moonlighting telehealth doctor's earnings are hostage to queue volatility: the platform bears no idle-time cost, the doctor bears all of it. Both facts are load-bearing for the [doctor value proposition](clinician-pain-points.md).
+
+---
+
 ## 3. Consultation economics: the 34-year fee freeze and its April 2026 thaw
 
 - The RM10–35 GP consultation fee band was proposed by the MMA in **1992** and codified into the **Seventh Schedule** of the PHFSA regulations in 2006 — then left untouched for over three decades while rents, wages and drug-acquisition costs compounded.[^5][^6]
@@ -177,6 +195,12 @@ Direct Malaysian survey data on after-hours patient messaging is thin; the patte
 - The **26 July 2021 Hartal Doktor Kontrak walkout** (up to ~8,000 junior doctors across 20+ hospitals) and renewed 2023 strike threats made doctor discontent a national political issue.[^16][^57][^58]
 - Outflow: **6,417 public medical officers, including >1,000 specialists, left 2019–2023**; one in five doctors offered a permanent public post now declines it; destination options are Singapore/Australia (2–3× pay) or domestic private practice, locum portfolios and digital-health work.[^14][^17][^59]
 - The public narrative — 84-hour weeks, RM9/hour on-call, "stop lying that we have enough doctors" — is mainstream discourse on forums and in press, shaping what any employer brand must speak to.[^55][^58]
+
+### 8.3 What the income data implies about recruitability
+
+- **The RM10,000/month private GP average is a blended illusion**: it averages clinic owners (whose income is business profit, dominated by drug margin and panel volume) with employed assistant GPs (typically RM7,000–12,000/month, near the Indeed/PayScale figures). For an employed GP, a Welltech offer of RM100+/clinical hour with zero administration is a direct upgrade; for an owner, the offer is incremental panel income without cannibalising the clinic. *(analyst segmentation)*[^13][^15]
+- **The public-private pay gap is widest exactly where Welltech recruits**: a contract MO at ~RM3,500/month base earns less per month than 10 locum shifts pay; the marginal RM/hour of platform work therefore matters intensely to juniors and barely at all to established subspecialists.[^14][^54]
+- **Timing tailwind**: the April 2026 fee revision legitimises RM50–80 consult pricing market-wide, which raises the ceiling for what Welltech can pay per teleconsult while remaining unit-economic — the first structural improvement in GP price architecture in 34 years.[^6][^25]
 
 **Implications for Welltech.** Welltech's recruitable pool is (a) contract/former-contract MOs seeking income and dignity, (b) locum-portfolio GPs optimising RM/hour and flexibility, and (c) established private GPs wanting a paid channel for the follow-up work they currently do free on WhatsApp. Each segment prices differently; all three are anti-TPA, anti-paperwork, and fluent in WhatsApp. The value-proposition build is in [clinician-pain-points.md §6](clinician-pain-points.md).
 

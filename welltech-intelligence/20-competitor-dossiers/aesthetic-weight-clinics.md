@@ -105,6 +105,23 @@ Last updated: July 2026.
 
 ---
 
+### 2.7 The long tail (not individually profiled)
+
+Beyond the six, a dense second rank runs the same model with local variations; they matter collectively as price/SEO noise rather than individually as threats:
+
+| Clinic | Locus | Signal observed |
+|---|---|---|
+| Glojas (GLOJAS Specialist Clinic) | KL | Publishes Ozempic MAL registration numbers as trust content; Mounjaro price-guide pages[^36a] |
+| Alainn Clinic | KL | Wegovy/tirzepatide education pages; "medically-supervised programme" framing; 10–15% weight-loss claims with lifestyle support[^36b] |
+| NextMed Clinic | Setia Alam / Klang / Shah Alam | Suburban Mounjaro price guides ("from RM1,259 / RM1,607 by dose"); comparison content (Mounjaro vs Wegovy)[^36c] |
+| Da Vinci Clinic | KL | Mounjaro/Zepbound content targeting affluent readers[^36d] |
+| Millennium Clinic | KL | Wegovy price-guide SEO (RM899–2,088 market ladder documentation)[^36e] |
+| Clique Clinic | PJ | Ozempic "effective weight management" service page[^36f] |
+| MyClinic / Dr Jane / Dr K / Luna / Vivardi / HN Clinic | Klang Valley | Mounjaro service pages; "doctor's honest review" content formats[^36g] |
+| Pulse Clinic | KL/Penang (regional network) | Cross-border sexual-health network retailing Wegovy online with delivery — highest advertised prices seen (to RM3,500/month)[^36h] |
+
+The long tail's collective effect: it keeps the SERP crowded, holds ad costs up, and normalises wide price dispersion (RM899–3,500/month for the same molecules) — which is precisely what makes a transparent price-integrity brand legible to consumers.
+
 ## 3. Cross-clinic comparison
 
 | Clinic | Sites | GLP-1 menu | Published price signal (MYR/month) | Follow-up model | Review posture | Weight-loss centrality |

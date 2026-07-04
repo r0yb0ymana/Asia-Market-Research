@@ -36,7 +36,21 @@ The optimal Welltech architecture is A+B hybrid: initiate and dispense high-touc
 - Clinics buy at better prices than standalone pharmacies for many lines (volume + direct distributor relationships), reinforcing the moat.[^8]
 - Threat vector: the August 2025 mandatory-prescription proposal (requiring GPs to issue a prescription for every supply) triggered GP fury precisely because it is the procedural precursor to dispensing separation; medicine price-transparency (price-display) rules push the same direction.[^13][^14]
 
-### 2.3 Implications for Welltech
+### 2.3 GLP-1 dispensing unit economics (illustrative)
+
+*(analyst model — street prices from [malaysia-regulations.md §5](../10-market-intelligence/malaysia-regulations.md); margin structure inferred from the clinic-acquisition-cost evidence above; validate against distributor quotes before board use)*
+
+| Line | Wegovy-class programme, per patient-month |
+|---|---|
+| Retail medicine price | RM1,000–2,500 depending on dose step |
+| Clinic acquisition cost | *(unpublished; GLP-1 margins are thinner than generics — branded injectables typically clear 15–30% retail margin, not the 10–50× seen on generics)* |
+| Gross medicine margin captured by owned clinic | RM150–500/month *(analyst estimate)* |
+| Consult/programme fee | RM100–300/month (programme subscription) |
+| Comparator: pure e-Rx referral model | RM0 medicine margin; service fee from pharmacy only, constrained by fee-splitting rules[^5] |
+
+The medicine margin on a single GLP-1 patient-month can exceed the gross revenue of 10–20 commodity teleconsults — the arithmetic that makes Model A (owned-clinic dispensing) the anchor of programme economics, and explains why aesthetic clinics moved into GLP-1 supply ahead of telehealth platforms.
+
+### 2.4 Implications for Welltech
 
 A Welltech-owned, PHFSA-registered clinic that initiates GLP-1 therapy captures consult fee + full pharmacy margin on drugs priced RM800–3,000/month (see [regulations §5](../10-market-intelligence/malaysia-regulations.md)) — the single largest unit-economics lever in the model. Two disciplines: (1) run dispensing to MMC Good Dispensing Practice standard with pharmacist oversight in senior management (OHS 2025 requires a pharmacist on the board if e-pharmacy is offered); (2) hold a contingency P&L for dispensing separation, whose probability is rising, not falling.[^2][^3][^13]
 
@@ -57,7 +71,17 @@ A Welltech-owned, PHFSA-registered clinic that initiates GLP-1 therapy captures 
 - Residual ambiguity: the Poisons Regulations 1952 still assume written, signed prescriptions; the digital pathway rests on guideline recognition plus Digital Signature Act validity rather than amended regulations. Operators mitigate by using licensed-CA digital signatures (the DOC2US pattern) rather than mere e-signatures.[^1][^4]
 - Commercial terms with pharmacies must now be structured carefully: the MMC's May 2026 prohibition on fee-splitting (doctors sharing fees with hospitals, insurers, TPAs) argues for flat service/technology fees rather than percentage kickbacks tied to prescription value.[^5]
 
-### 3.3 Model C — private prescription to community pharmacy
+### 3.3 Pharmacy-partner landscape for Model B
+
+| Partner archetype | Evidence | Fit for Welltech |
+|---|---|---|
+| Prescription-led chains (Alpro: >300 outlets, e-pharmacy >5% of group revenue, GrabExpress 2-hour delivery; see [telehealth deep dive §5](../10-market-intelligence/malaysia-telehealth.md)) | Alpro×DOC2US×GDEX delivery partnership operating since 2020[^19] | Primary: cold-chain competence, prescription-handling culture, national coverage |
+| Mass retail chains (Watsons — DOC2US regional e-Rx partnership) | Watsons×DOC2US agreement[^35] | Secondary: reach and brand comfort, weaker clinical depth |
+| Independent community pharmacies (~3,000 outlets; 1-in-3 already accept DOC2US e-Rx) | DOC2US authorisation network[^16] | Long-tail coverage for East Malaysia and secondary towns |
+
+Selection criteria that matter for a GLP-1 operator specifically: validated cold-chain handling for semaglutide/tirzepatide pens, pharmacist counselling scripts aligned to Welltech protocols, ID-verified handover, and same-day delivery in the Klang Valley. None of these is contractually standard today — Welltech's pharmacy agreements should specify them explicitly. *(analyst recommendation)*
+
+### 3.4 Model C — private prescription to community pharmacy
 
 Always available, zero build cost: the doctor issues a compliant written prescription (prescriber name/address, signed and dated, patient identified; ~3-month validity in practice; dispenser records supply in the prescription book).[^1][^6] It forfeits margin and fulfilment control, but (a) it is the patient-autonomy answer regulators and pharmacist bodies want to see (anti-lock-in optics), and (b) it is the correct channel for medicines Welltech chooses not to touch (e.g., psychotropics, §6).
 

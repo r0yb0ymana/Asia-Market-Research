@@ -88,6 +88,28 @@ Public review volume is strikingly thin for a funded regional brand:
 
 Roczen is the most clinically credentialed threat (UK NHS validation narrative, employer-partnership playbook, Malaysiakini paid-partnership advertising in-market); Seimbang is the price-value benchmark (medication-inclusive RM899); OVA owns the female-consumer brand position; DoctorOnCall caps what anyone can charge for the drug itself.[^12][^13][^21][^25]
 
+## 8A. Regulatory posture and risk exposure
+
+OVA's compliance architecture is worth studying because it defines the lawful-aggressive frontier of the category:
+
+- **Advertising:** Group B poisons (all GLP-1s) may not be advertised to the public in Malaysia. OVA's storefront withholds drug-class names on category pages while operating named product URLs (`/product/v2/wegovy`, `/product/v2/mounjaro-25mg`) reachable via search — a structure that respects the letter of the prohibition on *advertising* while remaining fully indexable. Editorial drug-name content lives on a separate blog subdomain.[^5][^6][^11] Enforcement interpretation could tighten; the 2025 wave of 48 warning letters targeted social-media drug ads, not structured e-commerce, but the boundary is untested.[^17]
+- **Teleconsult prescribing:** Malaysian law permits registered practitioners to prescribe via legitimate teleconsultation with pharmacist-dispensed supply; OVA's mandatory RM15 video consult is the compliance keystone — and also the step its negative reviews attack as perfunctory. If MMC or MOH formalises stricter telemedicine prescribing standards for weight-loss drugs (as Singapore's "telehealth abuse" debate foreshadows[^10]), consult depth becomes a regulatory requirement, not just a quality differentiator.
+- **Cross-border structure:** ORA is Singapore-domiciled with local clinical operations per market. Regulatory action in one market (e.g., Singapore MOH scrutiny of weight-loss telehealth) can force group-wide policy changes that alter the Malaysian offer without any Malaysian trigger.
+- **Risk summary for Welltech planning:** OVA is unlikely to be an enforcement casualty; it is the competitor most likely to *benefit* from a compliance crackdown that clears out grey-market sellers — the same tailwind Welltech is counting on. Differentiation must therefore rest on care quality, not on relative legality.
+
+## 8B. Estimated unit economics *(analyst model — assumptions stated)*
+
+| Driver | OVA (estimated) | Basis |
+|---|---|---|
+| Revenue / patient / month | RM1,150–1,500 | Advertised tirzepatide entry RM1,150; semaglutide plans lower; dose mix assumption[^5][^16] |
+| Drug cost | RM750–1,100 | Pharmacy-floor benchmarks less distributor terms ([market file](../10-market-intelligence/malaysia-weight-loss-market.md) §4.3–4.4) |
+| Gross service margin | RM250–500/month | Consistent with cohort-wide program-fee spread |
+| Clinical cost / patient / month | Low — single consult + async messaging | RM15 consult price implies minutes-per-patient economics |
+| CAC | Moderate–high: celebrity + paid social in a category where drug-name ads are barred | @get.ova influencer roster[^7] |
+| 12-month retention | Unknown; global unmanaged GLP-1 persistence ~30–50% and OVA shows no visible retention machinery | [market file](../10-market-intelligence/malaysia-weight-loss-market.md) §9.2 |
+
+The model's implication: OVA's economics are acquisition-led, and its LTV is capped by the same churn that caps everyone's. A competitor that spends OVA-level CAC but doubles 12-month retention wins on contribution even at a lower headline price — the quantitative case for Welltech's service-heavy design.
+
 ## 9. Composite patient journey at OVA (Malaysia, 2026)
 
 ```mermaid

@@ -34,6 +34,21 @@ Malaysian qualitative research documents obesity patients experiencing blame, di
 
 Across DA, DoctorOnCall and Speedoc, the sharpest negative reviews are not about the failure itself but about silence afterwards — days-unanswered tickets, unreachable customer service, unanswered billing phones.[^8][^4][^20] Sentiment mechanics: patients forgive operational failure at roughly the rate the provider communicates; they punish silence disproportionately.
 
+### 2.6 Technology distrust and exclusion — the quiet trigger
+
+The Malaysian telehealth satisfaction literature shows older users encountering technical difficulties at materially higher rates, and geriatric telemedicine adoption depending on facilitated onboarding.[^30][^32] Review corpora confirm the mechanism from the other side: Naluri's crash/keyboard bugs and Doctor2U's forced-app-install complaints hit hardest for users with least app fluency.[^33][^34] Since Welltech's longevity and chronic-metabolic segments skew older, an app-mandatory journey imports this trigger wholesale; WhatsApp-first design substantially removes it (WhatsApp is the one interface this cohort already trusts). *(inference from the cited adoption studies)*
+
+### 2.7 Trigger summary table
+
+| Trigger | Primary segment | Intensity | Welltech exposure if unaddressed |
+|---|---|---|---|
+| Scam/fake-medicine fear | All online-health users | High, state-reinforced[^1] | Fatal at acquisition — visitors bounce before first consult |
+| Rip-off fear | Hospital + telehealth | High[^5][^8] | Erodes conversion at payment step |
+| Hard-sell trauma | Weight-loss | Very high, category-defining[^11][^15] | Fatal for weight vertical — inherited before first contact |
+| Stigma/judgement | Weight-loss, mental health | High but hidden[^16][^17] | Silent non-signup; never appears in Welltech's own feedback |
+| Post-payment abandonment | All | High[^4][^8] | Converts operational hiccups into permanent public record |
+| Tech exclusion | Older/chronic | Medium[^30] | Caps addressable market for longevity vertical |
+
 ## 3. Trust builders (positive sentiment drivers)
 
 | Trust builder | Evidence that it works | Who exploits it today |
@@ -46,6 +61,30 @@ Across DA, DoctorOnCall and Speedoc, the sharpest negative reviews are not about
 | Solicited review flywheel | Alpro's 4.8★/hundreds-per-outlet Birdeye machine converts routine service into public proof[^27] | Alpro only |
 | Published, flat pricing | RM19.99 flat consult is cited by reviewers as the reason to try DoctorOnCall[^21] | DoctorOnCall (consults only — not meds) |
 | Transparency infrastructure | Sunway Cancer Centre publishes real-time patient feedback — unique in the market and noted in its reputation record[^28] | Sunway |
+
+### 3.1 Hierarchy of trust proofs *(analysis)*
+
+The corpus implies an ordering — each layer only persuades if the layer beneath it is already in place:
+
+1. **Legal existence** — MOH/MMC/NPRA verifiability. Absent this, nothing else registers (the scam prior wins).[^1][^2]
+2. **Named humans** — a doctor with a name, face and registration number. DoctorOnCall's marketing and Speedoc's house-call disclosures both work at this layer.[^21][^22]
+3. **Kept promises** — the first delivery on time, the first reply within the stated window. Speedoc's time-stamped praise shows this is where loyalty forms.[^20]
+4. **Recovery behaviour** — how the first failure is handled. This is where every incumbent leaks trust (see §2.5) and where reviews are actually written.
+5. **Social proof at volume** — Alpro-style review mass. Only valuable once layers 1–4 generate genuine material.[^27]
+
+Incumbents compete at layers 1–2 and neglect 3–5. Layer 4 is the cheapest differentiation available because it monetises events that will happen anyway.
+
+### 3.2 Mapping triggers to builders
+
+```mermaid
+flowchart LR
+    A[Scam fear] -->|neutralised by| B[MMC/NPRA display + named doctors]
+    C[Rip-off fear] -->|neutralised by| D[All-in pricing + Rx portability]
+    E[Hard-sell trauma] -->|neutralised by| F[No in-session sales + cooling-off]
+    G[Stigma] -->|neutralised by| H[Discretion: unbranded delivery, private WhatsApp]
+    I[Abandonment fear] -->|neutralised by| J[Reply-time SLA + auto-refund triggers]
+    K[Tech exclusion] -->|neutralised by| L[WhatsApp-first, no app mandatory]
+```
 
 ## 4. Drop-off points in the journey
 

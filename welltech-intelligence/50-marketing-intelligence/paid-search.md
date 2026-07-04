@@ -212,6 +212,26 @@ Allocation logic *(analyst design)*: weight clusters take ~60% because program L
 5. **Message-asset eligibility test (week 2):** build a compliant test campaign to confirm WhatsApp message assets serve for Welltech's category in Malaysia; document any restriction for fallback design.[^31]
 6. **Ongoing:** monthly policy-change review (Google healthcare policy changelog) and LIU expiry-list check.[^5][^20]
 
+## 10a. Where paid search sits in the wider paid mix
+
+Context for budget arbitration (full channel strategy in [funnels.md](funnels.md)):
+
+- Malaysian adex is digital-dominated: digital ≈77% of total advertising, of which social media ≈41% and search ≈24% of expenditure; search advertising ≈USD 380M in 2025 and growing steadily.[^38] Advertisers collectively vote social first in this market — largely because social supports demand *creation* while search only harvests demand that already exists.
+- For Welltech this ordering partially inverts at launch *(analysis)*: GLP-1 and screening demand already exists and is searched daily ([seo.md](seo.md) §2); harvesting it via search is faster to revenue and easier to keep MAB-compliant than social creative (where before/after-adjacent formats and influencer claims are both the norm and the enforcement target[^18]). Meta/Instagram (OVA's observed playbook[^26]) becomes the scaling channel once WhatsApp funnel mechanics are proven by search traffic.
+- Microsoft/Bing: negligible in Malaysia (Google ≈97% search share[^39]) — ignore.
+- Google's ecosystem beyond Search (YouTube, Display, Discover) enters only through gated PMax (§6.4); standalone display/video for a sensitive category with personalisation bans is low-yield at launch *(analysis)*.
+
+**Paid-search risk register:**
+
+| Risk | Likelihood | Impact | Mitigation |
+|---|---|---|---|
+| Account suspension from drug-term drift (broad match serving on "ozempic" queries) | Medium without controls | Severe — healthcare suspensions can be permanent[^7] | POM-name negative list at account level (§8); phrase/exact-heavy launch; weekly search-term audits |
+| Message assets ruled ineligible for category | Medium[^33] | Medium — conversion path friction | Landing-page wa.me fallback with offline conversion import (§6.2) |
+| MAB enforcement inquiry over an unapproved creative | Low–medium | High (fines; brand damage; each publication a separate offence[^17]) | KKLIU pipeline + compliance sign-off before any creative goes live (§3.5) |
+| CPC inflation as GLP-1 auction heats up (8–12%/yr baseline; category likely faster)[^2] | High | Medium — CAC creep | Lock in SEO flywheel ([seo.md](seo.md)) so paid share of acquisition falls over time; quality-score advantage from compliant, relevant pages |
+| Lead pollution (job-seekers, suppliers, out-of-area) | High | Low–medium — wasted spend, team time | Negative keywords (§8); geo discipline; WhatsApp pre-qualification bot ([../10-market-intelligence/malaysia-whatsapp-healthcare.md](../10-market-intelligence/malaysia-whatsapp-healthcare.md)) |
+| Google policy change (new MY healthcare verification regime) | Medium (financial-services precedent[^12]) | Medium — campaign pause during certification | Monitor policy changelog monthly (§10.6); keep licensure documentation submission-ready |
+
 ## 11. Implications for Welltech — summary judgments
 
 1. **The drug-term wall privatises brand demand to organic.** Paid search cannot capture "Ozempic Malaysia"; SEO must ([seo.md](seo.md)). Paid budget belongs on service/program/screening intent.
@@ -221,6 +241,21 @@ Allocation logic *(analyst design)*: weight clusters take ~60% because program L
 5. **Expect the regime to tighten** — Google's Malaysian financial-services verification shows the localisation direction; a healthcare analogue and the coming Digital Health Act would both reward the operator already running KKLIU-approved, doctor-fronted, claim-clean campaigns.
 
 ---
+
+## Appendix A — Model input register (every number in §9, with provenance)
+
+| Input | Value used | Provenance | Evidence grade |
+|---|---|---|---|
+| Blended CPC | RM4.00 (RM3–6 band) | Malaysian SME cross-industry norm[^2][^3] | B (published agency aggregate, not healthcare-specific) |
+| Click → WhatsApp conversation | 8% (5–12% band) | US healthcare search conversion ~5–7%[^4] + message-first friction reduction | C (analyst assumption) |
+| Conversation → paid consult | 25% | Haircut from Dermed's 55% qualified-lead→patient[^24] | C (analogue, adjusted) |
+| Consult → program start | 40% | Working hypothesis; no published Malaysian datum | D (assumption) |
+| Consult fee | RM99 | Positioned above RM19.90–80 teleconsult market, below RM150–400 specialist ([../10-market-intelligence/malaysia-telehealth.md](../10-market-intelligence/malaysia-telehealth.md)) | Anchored assumption |
+| Program price | RM900–1,000/month | OVA ~RM900 flat; Seimbang ~RM899 ([../10-market-intelligence/malaysia-weight-loss-market.md](../10-market-intelligence/malaysia-weight-loss-market.md) §9) | B (competitor advertised prices) |
+| Median program duration | 5 months | GLP-1 persistence literature is weaker at 6–12 months; deliberately conservative | C (analyst estimate) |
+| Search budget steady state | RM30K/month | Sized to est. Klang Valley program-intent inventory; revisit after §10.3 volume pull | C (analyst design) |
+
+Grades: A = primary/regulatory source; B = published third-party data; C = reasoned analyst estimate; D = placeholder assumption requiring live data. No cell in this model should survive month 3 unreplaced.
 
 ## References
 
@@ -261,3 +296,5 @@ Allocation logic *(analyst design)*: weight clusters take ~60% because program L
 [^35]: Cardinal Digital Marketing, "Mastering Performance Max (PMAX) for Healthcare", https://www.cardinaldigitalmarketing.com/healthcare-resources/blog/performance-max-pmax-healthcare-guide/; UpMedico, "Google PMax Optimizations for Healthcare Providers", https://upmedico.com/google-pmax-optimizations-for-healthcare-providers/ (accessed July 2026).
 [^36]: PPC.live, "How to improve your lead quality on Performance Max", https://ppc.live/library/strategy/how-to-improve-your-lead-quality-on-performance-max/ (accessed July 2026).
 [^37]: Adthena, "PPC Brand Bidding: The Complete Guide", https://www.adthena.com/resources/blog/complete-guide-to-ppc-brand-bidding/; Brick Mortar Digital, "Healthcare PPC: What Bidding for Patients Actually Looks Like", https://www.brickmortardigital.com/blog/digital-marketing/healthcare-ppc-what-bidding-for-patients-actually-looks-like/; GrowLeads, "Bidding on Competitor Keywords in Google Ads", https://growleads.io/blog/is-bidding-on-competitor-keywords-legal-the-truth-about-brand-bidding/ (accessed July 2026).
+[^38]: Statista Market Forecast, "Search Advertising – Malaysia", https://www.statista.com/outlook/dmo/digital-advertising/search-advertising/malaysia; BERNAMA, "Digital Advertising Driving Malaysia's Adex Growth As Traditional Media Declines" (digital ≈77% of adex; social 41%; search 24%), https://bernama.com/en/news.php?id=2509243 (accessed July 2026).
+[^39]: StatCounter Global Stats, "Search Engine Market Share Malaysia", https://gs.statcounter.com/search-engine-market-share/all/malaysia (accessed July 2026).
