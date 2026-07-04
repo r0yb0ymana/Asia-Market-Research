@@ -21,10 +21,10 @@ Last updated: July 2026
 
 ### Timeline
 
-- **2016** — Founded as Malaysia's first online video/audio medical consultation platform; early traction weak in pure B2C ("only 20% of the market" in first six months), pivoting founders toward corporates and insurers, who became the platform's biggest revenue supporters.[^1][^3]
+- **2016** — Founded as Malaysia's first online video/audio medical consultation platform; early traction weak in pure B2C ("only 20% of the market" in first six months), pivoting founders toward corporates and insurers, who became the platform's biggest revenue supporters.[^1][^3][^2]
 - **2019** — DOCPod pilot in Langkawi: IoT-equipped walk-in kiosk/mobile clinic for rural chronic-disease vitals (BMI, BP, glucose) with video link to public-clinic doctors; referrals into Klinik Kesihatan for serious cases.[^13][^12]
 - **Feb 2020** — Partnership with MOH Malaysia to run the national COVID-19 Virtual Health Advisory: free chat/phone/video access to 20 MOH Family Medicine Specialists, 7 days/week — described as the first government-initiated service of its kind in the region.[^7][^8][^6]
-- **2020–2021** — COVID-era surge: ~15 million site visitors in 2020; monthly average users grew from 600,000 (Jan 2020) to 2.5 million (Jan 2021). Signed with MOH to build an online appointment system for the Klinik Kesihatan (KKM) network; ran drive-through/home COVID testing with Qualitas clinics; COVID-19 vaccination booking including at-home vaccination in the Klang Valley.[^5][^13][^1][^35]
+- **2020–2021** — COVID-era surge: ~15 million site visitors in 2020;[^4] monthly average users grew from 600,000 (Jan 2020) to 2.5 million (Jan 2021). Signed with MOH to build an online appointment system for the Klinik Kesihatan (KKM) network; ran drive-through/home COVID testing with Qualitas clinics; COVID-19 vaccination booking including at-home vaccination in the Klang Valley.[^5][^13][^1][^35]
 - **2021** — US$122k MTDC grant under MOSTI's National Technology & Innovation Sandbox (NTIS) to develop the DOCPod prototype.[^14]
 - **2024 (July)** — India-listed Fischer Medical Ventures Ltd (via subsidiary Time Medical International Ventures) formalised investment in Health Digital Technologies, joining existing investors Samsung Ventures and Khazanah-linked MTDC, to take DoctorOnCall global; press cites active expansion in Singapore and Indonesia and a hospital-group contract win in Saudi Arabia.[^15][^16][^17]
 
@@ -160,7 +160,9 @@ Ratings availability: an aggregate Google Play star rating for the pharmacy app 
 ## References
 
 [^1]: Wikipedia, "DoctorOnCall", https://en.wikipedia.org/wiki/DoctorOnCall (accessed July 2026).
+[^2]: Computer Weekly, "Malaysia's telemedicine vision gets fresh boost", https://www.computerweekly.com/news/252481183/Malaysias-telemedicine-vision-gets-fresh-boost (accessed July 2026).
 [^3]: BusinessToday, "DoctorOnCall: Driving Malaysia's telehealth services to new heights", 12 May 2020, https://www.businesstoday.com.my/2020/05/12/doctoroncall-driving-malaysias-telehealth-services-to-new-heights/ (accessed July 2026).
+[^4]: CodeBlue (Galen Centre), "Malaysia Telehealth Grows In Contactless World", Jun 2020, https://codeblue.galencentre.org/2020/06/malaysia-telehealth-grows-in-contactless-world/ (accessed July 2026).
 [^5]: KrASIA, "Tuning In: Maran Virumandi on bridging the Malaysian medical divide with telehealth services", https://kr-asia.com/tuning-in-maran-virumandi (accessed July 2026); revenue figure circulating via sales-intelligence profiles, e.g. RocketReach, https://rocketreach.co/doctoroncall-profile_b45b84fefc5f5e46 (accessed July 2026; unverified estimate).
 [^6]: Digital News Asia, "Malaysian healthtech startup DoctorOnCall helps government to combat COVID-19", https://www.digitalnewsasia.com/startups/malaysian-healthtech-startup-doctoroncall-helps-government-combat-covid-19 (accessed July 2026).
 [^7]: Malay Mail, "Health Ministry, DoctorOnCall team up on Virtual Health Advisory to fight Covid-19 misinformation", 19 Feb 2020, https://www.malaymail.com/news/malaysia/2020/02/19/health-ministry-doctoroncall-team-up-on-virtual-health-advisory-to-fight-co/1838964 (accessed July 2026).

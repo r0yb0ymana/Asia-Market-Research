@@ -6,6 +6,19 @@ Last updated: July 2026.
 
 Related documents: [Malaysia telehealth deep dive](malaysia-telehealth.md) · [Competitor dossiers](../20-competitor-dossiers/) · [Welltech blueprint](../70-welltech-blueprint/) · [Research standards](../RESEARCH-STANDARDS.md)
 
+**Bottom line (ten findings that matter most):**
+
+1. Medical inflation of 15–16%/yr vs ~2% CPI is the sector's master variable — it created the insurance repricing crisis, the regulatory RESET, and the opening for fixed-price digital care.[^9]
+2. Private health spending is about to overtake public spending for the first time in Malaysian history.[^6]
+3. Hospital bills are ~59–70% "hospital supplies and services" markups, not doctors' fees — and DRG payment (2026–27) attacks exactly that line.[^14][^23]
+4. The GP layer (~9,800 clinics) is fee-capped, TPA-squeezed, and dependent on drug margins now under legal and regulatory attack — making GPs recruitable and their model disruptable.[^48][^53][^61]
+5. ~60% of GP volume flows through ~30 unregulated TPAs that extract fees from both sides and delay payment 3–6 months — do not build on those rails.[^53][^62][^63]
+6. The consumer price ladder has two empty rungs: nothing between the RM131 GP visit and RM526 specialist visit, and nothing between the RM300 screen and the RM9,300 admission.[^46]
+7. 54.4% of adults are overweight/obese and 2.3 million carry 3+ NCDs, with massive undiagnosed shares — screening is the acquisition funnel, weight the upstream intervention.[^87]
+8. Hospital groups (IHH, KPJ, Sunway, Asia OneHealthcare) are adding thousands of beds and hunting outpatient volume — they are partners and referral destinations, not competitors, for a primary/preventive layer.[^15][^33][^37]
+9. Pharmacy chains (BIG CARING 600+ stores, Alpro 300+) are the fastest-moving format converging on the consumer front door — Welltech's most dangerous long-run rivals.[^51][^84]
+10. Nobody in the system owns the patient between episodes; continuity is the largest unclaimed franchise in Malaysian private healthcare *(analysis, §8.1)*.
+
 ---
 
 ## 1. Sector size, growth, and the inflation problem
@@ -38,7 +51,26 @@ Reconciliation note: market-research estimates of "hospital market" differ by ba
 
 Cost drivers named by Aon for Malaysia 2026: respiratory, musculoskeletal, gastrointestinal and cardiovascular conditions, with lifestyle risk factors (hypertension, cholesterol, hyperglycaemia) dominating.[^9] Bank Negara's own bill decompositions show **hospital supplies and services (HSS)** — not doctors' fees — contribute ~70% of non-surgical and ~59% of surgical private hospital bills, and that patients admitted on insurer guarantee letters are billed **286% more for dengue** and **158% more for pneumonia** than equivalent pay-and-claim patients.[^14] Doctors' (regulated) fees are the only bill component with a statutory cap; everything else floats.
 
-### 1.3 What this means structurally
+### 1.3 Demand fundamentals: the NCD and ageing engine
+
+Private healthcare demand growth is underwritten by one of the worst metabolic-disease profiles in Asia (NHMS 2023):[^87]
+
+| Condition (Malaysian adults) | Prevalence | Awareness gap |
+|---|---|---|
+| Overweight or obese | **54.4%** (32.6% overweight + 21.8% obese; up from 44.5% in 2011) | — |
+| Diabetes | **15.6%** | ~2 in 5 undiagnosed |
+| Hypertension | 29.2% | Majority unaware (only fraction diagnosed) |
+| High cholesterol | 33.3% | Large undiagnosed share |
+| ≥3 concurrent NCDs | ~2.3 million adults | — |
+
+Demographics compound this: Malaysia becomes an "aged nation" by 2030 (15% of the population over 60, one of the fastest ageing trajectories globally from 7.9% in 2010), driving chronic-disease and long-term-care demand;[^88] the healthcare sector overall is projected to expand a further 12% by 2030 on ageing, NCDs, private-sector expansion and digital adoption.[^89]
+
+Two structural notes for demand-side strategy:
+
+- **The awareness gap is the market.** With ~40% of diabetics undiagnosed and most hypertensives unaware, screening is not a saturated category — it is the acquisition funnel for the entire chronic-care economy. This is precisely why pharmacy chains are giving away HbA1c tests (§10.1).
+- **Obesity is the upstream commodity.** At 54.4% overweight/obesity, weight is the common root of the four conditions Aon names as Malaysia's 2026 cost drivers.[^9] Medical weight loss is therefore not a niche vertical; it is the highest-leverage intervention point in the entire private-care cost curve — the argument to make to insurers and employers.
+
+### 1.4 What this means structurally
 
 - The sector's revenue growth is roughly half volume, half price. IHH and KPJ explicitly report rising "revenue intensity" per patient as a growth driver.[^15][^16]
 - Price growth is now politically capped from three directions: BNM's premium repricing controls (§2.2), MOH's DRG payment reform (§2.3), and the state's Rakan KKM alternative (§2.4). The era of unconstrained fee-for-service pricing is closing.
@@ -239,6 +271,19 @@ Reconciliation note: early-2025 press reported 2024 revenue as low as RM2.13B be
 
 The pricing ladder exposes the market's missing rung: between the RM131 GP visit and the RM526 specialist visit there is no premium-primary-care product; between the RM300 screen and the RM9,300 admission there is no managed prevention product. Both gaps are Welltech's target zone, and both are cash-pay (unregulated, un-intermediated).
 
+### 8.1 The private outpatient customer journey today (and its failure points)
+
+| Stage | Typical experience today | Failure point | Digital/concierge fix |
+|---|---|---|---|
+| Symptom / concern | WhatsApp a friend, Google, or walk into the nearest clinic/pharmacy | No trusted triage; pharmacy and GP compete on convenience, not appropriateness | WhatsApp-native triage with a real clinical team behind it |
+| GP visit | Queue-based walk-in; 5–10 min consult; bundled bill ~RM131; panel patients gatekept by TPA caps[^46][^63] | Undocumented history; no follow-up; drug-margin incentive to dispense | Scheduled video/chat consults; e-records owned by the patient; transparent split of consult vs medication |
+| Screening | Annual employer or promo-driven package (RM150–1,500); PDF report | Abnormal results routinely unmanaged; no owner of the result | Screen-to-plan conversion: every abnormal marker triggers a program offer |
+| Specialist referral | Self-directed hospital shopping or GL-driven panel hospital; RM526 average visit[^46] | No navigation; price opacity; GL patients billed up to 286% more[^14] | Concierge referral to named specialists with price expectations set upfront |
+| Chronic management | Monthly clinic revisits for repeat scripts; adherence unmanaged | Highest-value need, least-designed service | Subscription: remote monitoring, medication delivery, quarterly labs, WhatsApp check-ins |
+| Post-episode | None | Zero longitudinal ownership anywhere in the system | The entire Welltech model is this stage |
+
+The journey audit yields the sector's most important commercial fact: **no incumbent owns the patient between episodes.** Hospitals own admissions, GPs own visits, labs own tests, TPAs own claims — nobody owns outcomes or continuity. In a market where 2.3 million adults carry three or more NCDs,[^87] the between-episode layer is the largest unclaimed franchise in Malaysian healthcare.
+
 ---
 
 ## 9. Value chain of private outpatient care — and where digital captures margin
@@ -274,6 +319,18 @@ flowchart LR
 | Medication | GP dispensing (~75% of GP bill); pharmacy chains | Price display litigation; generic mandates; margin transparency coming[^61][^64] | Transparent med pricing + delivery; margin shifted to program fee; GLP-1 supply chain as anchor |
 | Chronic/preventive management | Nobody (systematically under-provided) | — | **The core white space**: metabolic clinics, longevity programs, remote monitoring |
 | Referral & inpatient | Hospitals (HSS markups, occupancy) | DRG will compress itemised margins from 2026–27[^23] | Concierge referral: steer members to fair-priced, high-quality specialists; potential referral/bundle economics with bed-hungry groups |
+
+### 9.1 Sizing the addressable pools *(analyst estimates — assumptions shown)*
+
+| Pool | Estimate | Basis |
+|---|---|---|
+| Private GP/outpatient primary care | RM8–12B/yr | ~9,800 clinics × plausible RM0.8–1.2m average annual billings; cross-checked against OOP outpatient share (39.1% of a 36%-OOP, RM84B THE ≈ RM11.8B OOP outpatient alone)[^3][^48] *(analyst estimate)* |
+| Consumer health screening | RM1–2B/yr | 70+ BP outlets, national lab chains, hospital screening franchises at RM150–5,500/package; no audited market figure seen *(analyst estimate)* |
+| Employer outpatient benefits (TPA-administered) | RM3–5B/yr | ~30 TPAs; PMCare-type books averaging RM131/GP visit across millions of covered lives[^46][^62] *(analyst estimate)* |
+| Medical weight loss / GLP-1 (cash-pay) | Early, fast-growing; RM10k–20k/patient-year at current pricing | RM800–1,800/month medication + consults[^82]; 21.8% adult obesity[^87] implies a multi-million-person eligible base; penetration today <<1% *(inference)* |
+| Executive health / concierge | RM0.3–0.8B/yr | Hospital executive packages RM800–5,500 × corporate and medical-tourist volumes[^71][^74] *(analyst estimate)* |
+
+Even at conservative capture rates, a digital operator that wins 50,000 subscribing households (≈0.5% of clinic-going Malaysia) at RM1,500–3,000/yr blended is a RM75–150m revenue business before B2B — the pools are deep enough that distribution, not market size, is the binding constraint.
 
 **Implications for Welltech.** Welltech's economic design should invert the incumbent stack: give away cheaply what incumbents overcharge for (consults, basic labs), and charge for what incumbents don't do at all (continuity, outcomes, navigation, prevention). Every regulatory trend in §2 — DRG, price display, charge publication, base MHIT — attacks incumbent margin pools and leaves program-based, subscription revenue untouched.
 
@@ -327,7 +384,20 @@ Digital natives: DoctorOnCall (est. 2016; GP video from ~RM15–20, specialist f
 
 ---
 
-## 12. Watchlist (12–24 months)
+## 12. Reconciliation ledger: conflicting numbers and how this document treats them
+
+| Metric | Conflicting values seen | Treatment here |
+|---|---|---|
+| Hospital market size | USD 11.5B 2024 / USD 19.1B 2034 (Research & Markets)[^1] vs ~USD 11.3B by 2030 (TechSci)[^2] | Differ on base definitions and scope (public inclusion, revenue vs expenditure). Use "low-teens USD billions, 5–7% CAGR" as the working range; never quote a single point without source |
+| Number of private clinics | "~8,000+" (common press shorthand) vs 9,830 registered (MOH, 2022)[^48] vs 2,958 (a mis-scoped Health Facts extract) | Use 9,830 (2022 registration data); discard the 2,958 figure as inconsistent with registration series |
+| KPJ FY2024 net profit | RM353.8m (Bernama)[^34] vs RM407.2m (FMT)[^16] | Both correct: continuing operations vs including the Australian aged-care divestment gain. Cite both with the distinction |
+| Medical tourism revenue 2024 | RM2.13B (early-2025 press) vs RM2.72B (MHTC, MYMT launch)[^74] | Treat RM2.72B as the official full-year figure; RM2.13B likely a part-year interim number |
+| Medical inflation rate | 13% (MMB employer trend)[^11] vs 15%/16% (Aon gross trend 2025/2026)[^9] | Different survey bases (employer plan cost vs insurer gross trend). Quote both with attribution; use 15–16% for insurer-facing arguments, ~13% for employer-facing |
+| Island Hospital price | RM3.9B (equity) vs RM4.2B (incl. adjacent land RM223m)[^31][^32] | RM3.9B for the hospital; RM4.2B for total transaction value |
+| Insurance penetration 54% | Measures life + family takaful policies per population (2022), not medical coverage specifically[^17] | Use only as an upper bound on MHIT coverage; MHIT-specific penetration is lower and not separately published in sources seen |
+| IHH FY2025 revenue | RM25.7B reported vs RM26.2B "core" (+18%)[^45] | Difference is hyperinflation accounting (Türkiye). Use reported for scale, core for growth-rate claims |
+
+## 13. Watchlist (12–24 months)
 
 1. **Base MHIT product pilot (2H2026) and DRG mechanics** — defines the future insurer-paid outpatient rails.[^23][^24]
 2. **Act 586 amendment scope** — whether regulated charges extend beyond doctors' fees (and whether telehealth/program fees get swept in).[^27]
@@ -427,3 +497,6 @@ Digital natives: DoctorOnCall (est. 2016; GP video from ~RM15–20, specialist f
 [^84]: BIG CARING GROUP, https://www.bigcaring.com.my/ (600+ stores today; integrated healthcare ambitions) (accessed July 2026).
 [^85]: Alpro Pharmacy, "1 in 4 Malaysians at Risk: Alpro Pharmacy Leads National Movement to Reverse Prediabetes" (ASAP Programme; 10,000 free HbA1c tests, Apr–Jun 2025), https://www.alpropharmacy.com/blogs/news/1-in-4-malaysians-at-risk-alpro-pharmacy-leads-national-movement-to-reverse-prediabetes ; The Edge, "Alpro Pharmacy keen to have 300 outlets by year end", https://theedgemalaysia.com/node/689911 (accessed July 2026).
 [^86]: CodeBlue, "We Finally Solved Malaysia's Doctor 'Oversupply': 5,000 Posts, 529 Doctors — Clinician", March 2026, https://codeblue.galencentre.org/2026/03/we-finally-solved-malaysias-doctor-oversupply-5000-posts-529-doctors-clinician/ (accessed July 2026).
+[^87]: CodeBlue, "NHMS 2023: Over Half Of Malaysian Adults Overweight Or Obese", May 2024, https://codeblue.galencentre.org/2024/05/nhms-2023-over-half-of-malaysian-adults-overweight-or-obese/ ; and "Over Two Million Adults In Malaysia Live With Three NCDs: NHMS 2023", https://codeblue.galencentre.org/2024/05/over-two-million-adults-in-malaysia-live-with-three-ncds-nhms-2023/ ; underlying data: Institute for Public Health, "NHMS 2023 Fact Sheet", https://iku.nih.gov.my/images/nhms2023/fact-sheet-nhms-2023.pdf (accessed July 2026).
+[^88]: Malaysia Population Research Hub (LPPKN), "Ageing Phenomenon: Malaysia Towards 2030", https://mprh.lppkn.gov.my/ageing-phenomenon-malaysia-towards-2030/ (15% aged 60+ by 2030, from 7.9% in 2010) (accessed July 2026).
+[^89]: New Straits Times, "Malaysia's healthcare sector to expand 12pct by 2030", July 2026, https://www.nst.com.my/amp/business/economy/2026/07/1478397/malaysias-healthcare-sector-expand-12pct-2030 (accessed July 2026).
