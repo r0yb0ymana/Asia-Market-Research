@@ -220,6 +220,20 @@ Read vertically, the ladder shows the market's structural hole: **no single prov
 4. **TRT and screening-conversion are the immediate wedges.** Monthly-recurring TRT (SGD 160–400/mo unit economics already proven) and a "your Screen Excelsior/Raffles results, turned into a year-long plan" conversion product monetise existing demand without new-category education[^26][^37].
 5. **Use Singapore as the credibility flagship, Malaysia as the volume engine.** The HLMS/NUS halo and published-price culture make Singapore the right place to certify the model; the [Malaysian market's](../10-market-intelligence/malaysia-longevity-market.md) opaque boutiques are where the same product wins fastest on transparency. Cross-border virtual programmes (Chi already runs a two-visit, 10-month virtual model) validate a regional telehealth-longevity corridor[^5].
 
+### Compete / partner / ignore
+
+| Player | Verdict | Rationale |
+|---|---|---|
+| Chi Longevity | **Respect, don't fight; possible referral partner upward** | Different price stratum (4,250+ vs Welltech's mid-tier); its science halo grows the category. Complex/UHNW cases can be referred up; recruit from its trained-clinician orbit *(inference)* |
+| NOVI Health | **Compete — primary benchmark** | Same doctor-founded, metabolic-anchored, tiered-programme logic at overlapping prices; beat it on membership identity, WhatsApp ops and imaging/TRT adjacencies[^16][^17] |
+| Osler Health | **Compete for expats; imitate the tone** | Its lifestyle-medicine warmth converts expats; its unpublished pricing is the exploitable weakness[^22][^23] |
+| Parkway Shenton / Raffles | **Partner (screening supply) + convert (their customers)** | Buy screening capacity at wholesale; build the "turn your screening report into a plan" product; avoid competing for the corporate contract layer initially[^25][^28] |
+| ATA Medical / private radiology | **Partner for imaging capacity** | Pre-contract member rates before Prenuvo's arrival resets the market[^34][^35] |
+| Prenuvo (incoming) | **Prepare conversion products** | Its marketing spend will educate the market; capture its downstream (findings → care) since it won't own local follow-up[^31][^32] |
+| Alexandra Hospital HLC / NUS / HLMS | **Align and cite; never disparage** | The legitimacy layer; adopt its biomarker standards and, where possible, research collaboration[^13][^15] |
+| TRT clinics / Noah | **Compete** | Fragmented; monthly-recurring economics proven; Welltech's membership bundling wins[^37] |
+| IV/NAD⁺ and supplement layer | **Selective, evidence-gated offer or foil** | Same posture as [Malaysia](malaysia-longevity-clinics.md): productise only what is defensible; use quality scandals (NMN label failures) as a trust wedge[^45] |
+
 ---
 
 ## References

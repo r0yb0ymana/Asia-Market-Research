@@ -190,7 +190,11 @@ Sources: consolidated from the Ezra, Prenuvo and Neko citations above[^5][^12][^
 
 ## 11. Will they enter Asia?
 
-No announced plans for Ezra/Function or Neko in Asia as of July 2026; Ezra's international proof-of-concept is the UK (Alliance Medical partnership, 11 sites)[^20][^21]. The realistic near-term Asian event is **Prenuvo Singapore** (entity incorporated August 2025, opening timing unannounced)[^38][^39]. Function's asset-light model could enter SEA fast via radiology partnerships if it chose — Singapore private imaging capacity already exists at SGD 4,388–5,014 retail (see [Singapore dossier](singapore-longevity-clinics.md)) — making pre-emptive local partnership lock-up a live strategic question for Welltech *(analysis)*.
+No announced plans for Ezra/Function or Neko in Asia as of July 2026; Ezra's international proof-of-concept is the UK (Alliance Medical partnership, 11 sites)[^20][^21]. Three observations sharpen the Asia read:
+
+- The UK entry shows Function's preferred internationalisation mechanics: one national imaging partner, capital-light, brand-forward — replicable in Singapore or Malaysia within months of a decision, not years *(analysis)*[^20].
+- Asia-specific pull already exists: Singapore consumers pay SGD 4,388–5,014 for locally-read full-body MRI with no AI acceleration and no membership wrapper, i.e. the pre-Flash 2019 US market state (pricing evidence in the [Singapore dossier](singapore-longevity-clinics.md)).
+- Regulatory friction is the brake: elective whole-body screening sits inside licensing and advertising regimes (MOH Singapore, MOH Malaysia) that have no US-style DTC imaging precedent, favouring locally licensed operators as partners of record *(inference)*. The realistic near-term Asian event is **Prenuvo Singapore** (entity incorporated August 2025, opening timing unannounced)[^38][^39]. Function's asset-light model could enter SEA fast via radiology partnerships if it chose — Singapore private imaging capacity already exists at SGD 4,388–5,014 retail (see [Singapore dossier](singapore-longevity-clinics.md)) — making pre-emptive local partnership lock-up a live strategic question for Welltech *(analysis)*.
 
 ## 11a. Scenario watch — triggers that change the SEA picture
 

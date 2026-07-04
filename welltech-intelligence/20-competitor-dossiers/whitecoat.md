@@ -131,6 +131,17 @@ Comparative anchor: Doctor Anywhere charges S$27.25 standard / S$14.17 member; W
 
 ## 9. Competitive context
 
+### 9.0 Reconciliation of conflicting figures
+
+| Figure | Values reported | Treatment |
+|---|---|---|
+| Founding year | 2016 (idea), 2017 (founding per A Magazine), 2018 (launch/sandbox per Vulcan Post and MOH) | All three retained with roles: idea → incorporation → regulated launch[^1][^2][^3] |
+| Consultation fee | S$25/S$50 time-banded vs "standard fee S$35" in FAQ | Both shown; banding treated as the operative consumer price, S$35 flagged as list-rate artefact pending live-FAQ verification[^26] |
+| Group reach | "6.8M insured lives" (deal materials, Oct 2024) vs "6.8M users in Asia" (Vietnamese profile, 2025) | Insured-lives framing adopted as conservative; user framing treated as company-sourced restatement[^5][^10] |
+| Good Doctor users | 12M (early 2021) → ~15M (later company claims) | Historical registration counts, not active users; dated accordingly[^16][^17] |
+| Markets | 4 (SG/ID/MY/VN with offices, LinkedIn) vs 5 incl. HK (Vietnamese profile) | 4 operating markets + HK insurer-partnership presence (Swiss Life Network / MSIG HK)[^5][^6][^22] |
+| Oct 2024 round & deal size | Undisclosed in every source | Reported as undisclosed; no estimate fabricated[^10][^14] |
+
 ### 9.1 WhiteCoat vs Doctor Anywhere vs NOVI (Singapore lens)
 
 | Dimension | WhiteCoat | Doctor Anywhere | NOVI Health (see [dossier](novi-health.md)) |
@@ -143,7 +154,38 @@ Comparative anchor: Doctor Anywhere charges S$27.25 standard / S$14.17 member; W
 | Longevity | None | Premium screening only | NOVI Max programme |
 | Distinct asset | AIA exclusivity; Good Doctor Indonesia | CHAS/Healthier SG estate; marketplace | Clinical outcomes data; Novo Nordisk partnership |
 
-### 9.2 Forces snapshot
+### 9.2 Customer journey (insured-member teleconsult, SG)
+
+```mermaid
+journey
+    title WhiteCoat patient journey (typical AIA/corporate teleconsult)
+    section Trigger
+      Minor illness, need MC or refill: 2: Patient
+    section Access
+      Enter via AIA app or WhiteCoat app, ID or Singpass: 3: Patient
+      GP connects in under 10 min: 5: WhiteCoat
+    section Care
+      Video consult S$25 (S$12 AIA rate): 4: Doctor
+      e-MC and e-prescription in-app: 4: Patient
+    section Fulfilment
+      GrabExpress delivery from 90 min, until 3am: 5: WhiteCoat
+      Straight-through insurance claim: 5: AIA
+    section Aftermath
+      Refill request friction (review theme): 2: Patient
+      No named-clinician continuity: 2: Patient
+```
+
+Structural read: the front half of the journey (speed, claims, delivery) is best-in-class in Singapore; the back half (refills, continuity, chronic follow-through) is where the model thins out — exactly the segment a programme-based entrant monetises.[^20][^28][^29][^34] *(analyst synthesis)*
+
+### 9.3 Customer segments *(analyst synthesis)*
+
+1. **AIA insured members** (largest; 1M+ addressable post-Nov 2024) — default-channel users at S$12; near-zero CAC for WhiteCoat, near-zero brand loyalty to WhiteCoat.[^22]
+2. **Corporate employees** — UBS/JPMC/P&G-grade employer plans, capped all-in consults, on-site screening.[^23][^24]
+3. **Convenience B2C** — MC/refill seekers paying S$25/S$50; interchangeable with DA's equivalent segment.[^26]
+4. **Mental-wellness users** — Think Well corporate coaching plus B2C psychologist consults; regionalised via Swiss Life/MSIG HK.[^21][^22]
+5. **Indonesia mass-market (Good Doctor)** — B2B2C insured/corporate lives plus GrabHealth-heritage consumers at local price points.[^17]
+
+### 9.4 Forces snapshot
 
 | Force | Assessment |
 |---|---|
@@ -181,7 +223,18 @@ Comparative anchor: Doctor Anywhere charges S$27.25 standard / S$14.17 member; W
 
 ---
 
-## 11. Threat assessment for Welltech
+## 11. Vulnerability analysis vs a WhatsApp-first continuity-care weight/longevity entrant
+
+1. **The insurer moat doesn't cover Welltech's category.** WhiteCoat sells episodic consult capacity; medical weight loss and longevity are 6–18-month programme purchases bought on outcomes and trust, not panel access. Welltech does not need to displace WhiteCoat to win its category — it needs to define a category WhiteCoat hasn't entered.[^30][^31]
+2. **Refill and chronic-care friction is documented.** WhiteCoat's own app reviewers describe refill requests as "begging"; its chronic-disease SKU is care-plans-plus-refills, not multidisciplinary programme care. A named-clinician GLP-1 titration journey with proactive refill logistics is direct counter-programming.[^8][^34]
+3. **App-gated, insurer-gated funnel.** Two log-ins (AIA app → WhiteCoat) and Singpass friction sit between an insured member and care; a WhatsApp-first funnel removes every step. In Malaysia — where WhiteCoat's offer is a thin 8:00–20:00 GP teleconsult service — WhatsApp-native onboarding is a measurable acquisition advantage.[^7][^25][^34]
+4. **WhiteCoat's counter-move runs through AIA, not through product.** Its rational response to GLP-1 demand is an insurer-bundled weight benefit (see §12.2). Welltech's defence is speed: lock in employer/insurer *outcome-based* metabolic contracts and clinical-brand authority before a bundled offer commoditises access.[^22][^30]
+5. **Where WhiteCoat is genuinely superior — don't fight:** claims plumbing (straight-through AIA processing since 2019), enterprise procurement relationships, and 90-minute medication logistics via GrabExpress. Partner or neutralise; don't rebuild.[^20][^28][^29]
+6. **Integration distraction window.** Digesting Good Doctor Indonesia (a market that consumed larger balance sheets) will absorb management bandwidth through 2025–2026 — a window in which WhiteCoat is unlikely to launch new Singapore verticals. *(analyst forecast)*[^10][^15]
+
+---
+
+## 12. Threat assessment for Welltech
 
 1. **Does WhiteCoat enter weight/longevity?** Not yet — and its likeliest entry vector is *insurer-bundled*: an AIA weight-management or metabolic benefit powered by WhiteCoat would reach 1M+ members overnight. That is the scenario to monitor, because it would commoditise GLP-1 access inside the insured channel before Welltech reaches those employers. Probability rises if AIA regionalises its Think Well playbook into metabolic health. *(analyst forecast)*[^21][^22][^30]
 2. **Direct B2C collision risk: low-medium.** WhiteCoat's consumer surface is a commodity teleconsult; it lacks the multidisciplinary programme design, outcome tracking and continuity Welltech is building. Its complaint profile (refill friction) is Welltech's pitch.
@@ -191,7 +244,7 @@ Comparative anchor: Doctor Anywhere charges S$27.25 standard / S$14.17 member; W
 
 ---
 
-## 12. Implications for Welltech
+## 13. Implications for Welltech
 
 1. **The insured channel is spoken for; the outcomes channel is not.** WhiteCoat sells consult capacity to insurers. Welltech should sell *outcomes* (kg lost, HbA1c, absenteeism) to employers/insurers — a different procurement conversation WhiteCoat's episodic model cannot service without rebuilding itself.
 2. **Move before the AIA-bundle scenario materialises.** A WhiteCoat-powered insurer weight benefit is the single most dangerous flank move; Welltech's window to establish the category standard in SG (with NOVI as the clinical benchmark) is open now.
@@ -202,7 +255,7 @@ Comparative anchor: Doctor Anywhere charges S$27.25 standard / S$14.17 member; W
 
 ---
 
-## 13. Intelligence gaps & monitoring plan
+## 14. Intelligence gaps & monitoring plan
 
 | Gap / signal | Why it matters | How to monitor |
 |---|---|---|
