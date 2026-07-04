@@ -29,6 +29,34 @@ Related: [../00-executive-summary/malaysia-executive-summary.md](../00-executive
 | F | Switching costs & longitudinal memory | Switching Costs | Structured patient memory "makes month 6 feel like a continuation of day 1"; incumbents' threads are "goldfish" |
 | G | Regional-platform economies | Scale Economies | One stack amortized across MY/SG/HK; evidence and governance travel; each market cheaper than the last |
 
+**How the moats interlock.** The defensibility is not additive but multiplicative — each moat is a prerequisite for or an amplifier of another:
+
+```mermaid
+flowchart TB
+    CP[Counter-positioning core<br/>incumbents can't follow without<br/>breaking their P&L]
+    A[Operating model A<br/>~3x leverage, free marginal touch]
+    F[Switching costs F<br/>longitudinal memory]
+    B[Outcomes data B<br/>published cohort]
+    D[Trust/brand D<br/>anti-slimming, verifiable]
+    C[Compliance C<br/>governance-as-moat]
+    E[Clinical bench E<br/>scarce IFM/endocrinology]
+    G[Regional platform G<br/>one stack, three P&Ls]
+
+    CP --> A
+    A --> F
+    A --> B
+    F --> B
+    B --> D
+    C --> B
+    E --> B
+    B --> G
+    C --> G
+    A --> G
+    D -->|referrals + pricing power| A
+```
+
+The critical dependency chain: the operating model (A) makes retention affordable, retention builds switching costs (F), retention plus the operating model produce the outcome data (B), outcomes escalate the brand beyond copyable slogans (D) and constitute the platform's portable credibility (G). Break any early link and the downstream moats do not form — which is exactly why an incumbent cannot shortcut to the deep end.
+
 **The load-bearing sentence**, from the synthesis of all 21 dossiers: *Welltech's competition is not any single company but the incumbents' collective assumption that healthcare revenue lives in episodes … the window closes the moment one of them decides the GLP-1 retention pool is worth the cannibalisation, which the threat ranking dates at roughly 12–24 months* ([competitor-comparison.md §8.1](../20-competitor-dossiers/competitor-comparison.md)). The moat strategy is therefore a race: build the slowest-to-copy assets (B, E, and the outcome-instrumented version of A) inside that 12–24-month window, so that when assembly happens the differentiation survives it.
 
 ---

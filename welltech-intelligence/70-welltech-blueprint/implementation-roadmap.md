@@ -4,7 +4,7 @@
 
 **Last updated: July 2026.**
 
-Related: [../00-executive-summary/malaysia-executive-summary.md](../00-executive-summary/malaysia-executive-summary.md) · [../60-ai-operating-model/automation.md](../60-ai-operating-model/automation.md) · [../60-ai-operating-model/ai-clinic.md](../60-ai-operating-model/ai-clinic.md) · [go-to-market.md](go-to-market.md) · [product-strategy.md](product-strategy.md) · [pricing-strategy.md](pricing-strategy.md)
+Related: [../00-executive-summary/malaysia-executive-summary.md](../00-executive-summary/malaysia-executive-summary.md) · [../60-ai-operating-model/automation.md](../60-ai-operating-model/automation.md) · [../60-ai-operating-model/ai-clinic.md](../60-ai-operating-model/ai-clinic.md) · [malaysia-go-to-market.md](malaysia-go-to-market.md) · [product-strategy.md](product-strategy.md) · [pricing-strategy.md](pricing-strategy.md)
 
 ---
 

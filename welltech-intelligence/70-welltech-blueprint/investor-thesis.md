@@ -163,6 +163,19 @@ Contribution turns positive on the RM999 tier with a modest prepay mix and secur
 
 ---
 
+### 5.4 The B2B2C flywheel — the employer/insurer channel
+
+The consumer P&L is the near-term case; the employer/insurer channel is the durability case, and it strengthens as the company matures. Its logic is a CFO-grade sale that the incumbents cannot make:
+
+- **The buyer is on fire.** Medical trend runs 12–17% across the three markets (7× CPI in Malaysia), triggering repricing crises, rider reforms and mandatory co-pays. Employers and insurers are motivated buyers of anything that credibly bends the trend.
+- **Obesity is the upstream commodity.** It is the common root of the four conditions insurers name as top cost drivers — so a weight/metabolic program is sold not as a wellness perk but as claims-inflation control, priced RM8–15 PEPM plus RM350–500 per enrolled seat (MY), with HPB co-funding 30–90% of pilots in Singapore.
+- **Only Welltech can sell the outcome.** The sale is denominated in kilograms lost, HbA1c, absenteeism and claims offset — a lane the episodic incumbents cannot service because they have no outcomes to sell. The channel is also compliant where consumer drug advertising is not: B2B proposals are not public ads, so the POM/UMAO walls do not bind them.
+- **It de-risks the consumer P&L.** By design, ≥30% of Hong Kong revenue is employer/insurer-paid. This diversifies away from consumer-CAC volatility and converts the medical-inflation pitch into recurring B2B2C rails — the same rails (HealthMetrics, brokers, insurer wellness riders) that, if a competitor captured them first, would gatekeep the reimbursed channel.
+
+The flywheel: published outcomes (moat B) are the entry ticket to the employer sale; the employer sale funds lower-CAC patient acquisition; those patients enlarge the outcome dataset; the larger dataset wins bigger employer/insurer contracts. This is the mechanism by which the deepest moat (outcomes) converts into the highest-quality revenue (recurring B2B2C).
+
+---
+
 ## 6. The moat, summarized
 
 Full analysis in [competitive-moat.md](competitive-moat.md). Seven interlocking moat sources, mapped to Helmer's 7 Powers:
@@ -221,6 +234,8 @@ The company is a clinical-operations-and-AI business, so the founding team must 
 | **Employer-channel sales** | The B2B claims-inflation sale that de-risks the consumer P&L | 2–3 |
 
 The design keeps the team lean — ~5.5–7 humans per 1,000 patients versus ~17 traditional — so hiring is capability, not volume. See the [implementation-roadmap.md §10](implementation-roadmap.md) hiring plan.
+
+**Founder-market fit.** The business rewards a founding team that is unusually rare because it must sit at the intersection of three domains that rarely combine: (1) clinical governance credibility (to recruit the medical bench and satisfy regulators), (2) AI/product engineering depth (to build the orchestration layer that "is the company"), and (3) regulated-market, cash-pay go-to-market instinct (to win in three different regulatory regimes without a paid-drug-advertising engine). A team strong in only one or two of these builds a partial company — a compliant clinic with no leverage, a slick bot with no governance, or a growth machine with no moat. The hiring plan is explicitly designed to assemble all three from Phase 0, because the moat sources map one-to-one onto these competencies.
 
 ---
 
@@ -369,7 +384,17 @@ The framing thesis: Welltech is a **regional, outcome-accountable, multi-market 
 | **Regional IPO** | A three-market, profitable, outcomes-accountable platform lists (SGX/HKEX) as the category leader | Public-market re-rating on the Hims/Function comps at Asian growth | Upside; requires all three markets scaled and profitable |
 | **Continued independent compounding** | The platform compounds the moat, adds categories, and raises growth capital | High-margin regional franchise | Base case if execution holds |
 
-The return logic rests on the moat's design: a proven, outcomes-published Welltech is worth more to an acquirer than the cost of building the assembly they cannot assemble — which is exactly why the roadmap front-loads the slow moats.
+### 13.1 Illustrative returns math (directional)
+
+*Illustrative only, to show the shape of the return, not a projection. Multiples are indicative of how healthcare-platform and digital-health assets have been valued; actual outcomes depend on growth, margin and market conditions.*
+
+| Exit path | Basis | Illustrative multiple | Directional read |
+|---|---|---|---|
+| Strategic acquisition | Year-4–5 ARR of ~US$55–140M | ~3–6× revenue (growth + margin + strategic premium for the outcomes dataset) | US$0.2–0.8B enterprise value range |
+| Pharma/payer strategic majority | Outcomes dataset + reimbursed-channel access | Premium to financial value | Above the revenue-multiple range |
+| Regional IPO | Category-leader, profitable, three markets | Public digital-health comps (Hims-class) | Highest range, requires all three markets scaled |
+
+Against a Seed and Series A that fund the company to a published cohort and two running markets, the moat design targets the acquisition/strategic scenario as the base case — where being the asset a consolidator *cannot build* is worth more than the revenue multiple alone implies. The return logic rests on the moat's design: a proven, outcomes-published Welltech is worth more to an acquirer than the cost of building the assembly they cannot assemble — which is exactly why the roadmap front-loads the slow moats.
 
 ---
 
@@ -452,6 +477,22 @@ The ~25 figures the case rests on, for rapid diligence. All trace to the linked 
 - **Moat:** seven interlocking sources; the deepest (published outcomes) takes 24–36 months to copy and is built first.
 - **Ask:** Seed to prove the Malaysian machine and publish the first cohort; Series A, gated on that cohort, to enter Singapore with evidence.
 - **Risk, honestly:** a retention-and-execution bet inside a real, timed window — the market and moat logic are evidenced; the open question is operational execution before the assembly clock runs out.
+
+**The investment in one sentence:** back a team building the only outcome-accountable metabolic-and-longevity platform across three high-burden, high-willingness-to-pay Asian markets, into a demand supercycle and a regulatory cleanup that have simultaneously created the demand and vacated the incumbents best able to serve it — where the moat is a sequenced system built fastest-slowest-to-copy-first, and the primary risk (retention) is a fundable, observable milestone rather than a leap of faith.
+
+---
+
+---
+
+## Where to go deeper
+
+This thesis is the capital case; three companion chapters carry the detail a diligence process will demand:
+
+- **The defensibility** — why the model holds where incumbents cannot follow, moat by moat, with the durability ledger and the incumbent war-game: [competitive-moat.md](competitive-moat.md).
+- **The execution** — the 0–36+ month phased build, stage-gates, kill-criteria, hiring plan and critical path: [implementation-roadmap.md](implementation-roadmap.md).
+- **The expansion** — market and category sequencing, the regional-platform economics, and the build/partner/acquire framework: [expansion-strategy.md](expansion-strategy.md).
+
+Together with the three market executive summaries and the underlying research corpus, they constitute the full evidentiary base beneath every number in this document.
 
 ---
 

@@ -4,7 +4,7 @@
 
 **Last updated: July 2026.**
 
-Related: [../00-executive-summary/malaysia-executive-summary.md](../00-executive-summary/malaysia-executive-summary.md) · [../00-executive-summary/singapore-executive-summary.md](../00-executive-summary/singapore-executive-summary.md) · [../00-executive-summary/hong-kong-executive-summary.md](../00-executive-summary/hong-kong-executive-summary.md) · [go-to-market.md](go-to-market.md) · [product-strategy.md](product-strategy.md)
+Related: [../00-executive-summary/malaysia-executive-summary.md](../00-executive-summary/malaysia-executive-summary.md) · [../00-executive-summary/singapore-executive-summary.md](../00-executive-summary/singapore-executive-summary.md) · [../00-executive-summary/hong-kong-executive-summary.md](../00-executive-summary/hong-kong-executive-summary.md) · [malaysia-go-to-market.md](malaysia-go-to-market.md) · [product-strategy.md](product-strategy.md)
 
 ---
 
@@ -314,6 +314,20 @@ By the end of Year 5, Welltech is:
 - **Channel-diversified**: a meaningful and rising share of revenue is employer/insurer-paid (≥30% in Hong Kong by design), insulating the consumer P&L and converting the CFO medical-inflation pitch into recurring B2B2C rails.
 - **A platform, not a federation**: one AI + WhatsApp + governance stack, three localized P&Ls, a shared outcomes database that is the single most valuable strategic asset — the tender/partnership/acquisition currency that makes Welltech the category's most valuable regional entity rather than a casualty of consolidation.
 - **Optioned into GBA and the corridors** — long-horizon expansion available but never entered before the core three markets prove out.
+
+### 8.2b The economics of the platform over five years
+
+The financial signature of the expansion is a **falling cost-to-enter and a rising margin-per-market**:
+
+| | Malaysia (#1) | Singapore (#2) | Hong Kong (#3) |
+|---|---|---|---|
+| Stack build cost | Full (build once) | ~20–30% (localization) | ~15–20% (localization) |
+| Regulatory build | Soft-law; PHFSA clinic | HCSA licence + CGO (highest) | None (fastest entry) |
+| ARPU vs Malaysia | 1× | 3–4× | 4–6× |
+| Gross margin | Base | Higher | Highest |
+| Credibility inherited | — | MY outcomes | MY + SG outcomes + governance |
+
+Each market is cheaper to enter on technology (the stack amortizes) and richer on margin (ARPU rises), while inheriting the credibility asset the prior market manufactured. This is the platform thesis made financial: the third market costs the least to build and earns the most per patient — the inverse of a federation, where each new market is a fresh, full-cost build.
 
 ### 8.3 The vision in one sentence
 
