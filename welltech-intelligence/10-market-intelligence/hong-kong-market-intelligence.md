@@ -246,6 +246,19 @@ The **Undesirable Medical Advertisements Ordinance (Cap 231, enacted 1953, amend
 
 TCM is fully institutionalised: registered CM practitioners under the Chinese Medicine Ordinance (Cap 549) with a statutory Council, and the territory's **first Chinese Medicine Hospital opened in Tseung Kwan O in December 2025** (consultations from HK$180).[^80][^81] DrGo already offers CM video consultations.[^82] TCM is a substitute and adjacency (slimming teas, weight acupuncture), not a regulatory obstacle, but it shapes consumer mental models of "detox/slimming" (§6.5, §8.3).
 
+### 4.8 Regulatory comparison across Welltech's three markets
+
+| Regulatory dimension | Malaysia | Singapore | Hong Kong |
+|---|---|---|---|
+| Telehealth service licence | None enforced (Telemedicine Act 1997 dormant) | **Required** (HCSA outpatient/telemedicine licence + CGO) | **None** — MCHK ethical guidelines only[^52][^54] |
+| Who bears regulatory risk | Doctor (MMC) + facility (PHFSA) | Licensee entity + doctor | **The individual doctor** (registration/discipline)[^54] |
+| Rx-medicine control | Poisons Act; pharmacist dispensing | HSA; POM class | Pharmacy & Poisons Ordinance Part 1 poisons; HK$100k/2-yr penalties[^61] |
+| GLP-1 weight registrations | Saxenda/Wegovy pathway via NPRA | Wegovy/Mounjaro registered; ad ban enforced | All four brands registered; Wegovy launched Nov 2025[^62][^66] |
+| DTC drug advertising | MAB approval regime | Banned for POMs, actively enforced | **UMAO statutory prohibition + Schedule 4 weight-claim limits**[^70][^72] |
+| Privacy | PDPA 2010 (consent-based) | PDPA + NEHR mandates incoming | PDPO; **s.33 cross-border restriction not in force**[^73][^74] |
+| National record spine | None | NEHR | eHealth+ (voluntary but expanding; Amendment Ordinance 2025)[^51] |
+| Practical entry friction | Low | High (licence + inspection) | **Lowest** — but discipline/press risk concentrated on doctors |
+
 **Implications for Welltech:** Hong Kong is the **lowest-friction market to enter and the easiest to get quietly hurt in**. No licence gate means speed; UMAO means the growth engine cannot be paid product advertising and must be built on clinician credibility, referral, employer channels and compliant education content; PPO enforcement and MCHK discipline mean prescription pathways must be airtight even though no telehealth statute says so. Budget legal review for: PHFO applicability to a virtual-first model, UMAO vetting of all creative, and export-control posture on any mainland-facing fulfilment.
 
 ---
@@ -281,6 +294,18 @@ Sources.[^83][^84][^85] **Reconciliation:** the honest Welltech-relevant range f
 ### 5.3 COVID acceleration and the post-COVID retrenchment
 
 Telehealth in HK was effectively *created* by COVID (2020: DrGo launch, QHC pivot, insurer free-teleconsult benefits, HA pilots) and then **plateaued**: no HK telehealth pure-play has announced major funding since; DoctorNow's lifetime volumes remain modest; DrGo persists as an HKT ecosystem service rather than a growth company *(analyst assessment; no public wind-downs announced, but equally no disclosed growth metrics)*.[^87][^91][^99] Capital has instead flowed to **insurtech (Bowtie), biotech/diagnostics (Prenetics, Insilico) and government-anchored life-science investment** — HealthTech startups number ~355 with 57 funded, and the 2024-25 Budget earmarked HK$10bn for life & health technology.[^104][^105]
+
+#### COVID acceleration timeline
+
+| Date | Event |
+|---|---|
+| Feb 2020 | HA cuts clinic sessions; United Christian & Tseung Kwan O hospitals pilot telemedicine to keep stable patients out of clinics[^86] |
+| Jul–Aug 2020 | HKT launches DrGo — the telco-backed "one-stop telemedicine platform"; four private medical partners within six months (Gleneagles, Precious Blood, QHMS, UMH)[^87] |
+| Jul 2020 | Bupa extends clinical coverage to video consultations (QHMS network)[^92] |
+| Nov–Dec 2020 | QHC declares telemedicine growth bet; AIA×HKT×Gleneagles launch "first hospital-supported telemedicine service in insurance"; FWD/DrGo/UMH CSR teleconsults[^89][^90][^91] |
+| Mar 2021 | DrGo adds psychiatry/mental-health with QHC — first specialist service on the platform[^88] |
+| May 2022 | HA cumulative telehealth consults pass just ~13,000 — public telehealth stays marginal[^86] |
+| 2023–25 | No major HK telehealth funding events; activity shifts to insurtech/diagnostics (§5.4); LegCo replies (2023, 2025) reiterate a facilitative, non-statutory stance[^58][^59] |
 
 ### 5.4 Funding history — where the capital actually went
 

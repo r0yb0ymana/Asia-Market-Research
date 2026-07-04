@@ -139,6 +139,37 @@ The journey ends where Welltech's begins: after screening or a GP flag, there is
 - **Complaint pattern vs EC Healthcare**: QHMS's negatives are queue/experience complaints, not hard-sell or mis-selling — consistent with salaried-GP incentives rather than commission culture (see [EC Healthcare dossier](ec-healthcare.md) §7).[^42] *(comparative assessment)*
 - Sector backdrop: the Consumer Council's private-healthcare study criticising price opacity applies less to QHMS than to most, given published consult/package pricing — a defensible transparency position it under-uses in marketing.[^44]
 
+## 6a. The insurer-provider vertical: strategic reading
+
+```mermaid
+flowchart LR
+    A[Bupa HK insurance<br/>~468k customers incl. civil service] -->|cashless steering| B[QHMS clinics<br/>100+ centres, 1,400-1,500 service points]
+    B -->|claims & clinical data| A
+    A --> C[Blua digital platform<br/>virtual care, programmes, monitoring]
+    C --> B
+    B --> D[Alpha/Central diagnostics<br/>AI MRI, PET/CT]
+    A -.->|Dec 2025| E[Mainland GBA network<br/>6,500+ hospitals & service points]
+    B -.-> E
+```
+
+- Bupa is one of very few players globally running funding + provision + digital in one HK loop; the December 2025 network expansion extends it cross-border into the Greater Bay Area with concierge-style propositions (Green Concierge, Care Manager, Blua Health Pass).[^8][^29]
+- The strategic logic is medical-cost control: owned primary care and diagnostics blunt outpatient claims inflation, and digital triage (Blua) deflects low-acuity visits. Provision quality also differentiates insurance renewal conversations.[^6][^9]
+- The unbuilt layer is exactly Welltech's: chronic/metabolic programmes that *reduce future claims* (weight, diabetes prevention). For an insurer, a GLP-1 programme is an actuarial product as much as a clinical one — if Welltech can evidence claims impact, Bupa is the natural buyer of that evidence. *(analyst assessment)*
+
+## 6b. Comparison snapshot: QHMS vs EC Healthcare vs Welltech target position
+
+| Dimension | QHMS (Bupa) | EC Healthcare | Welltech target position |
+|---|---|---|---|
+| Core economics | panel visits + TPA fees + screening | prepaid packages + cross-sell | outcome subscriptions |
+| Channel strength | employers, insurer, civil service[^16][^6] | consumer brands, marketplaces | employer add-on + D2C trust |
+| Weight/GLP-1 | none found (dietetics only)[^26][^27] | Saxenda via DR REBORN, device slimming | clinician-led GLP-1 + metabolic care |
+| Longevity | screening packages only[^19] | screening + imaging retail (see [EC dossier §5](ec-healthcare.md)) | healthspan programmes |
+| Digital | app, video consults from HK$398, Blua[^23][^29] | group app, 4-hour med delivery | WhatsApp-native concierge |
+| Trust profile | clinically trusted, operationally gruff[^42] | consumer-famous, trust-damaged | must be built; no legacy |
+| Financial backer | Bupa (mutual, patient capital)[^6] | distressed listed founder vehicle | venture |
+
+*(Cross-references to the EC dossier's evidence base: see [ec-healthcare.md](ec-healthcare.md).)*
+
 ## 7. SWOT
 
 | | |
@@ -155,6 +186,18 @@ The journey ends where Welltech's begins: after screening or a GP flag, there is
 - QHMS will not out-innovate Welltech in weight medicine or longevity; nothing in its public offering suggests intent. Its threat is **channel control**: it holds the employer contracts, TPA plumbing and the Bupa payer relationship through which corporate-funded weight programmes in HK would naturally flow. If Bupa decides GLP-1 management belongs inside Blua/QHMS, it can bundle it into renewals at marginal cost.[^16][^29]
 - **Partnership logic is strong and time-sensitive**: Bupa globally buys and partners for provision capability; Bupa HK already co-brands external innovation (Alpha diagnostics). Welltech as the *specialist metabolic/longevity provider* on Bupa panels — cashless-integrated, outcomes-reported — is the natural structure. The window closes if Bupa builds in-house via Blua.[^21][^29]
 - Secondary partnership: QHMS's 1,200 associated doctors and screening volume are a referral river for a Welltech weight/longevity clinic; conversely Welltech can refer routine GP/dental/physio needs into QHMS to stay asset-light.
+
+## 8a. Porter's Five Forces — HK employer-panel primary care (QHMS's home turf)
+
+| Force | Intensity | Evidence |
+|---|---|---|
+| Rivalry among incumbents | Moderate | QHMS vs UMP, Human Health, HKT/Dr Anywhere panels; differentiation on network size and price, little on product; QHMS holds the largest network[^12][^13] |
+| Threat of new entrants | Low for panels, High for niches | 100+-site networks and TPA plumbing are years to replicate; but single-condition digital programmes (weight, mental health) bypass the network requirement entirely[^45] |
+| Buyer power (employers/insurers) | High and rising | procurement-led renewals; Consumer Council pressure for price transparency; employers can multi-panel[^44][^16] |
+| Supplier power (doctors) | Moderate | HK GP supply constrains salaried-model growth; 1,200 affiliated doctors mitigate but dilute consistency[^13] |
+| Substitutes | Rising | video consults (incl. QHMS's own from HK$398), public-sector care despite fee reform, mainland GBA clinics for price-sensitive care[^23][^45][^8] |
+
+Net: QHMS's fortress is real but static; the profit pools moving fastest (chronic programmes, weight, digital-first) sit outside the fortress walls. *(analyst synthesis)*
 
 ## 9. Implications for Welltech
 
