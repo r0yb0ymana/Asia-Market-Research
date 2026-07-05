@@ -1,5 +1,7 @@
 # Phase 0 Handoff — Start-Here for the Execution Session
 
+> **Canonical build version now lives in the Mesura build repo: `github.com/r0yb0ymana/mesura`** (Mesura-named, standalone, cross-links fixed). This copy is retained for research context.
+
 **Read this first. It is written so a fresh session (human or AI) with no prior context can pick up NewCo's Phase 0 and start executing.** It carries the essential context, the corporate/commercial structure, the Phase 0 scope and definition-of-done, the sequenced critical path, the facts you should not have to re-derive, the hard constraints, and a ready-to-paste kickoff prompt. Everything points back into the repository for depth.
 
 Last updated: July 2026. Repo: this folder (`welltech-intelligence/`). Git branch: `claude/welltech-health-intelligence-5zytb2` — keep committing and pushing work here.

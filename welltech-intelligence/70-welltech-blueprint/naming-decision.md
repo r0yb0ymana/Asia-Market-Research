@@ -1,5 +1,7 @@
 # Naming Decision — Mesura (Mesura Health)
 
+> **Canonical build version now lives in the Mesura build repo: `github.com/r0yb0ymana/mesura`** (Mesura-named throughout, with a ranked Plan B fallback). This copy is retained for research context.
+
 **Working name locked:** the new company (the WhatsApp-native medical weight-loss / metabolic service, a WellTech Health subsidiary piloting through Medimind KL) will operate as **Mesura**, brand **Mesura Health**, tagline **"Metabolic health, measured."**
 
 **Status: provisional working name — adopted, pending trademark + SSM clearance.** This document is the decision record. Until clearance completes, the execution docs continue to use "NewCo" as the generic term (see the propagation action below).
