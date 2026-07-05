@@ -22,11 +22,11 @@ The pilot uses WellTech's existing assets, but keeps the **fundable assets insid
 |---|---|
 | **NewCo** (subsidiary) | Owns the **brand, patient relationship, recurring revenue, the retention/outcome dataset (the moat), and the care-orchestration IP.** Builds/runs the WhatsApp service; collects the fee; owns the data. |
 | **WellTech Health** (parent) | **Shareholder + funder** of this tranche; **arm's-length service provider** (via Medimind) + **software licensor** (clinic OS). Paid at fair market value. |
-| **Medimind KL** (WellTech clinic) | The **regulated clinical act** — its **2 doctors** run the telehealth consults, prescribe, and **dispense from its own pharmacy** — for a **fair-market fee-for-service**. |
+| **Medimind KL** (WellTech clinic) | The **regulated clinical act** — its **2 doctors** run the telehealth consults, prescribe, and **dispense from its own pharmacy**. The **doctor keeps the full consult fee (100%)**. Medimind **adds GLP-1 to its pharmacy formulary** and dispenses it. |
 
 **What this removes from Phase 0:** clinic registration, doctor recruitment, external fulfilment, and an EMR purchase — Medimind (clinic + doctors + pharmacy) and WellTech's **clinic operations software** (mature: EMR, pharmacy/inventory, billing/payments, appointments) already exist. **The same WellTech engineers who built the clinic OS build NewCo's service.**
 
-**Drug economics (all-in, margin stays in NewCo):** price the programme **all-in RM999/month (drug included)**, **NewCo collects**; Medimind bills NewCo a **doctor service fee** + **drug-at-cost + dispensing fee**; NewCo keeps the spread — **without holding a pharmacy/wholesale licence** (it rides Medimind's pharmacy). **NewCo-as-drug-wholesaler is deferred to Phase 2** (direct-sourcing margin lever; needs a Type A poisons licence; pays off at multi-clinic volume).
+**Drug economics (all-in RM999; margin in NewCo).** Medimind does not currently stock GLP-1s, so **Medimind adds GLP-1 to its pharmacy formulary** — procuring via its existing distributor accounts (Zuellig/DKSH/Pharmaniaga) and dispensing in-house under its own licence (a new SKU, not a new capability). The programme is priced **all-in RM999/month (drug included)** and **NewCo collects the full patient payment**. The **doctor keeps the full consult fee (100%)** — the cleanest fee-for-service structure (NewCo takes no cut of the clinical fee, which keeps it clear of MMC fee-splitting). Medimind bills NewCo **drug-at-cost + a dispensing fee**; **NewCo's revenue is the programme/care fee + a modest drug margin marked into the RM999** (not pure pass-through — because with the doctor keeping the full consult fee and the drug at cost, pure pass-through would squeeze NewCo's contribution). NewCo holds **no** pharmacy/wholesale licence (it rides Medimind's pharmacy). **NewCo-as-drug-wholesaler is deferred to Phase 2** (direct-sourcing margin lever; needs a Type A poisons licence; pays off at multi-clinic volume). **The one live economic action: obtain Medimind's GLP-1 distributor cost** — it is the #1 unvalidated input and sets the real margin.
 
 **Compliance guardrails to bake into the founding/service agreements (with counsel):**
 - **Fair-market fee-for-service to Medimind** — *not* a referral kickback or a split of the consult fee (MMC fee-splitting rules).
@@ -64,8 +64,9 @@ Grouped by owner-type. Items marked ⏱ have external lead times — **start the
 - **Do NOT** issue MCs after teleconsult-only encounters (MMC ban, Sept 2025).
 
 **C. Clinical setup**
-- Confirm the **Medimind accountable doctor** as Medical Director (protocol author, sign-off authority) and the two telehealth doctors.
-- Author + sign the **GLP-1 (and longevity) clinical protocol**: titration schedule against *current* product labels, red-flag/stop-rule escalation matrix, BMI ≥27.5 initiation threshold + contraindication screen, peri-operative hold. (A clinician must approve against the label, not a clinic blog.) See [90-verification/regulatory-verification.md](90-verification/regulatory-verification.md) §"Requires medical-director sign-off".
+- Confirm the **Medimind accountable doctor** as Medical Director (protocol author, sign-off authority) and the two telehealth doctors. The **doctor keeps the full consult fee**.
+- **Medimind adds GLP-1 to its pharmacy formulary** (procure via existing distributor accounts; dispense in-house) and **obtains the distributor cost** — the #1 economic input.
+- Author + sign the **GLP-1 clinical protocol** (weight-loss/GLP-1 is the v1 scope; longevity is a fast-follow): titration schedule against *current* product labels, red-flag/stop-rule escalation matrix, BMI ≥27.5 initiation threshold + contraindication screen, peri-operative hold. (A clinician must approve against the label, not a clinic blog.) See [90-verification/regulatory-verification.md](90-verification/regulatory-verification.md) §"Requires medical-director sign-off".
 
 **D. Product / build (MAKE — the moat, built by WellTech engineers)** (see [60-ai-operating-model/](60-ai-operating-model/))
 - MVP **orchestration layer** (state machine + escalation router + human-in-the-loop gates).
@@ -90,7 +91,7 @@ Grouped by owner-type. Items marked ⏱ have external lead times — **start the
 
 | Weeks | Focus |
 |---|---|
-| **1** | Kick off ALL ⏱ items day 1: **service agreement** (IP/data to NewCo, fee-for-service), **KKLIU pipeline**, counsel on fee-splitting/practice-of-medicine. Incorporate NewCo. Confirm Medimind Medical Director + doctors. Open LLM/BSP/payment/cloud accounts; license + start integrating the clinic OS. |
+| **1** | Kick off ALL ⏱ items day 1: **service agreement** (IP/data to NewCo, doctor keeps full consult fee), **KKLIU pipeline**, counsel on fee-splitting/practice-of-medicine. Incorporate NewCo. Confirm Medimind Medical Director + doctors. **Medimind adds GLP-1 to formulary + obtains distributor cost.** Open LLM/BSP/payment/cloud accounts; license + start integrating the clinic OS. |
 | **2–3** | Build compliance spine (consent, archive, audit) + orchestration-layer skeleton + patient-memory store + **clinic-OS integration bridge**. Draft GLP-1/longevity protocol with the Medimind doctor. |
 | **3–5** | Build WhatsApp intake → eligibility → payment → booking-handoff flow v1; wire LLM + respond.io; connect payments; complete the data/consent bridge. Submit first KKLIU creatives. |
 | **5–7** | End-to-end wiring: acquisition → referral → Medimind consult/prescribe/dispense (clinic OS) → data back to NewCo → monitoring. Load signed clinical protocols. PDPA/DPO + dual-entity consent live. |
@@ -99,11 +100,11 @@ Grouped by owner-type. Items marked ⏱ have external lead times — **start the
 
 ## 7. Facts you shouldn't have to re-derive
 
-- **Pricing (planned):** RM49 credited entry consult; **RM999/month flat-across-titration** core weight programme (**all-in, drug included; NewCo collects; Medimind billed fee-for-service; NewCo keeps the spread**); premium tier ~RM1,599; longevity membership RM3,600–8,800/yr. Rationale: [70-welltech-blueprint/pricing-strategy.md](70-welltech-blueprint/pricing-strategy.md).
+- **Pricing (planned):** RM49 credited entry consult; **RM999/month flat-across-titration** core weight programme (**all-in, drug included; NewCo collects. Doctor keeps the full consult fee; Medimind adds GLP-1 to formulary and bills drug-at-cost + dispensing; NewCo's revenue = programme fee + a modest drug margin**); premium tier ~RM1,599; longevity membership RM3,600–8,800/yr (fast-follow, not v1). Rationale: [70-welltech-blueprint/pricing-strategy.md](70-welltech-blueprint/pricing-strategy.md).
 - **Unit economics (illustrative):** target CAC ≈ RM650/enrolled patient; LTV:CAC ≈ 3.8×; **retention is the #1 lever** (each +10pp of 12-month retention ≈ RM900–1,000/patient). Model: [70-welltech-blueprint/financial-model.md](70-welltech-blueprint/financial-model.md).
 - **Make-vs-buy-vs-reuse:** touches the patient relationship, clinical logic, or data model → **MAKE** (keep in NewCo); WellTech already owns it → **REUSE** (licensed at fair value); plumbing → **BUY**.
 - **Channel:** WhatsApp is the care rail (~90%+ Malaysian reach); acquisition is click-to-WhatsApp + SEO/content + doctor-KOL — **not** paid drug-keyword ads (illegal).
-- **Drug COGS:** = Medimind's GLP-1 procurement cost (validate this internally — sets the real margin).
+- **Drug COGS:** = Medimind's GLP-1 distributor cost once GLP-1 is added to formulary (**obtain this — the #1 economic input; sets the real margin**).
 - **FX:** US$1 ≈ RM4.70.
 
 ## 8. Hard constraints & caveats (do-not-skip)
@@ -137,16 +138,19 @@ Grouped by owner-type. Items marked ⏱ have external lead times — **start the
 ## 11. Open decisions for the founder (surface early)
 
 *Resolved:* anchor clinic = **Medimind KL**; build team = **WellTech's engineers**; Medical Director = **a Medimind doctor**; dispensing = **Medimind pharmacy**; ownership = **Option A (assets in NewCo)**.
+- **Drug supply** = **Medimind adds GLP-1 to its formulary** (procures via its distributor accounts; dispenses in-house). NewCo holds no drug licence; wholesale deferred to Phase 2.
+- **Consult fee** = the **doctor keeps the full consult fee (100%)**. NewCo takes no cut of the clinical fee.
+- **Margin structure** = NewCo's revenue is the **programme fee + a modest drug margin** (Medimind bills drug-at-cost + dispensing; NewCo marks a modest margin into the all-in RM999).
+- **Pilot volume** = ~**50 soft launch → 200–300 total** enrolled (clears the ≥200 week-8 retention read).
+- **Scope** = **weight-loss/GLP-1 only in v1**; longevity/metabolic is a fast-follow on the same chassis.
 
 *Still open:*
-- **Medimind's GLP-1 procurement cost** (validate — sets the margin).
-- The exact **service-fee split** (doctor fee + dispensing fee) in the agreement.
-- **Pilot patient-volume** target.
-- **Longevity/metabolic** in the pilot v1, or fast-follow after the weight wedge?
+- **Medimind's actual GLP-1 distributor cost** — obtain it (the #1 economic input; a now-internal check).
+- The exact **programme-fee vs drug-margin split** inside the RM999 — set once the distributor cost is known.
 - Klang Valley beachhead **persona / geography** within Medimind's catchment (see [10-market-intelligence/malaysia-consumer-behaviour.md](10-market-intelligence/malaysia-consumer-behaviour.md)).
 
 ---
 
 ### Ready-to-paste kickoff prompt for the new session
 
-> I'm executing **Phase 0** for **NewCo** — a WellTech Health subsidiary running a WhatsApp-native medical weight-loss / longevity service, piloting through WellTech's **Medimind KL** clinic (its 2 doctors consult + prescribe; its pharmacy dispenses) and integrating with WellTech's existing **clinic operations software** (EMR/pharmacy/billing/appointments). NewCo builds the standalone WhatsApp + AI care-orchestration layer that brackets the Medimind encounter, and **owns the brand, patient data, recurring revenue, and care IP (Option A)**. Read `welltech-intelligence/PHASE-0-HANDOFF.md` first, then `welltech-intelligence/70-welltech-blueprint/build-roadmap.md` (§2 structure, §4 Phase 0, §5 spend). We have US$500K of WellTech funding (marketing-weighted, gated behind the Phase-1 proof). Start by turning the Phase 0 workstreams into a week-by-week project plan with owners, dependencies, and the lead-time items flagged to start day 1 — then help me draft the WellTech↔NewCo↔Medimind service-agreement term sheet, the clinic-OS↔NewCo integration spec, the MVP build spec, and the regulatory task list. Commit work to branch `claude/welltech-health-intelligence-5zytb2`.
+> I'm executing **Phase 0** for **NewCo** — a WellTech Health subsidiary running a WhatsApp-native **medical weight-loss (GLP-1) service (v1; longevity is a fast-follow)**, piloting through WellTech's **Medimind KL** clinic (its 2 doctors consult + prescribe and **keep the full consult fee**; its pharmacy **adds GLP-1 to formulary** and dispenses) and integrating with WellTech's existing **clinic operations software** (EMR/pharmacy/billing/appointments). NewCo builds the standalone WhatsApp + AI care-orchestration layer that brackets the Medimind encounter, prices the programme **all-in RM999** (NewCo revenue = programme fee + a modest drug margin), targets a **~50 soft-launch → 200–300 pilot**, and **owns the brand, patient data, recurring revenue, and care IP (Option A)**. Read `welltech-intelligence/PHASE-0-HANDOFF.md` first, then `welltech-intelligence/70-welltech-blueprint/build-roadmap.md` (§2 structure, §4 Phase 0, §5 spend). We have US$500K of WellTech funding (marketing-weighted, gated behind the Phase-1 proof). Start by turning the Phase 0 workstreams into a week-by-week project plan with owners, dependencies, and the lead-time items flagged to start day 1 (incl. **Medimind adding GLP-1 to formulary + obtaining the distributor cost**) — then help me draft the WellTech↔NewCo↔Medimind service-agreement term sheet, the clinic-OS↔NewCo integration spec, the MVP build spec, and the regulatory task list. Commit work to branch `claude/welltech-health-intelligence-5zytb2`.
