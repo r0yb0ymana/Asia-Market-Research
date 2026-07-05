@@ -4,6 +4,8 @@
 
 Last updated: July 2026. Repo: this folder (`welltech-intelligence/`). Git branch: `claude/welltech-health-intelligence-5zytb2` — keep committing and pushing work here.
 
+> **Working name: Mesura** (brand **Mesura Health**), tagline *"Metabolic health, measured."* Provisional — pending trademark/SSM clearance; see [70-welltech-blueprint/naming-decision.md](70-welltech-blueprint/naming-decision.md). "NewCo" is used generically below until the name is cleared.
+
 ---
 
 ## 1. 60-second context
@@ -54,6 +56,7 @@ Grouped by owner-type. Items marked ⏱ have external lead times — **start the
 
 **A. Entity, legal & commercial**
 - Incorporate **NewCo** as a WellTech subsidiary; bank account; accounting.
+- ⏱ **Reserve the SSM company name "Mesura"**, run a **MyIPO trademark search (Class 44 + Class 5)** on Mesura / Mesura Health, and **register the domains + social handles** (`mesura.my`/`.com.my`, `mesura.health`, `mesurahealth.com`). See [70-welltech-blueprint/naming-decision.md](70-welltech-blueprint/naming-decision.md).
 - ⏱ Draft + sign the **WellTech ↔ NewCo ↔ Medimind service agreement**: fair-market fee-for-service (doctor time + drug-at-cost + dispensing), **IP + patient-data assigned to NewCo**, clinic-OS licensed to NewCo.
 - ⏱ Counsel sign-off on **fee-splitting / practice-of-medicine structuring** and the items in [90-verification/regulatory-verification.md](90-verification/regulatory-verification.md) §"Requires healthcare-lawyer sign-off". *(No clinic registration — Medimind is already registered.)*
 
@@ -91,7 +94,7 @@ Grouped by owner-type. Items marked ⏱ have external lead times — **start the
 
 | Weeks | Focus |
 |---|---|
-| **1** | Kick off ALL ⏱ items day 1: **service agreement** (IP/data to NewCo, doctor keeps full consult fee), **KKLIU pipeline**, counsel on fee-splitting/practice-of-medicine. Incorporate NewCo. Confirm Medimind Medical Director + doctors. **Medimind adds GLP-1 to formulary + obtains distributor cost.** Open LLM/BSP/payment/cloud accounts; license + start integrating the clinic OS. |
+| **1** | Kick off ALL ⏱ items day 1: **service agreement** (IP/data to NewCo, doctor keeps full consult fee), **KKLIU pipeline**, counsel on fee-splitting/practice-of-medicine. Incorporate NewCo; **reserve the SSM name "Mesura" + MyIPO TM search (Class 44/5) + grab domains/handles.** Confirm Medimind Medical Director + doctors. **Medimind adds GLP-1 to formulary + obtains distributor cost.** Open LLM/BSP/payment/cloud accounts; license + start integrating the clinic OS. |
 | **2–3** | Build compliance spine (consent, archive, audit) + orchestration-layer skeleton + patient-memory store + **clinic-OS integration bridge**. Draft GLP-1/longevity protocol with the Medimind doctor. |
 | **3–5** | Build WhatsApp intake → eligibility → payment → booking-handoff flow v1; wire LLM + respond.io; connect payments; complete the data/consent bridge. Submit first KKLIU creatives. |
 | **5–7** | End-to-end wiring: acquisition → referral → Medimind consult/prescribe/dispense (clinic OS) → data back to NewCo → monitoring. Load signed clinical protocols. PDPA/DPO + dual-entity consent live. |
@@ -137,7 +140,7 @@ Grouped by owner-type. Items marked ⏱ have external lead times — **start the
 
 ## 11. Open decisions for the founder (surface early)
 
-*Resolved:* anchor clinic = **Medimind KL**; build team = **WellTech's engineers**; Medical Director = **a Medimind doctor**; dispensing = **Medimind pharmacy**; ownership = **Option A (assets in NewCo)**.
+*Resolved:* working name = **Mesura / Mesura Health** (provisional, pending clearance — [naming-decision.md](70-welltech-blueprint/naming-decision.md)); anchor clinic = **Medimind KL**; build team = **WellTech's engineers**; Medical Director = **a Medimind doctor**; dispensing = **Medimind pharmacy**; ownership = **Option A (assets in NewCo)**.
 - **Drug supply** = **Medimind adds GLP-1 to its formulary** (procures via its distributor accounts; dispenses in-house). NewCo holds no drug licence; wholesale deferred to Phase 2.
 - **Consult fee** = the **doctor keeps the full consult fee (100%)**. NewCo takes no cut of the clinical fee.
 - **Margin structure** = NewCo's revenue is the **programme fee + a modest drug margin** (Medimind bills drug-at-cost + dispensing; NewCo marks a modest margin into the all-in RM999).

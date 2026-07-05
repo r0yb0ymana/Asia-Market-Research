@@ -32,7 +32,7 @@ Everything below is prioritised against the proof point. If a task doesn't move 
 
 ## 2. Corporate & commercial structure
 
-The pilot deliberately uses the lowest-barrier path — WellTech's existing assets — while keeping the **fundable assets inside NewCo** so it can raise externally or spin out later (**Option A**).
+The pilot deliberately uses the lowest-barrier path — WellTech's existing assets — while keeping the **fundable assets inside NewCo** so it can raise externally or spin out later (**Option A**). *(NewCo's working name is **Mesura** / brand **Mesura Health**, tagline "Metabolic health, measured" — provisional, pending trademark/SSM clearance; see [naming-decision.md](naming-decision.md). "NewCo" is used generically here until the name is cleared.)*
 
 | Party | Role |
 |---|---|
